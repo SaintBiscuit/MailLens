@@ -1,0 +1,1194 @@
+Delivered-To: test@mail.ru
+Return-path: <postman5892162@justeml.com>
+Received: from [31.184.202.217] (ident=root)
+	by exim-del-5cb9cdf9d6-j2rhn with local (envelope-from <postman5892162@justeml.com>)
+	id 1uR6F3-000000008bs-2OoM; Mon, 16 Jun 2025 12:35:01 +0300
+X-Mailru-Noreply: yes
+Received-SPF: pass (exim-mxpdd-fdffd44c-vhszt: domain of justeml.com designates 31.184.202.217 as permitted sender) client-ip=31.184.202.217; envelope-from=postman5892162@justeml.com; helo=smtp1497.emlone.com;
+Received: from smtp1497.emlone.com ([31.184.202.217]:31240)
+	by exim-mxpdd-fdffd44c-vhszt with esmtp (envelope-from <postman5892162@justeml.com>)
+	id 1uR6Ez-00000000RKV-2W2m
+	for bakit@mail.ru; Mon, 16 Jun 2025 12:34:58 +0300
+Received: by smtp1496.emlone.com id h9vik22erm8a for <bakit@mail.ru>; Mon, 16 Jun 2025 09:34:57 +0000 (envelope-from <postman5892162@justeml.com>)
+From: "VsexShop.ru" <robot@vsexshop.ru>
+Reply-To: robot@vsexshop.ru
+To: bakit@mail.ru
+Message-Id: <E1uR6Ez-3Ysg8I-OT@ucs701-ucs-11.msgpanel.com>
+Subject: =?UTF-8?B?0K3RgtGDINC40LPRgNGD0YjQutGDINCy0Ysg0LLQvg==?=
+ =?UTF-8?B?0LfRjNC80ZHRgtC1INGBINGB0L7QsdC+0Lkg8J+RgA==?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="MXVSNkV6LTNZc2c4SS1PVA=="
+Feedback-ID: cmp_349139862:uns_5892162:uni_micro041:UNISENDER
+List-Help: <https://geteml.com/ru/help/forsubscribers>
+List-Id: 920
+List-Unsubscribe: <https://geteml.com/ru/v5/unsubscribe/immediately?hash=6w443mf3ng4wbk1yc4uumkhf5jmrxip74szjegpihcq44ozy9ue177t9w5kprywgz1hm73u453yu1q>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: bulk
+X-Complaints-To: abuse@justeml.com
+X-EnvId: usproduction.b_5892162_349139862_40451836478_335123
+Date: Mon, 16 Jun 2025 09:34:57 +0000
+X-Mailru-Src: mxpdd
+X-174C08C4: 5188C02AEC42908CA6948A72021C24DE96BBA28369E3F2D2713F3D5F7D406D31BCF678C7329BA986
+X-6b629377: 1
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499AB25099DBCA2D2CECC5D043F47266ED7D3D6B2A4A3C66D5B40BBDAAE39103F3638701F0628C4B95CBE759C34D23067969B8DA92AD40D827F08B64A0DE15A764E0377C659FA2F675A6660823B2EEFD31DC
+X-7FA49CB5: FF5795518A3D127A4AD6D5ED66289B5278DA827A17800CE7F65C230EDDCD559EEA1F7E6F0F101C67BD4B6F7A4D31EC0BCC500DACC3FED6E28638F802B75D45FF8AA50765F7900637FE9EFE935CD7C6AE8638F802B75D45FF914D58D5BE9E6BC1A93B80C6DEB9DEE97C6FB206A91F05B2E62FE06932CAA9A42E070BE324C7D3C48D09485A2D7E79BBF6B57BC7E64490618DEB871D839B73339E8FC8737B5C22498424CA1AAF98A6958941B15DA834481FCF19DD082D7633A0EF3E4896CB9E6436389733CBF5DBD5E9D5E8D9A59859A8B68424CA1AAF98A6958941B15DA834481F9449624AB7ADAF37520BB28E76B93C0993EC92FD9297F6718AA50765F7900637529967F4B9EC00849C1989B85EA75BBD2EF20D2F80756B5F67A0E196DC694B51520BB28E76B93C092DBA43225CD8A89FEA8397497A334BC08A76C91B9BC2150B37578E637FB275F4F385CFBA08DCAC47CB5012B2E24CD356
+X-C1DE0DAB: 0D63561A33F958A5B4BEC70CA526EF545002B1117B3ED696B00472366131A76133EE06AFCD964888A016BF2182CC9EFBA132EA92956906CBB2A7540AB52B8685C66B2B37046EC955823CB91A9FED034534781492E4B8EEAD8560557FF00F2F12BDAD6C7F3747799A
+X-C8649E89: 1C3962B70DF3F0ADD4B3C1CD9B5CE97777DD89D51EBB7742AEF8CC3D8BA37ADB0776B5B2C279835F17BCBE6708A5A68D02015372BE9702A2FC3D44E975C35A3A3BE8285A58C862B277150A50A5C1C653E4FA6CA0AE5B9763FF1AE3C8CC4CB3E5D236F2DEBC3F8B082DCCCA0B048F304BC4A3C1F5032EADDB3AF423F8EFD05E65CAACD699CDC6F98202C26D483E81D6BEFED0EFE5718576B301A2F802FE16C30C6CBF155325163CF8
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OfZ0vNcMxcDrfOQpxYwmE7vQD3UB9D76Zz+as/Gjtpo0yc4xxguKIL1bswd831VAbRqChJeVo4TgHG9+GJj7YxcA/6peo38vrQ==
+X-F696D7D5: h7JbfN343jquR4nrruoYuB7qCZMYihsty3AUBIkM8AjBfmWgG1utJQ==
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mxpdd-fdffd44c-vhszt: domain of justeml.com designates 31.184.202.217 as permitted sender) smtp.mailfrom=postman5892162@justeml.com smtp.helo=smtp1497.emlone.com;
+	 dkim=pass header.d=vsexshop.ru;
+	 dkim=pass header.i=robot@vsexshop.ru;
+	 dkim=pass header.d=topeml.com; dmarc=pass header.from=robot@vsexshop.ru
+X-Mailru-Intl-Transport: d,5fa8546
+
+--MXVSNkV6LTNZc2c4SS1PVA==
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3786443_74165447.1750066497191"
+
+------=_Part_3786443_74165447.1750066497191
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0K3RgtGDINC40LPRgNGD0YjQutGDINCy0Ysg0LLQvtC30YzQvNGR0YLQtSDRgSDRgdC+0LHQvtC5
+IPCfkYAKCtCX0L3QsNC10Lwg0YLQvtGH0L3Qvjog0L/RgNC+0LzQvtC60L7QtCDigJMg0LIg0L/Q
+uNGB0YzQvNC1LCDQsCBLaWlyb28gUG9ja2V0IFN0cm9rZXIg4oCTINC90LXQt9Cw0LzQtdC90LjQ
+vCDQsiDQv9GD0YLQtdGI0LXRgdGC0LLQuNC4IM2P4oCMzY/Nj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDi
+gIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfN
+j+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KAjCDigIfNj+KA
+jCDigIfNj+KAjCDigIfNj+KAjCDigIcKCtCd0J7QktCY0J3QmtCQINCU0J3QryAoaHR0cHM6Ly92
+c2V4c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjA5MTAtJUQwJUI0JUQwJUIyJUQxJTgzJUQxJTgx
+JUQxJTgyJUQwJUJFJUQxJTgwJUQwJUJFJUQwJUJEJUQwJUJEJUQwJUI4JUQwJUI5LSVEMSU4NCVE
+MCVCMCVEMCVCQiVEMCVCQiVEMCVCRSVEMCVCOCVEMCVCQyVEMCVCOCVEMSU4MiVEMCVCMCVEMSU4
+MiVEMCVCRSVEMSU4MC1ncmF5c29uKQoK0KXQmNCiINCd0JXQlNCV0JvQmCAoaHR0cHM6Ly92c2V4
+c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjE0MjQtMi0lRDAlQkYlRDAlQkUtJUQxJTg2JUQwJUI1
+JUQwJUJEJUQwJUI1LTEtJUQwJUIxJUQwJUI1JUQxJTgxJUQxJTgyJUQxJTgxJUQwJUI1JUQwJUJC
+JUQwJUJCJUQwJUI1JUQxJTgwJUQxJThCLXZpdm9nbGlkZS0lRDAlQjQlRDAlQkIlRDElOEYtJUQw
+JUIwJUQwJUJEJUQwJUIwJUQwJUJCJUQxJThDJUQwJUJEJUQwJUJFJUQwJUIzJUQwJUJFLSVEMCVC
+OC0lRDAlQjIlRDAlQjAlRDAlQjMlRDAlQjglRDAlQkQlRDAlQjAlRDAlQkIlRDElOEMlRDAlQkQl
+RDAlQkUlRDAlQjMlRDAlQkUtJUQxJTgxJUQwJUI1JUQwJUJBJUQxJTgxJUQwJUIwKQoK0JDQmtCm
+0JjQmCAoaHR0cHM6Ly92c2V4c2hvcC5ydS9zdG9yZS9wcm9tb3Rpb25zKQoK0JLQsNGI0LAg0YHQ
+utC40LTQutCwIDUlINC90LAg0LLRgdGRCgrQn9GA0L7QvNC+0LrQvtC0INC90LAg0YHQutC40LTQ
+utGDINC/0YDQuCDQt9Cw0LrQsNC30LUg0L7RgiA4MDAwINGA0YPQsdC70LXQuQoKTE5ER0Y3ODIK
+CtCX0LAg0L/QvtC60YPQv9C60LDQvNC4CgrQlNC10LnRgdGC0LLRg9C10YIg0LTQviAxOCDQuNGO
+0L3RjyAyMDI1IDIzOjU5INC/0L4g0JzQodCaLiDQndC1INGB0YPQvNC80LjRgNGD0LXRgtGB0Y8g
+0YHQviDRgdC60LjQtNC60L7QuSDQv9C+IFZJUCDQutCw0YDRgtC1LiDQnNC40L3QuNC80LDQu9GM
+0L3QsNGPINGB0YPQvNC80LAg0LfQsNC60LDQt9CwINC00LvRjyDQv9C+0LvRg9GH0LXQvdC40Y8g
+0YHQutC40LTQutC4IOKAkyA4MDAwINGA0YPQsdC70LXQuS4KCtCn0YLQviDQtdGJ0LUg0LLQt9GP
+0YLRjCDRgSDRgdC+0LHQvtC5OgoK0JLQuNCx0YDQvtC/0YPQu9GPIFdlLVZpYmUgVGFuZ28KCtCS
+0LjQsdGA0L7Qv9GD0LvRjyBXZS1WaWJlIFRhbmdvIC0g0L3QtdCy0LXRgNC+0Y/RgtC90LDRjyDR
+gdC10LrRgS3QuNCz0YDRg9GI0LrQsCwg0LLRi9C/0L7Qu9C90LXQvdC90LDRjyDQsiDRjdC70LXQ
+s9Cw0L3RgtC90L7QvCDQtNC40LfQsNC50L3QtSDQuCDRgdC/0L7RgdC+0LHQvdCw0Y8g0YPQtNC4
+0LLQuNGC0Ywg0LLQsNGBINGB0LLQvtC10Lkg0LzQvtGJ0L3QvtGB0YLRjNGOLiDQndC10LfQsNCy
+0LjRgdC40LzQviDQvtGCINGC0L7Qs9C+LCDQvdC+0LLQuNGH0L7QuiDQstGLINC40LvQuCDRjdC6
+0YHQv9C10YDRgiDQsiDQvtCx0LvQsNGB0YLQuCDRg9C00L7QstC+0LvRjNGB0YLQstC40LksINGN
+0YLQsCDQvNCw0LvQtdC90YzQutCw0Y8g0LjQs9GA0YPRiNC60LAg0LPQsNGA0LDQvdGC0LjRgNGD
+0LXRgiDQstCw0Lwg0Y/RgNC60LjQtSDQvtGJ0YPRidC10L3QuNGPINCx0LvQsNCz0L7QtNCw0YDR
+jyDQs9C70YPQsdC+0LrQuNC8INC4INC80L7RidC90YvQvCDQstC40LHRgNCw0YbQuNGP0LwsINGB
+0L/QtdGG0LjQsNC70YzQvdC+INGA0LDQt9GA0LDQsdC+0YLQsNC90L3Ri9C8INC00LvRjyDRgtC+
+0YfQvdC+0LPQviDQstC+0LfQtNC10LnRgdGC0LLQuNGPINC90LAg0Y3RgNC+0LPQtdC90L3Ri9C1
+INC30L7QvdGLLgoK0JrRg9C/0LjRgtGMIChodHRwczovL3ZzZXhzaG9wLnJ1L3N0b3JlL3Byb2R1
+Y3RzLzEyNDc0MC0lRDAlQjIlRDAlQjglRDAlQjElRDElODAlRDAlQkUlRDAlQkYlRDElODMlRDAl
+QkIlRDElOEYtd2UtdmliZS10YW5nbykKCtCf0L7Qv9C60LAt0LzQsNGB0YLRg9GA0LHQsNGC0L7R
+gCAi0KHQuNC70LvQuCDQvNC40L3QuCIKCtCf0L7Qv9C60LAt0LzQsNGB0YLRg9GA0LHQsNGC0L7R
+gCDQvtGCINCx0YDQtdC90LTQsCBQaXBlZHJlYW0g0LLRi9C/0L7Qu9C90LXQvSDQsiDQstC40LTQ
+tSDQsNC/0L/QtdGC0LjRgtC90L7QuSDQuCDRg9C/0YDRg9Cz0L7QuSDQttC10L3RgdC60L7QuSDQ
+v9C+0L/QutC4INC4INC/0YDQtdC00LvQsNCz0LDQtdGCINC00LLQsCDQstGF0L7QtNCwINC00LvR
+jyDQstCw0YjQtdCz0L4g0YPQtNC+0LLQvtC70YzRgdGC0LLQuNGPLiDQntC00LjQvSDQstGF0L7Q
+tCDigJQg0LLQsNCz0LjQvdCwLCDQstGL0L/QvtC70L3QtdC9INCyINC80LDQutGB0LjQvNCw0LvR
+jNC90L4g0YDQtdCw0LvQuNGB0YLQuNGH0L3QvtC8INC00LjQt9Cw0LnQvdC1INC4INGC0L7Rh9C9
+0L4g0L/QvtCy0YLQvtGA0Y/QtdGCINCw0L3QsNGC0L7QvNC40Y4g0LLRg9C70YzQstGLLCDQtNCw
+0YDRjyDQvtGJ0YPRidC10L3QuNC1INC90LDRgdGC0L7Rj9GJ0LXQs9C+INC60L7QvdGC0LDQutGC
+0LAuINCS0YLQvtGA0L7QuSDigJQg0LDQvdGD0YEsINC60L7RgtC+0YDRi9C5INCx0L7Qu9C10LUg
+0YLQtdGB0L3Ri9C5INC4INGD0YHQuNC70LjQstCw0LXRgiDRgdGC0LjQvNGD0LvRj9GG0LjRjiwg
+0L3QsNC/0YDQsNCy0LvRj9GPINC6INC/0LjQutGDINCx0LvQsNC20LXQvdGB0YLQstCwLgoK0JrR
+g9C/0LjRgtGMCgrQktC40LHRgNC+0LzQsNGB0YHQsNC20LXRgCBNaW5pIEVtbWEgTmVvCgpNaW5p
+IEVtbWEgTmVvIOKAlCDRjdGC0L4g0LLQsNGIINC90L7QstGL0Lkg0LjQvdGC0LjQvNC90YvQuSDR
+gdC/0YPRgtC90LjQuiwg0LrQvtGC0L7RgNGL0Lkg0YHQvtGH0LXRgtCw0LXRgiDQsiDRgdC10LHQ
+tSDRjdC70LXQs9Cw0L3RgtC90L7RgdGC0Ywg0Lgg0LzQvtGJ0YwuINCt0YLQvtGCINC60L7QvNC/
+0LDQutGC0L3Ri9C5INCy0LjQsdGA0LDRgtC+0YAg0L7RgiBTdmFrb20g0YHQvtC30LTQsNC9INC0
+0LvRjyDRgtC10YUsINC60YLQviDRhtC10L3QuNGCINGD0LTQvtCy0L7Qu9GM0YHRgtCy0LjQtSDQ
+siDQu9GO0LHQvtC5INC+0LHRgdGC0LDQvdC+0LLQutC1IOKAlCDQsdGD0LTRjCDRgtC+INGD0Y7R
+giDQstCw0YjQtdCz0L4g0LTQvtC80LAsINC30LDRhdCy0LDRgtGL0LLQsNGO0YnQtdC1INC/0YPR
+gtC10YjQtdGB0YLQstC40LUg0LjQu9C4INGB0YLRgNCw0YHRgtC90LDRjyDQvdC+0YfRjCDRgSDQ
+v9Cw0YDRgtC90LXRgNC+0LwuINChIE1pbmkgRW1tYSBOZW8g0LLRiyDQv9C+0LvRg9GH0LDQtdGC
+0LUg0L3QtSDQv9GA0L7RgdGC0L4g0LLQuNCx0YDQsNGC0L7RgCwg0LAg0L3QsNGB0YLQvtGP0YnR
+g9GOINGB0LjQvNGE0L7QvdC40Y4g0L7RidGD0YnQtdC90LjQuS4KCtCa0YPQv9C40YLRjCAoaHR0
+cHM6Ly92c2V4c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjM0MzItJUQwJUIyJUQwJUI4JUQwJUIx
+JUQxJTgwJUQwJUJFJUQwJUJDJUQwJUIwJUQxJTgxJUQxJTgxJUQwJUIwJUQwJUI2JUQwJUI1JUQx
+JTgwLW1pbmktZW1tYS1uZW8pCgrQkNC90LDQu9GM0L3QsNGPINC/0YDQvtCx0LrQsCAiR3BsdWcg
+WFMiCgoiR3BsdWcgWFMiIOKAlCDRgdCw0LzQsNGPINC80LDQu9C10L3RjNC60LDRjyDQsNC90LDQ
+u9GM0L3QsNGPINC/0YDQvtCx0LrQsCwg0LrQvtGC0L7RgNCw0Y8g0LjQtNC10LDQu9GM0L3QviDQ
+v9C+0LTQvtC50LTQtdGCINC00LvRjyDQvdC+0LLQuNGH0LrQvtCyLiDQndC10LHQvtC70YzRiNC+
+0Lkg0YDQsNC30LzQtdGAINC4INC60L7QvdGD0YHQvtC+0LHRgNCw0LfQvdCw0Y8g0YTQvtGA0LzQ
+sCDRgSDQt9Cw0YPQttC10L3QvdGL0Lwg0LrQvtC90YfQuNC60L7QvCDQvtCx0LXRgdC/0LXRh9Cw
+0YIg0LrQvtC80YTQvtGA0YLQvdC+0LUg0Lgg0LvQtdCz0LrQvtC1INCy0LLQtdC00LXQvdC40LUs
+INCwINC+0LPRgNCw0L3QuNGH0LjRgtC10LvRjNC90L7QtSDQvtGB0L3QvtCy0LDQvdC40LUg4oCU
+INCx0LXQt9C+0L/QsNGB0L3QvtC1INC40YHQv9C+0LvRjNC30L7QstCw0L3QuNC1LiDQkNC90LDR
+gtC+0LzQuNGH0LXRgdC60LDRjyDRhNC+0YDQvNCwINC+0YHQvdC+0LLQsNC90LjRjyDRgtCw0LrQ
+ttC1INC/0L7Qt9Cy0L7Qu9C40YIg0LjRgdC/0L7Qu9GM0LfQvtCy0LDRgtGMINC/0YDQvtCx0LrR
+gyDQtNC70Y8g0L3QvtGI0LXQvdC40Y8uCgrQmtGD0L/QuNGC0YwKCtCe0LHRgNCw0YnQsNC10Lwg
+0LLQsNGI0LUg0LLQvdC40LzQsNC90LjQtSwg0YfRgtC+INGN0YLQviDQv9C40YHRjNC80L4g0L3Q
+tSDQv9GA0LXQtNGB0YLQsNCy0LvRj9C10YIg0YHQvtCx0L7QuSDRjtGA0LjQtNC40YfQtdGB0LrQ
+uCDQvtCx0Y/Qt9GL0LLQsNGO0YnRg9GOINC+0YTQtdGA0YLRgy4g0KLQtdC60YPRidC40LUg0YbQ
+tdC90Ysg0L3QsCDRgtC+0LLQsNGA0Ysg0LLRiyDQstGB0LXQs9C00LAg0LzQvtC20LXRgtC1INC/
+0YDQvtCy0LXRgNC40YLRjCDQvdC10L/QvtGB0YDQtdC00YHRgtCy0LXQvdC90L4g0L3QsCDRgdGC
+0YDQsNC90LjRhtCw0YUg0YHQvtC+0YLQstC10YLRgdGC0LLRg9GO0YnQuNGFINGC0L7QstCw0YDQ
+vtCyLiDQktGLINC/0L7Qu9GD0YfQuNC70Lgg0LTQsNC90L3QvtC1INGB0L7QvtCx0YnQtdC90LjQ
+tSwg0L/QvtGC0L7QvNGDINGH0YLQviDQsiDQv9GA0L7RiNC70L7QvCDQv9C+0LTQv9C40YHQsNC7
+0LjRgdGMINC90LAg0L3QsNGI0YMg0YDQsNGB0YHRi9C70LrRgyDQuNC70Lgg0YHQvtCy0LXRgNGI
+0LDQu9C4INC/0L7QutGD0L/QutC4INCyINC80LDQs9Cw0LfQuNC90LUgVnNleHNob3AucnUuINCS
+INGB0LvRg9GH0LDQtSwg0LXRgdC70Lgg0LLRiyDQttC10LvQsNC10YLQtSDQv9GA0LXQutGA0LDR
+gtC40YLRjCDQv9C+0LvRg9GH0LXQvdC40LUg0L3QsNGI0LjRhSDRg9Cy0LXQtNC+0LzQu9C10L3Q
+uNC5INC+INGB0L/QtdGG0LjQsNC70YzQvdGL0YUg0L/RgNC10LTQu9C+0LbQtdC90LjRj9GFLCDQ
+sNC60YbQuNGP0YUg0Lgg0YHQutC40LTQutCw0YUsINC/0L7QttCw0LvRg9C50YHRgtCwLCDQstC+
+0YHQv9C+0LvRjNC30YPQudGC0LXRgdGMINGE0YPQvdC60YbQuNC10Lkg0L7RgtC/0LjRgdC60Lgs
+INC60L3QvtC/0LrQsCDQutC+0YLQvtGA0L7QuSDRgNCw0YHQv9C+0LvQvtC20LXQvdCwINCyINC6
+0L7QvdGG0LUg0LTQsNC90L3QvtCz0L4g0YHQvtC+0LHRidC10L3QuNGPLgoKMTI1MTI0LCDQsy4g
+0JzQvtGB0LrQstCwLCDRg9C7LiDQn9GA0LDQstC00YssIDI0INGB0YLRgC4gMiwg0LzQsNCz0LDQ
+t9C40L0gVnNleHNob3AucnUuINCV0YHQu9C4INGDINCy0LDRgSDQstC+0LfQvdC40LrQvdGD0YIg
+0LLQvtC/0YDQvtGB0Ysg0LjQu9C4INC/0L7QttC10LvQsNC90LjRjywg0L/QvtC20LDQu9GD0LnR
+gdGC0LAsINC90LUg0YHRgtC10YHQvdGP0LnRgtC10YHRjCDQvtCx0YDQsNGJ0LDRgtGM0YHRjyDQ
+uiDQvdCw0Lwg0YfQtdGA0LXQtyB2c2V4c2hvcEBnbWFpbC5jb20g0LjQu9C4INC/0L4g0YLQtdC7
+0LXRhNC+0L3RgyA4ODAwMTAwNzY1NS4g0J/RgNC40LzQuNGC0LUg0LLQviDQstC90LjQvNCw0L3Q
+uNC1LCDRh9GC0L4g0Y3RgtC+INC/0LjRgdGM0LzQviDQsdGL0LvQviDRgdCz0LXQvdC10YDQuNGA
+0L7QstCw0L3QviDQsNCy0YLQvtC80LDRgtC40YfQtdGB0LrQuCwg0L/QvtGN0YLQvtC80YMg0LzR
+iyDQv9GA0L7RgdC40Lwg0L3QtSDQvtGC0LLQtdGH0LDRgtGMINC90LAg0L3QtdCz0L4u0KEg0LvR
+jtCx0L7QstGM0Y4sINCS0LDRiCBWc2V4c2hvcC5ydcKuIDIwMjUKCtCe0YLQutCw0LfQsNGC0YzR
+gdGPINC+0YIg0YDQsNGB0YHRi9C70LrQuAoK
+------=_Part_3786443_74165447.1750066497191
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+=09<title>=D0=AD=D1=82=D1=83 =D0=B8=D0=B3=D1=80=D1=83=D1=88=D0=BA=D1=83 =D0=
+=B2=D1=8B =D0=B2=D0=BE=D0=B7=D1=8C=D0=BC=D1=91=D1=82=D0=B5 =D1=81 =D1=81=D0=
+=BE=D0=B1=D0=BE=D0=B9 =F0=9F=91=80</title><link rel=3D"stylesheet" href=3D"=
+https://fonts.googleapis.com/css2?family=3DPT Sans:ital,wght@0,400&display=
+=3Dswap" em-class=3D"em-font-PTSans-Regular"><link rel=3D"stylesheet" href=
+=3D"https://fonts.googleapis.com/css2?family=3DPT Sans:ital,wght@0,700&disp=
+lay=3Dswap" em-class=3D"em-font-PTSans-Bold"><link rel=3D"stylesheet" href=
+=3D"https://fonts.googleapis.com/css2?family=3DPT Sans:ital,wght@0,400&disp=
+lay=3Dswap" em-class=3D"em-font-PTSans-Regular"><link rel=3D"stylesheet" hr=
+ef=3D"https://fonts.googleapis.com/css2?family=3DPT Sans:ital,wght@0,400&di=
+splay=3Dswap" em-class=3D"em-font-PTSans-Regular"><link rel=3D"stylesheet" =
+href=3D"https://fonts.googleapis.com/css2?family=3DPT Sans:ital,wght@0,400&=
+display=3Dswap" em-class=3D"em-font-PTSans-Regular"><link rel=3D"stylesheet=
+" href=3D"https://fonts.googleapis.com/css2?family=3DPT Sans Narrow:ital,wg=
+ht@0,700&display=3Dswap" em-class=3D"em-font-PTSansNarrow-Bold"><link rel=
+=3D"stylesheet" href=3D"https://fonts.googleapis.com/css2?family=3DPT Sans =
+Narrow:ital,wght@0,400&display=3Dswap" em-class=3D"em-font-PTSansNarrow-Reg=
+ular">
+=09<style type=3D"text/css">
+=09=09html {
+=09=09=09-webkit-text-size-adjust: none;
+=09=09=09-ms-text-size-adjust: none;
+=09=09}
+=09</style>
+=09<style em=3D"styles">
+.em-font-PTSansNarrow-Bold,.em-font-PTSansNarrow-Regular {
+    font-family: "PT Sans Narrow",sans-serif!important;
+    font-weight: 700!important;
+}
+.em-font-PTSansNarrow-Regular {
+    font-weight: 400!important;
+}
+@media only screen and (max-device-width:660px),only screen and (max-width:=
+660px) {
+    .em-mob-wrap.em-mob-wrap-cancel,.noresp-em-mob-wrap.em-mob-wrap-cancel =
+{
+        display: table-cell!important;
+    }
+    .em-narrow-table {
+        width: 100%!important;
+        max-width: 660px!important;
+        min-width: 280px!important;
+    }
+    .em-mob-font_size-12px {
+        font-size: 12px!important;
+    }
+    .em-mob-padding_top-25 {
+        padding-top: 25px!important;
+    }
+    .em-mob-padding_bottom-25 {
+        padding-bottom: 25px!important;
+    }
+    .em-mob-width-auto {
+        width: auto!important;
+    }
+    .em-mob-padding_right-10 {
+        padding-right: 10px!important;
+    }
+    .em-mob-width-10px {
+        width: 10px!important;
+        max-width: 10px!important;
+        min-width: 10px!important;
+    }
+    .em-mob-width-90px {
+        width: 90px!important;
+        max-width: 90px!important;
+        min-width: 90px!important;
+    }
+    .em-mob-padding_top-0 {
+        padding-top: 0!important;
+    }
+    .em-mob-padding_right-0 {
+        padding-right: 0!important;
+    }
+    .em-mob-padding_bottom-0 {
+        padding-bottom: 0!important;
+    }
+    .em-mob-padding_left-0 {
+        padding-left: 0!important;
+    }
+    .em-mob-width-91perc {
+        width: 91%!important;
+        max-width: 91%!important;
+    }
+    .em-mob-height-20px {
+        height: 20px!important;
+    }
+    .em-mob-table_align-center {
+        margin: 0 auto!important;
+    }
+    .em-mob-text_align-center {
+        text-align: center!important;
+    }
+    .em-mob-height-auto {
+        height: auto!important;
+    }
+    .em-mob-width-100perc {
+        width: 100%!important;
+        max-width: 100%!important;
+    }
+    .em-mob-wrap {
+        display: block!important;
+    }
+    .em-mob-padding_right-20 {
+        padding-right: 20px!important;
+    }
+    .em-mob-padding_left-20 {
+        padding-left: 20px!important;
+    }
+}
+</style>
+</head>
+<body style=3D"margin: 0px;"><!--[if !mso]><!--><div class=3D"preheader" st=
+yle=3D"color: #f0f1f3; line-height: 0px; font-size: 0px;">=D0=97=D0=BD=D0=
+=B0=D0=B5=D0=BC =D1=82=D0=BE=D1=87=D0=BD=D0=BE: =D0=BF=D1=80=D0=BE=D0=BC=D0=
+=BE=D0=BA=D0=BE=D0=B4 =E2=80=93 =D0=B2 =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=B5=
+, =D0=B0 Kiiroo Pocket Stroker =E2=80=93 =D0=BD=D0=B5=D0=B7=D0=B0=D0=BC=D0=
+=B5=D0=BD=D0=B8=D0=BC =D0=B2 =D0=BF=D1=83=D1=82=D0=B5=D1=88=D0=B5=D1=81=D1=
+=82=D0=B2=D0=B8=D0=B8 <vk-snippet-end/>=CD=8F=E2=80=8C=CD=8F=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C=
+ =E2=80=87=CD=8F=E2=80=8C =E2=80=87=CD=8F=E2=80=8C =E2=80=87</div><!--<![en=
+dif]-->
+=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" s=
+tyle=3D"font-size: 1px; line-height: 21px;">
+=09=09<tr em=3D"group">
+=09=09=09<td align=3D"center" class=3D"em-mob-padding_top-0 em-mob-padding_=
+right-0 em-mob-padding_bottom-0 em-mob-padding_left-0" style=3D"padding: 40=
+px 0px; background-color: #ffffff;" bgcolor=3D"#FFFFFF">
+=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"660"><tr><td>
+=09=09=09=09<![endif]-->
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" borde=
+r=3D"0" style=3D"max-width: 660px; min-width: 660px; width: 660px;" class=
+=3D"em-narrow-table"><tr em=3D"block" class=3D"em-structure">
+=09=09=09=09=09=09<td align=3D"center" style=3D"padding: 20px 20px 0px;" bg=
+color=3D"#FFFFFF" class=3D"em-mob-padding_left-20 em-mob-padding_right-20">
+=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" class=3D"em-mob-width-100perc">
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td width=3D"215" valign=3D"top" class=3D"em-mob=
+-wrap em-mob-wrap-cancel em-mob-width-auto">
+=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" em=3D"atom">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-bottom: 0px;" clas=
+s=3D"em-mob-text_align-center em-mob-padding_right-10">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mai=
+l_link_tracker?hash=3D6iizowfyzuk88krcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1h=
+uczfxur7mpop4ux3xy4jjssnpo5aa9eckwfmjbd4pnixhezndzo&url=3DaHR0cHM6Ly92c2V4c=
+2hvcC5ydS8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmRlciZ1dG1fY2FtcGFp=
+Z249MzQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3D0fc662515e2f2994eeea98146d42f91d"=
+ target=3D"_blank"><img src=3D"https://img.hiteml.com/en/v5/user-files?user=
+Id=3D5892162&resource=3Dhimg&disposition=3Dinline&name=3D61ws3b9hjp56y15m4j=
+os5ms4gdsxt4efx51p9sikgrnh6yiif831jzhg4jyqekerupp34b6geh757aq5om7d9kfap7eja=
+fgpgqrm8mwcg9f6qahdyiosd5atbrzzudqfs63xxbyqgczcxyjdunaude91q3o" width=3D"90=
+" border=3D"0" alt=3D"Vsexshop.ru " style=3D"display: block; width: 100%; m=
+ax-width: 90px;" class=3D"em-mob-width-90px"></a>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09<td width=3D"20" class=3D"em-mob-wrap em-mob-wra=
+p-cancel em-mob-width-10px">&nbsp;</td>
+=09=09=09=09=09=09=09=09=09<td width=3D"385" valign=3D"middle" class=3D"em-=
+mob-wrap em-mob-wrap-cancel em-mob-width-auto">
+=09=09=09=09=09=09=09=09=09=09<table align=3D"center" width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" em=3D"atom">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"30" em=3D"atom">&nbsp;</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" em=3D"atom" class=
+=3D"em-mob-padding_right-10">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mai=
+l_link_tracker?hash=3D6qguogu4nn1ffnrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1o=
+gr9bmeepjbfthey6r4uk9ayjymhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c=
+2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjA5MTAtJUQwJUI0JUQwJUIyJUQxJTgzJUQxJTgxJUQx=
+JTgyJUQwJUJFJUQxJTgwJUQwJUJFJUQwJUJEJUQwJUJEJUQwJUI4JUQwJUI5LSVEMSU4NCVEMCV=
+CMCVEMCVCQiVEMCVCQiVEMCVCRSVEMCVCOCVEMCVCQyVEMCVCOCVEMSU4MiVEMCVCMCVEMSU4Mi=
+VEMCVCRSVEMSU4MC1ncmF5c29uP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZ=
+XImdXRtX2NhbXBhaWduPTM0OTEzOTg2Mg~~&uid=3DNTg5MjE2Mg~~&ucs=3D7ad0a86691a7cd=
+93f3ef1f4290b768a7" target=3D"_blank" style=3D"font-family: Helvetica, Aria=
+l, sans-serif; font-size: 14px; line-height: 24px; color: #333333; text-dec=
+oration: none; white-space: nowrap;" class=3D"em-mob-font_size-12px em-font=
+-PTSansNarrow-Regular">=D0=9D=D0=9E=D0=92=D0=98=D0=9D=D0=9A=D0=90&nbsp;=D0=
+=94=D0=9D=D0=AF</a>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"30" em=3D"atom">&nbsp;</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" em=3D"atom" class=
+=3D"null em-mob-padding_right-10">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mai=
+l_link_tracker?hash=3D6nnpqa37gsjyp1rcri4cpqmy6i5rxip74szjegpihcq44ozy9ue15=
+bjdrhmxp48ak3hai3jw33aqe8o5aa9eckwfmjbd4pnixhezndzo&url=3DaHR0cHM6Ly92c2V4c=
+2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjE0MjQtMi0lRDAlQkYlRDAlQkUtJUQxJTg2JUQwJUI1=
+JUQwJUJEJUQwJUI1LTEtJUQwJUIxJUQwJUI1JUQxJTgxJUQxJTgyJUQxJTgxJUQwJUI1JUQwJUJ=
+CJUQwJUJCJUQwJUI1JUQxJTgwJUQxJThCLXZpdm9nbGlkZS0lRDAlQjQlRDAlQkIlRDElOEYtJU=
+QwJUIwJUQwJUJEJUQwJUIwJUQwJUJCJUQxJThDJUQwJUJEJUQwJUJFJUQwJUIzJUQwJUJFLSVEM=
+CVCOC0lRDAlQjIlRDAlQjAlRDAlQjMlRDAlQjglRDAlQkQlRDAlQjAlRDAlQkIlRDElOEMlRDAl=
+QkQlRDAlQkUlRDAlQjMlRDAlQkUtJUQxJTgxJUQwJUI1JUQwJUJBJUQxJTgxJUQwJUIwP3V0bV9=
+tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXImdXRtX2NhbXBhaWduPTM0OTEzOTg2Mg=
+~~&uid=3DNTg5MjE2Mg~~&ucs=3D1e36621bd4ce1d88a3f08ff977302471" target=3D"_bl=
+ank" style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 14px; l=
+ine-height: 24px; color: #333333; text-decoration: none; white-space: nowra=
+p;" class=3D"em-mob-font_size-12px em-font-PTSansNarrow-Regular">=D0=A5=D0=
+=98=D0=A2 =D0=9D=D0=95=D0=94=D0=95=D0=9B=D0=98</a>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"30" em=3D"atom">&nbsp;</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09<td em=3D"atom" class=3D"em-mob-padding=
+_right-10">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mai=
+l_link_tracker?hash=3D63jkuiir1xcctorcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1z=
+1wefe1r81ui1zfcn6kfeceqchmhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c=
+2hvcC5ydS9zdG9yZS9wcm9tb3Rpb25zP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1Vbmlz=
+ZW5kZXImdXRtX2NhbXBhaWduPTM0OTEzOTg2Mg~~&uid=3DNTg5MjE2Mg~~&ucs=3Dd811a79d6=
+6ef8ae28fea4cc43215727d" target=3D"_blank" style=3D"font-family: Helvetica,=
+ Arial, sans-serif; font-size: 14px; line-height: 24px; color: #333333; tex=
+t-decoration: none; white-space: nowrap;" class=3D"em-mob-font_size-12px em=
+-font-PTSansNarrow-Regular">=D0=90=D0=9A=D0=A6=D0=98=D0=98</a>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" em=3D"atom">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr><tr em=3D"block" class=3D"em-structure">
+  <td align=3D"center">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob=
+-width-100perc">
+      <tr>
+        <td width=3D"660" valign=3D"top" class=3D"em-mob-wrap em-mob-width-=
+100perc">
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" em=3D"atom"><tr><td>
+=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_link_tracker?hash=
+=3D61fhebt818ynygrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue14yifaeq1gekuf4uqjqdt=
+78xeokmhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c2hvcC5ydS9zdG9yZS9w=
+cm9kdWN0cy8xMjU4MDgtJUQwJUJDJUQwJUIwJUQxJTgxJUQxJTgyJUQxJTgzJUQxJTgwJUQwJUI=
+xJUQwJUIwJUQxJTgyJUQwJUJFJUQxJTgwLWtpaXJvby1mZWVsLXBvY2tldC1zdHJva2VyLWNyeX=
+N0YWw_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmRlciZ1dG1fY2FtcGFpZ249M=
+zQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3Dfbb0c1dd50382e13eaa73d5cf6f863fb" targ=
+et=3D"_blank"><img src=3D"https://img.hiteml.com/en/v5/user-files?userId=3D=
+5892162&resource=3Dhimg&disposition=3Dinline&name=3D6wysruw58qjc165m4jos5ms=
+4gdsxt4efx51p9sikgrnh6yiif831jzhg4jyqekerut6h9mo83nzgdbyw4axu3bysxxs31zfphq=
+dcab63a6zo6jthzwrw65o8cz6kxszuepmz5y6xdi7a4itwooqjoj9m4ah" width=3D"660" bo=
+rder=3D"0" alt=3D"=D0=9C=D0=B0=D1=81=D1=82=D1=83=D1=80=D0=B1=D0=B0=D1=82=D0=
+=BE=D1=80 Kiiroo Feel Pocket Stroker Crystal" style=3D"display: block; widt=
+h: 100%; max-width: 660px;"></a>
+=09=09=09=09=09</td></tr></table>
+=09=09=09=09</td>
+      </tr>
+    </table>
+  </td>
+</tr><tr em=3D"block" class=3D"em-structure">
+  <td align=3D"center" style=3D"padding: 30px 40px; background-color: #ffff=
+ff;" bgcolor=3D"#FFFFFF" class=3D"em-mob-padding_left-20 em-mob-padding_rig=
+ht-20">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob=
+-width-100perc">
+      <tr>
+        <td width=3D"580" align=3D"center" valign=3D"top" class=3D"em-mob-w=
+rap em-mob-width-100perc em-card" style=3D"border: 1px dashed #9299A2; bord=
+er-radius: 10px; padding: 30px 0;">
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td align=3D"center" style=3D"padding: 0 30px;" class=
+=3D"em-mob-padding_left-20 em-mob-padding_right-20"><table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td align=
+=3D"center" style=3D"padding-bottom: 5px;">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 24px; line-height: 26px; color: #333333;" class=3D"em-f=
+ont-PTSansNarrow-Regular"><strong>=D0=92=D0=B0=D1=88=D0=B0 =D1=81=D0=BA=D0=
+=B8=D0=B4=D0=BA=D0=B0 5% =D0=BD=D0=B0 =D0=B2=D1=81=D1=91&nbsp;</strong></di=
+v>
+=09=09=09=09=09=09=09=09</td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td align=3D"center" =
+style=3D"padding-bottom: 20px;">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 16px; line-height: 21px; color: #5a5a5a;" class=3D"em-f=
+ont-PTSansNarrow-Regular">=D0=9F=D1=80=D0=BE=D0=BC=D0=BE=D0=BA=D0=BE=D0=B4 =
+=D0=BD=D0=B0 =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D1=83 =D0=BF=D1=80=D0=B8 =D0=B7=
+=D0=B0=D0=BA=D0=B0=D0=B7=D0=B5 =D0=BE=D1=82 8000 =D1=80=D1=83=D0=B1=D0=BB=
+=D0=B5=D0=B9</div>
+=09=09=09=09=09=09=09=09</td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td align=3D"center" =
+style=3D"padding-bottom: 10px;">
+=09=09=09=09=09=09=09=09=09<table width=3D"265" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" height=3D"43" style=
+=3D"border: 1px dashed #9299A2; border-radius: 7px; height: 43px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"display: block; height: =
+43px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-size:=
+ 16px; line-height: 43px; text-decoration: none; white-space: nowrap; lette=
+r-spacing: 3px;" class=3D"em-font-PTSansNarrow-Regular">LNDGF782</span>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09</td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td align=3D"center" =
+style=3D"padding-bottom: 10px;">
+=09=09=09=09=09=09=09=09=09<table width=3D"265" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"middle" hei=
+ght=3D"45" style=3D"background-color: #2d2d2d; border-radius: 7px; height: =
+45px;" bgcolor=3D"#2D2D2D">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_l=
+ink_tracker?hash=3D6j1z77ksa1t76krcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1zwna=
+pazxr56sawj3fhby8xg6mwmhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c2hv=
+cC5ydS9zdG9yZS9uZXdlc3Qvc19iL2NyZWF0ZWRfYXQvc19tL2Rlc2MvP3V0bV9tZWRpdW09ZW1=
+haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXImdXRtX2NhbXBhaWduPTM0OTEzOTg2Mg~~&uid=3DNTg=
+5MjE2Mg~~&ucs=3Dfb9747f904320e06b94ab60e89c5b5cc" target=3D"_blank" style=
+=3D"display: block; height: 45px; font-family: Helvetica, Arial, sans-serif=
+; color: #ffffff; font-size: 16px; line-height: 45px; text-decoration: none=
+; white-space: nowrap;" class=3D"em-font-PTSansNarrow-Regular"><strong styl=
+e=3D"font-weight: 600;">=D0=97=D0=B0 =D0=BF=D0=BE=D0=BA=D1=83=D0=BF=D0=BA=
+=D0=B0=D0=BC=D0=B8</strong></a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09</td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td align=3D"center">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 12px; line-height: 18px; color: #9299a2;" class=3D"em-f=
+ont-PTSansNarrow-Regular">
+=09=09=09=09=09=09=09=09=09=D0=94=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D1=83=D0=B5=
+=D1=82 =D0=B4=D0=BE 18&nbsp;=D0=B8=D1=8E=D0=BD=D1=8F 2025 23:59 =D0=BF=D0=
+=BE =D0=9C=D0=A1=D0=9A. =D0=9D=D0=B5&nbsp;=D1=81=D1=83=D0=BC=D0=BC=D0=B8=D1=
+=80=D1=83=D0=B5=D1=82=D1=81=D1=8F =D1=81=D0=BE =D1=81=D0=BA=D0=B8=D0=B4=D0=
+=BA=D0=BE=D0=B9 =D0=BF=D0=BE VIP&nbsp; =D0=BA=D0=B0=D1=80=D1=82=D0=B5.&nbsp=
+; =D0=9C=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D1=81=
+=D1=83=D0=BC=D0=BC=D0=B0 =D0=B7=D0=B0=D0=BA=D0=B0=D0=B7=D0=B0 =D0=B4=D0=BB=
+=D1=8F =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D0=BA=
+=D0=B8=D0=B4=D0=BA=D0=B8 =E2=80=93 8000&nbsp;=D1=80=D1=83=D0=B1=D0=BB=D0=B5=
+=D0=B9.&nbsp;<br></div>
+=09=09=09=09=09=09=09=09</td></tr></table></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+      </tr>
+    </table>
+  </td>
+</tr><tr em=3D"block" class=3D"em-structure">
+  <td align=3D"center" style=3D"padding: 0 40px;" bgcolor=3D"#FFFFFF" class=
+=3D"em-mob-padding_left-20 em-mob-padding_right-20">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob=
+-width-100perc">
+      <tr>
+        <td width=3D"580" valign=3D"top" class=3D"em-mob-wrap em-mob-width-=
+100perc">
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" em=3D"atom"><tr><td style=3D"padding: 10px 0px 11px;">
+=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, sans-serif; =
+line-height: 38px; color: #2d2d2d; font-size: 24px;" class=3D"em-font-PTSan=
+sNarrow-Bold" align=3D"center">=D0=A7=D1=82=D0=BE =D0=B5=D1=89=D0=B5 =D0=B2=
+=D0=B7=D1=8F=D1=82=D1=8C =D1=81 =D1=81=D0=BE=D0=B1=D0=BE=D0=B9:</div>
+=09=09=09=09=09</td></tr></table>
+=09=09=09=09</td>
+      </tr>
+    </table>
+  </td>
+</tr><tr em=3D"block" class=3D"em-structure">
+  <td align=3D"center" style=3D"padding: 10px 40px;" bgcolor=3D"#FFFFFF" cl=
+ass=3D"em-mob-padding_left-20 em-mob-padding_right-20">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob=
+-width-100perc">
+      <tr>
+        <td width=3D"280" align=3D"center" valign=3D"top" class=3D"em-mob-w=
+rap em-mob-width-100perc" style=3D"background-color: #F8F8F8; border-radius=
+: 10px; padding: 10px 0;">
+=09=09=09=09=09<table width=3D"93%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"em-mob-width-91perc">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td align=3D"left"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-to=
+p: 9px; padding-bottom: 5px;" class=3D"em-mob-text_align-center" align=3D"c=
+enter">
+=09=09=09=09=09=09=09=09=09<a href=3D"" target=3D"_blank" style=3D"font-fam=
+ily: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 23px; colo=
+r: #333333; text-decoration: none;" class=3D"em-font-PTSansNarrow-Bold">=D0=
+=92=D0=B8=D0=B1=D1=80=D0=BE=D0=BF=D1=83=D0=BB=D1=8F We-Vibe Tango</a>
+=09=09=09=09=09=09=09=09</td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-=
+top: 10px;">
+=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_link_track=
+er?hash=3D6k7tbhqzon8arercri4cpqmy6i5rxip74szjegpihcq44ozy9ue1i44yx7uee5154=
+nu3ispdquwepamhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c2hvcC5ydS9zd=
+G9yZS9wcm9kdWN0cy8xMjQ3NDAtJUQwJUIyJUQwJUI4JUQwJUIxJUQxJTgwJUQwJUJFJUQwJUJG=
+JUQxJTgzJUQwJUJCJUQxJThGLXdlLXZpYmUtdGFuZ28_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc29=
+1cmNlPVVuaXNlbmRlciZ1dG1fY2FtcGFpZ249MzQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3D=
+b31440a3aa213b44c973e73d2f3b989d" target=3D"_blank"><img src=3D"https://img=
+.hiteml.com/en/v5/user-files?userId=3D5892162&resource=3Dhimg&disposition=
+=3Dinline&name=3D6155nuaxybg1zh5m4jos5ms4gdsxt4efx51p9sikgrnh6yiif831jzhg4j=
+yqekeructm6z4hyw98rt5r3be3eu5cstx7rzk4ubaq639tgxkpje366bdr3ubxgtiqs3gnhq69a=
+g6nhr1kz5whiefh6iwum5e" width=3D"260" border=3D"0" alt=3D"=D0=92=D0=B8=D0=
+=B1=D1=80=D0=BE=D0=BF=D1=83=D0=BB=D1=8F We-Vibe Tango" style=3D"display: in=
+line-block; width: 100%; max-width: 260px; border-radius: 5px;" class=3D"em=
+-mob-width-100perc"></a>
+=09=09=09=09=09=09=09=09</td></tr></table></td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" height=3D"120" style=
+=3D"height: 120px;" class=3D"em-mob-height-auto">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-bottom: 5px;">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 14px; line-height: 18px; color: #5a5a5a;" class=3D"em-f=
+ont-PTSansNarrow-Regular">=D0=92=D0=B8=D0=B1=D1=80=D0=BE=D0=BF=D1=83=D0=BB=
+=D1=8F We-Vibe Tango - =D0=BD=D0=B5=D0=B2=D0=B5=D1=80=D0=BE=D1=8F=D1=82=D0=
+=BD=D0=B0=D1=8F =D1=81=D0=B5=D0=BA=D1=81-=D0=B8=D0=B3=D1=80=D1=83=D1=88=D0=
+=BA=D0=B0, =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BD=D0=B0=D1=
+=8F =D0=B2 =D1=8D=D0=BB=D0=B5=D0=B3=D0=B0=D0=BD=D1=82=D0=BD=D0=BE=D0=BC =D0=
+=B4=D0=B8=D0=B7=D0=B0=D0=B9=D0=BD=D0=B5 =D0=B8 =D1=81=D0=BF=D0=BE=D1=81=D0=
+=BE=D0=B1=D0=BD=D0=B0=D1=8F =D1=83=D0=B4=D0=B8=D0=B2=D0=B8=D1=82=D1=8C =D0=
+=B2=D0=B0=D1=81 =D1=81=D0=B2=D0=BE=D0=B5=D0=B9 =D0=BC=D0=BE=D1=89=D0=BD=D0=
+=BE=D1=81=D1=82=D1=8C=D1=8E. =D0=9D=D0=B5=D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=
+=B8=D0=BC=D0=BE =D0=BE=D1=82 =D1=82=D0=BE=D0=B3=D0=BE, =D0=BD=D0=BE=D0=B2=
+=D0=B8=D1=87=D0=BE=D0=BA =D0=B2=D1=8B =D0=B8=D0=BB=D0=B8 =D1=8D=D0=BA=D1=81=
+=D0=BF=D0=B5=D1=80=D1=82 =D0=B2 =D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D0=B8 =
+=D1=83=D0=B4=D0=BE=D0=B2=D0=BE=D0=BB=D1=8C=D1=81=D1=82=D0=B2=D0=B8=D0=B9, =
+=D1=8D=D1=82=D0=B0 =D0=BC=D0=B0=D0=BB=D0=B5=D0=BD=D1=8C=D0=BA=D0=B0=D1=8F =
+=D0=B8=D0=B3=D1=80=D1=83=D1=88=D0=BA=D0=B0 =D0=B3=D0=B0=D1=80=D0=B0=D0=BD=
+=D1=82=D0=B8=D1=80=D1=83=D0=B5=D1=82 =D0=B2=D0=B0=D0=BC =D1=8F=D1=80=D0=BA=
+=D0=B8=D0=B5 =D0=BE=D1=89=D1=83=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=B1=D0=BB=
+=D0=B0=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D1=8F =D0=B3=D0=BB=D1=83=D0=B1=D0=BE=
+=D0=BA=D0=B8=D0=BC =D0=B8 =D0=BC=D0=BE=D1=89=D0=BD=D1=8B=D0=BC =D0=B2=D0=B8=
+=D0=B1=D1=80=D0=B0=D1=86=D0=B8=D1=8F=D0=BC, =D1=81=D0=BF=D0=B5=D1=86=D0=B8=
+=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=
+=D1=82=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC =D0=B4=D0=BB=D1=8F =D1=82=D0=BE=D1=87=
+=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=BE=D0=B7=D0=B4=D0=B5=D0=B9=D1=81=D1=82=
+=D0=B2=D0=B8=D1=8F =D0=BD=D0=B0 =D1=8D=D1=80=D0=BE=D0=B3=D0=B5=D0=BD=D0=BD=
+=D1=8B=D0=B5 =D0=B7=D0=BE=D0=BD=D1=8B.   <br> </div>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-top: 20px;" clas=
+s=3D"em-mob-text_align-center">
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"260" class=3D"em-mob-table_align-center">
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"middle" hei=
+ght=3D"40" style=3D"background-color: #2d2d2d; border-radius: 5px; height: =
+40px;" bgcolor=3D"#2D2D2D">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_l=
+ink_tracker?hash=3D6x6uz1o6oixacrrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1h95a=
+cdarnbb1snu3ispdquwepamhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c2hv=
+cC5ydS9zdG9yZS9wcm9kdWN0cy8xMjQ3NDAtJUQwJUIyJUQwJUI4JUQwJUIxJUQxJTgwJUQwJUJ=
+FJUQwJUJGJUQxJTgzJUQwJUJCJUQxJThGLXdlLXZpYmUtdGFuZ28_dXRtX21lZGl1bT1lbWFpbC=
+Z1dG1fc291cmNlPVVuaXNlbmRlciZ1dG1fY2FtcGFpZ249MzQ5MTM5ODYy&uid=3DNTg5MjE2Mg=
+~~&ucs=3Db31440a3aa213b44c973e73d2f3b989d" target=3D"_blank" style=3D"displ=
+ay: block; height: 40px; font-family: Helvetica, Arial, sans-serif; color: =
+#ffffff; font-size: 14px; line-height: 40px; text-decoration: none; white-s=
+pace: nowrap;" class=3D"em-font-PTSansNarrow-Bold">=D0=9A=D1=83=D0=BF=D0=B8=
+=D1=82=D1=8C</a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr></table>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr></table>
+=09=09=09=09</td>
+        <td width=3D"20" class=3D"em-mob-wrap em-mob-height-20px">&nbsp;</t=
+d>
+        <td width=3D"280" align=3D"center" valign=3D"top" class=3D"em-mob-w=
+rap em-mob-width-100perc" style=3D"background-color: #F8F8F8; border-radius=
+: 10px; padding: 10px 0;">
+=09=09=09=09=09<table width=3D"93%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"em-mob-width-91perc">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td align=3D"left"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-to=
+p: 11px; padding-bottom: 5px;" class=3D"em-mob-text_align-center" align=3D"=
+center">
+=09=09=09=09=09=09=09=09<a style=3D"font-family: Helvetica, Arial, sans-ser=
+if; font-size: 18px; line-height: 23px; color: #333333; text-decoration: no=
+ne;" class=3D"em-font-PTSansNarrow-Bold" href=3D"" target=3D"_blank">=D0=9F=
+=D0=BE=D0=BF=D0=BA=D0=B0-=D0=BC=D0=B0=D1=81=D1=82=D1=83=D1=80=D0=B1=D0=B0=
+=D1=82=D0=BE=D1=80 "=D0=A1=D0=B8=D0=BB=D0=BB=D0=B8 =D0=BC=D0=B8=D0=BD=D0=B8=
+"</a></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-top: 10px;">
+=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_link_track=
+er?hash=3D6z4ktdkpp61mzqrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1zssgsx4px9ofg=
+js8zprcy8ut8nmhrqsm6zfi3xny6nqhranowhty&url=3DaHR0cHM6Ly92c2V4c2hvcC5ydS9zd=
+G9yZS9wcm9kdWN0cy84MTExMC0lRDAlQkYlRDAlQkUlRDAlQkYlRDAlQkElRDAlQjAtJUQwJUJD=
+JUQwJUIwJUQxJTgxJUQxJTgyJUQxJTgzJUQxJTgwJUQwJUIxJUQwJUIwJUQxJTgyJUQwJUJFJUQ=
+xJTgwLSVEMSU4MSVEMCVCOCVEMCVCQiVEMCVCQiVEMCVCOC0lRDAlQkMlRDAlQjglRDAlQkQlRD=
+AlQjg_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmRlciZ1dG1fY2FtcGFpZ249M=
+zQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3Dc79c3e62b2ffe93a0609eb8109cc0c8d" targ=
+et=3D"_blank"><img src=3D"https://img.hiteml.com/en/v5/user-files?userId=3D=
+5892162&resource=3Dhimg&disposition=3Dinline&name=3D6nsaro1tzemm5a5m4jos5ms=
+4gdsxt4efx51p9sikgrnh6yiif831jzhg4jyqekeruj19g7wu7sek4rzx3re3xq7c5fz9uug3gb=
+415zzgby1cq7ncktpj63paco34ngx38q69ag6nhr1kz4dejner6ujf51r" width=3D"260" bo=
+rder=3D"0" alt=3D"=D0=9F=D0=BE=D0=BF=D0=BA=D0=B0-=D0=BC=D0=B0=D1=81=D1=82=
+=D1=83=D1=80=D0=B1=D0=B0=D1=82=D0=BE=D1=80 '=D0=A1=D0=B8=D0=BB=D0=BB=D0=B8 =
+=D0=BC=D0=B8=D0=BD=D0=B8'" style=3D"display: inline-block; width: 100%; max=
+-width: 260px; border-radius: 5px;" class=3D"em-mob-width-100perc"></a>
+=09=09=09=09=09=09=09=09</td></tr></table></td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" height=3D"120" style=
+=3D"height: 120px;" class=3D"em-mob-height-auto">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-bottom: 6px;">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 14px; line-height: 18px; color: #5a5a5a;" class=3D"em-f=
+ont-PTSansNarrow-Regular">=D0=9F=D0=BE=D0=BF=D0=BA=D0=B0-=D0=BC=D0=B0=D1=81=
+=D1=82=D1=83=D1=80=D0=B1=D0=B0=D1=82=D0=BE=D1=80 =D0=BE=D1=82 =D0=B1=D1=80=
+=D0=B5=D0=BD=D0=B4=D0=B0 Pipedream =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=
+=B5=D0=BD =D0=B2 =D0=B2=D0=B8=D0=B4=D0=B5 =D0=B0=D0=BF=D0=BF=D0=B5=D1=82=D0=
+=B8=D1=82=D0=BD=D0=BE=D0=B9 =D0=B8 =D1=83=D0=BF=D1=80=D1=83=D0=B3=D0=BE=D0=
+=B9 =D0=B6=D0=B5=D0=BD=D1=81=D0=BA=D0=BE=D0=B9 =D0=BF=D0=BE=D0=BF=D0=BA=D0=
+=B8 =D0=B8 =D0=BF=D1=80=D0=B5=D0=B4=D0=BB=D0=B0=D0=B3=D0=B0=D0=B5=D1=82 =D0=
+=B4=D0=B2=D0=B0 =D0=B2=D1=85=D0=BE=D0=B4=D0=B0 =D0=B4=D0=BB=D1=8F =D0=B2=D0=
+=B0=D1=88=D0=B5=D0=B3=D0=BE =D1=83=D0=B4=D0=BE=D0=B2=D0=BE=D0=BB=D1=8C=D1=
+=81=D1=82=D0=B2=D0=B8=D1=8F. =D0=9E=D0=B4=D0=B8=D0=BD =D0=B2=D1=85=D0=BE=D0=
+=B4 =E2=80=94 =D0=B2=D0=B0=D0=B3=D0=B8=D0=BD=D0=B0, =D0=B2=D1=8B=D0=BF=D0=
+=BE=D0=BB=D0=BD=D0=B5=D0=BD =D0=B2 =D0=BC=D0=B0=D0=BA=D1=81=D0=B8=D0=BC=D0=
+=B0=D0=BB=D1=8C=D0=BD=D0=BE =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D1=81=D1=82=D0=
+=B8=D1=87=D0=BD=D0=BE=D0=BC =D0=B4=D0=B8=D0=B7=D0=B0=D0=B9=D0=BD=D0=B5 =D0=
+=B8 =D1=82=D0=BE=D1=87=D0=BD=D0=BE =D0=BF=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D1=
+=8F=D0=B5=D1=82 =D0=B0=D0=BD=D0=B0=D1=82=D0=BE=D0=BC=D0=B8=D1=8E =D0=B2=D1=
+=83=D0=BB=D1=8C=D0=B2=D1=8B, =D0=B4=D0=B0=D1=80=D1=8F =D0=BE=D1=89=D1=83=D1=
+=89=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B0=D1=81=D1=82=D0=BE=D1=8F=D1=89=D0=
+=B5=D0=B3=D0=BE =D0=BA=D0=BE=D0=BD=D1=82=D0=B0=D0=BA=D1=82=D0=B0. =D0=92=D1=
+=82=D0=BE=D1=80=D0=BE=D0=B9 =E2=80=94 =D0=B0=D0=BD=D1=83=D1=81, =D0=BA=D0=
+=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D1=82=D0=
+=B5=D1=81=D0=BD=D1=8B=D0=B9 =D0=B8 =D1=83=D1=81=D0=B8=D0=BB=D0=B8=D0=B2=D0=
+=B0=D0=B5=D1=82 =D1=81=D1=82=D0=B8=D0=BC=D1=83=D0=BB=D1=8F=D1=86=D0=B8=D1=
+=8E, =D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D1=8F =D0=BA =D0=BF=
+=D0=B8=D0=BA=D1=83 =D0=B1=D0=BB=D0=B0=D0=B6=D0=B5=D0=BD=D1=81=D1=82=D0=B2=
+=D0=B0.       </div>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-top: 20px;" clas=
+s=3D"em-mob-text_align-center">
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"260" class=3D"em-mob-table_align-center">
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"middle" hei=
+ght=3D"40" style=3D"background-color: #2d2d2d; border-radius: 5px; height: =
+40px;" bgcolor=3D"#2D2D2D">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_l=
+ink_tracker?hash=3D6c349a3i9dtrtcrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1iqca=
+ko9hagyo4j95twoiep6emj4pocr5eyxsy6yeoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM=
+6Ly92c2V4c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy84MTExMC0lRDAlQkYlRDAlQkUlRDAlQkYlRD=
+AlQkElRDAlQjAtJUQwJUJDJUQwJUIwJUQxJTgxJUQxJTgyJUQxJTgzJUQxJTgwJUQwJUIxJUQwJ=
+UIwJUQxJTgyJUQwJUJFJUQxJTgwLSVEMSU4MSVEMCVCOCVEMCVCQiVEMCVCQiVEMCVCOC0lRDAl=
+QkMlRDAlQjglRDAlQkQlRDAlQjg_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmR=
+lciZ1dG1fY2FtcGFpZ249MzQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3Dc79c3e62b2ffe93a=
+0609eb8109cc0c8d" target=3D"_blank" style=3D"display: block; height: 40px; =
+font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 14px;=
+ line-height: 40px; text-decoration: none; white-space: nowrap;" class=3D"e=
+m-font-PTSansNarrow-Bold"><strong style=3D"font-weight: 600;">=D0=9A=D1=83=
+=D0=BF=D0=B8=D1=82=D1=8C</strong></a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr></table>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr></table>
+=09=09=09=09</td>
+      </tr></table>
+  </td>
+</tr><tr em=3D"block" class=3D"em-structure">
+  <td align=3D"center" style=3D"padding: 10px 40px;" bgcolor=3D"#FFFFFF" cl=
+ass=3D"em-mob-padding_left-20 em-mob-padding_right-20">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob=
+-width-100perc">
+      <tr>
+        <td width=3D"280" align=3D"center" valign=3D"top" class=3D"em-mob-w=
+rap em-mob-width-100perc" style=3D"background-color: #F8F8F8; border-radius=
+: 10px; padding: 10px 0;">
+=09=09=09=09=09<table width=3D"93%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"em-mob-width-91perc">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td align=3D"left"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-to=
+p: 9px; padding-bottom: 5px;" class=3D"em-mob-text_align-center" align=3D"c=
+enter">
+=09=09=09=09=09=09=09=09=09<a href=3D"" target=3D"_blank" style=3D"font-fam=
+ily: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 23px; colo=
+r: #333333; text-decoration: none;" class=3D"em-font-PTSansNarrow-Bold">=D0=
+=92=D0=B8=D0=B1=D1=80=D0=BE=D0=BC=D0=B0=D1=81=D1=81=D0=B0=D0=B6=D0=B5=D1=80=
+ Mini Emma Neo</a>
+=09=09=09=09=09=09=09=09</td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-=
+top: 10px;">
+=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_link_track=
+er?hash=3D6sgrw5oi8akafarcri4cpqmy6i5rxip74szjegpihcq44ozy9ue16393kzmc68nyq=
+cfyjdxmnhicx36786dgwx4toaceoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM6Ly92c2V4=
+c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjM0MzItJUQwJUIyJUQwJUI4JUQwJUIxJUQxJTgwJUQ=
+wJUJFJUQwJUJDJUQwJUIwJUQxJTgxJUQxJTgxJUQwJUIwJUQwJUI2JUQwJUI1JUQxJTgwLW1pbm=
+ktZW1tYS1uZW8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmRlciZ1dG1fY2Ftc=
+GFpZ249MzQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3Dbfb24049494c5904253b69238995a9=
+95" target=3D"_blank"><img src=3D"https://img.hiteml.com/en/v5/user-files?u=
+serId=3D5892162&resource=3Dhimg&disposition=3Dinline&name=3D61g3y7bpsr8rts5=
+m4jos5ms4gdsxt4efx51p9sikgrnh6yiif831jzhg4jyqekeru4exizodf8qt6oxz6c8bbc7gdj=
+bz87jjzrbni46nddrhrauyzcchyfqwdieji1i6fq69ag6nhr1kz5scjnnfqm38dbc" width=3D=
+"260" border=3D"0" alt=3D"=D0=92=D0=B8=D0=B1=D1=80=D0=BE=D0=BC=D0=B0=D1=81=
+=D1=81=D0=B0=D0=B6=D0=B5=D1=80 Mini Emma Neo" style=3D"display: inline-bloc=
+k; width: 100%; max-width: 260px; border-radius: 5px;" class=3D"em-mob-widt=
+h-100perc"></a>
+=09=09=09=09=09=09=09=09</td></tr></table></td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" height=3D"120" style=
+=3D"height: 120px;" class=3D"em-mob-height-auto">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-bottom: 5px;">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 14px; line-height: 18px; color: #5a5a5a;" class=3D"em-f=
+ont-PTSansNarrow-Regular">Mini Emma Neo =E2=80=94 =D1=8D=D1=82=D0=BE =D0=B2=
+=D0=B0=D1=88 =D0=BD=D0=BE=D0=B2=D1=8B=D0=B9 =D0=B8=D0=BD=D1=82=D0=B8=D0=BC=
+=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D1=83=D1=82=D0=BD=D0=B8=D0=BA, =D0=BA=D0=BE=
+=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D1=81=D0=BE=D1=87=D0=B5=D1=82=D0=B0=D0=B5=
+=D1=82 =D0=B2 =D1=81=D0=B5=D0=B1=D0=B5 =D1=8D=D0=BB=D0=B5=D0=B3=D0=B0=D0=BD=
+=D1=82=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=B8 =D0=BC=D0=BE=D1=89=D1=8C. =D0=
+=AD=D1=82=D0=BE=D1=82 =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BA=D1=82=D0=BD=D1=
+=8B=D0=B9 =D0=B2=D0=B8=D0=B1=D1=80=D0=B0=D1=82=D0=BE=D1=80 =D0=BE=D1=82 Sva=
+kom =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD =D0=B4=D0=BB=D1=8F =D1=82=D0=B5=D1=
+=85, =D0=BA=D1=82=D0=BE =D1=86=D0=B5=D0=BD=D0=B8=D1=82 =D1=83=D0=B4=D0=BE=
+=D0=B2=D0=BE=D0=BB=D1=8C=D1=81=D1=82=D0=B2=D0=B8=D0=B5 =D0=B2 =D0=BB=D1=8E=
+=D0=B1=D0=BE=D0=B9 =D0=BE=D0=B1=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=
+=D0=B5 =E2=80=94 =D0=B1=D1=83=D0=B4=D1=8C =D1=82=D0=BE =D1=83=D1=8E=D1=82 =
+=D0=B2=D0=B0=D1=88=D0=B5=D0=B3=D0=BE =D0=B4=D0=BE=D0=BC=D0=B0, =D0=B7=D0=B0=
+=D1=85=D0=B2=D0=B0=D1=82=D1=8B=D0=B2=D0=B0=D1=8E=D1=89=D0=B5=D0=B5 =D0=BF=
+=D1=83=D1=82=D0=B5=D1=88=D0=B5=D1=81=D1=82=D0=B2=D0=B8=D0=B5 =D0=B8=D0=BB=
+=D0=B8 =D1=81=D1=82=D1=80=D0=B0=D1=81=D1=82=D0=BD=D0=B0=D1=8F =D0=BD=D0=BE=
+=D1=87=D1=8C =D1=81 =D0=BF=D0=B0=D1=80=D1=82=D0=BD=D0=B5=D1=80=D0=BE=D0=BC.=
+ =D0=A1 Mini Emma Neo =D0=B2=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=
+=B5=D1=82=D0=B5 =D0=BD=D0=B5 =D0=BF=D1=80=D0=BE=D1=81=D1=82=D0=BE =D0=B2=D0=
+=B8=D0=B1=D1=80=D0=B0=D1=82=D0=BE=D1=80, =D0=B0 =D0=BD=D0=B0=D1=81=D1=82=D0=
+=BE=D1=8F=D1=89=D1=83=D1=8E =D1=81=D0=B8=D0=BC=D1=84=D0=BE=D0=BD=D0=B8=D1=
+=8E =D0=BE=D1=89=D1=83=D1=89=D0=B5=D0=BD=D0=B8=D0=B9.    <br> </div>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-top: 20px;" clas=
+s=3D"em-mob-text_align-center">
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"260" class=3D"em-mob-table_align-center">
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"middle" hei=
+ght=3D"40" style=3D"background-color: #2d2d2d; border-radius: 5px; height: =
+40px;" bgcolor=3D"#2D2D2D">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_l=
+ink_tracker?hash=3D6wot95kqps1rtkrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue177hr=
+aj8i4wbkscfyjdxmnhicx36786dgwx4toaceoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM=
+6Ly92c2V4c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy8xMjM0MzItJUQwJUIyJUQwJUI4JUQwJUIxJU=
+QxJTgwJUQwJUJFJUQwJUJDJUQwJUIwJUQxJTgxJUQxJTgxJUQwJUIwJUQwJUI2JUQwJUI1JUQxJ=
+TgwLW1pbmktZW1tYS1uZW8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmRlciZ1=
+dG1fY2FtcGFpZ249MzQ5MTM5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3Dbfb24049494c5904253b6=
+9238995a995" target=3D"_blank" style=3D"display: block; height: 40px; font-=
+family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 14px; line=
+-height: 40px; text-decoration: none; white-space: nowrap;" class=3D"em-fon=
+t-PTSansNarrow-Bold">=D0=9A=D1=83=D0=BF=D0=B8=D1=82=D1=8C</a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr></table>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr></table>
+=09=09=09=09</td>
+        <td width=3D"20" class=3D"em-mob-wrap em-mob-height-20px">&nbsp;</t=
+d>
+        <td width=3D"280" align=3D"center" valign=3D"top" class=3D"em-mob-w=
+rap em-mob-width-100perc" style=3D"background-color: #F8F8F8; border-radius=
+: 10px; padding: 10px 0;">
+=09=09=09=09=09<table width=3D"93%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"em-mob-width-91perc">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td align=3D"left"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-to=
+p: 11px; padding-bottom: 5px;" class=3D"em-mob-text_align-center" align=3D"=
+center">
+=09=09=09=09=09=09=09=09<a style=3D"font-family: Helvetica, Arial, sans-ser=
+if; font-size: 18px; line-height: 23px; color: #333333; text-decoration: no=
+ne;" class=3D"em-font-PTSansNarrow-Bold" href=3D"" target=3D"_blank">=D0=90=
+=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D1=80=D0=BE=D0=B1=D0=BA=
+=D0=B0 "Gplug XS"</a></td></tr></table><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-top=
+: 10px;">
+=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_link_track=
+er?hash=3D615p48bs5dg99orcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1at5xpunx34d6s=
+quh794776e76iranwhou5w98xaeoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM6Ly92c2V4=
+c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy85OTg0My0lRDAlQjAlRDAlQkQlRDAlQjAlRDAlQkIlRDE=
+lOEMlRDAlQkQlRDAlQjAlRDElOEYtJUQwJUJGJUQxJTgwJUQwJUJFJUQwJUIxJUQwJUJBJUQwJU=
+IwLWdwbHVnLXhzP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXImdXRtX2Nhb=
+XBhaWduPTM0OTEzOTg2Mg~~&uid=3DNTg5MjE2Mg~~&ucs=3Df31db00804f9a61527cbcacad1=
+cda8ab" target=3D"_blank"><img src=3D"https://img.hiteml.com/en/v5/user-fil=
+es?userId=3D5892162&resource=3Dhimg&disposition=3Dinline&name=3D6ia3u8wtr96=
+jes5m4jos5ms4gdsxt4efx51p9sikgrnh6yiif831jzhg4jyqekeru8q4mhbuyefycarkgt6uz7=
+9wqeuphkptpwrcnajk4zgbcukdj3q4ypugcx149gczqq69ag6nhr1kz4bgcxsyft5uwkc" widt=
+h=3D"260" border=3D"0" alt=3D"=D0=90=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=
+=8F =D0=BF=D1=80=D0=BE=D0=B1=D0=BA=D0=B0 'Gplug XS'" style=3D"display: inli=
+ne-block; width: 100%; max-width: 260px; border-radius: 5px;" class=3D"em-m=
+ob-width-100perc"></a>
+=09=09=09=09=09=09=09=09</td></tr></table></td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" height=3D"120" style=
+=3D"height: 120px;" class=3D"em-mob-height-auto">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-bottom: 6px;">
+=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica, Arial, san=
+s-serif; font-size: 14px; line-height: 18px; color: #5a5a5a;" class=3D"em-f=
+ont-PTSansNarrow-Regular">"Gplug XS" =E2=80=94 =D1=81=D0=B0=D0=BC=D0=B0=D1=
+=8F =D0=BC=D0=B0=D0=BB=D0=B5=D0=BD=D1=8C=D0=BA=D0=B0=D1=8F =D0=B0=D0=BD=D0=
+=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BF=D1=80=D0=BE=D0=B1=D0=BA=D0=B0, =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D0=B8=D0=B4=D0=B5=D0=B0=D0=BB=D1=
+=8C=D0=BD=D0=BE =D0=BF=D0=BE=D0=B4=D0=BE=D0=B9=D0=B4=D0=B5=D1=82 =D0=B4=D0=
+=BB=D1=8F =D0=BD=D0=BE=D0=B2=D0=B8=D1=87=D0=BA=D0=BE=D0=B2. =D0=9D=D0=B5=D0=
+=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=BE=D0=B9 =D1=80=D0=B0=D0=B7=D0=BC=D0=B5=D1=
+=80 =D0=B8 =D0=BA=D0=BE=D0=BD=D1=83=D1=81=D0=BE=D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B7=D0=BD=D0=B0=D1=8F =D1=84=D0=BE=D1=80=D0=BC=D0=B0 =D1=81 =D0=B7=D0=B0=D1=
+=83=D0=B6=D0=B5=D0=BD=D0=BD=D1=8B=D0=BC =D0=BA=D0=BE=D0=BD=D1=87=D0=B8=D0=
+=BA=D0=BE=D0=BC =D0=BE=D0=B1=D0=B5=D1=81=D0=BF=D0=B5=D1=87=D0=B0=D1=82 =D0=
+=BA=D0=BE=D0=BC=D1=84=D0=BE=D1=80=D1=82=D0=BD=D0=BE=D0=B5 =D0=B8 =D0=BB=D0=
+=B5=D0=B3=D0=BA=D0=BE=D0=B5 =D0=B2=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D0=
+=B5, =D0=B0 =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B8=D1=82=D0=B5=D0=
+=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D0=B5 =E2=80=94 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=B0=D1=81=D0=BD=D0=BE=
+=D0=B5 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=
+=D0=B8=D0=B5. =D0=90=D0=BD=D0=B0=D1=82=D0=BE=D0=BC=D0=B8=D1=87=D0=B5=D1=81=
+=D0=BA=D0=B0=D1=8F =D1=84=D0=BE=D1=80=D0=BC=D0=B0 =D0=BE=D1=81=D0=BD=D0=BE=
+=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=82=D0=B0=D0=BA=D0=B6=D0=B5 =D0=BF=D0=BE=
+=D0=B7=D0=B2=D0=BE=D0=BB=D0=B8=D1=82 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=
+=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BF=D1=80=D0=BE=D0=B1=D0=BA=D1=83 =
+=D0=B4=D0=BB=D1=8F =D0=BD=D0=BE=D1=88=D0=B5=D0=BD=D0=B8=D1=8F.        </div=
+>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr><tr>
+=09=09=09=09=09=09=09<td align=3D"left">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%" em=3D"atom"><tr><td style=3D"padding-top: 20px;" clas=
+s=3D"em-mob-text_align-center">
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"260" class=3D"em-mob-table_align-center">
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"middle" hei=
+ght=3D"40" style=3D"background-color: #2d2d2d; border-radius: 5px; height: =
+40px;" bgcolor=3D"#2D2D2D">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/mail_l=
+ink_tracker?hash=3D6jsfe9d5nkntrercri4cpqmy6i5rxip74szjegpihcq44ozy9ue1zee4=
+4xz6aydbpquh794776e76iranwhou5w98xaeoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM=
+6Ly92c2V4c2hvcC5ydS9zdG9yZS9wcm9kdWN0cy85OTg0My0lRDAlQjAlRDAlQkQlRDAlQjAlRD=
+AlQkIlRDElOEMlRDAlQkQlRDAlQjAlRDElOEYtJUQwJUJGJUQxJTgwJUQwJUJFJUQwJUIxJUQwJ=
+UJBJUQwJUIwLWdwbHVnLXhzP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXIm=
+dXRtX2NhbXBhaWduPTM0OTEzOTg2Mg~~&uid=3DNTg5MjE2Mg~~&ucs=3Df31db00804f9a6152=
+7cbcacad1cda8ab" target=3D"_blank" style=3D"display: block; height: 40px; f=
+ont-family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 14px; =
+line-height: 40px; text-decoration: none; white-space: nowrap;" class=3D"em=
+-font-PTSansNarrow-Bold"><strong style=3D"font-weight: 600;">=D0=9A=D1=83=
+=D0=BF=D0=B8=D1=82=D1=8C</strong></a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr></table>
+=09=09=09=09=09=09=09=09</td></tr></table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr></table>
+=09=09=09=09</td>
+      </tr></table>
+  </td>
+</tr><tr em=3D"block" class=3D"em-structure">
+=09=09=09=09=09=09<td align=3D"center" style=3D"padding: 20px 40px; backgro=
+und-color: #f2f3f5;" bgcolor=3D"#F2F3F5" class=3D"em-mob-padding_top-25 em-=
+mob-padding_right-20 em-mob-padding_bottom-25 em-mob-padding_left-20">
+=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" class=3D"em-mob-width-100perc">
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td width=3D"580" class=3D"em-mob-wrap em-mob-wr=
+ap-cancel em-mob-width-auto">
+=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" em=3D"atom">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"padding-b=
+ottom: 10px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://img.hiteml.com/e=
+n/v5/user-files?userId=3D5892162&resource=3Dhimg&disposition=3Dinline&name=
+=3D6fwskoird95fen5m4jos5ms4gdsxt4efx51p9sikgrnh6yiif831jzhg4jyqekerupp34b6g=
+eh757aq5om7d9kfap7ejafgpgqrm8mwcg9f6qahdyiosd5atbrzzudqfssztauo8hpt9ksqnpxz=
+hcfteh1y" width=3D"100" border=3D"0" alt=3D"" style=3D"display: block; widt=
+h: 100%; max-width: 100px;">
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" em=
+=3D"atom"><tr><td align=3D"center" style=3D"padding-top: 20px; padding-bott=
+om: 20px;">
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tr><td width=3D"40" align=3D"center">
+        <a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D66hdta6eb=
+edbcarcri4cpqmy6i5rxip74szjegpihcq44ozy9ue14jqy6roeqmzzdbfutoce6okdif7kbkag=
+cept74heoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM6Ly90Lm1lL3ZzZXhzaG9wP3V0bV9=
+tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXImdXRtX2NhbXBhaWduPTM0OTEzOTg2Mg=
+~~&uid=3DNTg5MjE2Mg~~&ucs=3Da4281dcb424847c463ef0c7c56341edb" target=3D"_bl=
+ank"><img src=3D"https://imgems.ru/emailmaker/techsalerlight/tg-2.png" widt=
+h=3D"30" border=3D"0" alt=3D"" style=3D"display: block;"></a>
+      </td><td width=3D"40" align=3D"center">
+        <a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D6a81azajm=
+so8gercri4cpqmy6i5rxip74szjegpihcq44ozy9ue15kk5we7daph9a4bk1dsh13y6a5j87bp7=
+h9z7ikreoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM6Ly92ay5jb20vdnNleHNob3BfcnU=
+_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPVVuaXNlbmRlciZ1dG1fY2FtcGFpZ249MzQ5MT=
+M5ODYy&uid=3DNTg5MjE2Mg~~&ucs=3D0602105ec321bc23c46a0381c4f8d9b4" target=3D=
+"_blank"><img src=3D"https://imgems.ru/emailmaker/techsalerlight/vk-2.png" =
+width=3D"30" border=3D"0" alt=3D"" style=3D"display: block;"></a>
+      </td><td width=3D"40" align=3D"center">
+        <a href=3D"https://geteml.com/ru/mail_link_tracker?hash=3D66qja9brx=
+55wtgrcri4cpqmy6i5rxip74szjegpihcq44ozy9ue1unwca6h7ryqoa3bqzwx6exiatdranwho=
+u5w98xaeoyt57qaqhk4msgwfhi5f7g7ay&url=3DaHR0cHM6Ly9pbnN0YWdyYW0uY29tL3ZzZXh=
+zaG9wP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXImdXRtX2NhbXBhaWduPT=
+M0OTEzOTg2Mg~~&uid=3DNTg5MjE2Mg~~&ucs=3D7398bd4077190ab0690f6f1d2ee2d4a3" t=
+arget=3D"_blank"><img src=3D"https://imgems.ru/emailmaker/techsalerlight/ig=
+-2.png" width=3D"30" border=3D"0" alt=3D"" style=3D"display: block;"></a>
+      </td></tr>
+  </table>
+</td></tr></table>
+=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" em=3D"atom" class=3D"null">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-bottom: 30px; padd=
+ing-top: 5px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-family: Helvetica=
+, Arial, sans-serif; font-size: 8px; line-height: 12px; color: #402e32;" cl=
+ass=3D"em-mob-text_align-center em-font-PTSansNarrow-Regular" align=3D"cent=
+er">=D0=9E=D0=B1=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D0=BC =D0=B2=D0=B0=D1=88=D0=
+=B5 =D0=B2=D0=BD=D0=B8=D0=BC=D0=B0=D0=BD=D0=B8=D0=B5, =D1=87=D1=82=D0=BE =
+=D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE =D0=BD=D0=B5 =D0=BF=
+=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D1=81=
+=D0=BE=D0=B1=D0=BE=D0=B9 =D1=8E=D1=80=D0=B8=D0=B4=D0=B8=D1=87=D0=B5=D1=81=
+=D0=BA=D0=B8 =D0=BE=D0=B1=D1=8F=D0=B7=D1=8B=D0=B2=D0=B0=D1=8E=D1=89=D1=83=
+=D1=8E =D0=BE=D1=84=D0=B5=D1=80=D1=82=D1=83. =D0=A2=D0=B5=D0=BA=D1=83=D1=89=
+=D0=B8=D0=B5 =D1=86=D0=B5=D0=BD=D1=8B =D0=BD=D0=B0 =D1=82=D0=BE=D0=B2=D0=B0=
+=D1=80=D1=8B =D0=B2=D1=8B =D0=B2=D1=81=D0=B5=D0=B3=D0=B4=D0=B0 =D0=BC=D0=BE=
+=D0=B6=D0=B5=D1=82=D0=B5 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=
+=D1=8C =D0=BD=D0=B5=D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B2=
+=D0=B5=D0=BD=D0=BD=D0=BE =D0=BD=D0=B0 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=
+=D1=86=D0=B0=D1=85 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=
+=D0=B2=D1=83=D1=8E=D1=89=D0=B8=D1=85 =D1=82=D0=BE=D0=B2=D0=B0=D1=80=D0=BE=
+=D0=B2.&nbsp;&nbsp;=D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=
+=D0=B8 =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=
+=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =D1=87=D1=82=
+=D0=BE =D0=B2 =D0=BF=D1=80=D0=BE=D1=88=D0=BB=D0=BE=D0=BC =D0=BF=D0=BE=D0=B4=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0 =D0=BD=D0=B0=
+=D1=88=D1=83 =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83 =D0=B8=D0=BB=
+=D0=B8 =D1=81=D0=BE=D0=B2=D0=B5=D1=80=D1=88=D0=B0=D0=BB=D0=B8 =D0=BF=D0=BE=
+=D0=BA=D1=83=D0=BF=D0=BA=D0=B8 =D0=B2 =D0=BC=D0=B0=D0=B3=D0=B0=D0=B7=D0=B8=
+=D0=BD=D0=B5 Vsexshop.ru. =D0=92 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5, =D0=
+=B5=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=B6=D0=B5=D0=BB=D0=B0=D0=B5=D1=82=D0=
+=B5 =D0=BF=D1=80=D0=B5=D0=BA=D1=80=D0=B0=D1=82=D0=B8=D1=82=D1=8C =D0=BF=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B0=D1=88=D0=B8=D1=
+=85 =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9 =D0=
+=BE =D1=81=D0=BF=D0=B5=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=
+=BF=D1=80=D0=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F=D1=85, =D0=
+=B0=D0=BA=D1=86=D0=B8=D1=8F=D1=85 =D0=B8 =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=
+=B0=D1=85, =D0=BF=D0=BE=D0=B6=D0=B0=D0=BB=D1=83=D0=B9=D1=81=D1=82=D0=B0, =
+=D0=B2=D0=BE=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B9=D1=82=D0=B5=D1=
+=81=D1=8C =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=B5=D0=B9 =D0=BE=D1=82=D0=
+=BF=D0=B8=D1=81=D0=BA=D0=B8, =D0=BA=D0=BD=D0=BE=D0=BF=D0=BA=D0=B0 =D0=BA=D0=
+=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B9 =D1=80=D0=B0=D1=81=D0=BF=D0=BE=D0=BB=D0=
+=BE=D0=B6=D0=B5=D0=BD=D0=B0 =D0=B2 =D0=BA=D0=BE=D0=BD=D1=86=D0=B5 =D0=B4=D0=
+=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=
+=BD=D0=B8=D1=8F.<br><br>
+125124, =D0=B3. =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0, =D1=83=D0=BB. =D0=9F=
+=D1=80=D0=B0=D0=B2=D0=B4=D1=8B, 24 =D1=81=D1=82=D1=80. 2, =D0=BC=D0=B0=D0=
+=B3=D0=B0=D0=B7=D0=B8=D0=BD Vsexshop.ru. =D0=95=D1=81=D0=BB=D0=B8 =D1=83 =
+=D0=B2=D0=B0=D1=81 =D0=B2=D0=BE=D0=B7=D0=BD=D0=B8=D0=BA=D0=BD=D1=83=D1=82 =
+=D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=8B =D0=B8=D0=BB=D0=B8 =D0=BF=D0=BE=
+=D0=B6=D0=B5=D0=BB=D0=B0=D0=BD=D0=B8=D1=8F, =D0=BF=D0=BE=D0=B6=D0=B0=D0=BB=
+=D1=83=D0=B9=D1=81=D1=82=D0=B0, =D0=BD=D0=B5 =D1=81=D1=82=D0=B5=D1=81=D0=BD=
+=D1=8F=D0=B9=D1=82=D0=B5=D1=81=D1=8C =D0=BE=D0=B1=D1=80=D0=B0=D1=89=D0=B0=
+=D1=82=D1=8C=D1=81=D1=8F =D0=BA =D0=BD=D0=B0=D0=BC =D1=87=D0=B5=D1=80=D0=B5=
+=D0=B7 vsexshop@gmail.com =D0=B8=D0=BB=D0=B8 =D0=BF=D0=BE =D1=82=D0=B5=D0=
+=BB=D0=B5=D1=84=D0=BE=D0=BD=D1=83 88001007655. =D0=9F=D1=80=D0=B8=D0=BC=D0=
+=B8=D1=82=D0=B5 =D0=B2=D0=BE =D0=B2=D0=BD=D0=B8=D0=BC=D0=B0=D0=BD=D0=B8=D0=
+=B5, =D1=87=D1=82=D0=BE =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=
+=D0=BE =D0=B1=D1=8B=D0=BB=D0=BE =D1=81=D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BE =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=
+=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D0=BF=D0=BE=D1=8D=D1=82=D0=BE=
+=D0=BC=D1=83 =D0=BC=D1=8B =D0=BF=D1=80=D0=BE=D1=81=D0=B8=D0=BC =D0=BD=D0=B5=
+ =D0=BE=D1=82=D0=B2=D0=B5=D1=87=D0=B0=D1=82=D1=8C =D0=BD=D0=B0 =D0=BD=D0=B5=
+=D0=B3=D0=BE.
+=D0=A1 =D0=BB=D1=8E=D0=B1=D0=BE=D0=B2=D1=8C=D1=8E, =D0=92=D0=B0=D1=88 Vsexs=
+hop.ru=C2=AE 2025</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"100%" em=3D"atom">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-bottom: 10px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://geteml.com/ru/uns=
+ubscribe?hash=3D6w443mf3ng4wbk1yc4uumkhf5jmrxip74szjegpihcq44ozy9ue177t9w5k=
+prywgz1hm73u453yu1q#no_tracking" target=3D"_blank" style=3D"color: #41283d;=
+ text-decoration:  underline;" new=3D"true"><div style=3D"font-family: Helv=
+etica, Arial, sans-serif; font-size: 12px; line-height: 21px; color: #402e3=
+2;" align=3D"center" class=3D"em-font-PTSansNarrow-Regular"><u>=D0=9E=D1=82=
+=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BE=D1=82 =D1=80=D0=B0=
+=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8</u></div></a>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr></table>
+=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+=09=09=09=09</td></tr></table>
+=09=09=09=09<![endif]-->
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+<center><table><tr><td><img src=3D"https://geteml.com/ru/mail_read_tracker/=
+5892162?hash=3D61urtxa9jbyd74t5onsyooztso8rxip74szjegpihcq44ozy9ue1hfgy9tcu=
+b1wwqo9n3ym7gpfh8s7tibxfq3xjzqy" width=3D"1" height=3D"1" alt=3D"" title=3D=
+"" border=3D"0"></td></tr></table></center></body>
+</html>
+------=_Part_3786443_74165447.1750066497191--
+
+--MXVSNkV6LTNZc2c4SS1PVA==--

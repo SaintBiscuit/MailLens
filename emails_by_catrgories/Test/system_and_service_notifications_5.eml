@@ -1,0 +1,72 @@
+Return-Path: <fulcor.ceresa@bluewin.ch>
+Delivered-To: alexander.simone@fulcor.com
+Received: from sh14.ticino.com
+	by sh14.ticino.com with LMTP
+	id m1GLJaLvG2mIHhgAcn4BLw
+	(envelope-from <fulcor.ceresa@bluewin.ch>)
+	for <alexander.simone@fulcor.com>; Tue, 18 Nov 2025 05:01:38 +0100
+Return-path: <fulcor.ceresa@bluewin.ch>
+Envelope-to: alexander.simone@fulcor.com
+Delivery-date: Tue, 18 Nov 2025 05:01:38 +0100
+Received: from mailout-006.p.bluenet.ch ([138.188.174.11]:42712)
+	by sh14.ticino.com with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.98.2)
+	(envelope-from <fulcor.ceresa@bluewin.ch>)
+	id 1vLCuR-00000006d87-0GdT
+	for alexander.simone@fulcor.com;
+	Tue, 18 Nov 2025 05:01:38 +0100
+Received: from SRV-TERM ([31.44.39.162])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 128/128 bits)
+	(Client did not present a certificate)
+	by mailout-006.p.bluenet.ch Swisscom AG with ESMTPSA
+	id LCtkvH3PwnoRtLCtlvdyt3; Tue, 18 Nov 2025 04:00:57 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bluewin.ch;
+	s=fxzs-2048-20230414; t=1763438457;
+	bh=Ex7ldztyKE57bblylfL0RgJxqaR/Q42h6vqUGmYCaW0=;
+	h=MIME-Version:From:To:Date:Subject;
+	b=NQh5ytBulu+9dHMv//l0VlvhNLeO+3QyJc7GUItevwismtRIEf0Rv5Nb25GJrs7cQ
+	 VQZ5QYwUb/KrXsewcmHHXqMZucjPyrFY1sMTmZcNInpsiVcbXtmI+mG9cDx/fkItpp
+	 DFnonPf7E1KyDUYZ155RZENGRorzt/OWRPBElUgpQ20jcNUWzc6PGSiOFPzWTFWHne
+	 Nbm8gKWCHzQ3veCCyMQZc7p2eJU+z+uXtDYlEe3WbTZqnxUqylaM8d0MPoZIyHxyvo
+	 KMQo91tJ3JH/ic0elOFqKo0Ch6VuOMqG8Lz4onIrpfyw9QKh0fLRYzoWFTjLEOnl/V
+	 LUvz3q4Q9ZAyw==
+X-Bluewin-Spam-Analysis: v=2.4 cv=UdyaS7SN c=1 sm=1 tr=0 ts=691bef79
+ a=nxJ2ZzNw2COwf+UmR03MBg==:117 a=nxJ2ZzNw2COwf+UmR03MBg==:17
+ a=HpEJnUlJZJkA:10 a=kj9zAlcOel0A:10 a=zxKmtwfxAAAA:8 a=LjVu0PCJp3wnxNyziskA:9
+ a=lqcHg5cX4UMA:10 a=CjuIK1q_8ugA:10 a=3lJ2ESPOndIA:10 a=DVKqRkKJf1IA:10
+ a=yCfveMbyeJFO9vqPTicB:22 a=NWVoK91CQySWRX1oVYDe:22 a=-yJI40fZEQqu2P3Or2-7:22
+X-Bluewin-Spam-Score: 0.00
+X-Originating-IP: 31.44.39.162
+MIME-Version: 1.0
+From: "Planet TS" <fulcor.ceresa@bluewin.ch>
+To: alexander.simone@fulcor.com
+Date: 18 Nov 2025 05:00:57 +0100
+Subject: Richiesta Straordinario Claudio Ghidini 
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-CMAE-Envelope: MS4xfCg7wMpF+FYkb7pwr75nGjCAq1pMa+MCO0TP9EBLToZb7ACxyL99AUkLs26Q0iPo2UVYBo9hrWQSpm1rA4S1Iu/q6Vymx7/AiHuVKrnNjNK8tJU9biFE
+ NPq1eB1ArSOw6aDeQ1aytvPiAUg5V8D8mBe/RnzoX+yh9uc1CVIoe3/C7e4SYjmTHHKzeTHLQBB99w==
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: =?ISO-8859-1?Q?Spam_detection_software=2C_running_on_the_system_=22sh14=2Eticino=2Ec?=
+	=?ISO-8859-1?Q?om=22=2C=0A_has_NOT_identified_this_incoming_email_as?=
+	=?ISO-8859-1?Q?_spam=2E__The_original=0A_message_has_been_attached_t?=
+	=?ISO-8859-1?Q?o_this_so_you_can_view_it_or_label=0A_similar_future_?=
+	=?ISO-8859-1?Q?email=2E__If_you_have_any_questions=2C_see=0A_root=5C=40?=
+	=?ISO-8859-1?Q?localhost_for_details=2E=0A_Content_preview=3A__Richi?=
+	=?ISO-8859-1?Q?esta_Straordinario_Dipendente=3A_Claudio_Ghidini_Data?=
+	=?ISO-8859-1?Q?=3A=0A___17=2E11=2E2025_Totale_richiesto=3A_24=3A00_N?=
+	=?ISO-8859-1?Q?ote=3A_https=3A//31=2E44=2E39=2E162/myPlanet=3Fp1=3D8?=
+	=?ISO-8859-1?Q?7758f16a0830758880888a997d972d6&p2=3D8bcca363c41b9779?=
+	=?ISO-8859-1?Q?d990ebfb1c8970d6=0A____=5B=2E=2E=2E=5D_=0A_Content_an?=
+	=?ISO-8859-1?Q?alysis_details=3A___=28-0=2E2_points=2C_5=2E0_require?=
+	=?ISO-8859-1?Q?d=29=0A__pts_rule_name______________description=0A_--?=
+	=?ISO-8859-1?Q?--_-----------
+X-Spam-Flag: NO
+
+Richiesta Straordinario=0D=0ADipendente: Claudio Ghidini =0D=0ADa=
+ta: 17.11.2025=0D=0ATotale richiesto: 24:00=0D=0ANote: =0D=0Ahttp=
+s://31.44.39.162/myPlanet?p1=3D87758f16a0830758880888a997d972d6&p=
+2=3D8bcca363c41b9779d990ebfb1c8970d6&p3=3D1
+

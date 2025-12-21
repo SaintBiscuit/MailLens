@@ -1,0 +1,1512 @@
+Return-Path: <bounce-cn1-ZH_CNN_i_News_NDBAN11152025c494984b1475-h-da449133ce=2@newsletters.cnn.com>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from cnn2news-86-1.bm16.maas.zetaglobal.net (cnn2news-86-1.bm16.maas.zetaglobal.net [96.47.26.93])
+	by mail.collectorshash.su (Postfix) with ESMTP id B48EB20975
+	for <v.p.ankevich@collectorshash.su>; Sat, 15 Nov 2025 03:20:28 +0300 (MSK)
+DKIM-Signature: a=rsa-sha256; bh=pQdUPsIxayGTB44AJs3WkcEXgR1NhMWYoeHAuBLxtoY=;
+ c=relaxed/relaxed; d=fbl.zetaglobal.net;
+ h=DKIM-Signature:X-Mailer-Info:X-Mailer-Info-Extra:Subject:From:To:Date:Received:Message-ID:Reply-to:List-Unsubscribe:Feedback-ID:X-rpcampaign:X-cid:X-messageuid:Precedence:List-Unsubscribe-Post:campaign_token:campaign_id:rcpt_domain:MIME-Version:Content-Type;
+ s=v2; t=1763166026; v=1;
+ b=dmkI9Tz+hpQwToMotSktwko/AmRwipv9q2i2TdIECF7eWm5tEH7LaI1vfGQN+mJ+/fj3Ewzg
+ XYgXdZzZWw9g7z+MLPRWhNuql+fS3TeabYHbQ85Ji5eXIvchlcn79MXswsEA0/+UZvqG0bminkG
+ yFY/G//LYqlka9RtnC89X9C2i6pBjVf9GGlGvYPQEhSHWtRCD9U6iBs+iwfJJhOc8fHfJH3JArp
+ PxnFVpnKlJk3+lPPGougVOkDt5YLd3/xy2witzH9R9xfj5VoXBVEmHwdKplE8qMMKpte8Jd8moY
+ prJfBI2se4nUTRPEuU5ye2+LJzKPlFURZ6WvsdD/t6XSQ==
+DKIM-Signature: a=rsa-sha256; bh=pQdUPsIxayGTB44AJs3WkcEXgR1NhMWYoeHAuBLxtoY=;
+ c=relaxed/relaxed; d=newsletters.cnn.com;
+ h=X-Mailer-Info:X-Mailer-Info-Extra:Subject:From:To:Date:Received:Message-ID:Reply-to:List-Unsubscribe:Feedback-ID:X-rpcampaign:X-cid:X-messageuid:Precedence:List-Unsubscribe-Post:campaign_token:campaign_id:rcpt_domain:MIME-Version:Content-Type;
+ s=v2; t=1763166026; v=1;
+ b=GArAwNkYYvbCFTbQevTNlfOCChJjK8lRkL4sOQDfdlgNog8N4djNi9EdaAw8l667ozrco3r4
+ QORnwaEgdpqEH3AlXdB+HYQ59+rf8cMg9ejjn67j66tQokzxZkB+nZqajjWsP/7fwf8+rIVO5ik
+ yeDP8y66t9rEBvCfuj8ZcOYPcHY/RMuPEvr/ryskuVNtKMaHhCmrP5TARiI8gOaiFc344nXlfWO
+ kowcPt7+m7vI0Y8U2UP9qYcKG+8ufLqUgYC7Lt+v/HGEzxA1kPl5pJlZF6IA7+4JvR+h80dMsJy
+ RprptmB0wmwQoVuj08eNtolghDXReIIsMWK5Oh1WVGbjQ==
+X-Mailer-Info: 10.j5WM.6h2Xj5mbfl2XuV2dz9lbkJWYuFTMxUjMwITNjRTO0kDO0IWM0cTN.2
+ 5CcuEmbrVmdpNGaAN2bsxWZjR3byNHahNHauMXd.wei0WakJiOiEzN2MTM2YDMxETN0UjNyQGOlN
+ TNwYTMhJjIsIyY0JiOiMmbu1SZkR2YzM2M0ATOlZ2Y0YzYyQmYyMDN5YWY3Y2YzQGZi1SM0cTNiw
+ iIyRmI6IyYvxGblNGdvJ3coF2co5yc1JSf..ETMxUjMwITNDRTO0kDO0IUM0cTN..
+X-Mailer-Info-Extra: da449133ce:01cDNxIEN4kDN5QzQ1IDMyUTMxEDApBQfiU3cu
+ g2chh2cy9GdjVGbs92YiojIkJnIsISN3QTMtIGZkNzYmdTYmlDNzIjYkJzY2QzYmVWOwQ
+ zMjNzYkRWZt4mbjJiOiQ3YiwiIyEWM2ATNzUGOkJjN1QTNxEDM2YTMzYzNxIiOiQWatJy
+ eAMGA1NnLoNXYoNncvR3YlxGbvNGQoNWa2V2auFmLw5id++
+Subject: =?UTF-8?Q?In_Case_You_Missed_It_-_Analysis:_Trump=E2=80=99s_boat_strikes_?=
+ =?UTF-8?Q?appear_quite_unpopular,_as_Americans_again_support_due_process?=
+From: CNN <cnn@newsletters.cnn.com>
+To: v.p.ankevich@collectorshash.su
+Date: 15 Nov 2025 00:20:26 -0000
+Received: from 10.100.47.51 by 10.73.0.28 with http; 15 Nov 2025 00:20:26 +0000
+Message-ID: <mid-176316601154562d8e35061a2@newsletters.cnn.com>
+Reply-to: "CNN"<cnn@newsletters.cnn.com>
+List-Unsubscribe: <https://view.newsletters.cnn.com/messages/176316601154562d8e35061a2/unsubscribe>, <mailto:unsubscribe-176316601154562d8e35061a2@newsletters.cnn.com?subject=Unsubscribe>
+Feedback-ID: eddc3c3409efc46c2db2349fa7fc3ddb:cnn:broadcast:bme
+X-rpcampaign: cnn494984_1475
+X-cid: cnn494984_1475
+X-messageuid: 176316601154562d8e35061a2
+Precedence: bulk
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+campaign_token: cnn-eddc3c3409efc46c2db2349fa7fc3ddb-1475
+campaign_id: 494984
+rcpt_domain: collectorshash.su
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==bfa456d2656a96e64abbdf63d6ed2807"
+
+This is a multi-part message in MIME format.
+
+--==bfa456d2656a96e64abbdf63d6ed2807
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+It looks like your email client might not support HTML formatted email.
+
+Try opening this email in another email client.
+
+Or, open the following link to view this email in a browser:
+https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXN=
+oLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkY=
+zNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc=
+2guc3UifQ/UaHR0cHM6Ly92aWV3Lm5ld3NsZXR0ZXJzLmNubi5jb20vbWVzc2FnZXMvMTc2M=
+zE2NjAxMTU0NTYyZDhlMzUwNjFhMi9yYXc/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1=
+YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9zb3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJ=
+dCstK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3Zp=
+ZGpRcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9=
+MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/sfv1e4a2102
+
+------------------------------------------------------------------------=
+-------
+
+We respect your privacy, if this e-mail has been sent to you by error or=
+ you no longer wish to receive email, open the following link in a brows=
+er to unsubscribe:
+https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXN=
+oLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkY=
+zNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc=
+2guc3UifQ/UaHR0cHM6Ly9mb3JtLmNubi5jb20vdW5zdWJzY3JpYmU/SWkhfQ05OX2lfTmV3=
+c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP2VuY2F1PTZZUSUyQkNUZkxkQlZI=
+aDdVR2R2aVNwRnNLME0zUEw5Q1kyTUhOaXZvVkJwTyUyQlFSMGNTVSUyQmlSVDBxWHNDMiUw=
+QVd0YzklMEEmbWVzc2FnZV91aWQ9MTc2MzE2NjAxMTU0NTYyZDhlMzUwNjFhMiZ1dG1fc291=
+cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lNSSZ1dG1fbWVkaXVtPWVtYWls=
+JmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJIVFVXUDRPdyUyQjZQVE9SZzNi=
+cVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYwMTE1NDc/gaRfHSg/JMTExNTI=
+wMjVDNDk0OTg0QjE0NzU/sbs2ed0fe11
+
+--==bfa456d2656a96e64abbdf63d6ed2807
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-m=
+icrosoft-com:office:office" lang=3D"en">
+<head>
+<title></title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D=
+1">
+<!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:Pixel=
+sPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[=
+if !mso]><!--><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors=
+]{color:inherit!important;text-decoration:inherit!important}#MessageView=
+Body a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop=
+_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflo=
+w:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-he=
+ight:0} @media (max-width:600px){.image_block div.fullWidth{max-width:10=
+0%!important}.mobile_hide{display:none}.row-content{width:100%!important=
+}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-h=
+eight:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_h=
+ide table{display:table!important;max-height:none!important}}
+</style>
+<!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-=
+text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]-->
+</head>
+<body class=3D"body" style=3D"background-color:#fff;margin:0;padding:0;-=
+webkit-text-size-adjust:none;text-size-adjust:none">
+<div style=3D"display: none; max-height: 0px; overflow: hidden;">CNN's t=
+op recommendations for you from the last 24 hours</div><img src=3D"https=
+://e.newsletters.cnn.com/open?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/=
+CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQ=
+wOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3U=
+ifQ/V/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/gaRfHS=
+g/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s0mad127a56" height=3D"2" width=3D"3" alt=
+=3D""><img src=3D"https://redirect.api.boomtrain.com/vp/cnn/GL6omw6ifcAM=
+XPjH62+N/DFBze5k46qs0jgVEHzTKSe/fow9vi/3qE11rnvpeWfkIwNwDFDyILCLVZhnbiLv=
+ZA=3D=3D?rsid=3De33315ab-5108-4058-969e-998835837950&p=3DTrue&b=3D7b9021=
+6559df3c281360d963145198c1-1475&c=3DIn%2520Case%2520You%2520Missed%2520I=
+t%2520-%2520ICYMI&gn=3Darticles%2521user_interest%3A4&x=3DZXhwX2J0&rc=3D=
+Popular&t=3D489768"/><img src=3D"https://redirect.api.boomtrain.com/vp/c=
+nn/tnyhbpkJ+OHxR2DjVx0BZ2MNsibhv2Pfp+mzHndeJZtBG6EpOEt4vUiUWHWRnsn1pBTMV=
+lBSDA4hPNYEquphpA=3D=3D?rsid=3D850289ce-9fd1-4a0f-83c4-5e37040b348c&p=3D=
+True&b=3D7b90216559df3c281360d963145198c1-1475&c=3DIn%2520Case%2520You%2=
+520Missed%2520It%2520-%2520ICYMI&gn=3Dvideo%2521user_interest%3A1&x=3DZX=
+hwX2J0&rc=3DPopular&t=3D489768"/><table class=3D"nl-container" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentat=
+ion" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#ff=
+f"><tbody><tr><td>
+<table class=3D"row row-1" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td>
+<table class=3D"row-content stack" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0;border-radius:0;color:#000;width:580px;margin:=
+0 auto" width=3D"580"><tbody><tr><td class=3D"column column-1" width=3D"=
+100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;tex=
+t-align:left;vertical-align:top;border-top:0;border-right:0;border-botto=
+m:0;border-left:0"><table class=3D"html_block block-1" width=3D"100%" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" sty=
+le=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div =
+style=3D"font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-alig=
+n:center" align=3D"center"><div>
+<table align=3D"center" display=3D"none" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" width=3D"40" height=3D"6"><tbody><tr>
+<td><img src=3D"https://li.cnn.com/imp?s=3D126770500&amp;li=3D&amp;e=3Dv=
+.p.ankevich@collectorshash.su&amp;p=3D494983&amp;stpe=3Dpixel" width=3D"=
+2" height=3D"6" border=3D"0"></td>
+<td><img src=3D"https://li.cnn.com/imp?s=3D126770501&amp;li=3D&amp;e=3Dv=
+.p.ankevich@collectorshash.su&amp;p=3D494983&amp;stpe=3Dpixel" width=3D"=
+2" height=3D"6" border=3D"0"></td>
+<td><img src=3D"https://li.cnn.com/imp?s=3D126770502&amp;li=3D&amp;e=3Dv=
+.p.ankevich@collectorshash.su&amp;p=3D494983&amp;stpe=3Dpixel" width=3D"=
+2" height=3D"6" border=3D"0"></td>
+<td><img src=3D"https://li.cnn.com/imp?s=3D126770503&amp;li=3D&amp;e=3Dv=
+.p.ankevich@collectorshash.su&amp;p=3D494983&amp;stpe=3Dpixel" width=3D"=
+2" height=3D"6" border=3D"0"></td>
+<td><img src=3D"https://li.cnn.com/imp?s=3D126770504&amp;li=3D&amp;e=3Dv=
+.p.ankevich@collectorshash.su&amp;p=3D494983&amp;stpe=3Dpixel" width=3D"=
+2" height=3D"6" border=3D"0"></td>
+</tr></tbody></table> <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0"><tr><td align=3D"center"><a href=3D"https://e.news=
+letters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQ=
+iOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ=
+2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR=
+0cHM6Ly9saS5jbm4uY29tL2NsaWNr/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5N=
+Dk4NGIxNDc1/LY24x/qP3M9ODYzMzUwJmxpPSZlPXYucC5hbmtldmljaEBjb2xsZWN0b3Jza=
+GFzaC5zdSZwPTQ5NDk4MyZzdHBlPWRlZmF1bHQmdXRtX3NvdXJjZT1jbm5fSW4rQ2FzZStZb=
+3UrTWlzc2VkK0l0Ky0rSUNZTUkmdXRtX21lZGl1bT1lbWFpbCZidF9lZT01Y1Z3RDZodSUyR=
+jhmZUFGOFFzdmlkalFycUJySFRVV1A0T3clMkI2UFRPUmczYnFRZjFoVGJCb1hOWUk0SmNqN=
+lV6OSZidF90cz0xNzYzMTY2MDExNTQ3/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s3i=
+3aff5ea1" rel=3D"nofollow" data-location=3D"t1"><img src=3D"https://li.c=
+nn.com/imp?s=3D863350&amp;li=3D&amp;e=3Dv.p.ankevich@collectorshash.su&a=
+mp;p=3D494983&amp;stpe=3Ddefault" border=3D"0" width=3D"600" style=3D"wi=
+dth: 100%; max-width: 600px !important;"></a></td></tr></table>
+</div></div></td></tr></table></td></tr></tbody></table>
+</td></tr></tbody></table>
+<table class=3D"row row-2" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-t=
+op:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;bo=
+rder-left:0">
+<div class=3D"spacer_block block-1" style=3D"height:5px;line-height:5px;=
+font-size:1px">=E2=80=8A</div>
+<table class=3D"image_block block-2" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bottom=
+:15px;padding-left:5px;padding-right:5px;padding-top:5px;width:100%"><di=
+v class=3D"alignment" align=3D"center" style=3D"line-height:10px"><div c=
+lass=3D"fullWidth" style=3D"max-width:493px"><a href=3D"https://e.newsle=
+tters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiO=
+iIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2Y=
+zJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0c=
+HM6Ly93d3cuY25uLmNvbQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxN=
+Dc1/LY24x/qP3V0bV9zb3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJ=
+nV0bV9tZWRpdW09ZW1haWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUV=
+VdQNE93JTJCNlBUT1JnM2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxM=
+TU0Nw/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s0r7a0c3715" target=3D"_blank=
+" style=3D"outline:none" tabindex=3D"-1" data-location=3D"t2"><img src=3D=
+"https://images.newsletters.cnn.com/images/3dfe4d97843b307b4fa50e553d3f9=
+467/CNN_HeaderDivider.png" style=3D"display:block;height:auto;border:0;w=
+idth:100%" width=3D"493" alt=3D"CNN" title=3D"CNN" height=3D"auto"></a><=
+/div></div></td></tr></table>
+<table class=3D"image_block block-3" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bottom=
+:15px;padding-left:10px;padding-right:10px;width:100%"><div class=3D"ali=
+gnment" align=3D"center" style=3D"line-height:10px"><div class=3D"fullWi=
+dth" style=3D"max-width:522px"><img src=3D"https://images.newsletters.cn=
+n.com/images/3dfe4d97843b307b4fa50e553d3f9467/In%20Case%20You%20Missed%2=
+0It/InCaseYouMissedIt_Logo_PaperPlane_Cropped%20copy.png" style=3D"displ=
+ay:block;height:auto;border:0;width:100%" width=3D"522" alt=3D"CNN - In =
+Case You Missed It" title=3D"CNN - In Case You Missed It" height=3D"auto=
+"></div></div></td></tr></table>
+<table class=3D"text_block block-4" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"10" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad">
+<div style=3D"font-family:sans-serif"><div class style=3D"font-size:12px=
+;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;mso-line-height-a=
+lt:14.399999999999999px;color:#202020;line-height:1.2"><p style=3D"margi=
+n:0;text-align:center;mso-line-height-alt:14.399999999999999px"><span st=
+yle=3D"word-break: break-word; font-size: 16px;">11.14.25</span></p></di=
+v></div>
+</td></tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-3" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-t=
+op:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;bo=
+rder-left:0">
+<table class=3D"text_block block-1" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:15px;padding-left:10px;padding-right:10px;padding-=
+top:10px">
+<div style=3D"font-family:sans-serif"><div class style=3D"font-size:12px=
+;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;mso-line-height-a=
+lt:14.399999999999999px;color:#202020;line-height:1.2"><p style=3D"margi=
+n:0;font-size:14px;text-align:center;mso-line-height-alt:16.8px"><span s=
+tyle=3D"word-break: break-word; font-size: 16px;">Here are the top stori=
+es and a video from the past 24 hours you may have missed, curated just =
+for you. <a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWN=
+oQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyI=
+iwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkI=
+joiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly92aWV3Lm5ld3NsZXR0ZXJzLmNubi5jb=
+20vbWVzc2FnZXMvMTc2MzE2NjAxMTU0NTYyZDhlMzUwNjFhMi9yYXc/SWkhfQ05OX2lfTmV3=
+c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9zb3VyY2U9Y25uX0luK0Nh=
+c2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZWU9NWNWd0Q2=
+aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxUWYxaFRiQm9YTllJ=
+NEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0=
+NzU/sfq42bb1a78" target=3D"_blank" rel=3D"noopener" style=3D"text-decora=
+tion: none; color: #cc0000;" data-location=3D"t3">Read in browser.</a>=C2=
+=A0</span></p></div></div>
+</td></tr></table>
+<table class=3D"divider_block block-2" width=3D"100%" border=3D"0" cellp=
+adding=3D"10" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table=
+-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignm=
+ent" align=3D"center"><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" width=3D"100%" style=3D"mso-table-lspace:0;mso=
+-table-rspace:0"><tr><td class=3D"divider_inner" style=3D"font-size:1px;=
+line-height:1px;border-top:1px solid #dadada">
+<span style=3D"word-break: break-word;">=E2=80=8A</span>
+</td></tr></table></div></td></tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-4" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:15px;padding-=
+left:20px;padding-right:20px;padding-top:20px;vertical-align:top;border-=
+top:0;border-right:0;border-bottom:0;border-left:0">
+<table class=3D"image_block block-1" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"width:100%"><d=
+iv class=3D"alignment" align=3D"center" style=3D"line-height:10px"><div =
+style=3D"max-width:540px"><a href=3D"https://e.newsletters.cnn.com/click=
+?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1=
+NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNk=
+ZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5h=
+cGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1=
+azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5i=
+aUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/q=
+P3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0=
+aWNzJTJGYm9hdC1zdHJpa2VzLXRydW1wLWR1ZS1wcm9jZXNzLXBvbGxpbmcmcnNpZD1lMzMz=
+MTVhYi01MTA4LTQwNTgtOTY5ZS05OTg4MzU4Mzc5NTAmcmlkPWUzMzMxNWFiLTUxMDgtNDA1=
+OC05NjllLTk5ODgzNTgzNzk1MCUzQWFydGljbGVzJTIxdXNlcl9pbnRlcmVzdCUzQTAmZz1h=
+cnRpY2xlcyUyMXVzZXJfaW50ZXJlc3Qmbj0wJnA9VHJ1ZSZiPTdiOTAyMTY1NTlkZjNjMjgx=
+MzYwZDk2MzE0NTE5OGMxLTE0NzUmYz1JbiUyNTIwQ2FzZSUyNTIwWW91JTI1MjBNaXNzZWQl=
+MjUyMEl0JTI1MjAtJTI1MjBJQ1lNSSZyPUwxOXdZV2RsY3k5amJXaDZPR3N4Ym1zd01HRjNN=
+amR4YldSemVuSTVNVEptJnJ0PWFydGljbGUmeD1aWGh3WDJKMCZyYz1Qb3B1bGFyJnQ9NDg5=
+NzY4Jm09ZW1haWwmdXRtX3NvdXJjZT1jbm5fSW4rQ2FzZStZb3UrTWlzc2VkK0l0Ky0rSUNZ=
+TUkmdXRtX21lZGl1bT1lbWFpbCZidF9lZT01Y1Z3RDZodSUyRjhmZUFGOFFzdmlkalFycUJy=
+SFRVV1A0T3clMkI2UFRPUmczYnFRZjFoVGJCb1hOWUk0SmNqNlV6OSZidF90cz0xNzYzMTY2=
+MDExNTQ3/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/sat5abae4ed" target=3D"_bl=
+ank" style=3D"outline:none" tabindex=3D"-1" data-location=3D"t4"><img sr=
+c=3D"https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2231=
+529191.jpg?c=3D16x9&amp;q=3Dw_800,c_fill" style=3D"display:block;height:=
+auto;border:0;width:100%" width=3D"540" alt=3D"Analysis: Trump=E2=80=99s=
+ boat strikes appear quite unpopular, as Americans again support due pro=
+cess | CNN Politics" title=3D"Analysis: Trump=E2=80=99s boat strikes app=
+ear quite unpopular, as Americans again support due process | CNN Politi=
+cs" height=3D"auto"></a></div></div></td></tr></table>
+<table class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:15px;padding-top:15px"><div style=3D"font-family:A=
+rial,sans-serif"><div class style=3D"font-size:12px;font-family:'Helveti=
+ca Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;color:#2020=
+20;line-height:1.5"><p style=3D"margin:0;mso-line-height-alt:27px">
+<span style=3D"word-break: break-word; font-size: 18px;"><strong><span s=
+tyle=3D"word-break: break-word;"><a style=3D"text-decoration: none; colo=
+r: #cc0000;" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aW=
+NoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEy=
+IiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJk=
+IjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWlu=
+LmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwamdWRUh6=
+VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9PQ/SWkhf=
+Q05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0dHBzJTNB=
+JTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0aWNzJTJGYm9hdC1z=
+dHJpa2VzLXRydW1wLWR1ZS1wcm9jZXNzLXBvbGxpbmcmcnNpZD1lMzMzMTVhYi01MTA4LTQw=
+NTgtOTY5ZS05OTg4MzU4Mzc5NTAmcmlkPWUzMzMxNWFiLTUxMDgtNDA1OC05NjllLTk5ODgz=
+NTgzNzk1MCUzQWFydGljbGVzJTIxdXNlcl9pbnRlcmVzdCUzQTAmZz1hcnRpY2xlcyUyMXVz=
+ZXJfaW50ZXJlc3Qmbj0wJnA9VHJ1ZSZiPTdiOTAyMTY1NTlkZjNjMjgxMzYwZDk2MzE0NTE5=
+OGMxLTE0NzUmYz1JbiUyNTIwQ2FzZSUyNTIwWW91JTI1MjBNaXNzZWQlMjUyMEl0JTI1MjAt=
+JTI1MjBJQ1lNSSZyPUwxOXdZV2RsY3k5amJXaDZPR3N4Ym1zd01HRjNNamR4YldSemVuSTVN=
+VEptJnJ0PWFydGljbGUmeD1aWGh3WDJKMCZyYz1Qb3B1bGFyJnQ9NDg5NzY4Jm09ZW1haWwm=
+dXRtX3NvdXJjZT1jbm5fSW4rQ2FzZStZb3UrTWlzc2VkK0l0Ky0rSUNZTUkmdXRtX21lZGl1=
+bT1lbWFpbCZidF9lZT01Y1Z3RDZodSUyRjhmZUFGOFFzdmlkalFycUJySFRVV1A0T3clMkI2=
+UFRPUmczYnFRZjFoVGJCb1hOWUk0SmNqNlV6OSZidF90cz0xNzYzMTY2MDExNTQ3/gaRfHSg=
+/JMTExNTIwMjVDNDk0OTg0QjE0NzU/sat5abae4ed" target=3D"_blank" rel=3D"noop=
+ener" data-location=3D"t5">Analysis: Trump=E2=80=99s boat strikes appear=
+ quite unpopular, as Americans again support due process </a></span></st=
+rong></span></p></div></div></td></tr></table>
+<table class=3D"text_block block-3" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:20px"><div style=3D"font-family:sans-serif"><div c=
+lass style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,=
+sans-serif;mso-line-height-alt:21.6px;color:#202020;line-height:1.8"><p =
+style=3D"margin:0;mso-line-height-alt:28.8px"><span style=3D"word-break:=
+ break-word; font-size: 16px;">When President Donald Trump began rapidly=
+ deporting migrants earlier this year to a brutal Salvadoran prison =E2=80=
+=93 including some wrongfully so =E2=80=93 without due process, Democrat=
+s were somewhat wary of pushing back.</span></p></div></div></td></tr></=
+table>
+<table class=3D"button_block block-4" width=3D"100%" border=3D"0" cellpa=
+dding=3D"5" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignmen=
+t" align=3D"center">
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" href=3D"https://e.newsletters.cnn.com/c=
+lick?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDEx=
+NTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdm=
+YzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVj=
+dC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZC=
+emU1azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZa=
+aG5iaUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY2=
+4x/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBv=
+bGl0aWNzJTJGYm9hdC1zdHJpa2VzLXRydW1wLWR1ZS1wcm9jZXNzLXBvbGxpbmcmcnNpZD1l=
+MzMzMTVhYi01MTA4LTQwNTgtOTY5ZS05OTg4MzU4Mzc5NTAmcmlkPWUzMzMxNWFiLTUxMDgt=
+NDA1OC05NjllLTk5ODgzNTgzNzk1MCUzQWFydGljbGVzJTIxdXNlcl9pbnRlcmVzdCUzQTAm=
+Zz1hcnRpY2xlcyUyMXVzZXJfaW50ZXJlc3Qmbj0wJnA9VHJ1ZSZiPTdiOTAyMTY1NTlkZjNj=
+MjgxMzYwZDk2MzE0NTE5OGMxLTE0NzUmYz1JbiUyNTIwQ2FzZSUyNTIwWW91JTI1MjBNaXNz=
+ZWQlMjUyMEl0JTI1MjAtJTI1MjBJQ1lNSSZyPUwxOXdZV2RsY3k5amJXaDZPR3N4Ym1zd01H=
+RjNNamR4YldSemVuSTVNVEptJnJ0PWFydGljbGUmeD1aWGh3WDJKMCZyYz1Qb3B1bGFyJnQ9=
+NDg5NzY4Jm09ZW1haWwmdXRtX3NvdXJjZT1jbm5fSW4rQ2FzZStZb3UrTWlzc2VkK0l0Ky0r=
+SUNZTUkmdXRtX21lZGl1bT1lbWFpbCZidF9lZT01Y1Z3RDZodSUyRjhmZUFGOFFzdmlkalFy=
+cUJySFRVV1A0T3clMkI2UFRPUmczYnFRZjFoVGJCb1hOWUk0SmNqNlV6OSZidF90cz0xNzYz=
+MTY2MDExNTQ3/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/sat5abae4ed" style=3D"=
+height:38px;width:120px;v-text-anchor:middle;" arcsize=3D"22%" stroke=3D=
+"false" fillcolor=3D"#cc0000">
+<w:anchorlock/>
+<v:textbox inset=3D"0px,0px,0px,0px">
+<center dir=3D"false" style=3D"color:#ffffff;font-family:Arial, sans-ser=
+if;font-size:14px">
+<![endif]-->
+<a class=3D"button" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmF=
+ua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzN=
+TA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3N=
+SIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vb=
+XRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwa=
+mdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9P=
+Q/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0d=
+HBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0aWNzJTJGY=
+m9hdC1zdHJpa2VzLXRydW1wLWR1ZS1wcm9jZXNzLXBvbGxpbmcmcnNpZD1lMzMzMTVhYi01M=
+TA4LTQwNTgtOTY5ZS05OTg4MzU4Mzc5NTAmcmlkPWUzMzMxNWFiLTUxMDgtNDA1OC05NjllL=
+Tk5ODgzNTgzNzk1MCUzQWFydGljbGVzJTIxdXNlcl9pbnRlcmVzdCUzQTAmZz1hcnRpY2xlc=
+yUyMXVzZXJfaW50ZXJlc3Qmbj0wJnA9VHJ1ZSZiPTdiOTAyMTY1NTlkZjNjMjgxMzYwZDk2M=
+zE0NTE5OGMxLTE0NzUmYz1JbiUyNTIwQ2FzZSUyNTIwWW91JTI1MjBNaXNzZWQlMjUyMEl0J=
+TI1MjAtJTI1MjBJQ1lNSSZyPUwxOXdZV2RsY3k5amJXaDZPR3N4Ym1zd01HRjNNamR4YldSe=
+mVuSTVNVEptJnJ0PWFydGljbGUmeD1aWGh3WDJKMCZyYz1Qb3B1bGFyJnQ9NDg5NzY4Jm09Z=
+W1haWwmdXRtX3NvdXJjZT1jbm5fSW4rQ2FzZStZb3UrTWlzc2VkK0l0Ky0rSUNZTUkmdXRtX=
+21lZGl1bT1lbWFpbCZidF9lZT01Y1Z3RDZodSUyRjhmZUFGOFFzdmlkalFycUJySFRVV1A0T=
+3clMkI2UFRPUmczYnFRZjFoVGJCb1hOWUk0SmNqNlV6OSZidF90cz0xNzYzMTY2MDExNTQ3/=
+gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/sat5abae4ed" target=3D"_blank" styl=
+e=3D"background-color:#cc0000;border-bottom:0px solid transparent;border=
+-left:0px solid transparent;border-radius:8px;border-right:0px solid tra=
+nsparent;border-top:0px solid transparent;color:#ffffff;display:inline-b=
+lock;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:=
+14px;font-weight:undefined;mso-border-alt:none;padding-bottom:5px;paddin=
+g-top:5px;text-align:center;text-decoration:none;width:auto;word-break:k=
+eep-all;" data-location=3D"t6"><span style=3D"word-break: break-word; pa=
+dding-left: 15px; padding-right: 15px; font-size: 14px; display: inline-=
+block; letter-spacing: normal;"><span style=3D"word-break: break-word;">=
+<span style=3D"word-break: break-word; line-height: 28px;" data-mce-styl=
+e>Read on CNN=C2=A0</span></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div></td></tr></table>
+<table class=3D"divider_block block-5" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bott=
+om:10px;padding-left:10px;padding-right:10px;padding-top:35px"><div clas=
+s=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" width=3D"70%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inner" style=3D"fo=
+nt-size:1px;line-height:1px;border-top:1px solid #e3e1e1"><span style=3D=
+"word-break: break-word;">=E2=80=8A</span></td></tr></table></div></td><=
+/tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-4" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:15px;padding-=
+left:20px;padding-right:20px;padding-top:20px;vertical-align:top;border-=
+top:0;border-right:0;border-bottom:0;border-left:0">
+<table class=3D"image_block block-1" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"width:100%"><d=
+iv class=3D"alignment" align=3D"center" style=3D"line-height:10px"><div =
+style=3D"max-width:540px"><a href=3D"https://e.newsletters.cnn.com/click=
+?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1=
+NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNk=
+ZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5h=
+cGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1=
+azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5i=
+aUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/q=
+P3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxMyUyRnNjaWVu=
+Y2UlMkZoaXRsZXItZG5hLWRvY3VtZW50YXJ5JnJzaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2=
+OWUtOTk4ODM1ODM3OTUwJnJpZD1lMzMzMTVhYi01MTA4LTQwNTgtOTY5ZS05OTg4MzU4Mzc5=
+NTAlM0FhcnRpY2xlcyUyMXVzZXJfaW50ZXJlc3QlM0ExJmc9YXJ0aWNsZXMlMjF1c2VyX2lu=
+dGVyZXN0Jm49MSZwPVRydWUmYj03YjkwMjE2NTU5ZGYzYzI4MTM2MGQ5NjMxNDUxOThjMS0x=
+NDc1JmM9SW4lMjUyMENhc2UlMjUyMFlvdSUyNTIwTWlzc2VkJTI1MjBJdCUyNTIwLSUyNTIw=
+SUNZTUkmcj1MMTl3WVdkbGN5OWpiV2g0ZEdReWRtOHdNRFF5TWpaeFptSjFOVEZsY0hwbCZy=
+dD1hcnRpY2xlJng9Wlhod1gySjAmcmM9UG9wdWxhciZ0PTQ4OTc2OCZtPWVtYWlsJnV0bV9z=
+b3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09ZW1h=
+aWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBUT1Jn=
+M2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTEx=
+NTIwMjVDNDk0OTg0QjE0NzU/scmdc7149d4" target=3D"_blank" style=3D"outline:=
+none" tabindex=3D"-1" data-location=3D"t4"><img src=3D"https://media.cnn=
+.com/api/v1/images/stellar/prod/gettyimages-566578223.jpg?c=3D16x9&amp;q=
+=3Dw_800,c_fill" style=3D"display:block;height:auto;border:0;width:100%"=
+ width=3D"540" alt=3D"Researchers say they have verified and sequenced H=
+itler=E2=80=99s DNA =E2=80=93 and found a genetic disorder | CNN" title=3D=
+"Researchers say they have verified and sequenced Hitler=E2=80=99s DNA =E2=
+=80=93 and found a genetic disorder | CNN" height=3D"auto"></a></div></d=
+iv></td></tr></table>
+<table class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:15px;padding-top:15px"><div style=3D"font-family:A=
+rial,sans-serif"><div class style=3D"font-size:12px;font-family:'Helveti=
+ca Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;color:#2020=
+20;line-height:1.5"><p style=3D"margin:0;mso-line-height-alt:27px">
+<span style=3D"word-break: break-word; font-size: 18px;"><strong><span s=
+tyle=3D"word-break: break-word;"><a style=3D"text-decoration: none; colo=
+r: #cc0000;" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aW=
+NoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEy=
+IiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJk=
+IjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWlu=
+LmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwamdWRUh6=
+VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9PQ/SWkhf=
+Q05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0dHBzJTNB=
+JTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxMyUyRnNjaWVuY2UlMkZoaXRsZXIt=
+ZG5hLWRvY3VtZW50YXJ5JnJzaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2OWUtOTk4ODM1ODM3=
+OTUwJnJpZD1lMzMzMTVhYi01MTA4LTQwNTgtOTY5ZS05OTg4MzU4Mzc5NTAlM0FhcnRpY2xl=
+cyUyMXVzZXJfaW50ZXJlc3QlM0ExJmc9YXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0Jm49MSZw=
+PVRydWUmYj03YjkwMjE2NTU5ZGYzYzI4MTM2MGQ5NjMxNDUxOThjMS0xNDc1JmM9SW4lMjUy=
+MENhc2UlMjUyMFlvdSUyNTIwTWlzc2VkJTI1MjBJdCUyNTIwLSUyNTIwSUNZTUkmcj1MMTl3=
+WVdkbGN5OWpiV2g0ZEdReWRtOHdNRFF5TWpaeFptSjFOVEZsY0hwbCZydD1hcnRpY2xlJng9=
+Wlhod1gySjAmcmM9UG9wdWxhciZ0PTQ4OTc2OCZtPWVtYWlsJnV0bV9zb3VyY2U9Y25uX0lu=
+K0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZWU9NWNW=
+d0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxUWYxaFRiQm9Y=
+TllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDNDk0OTg0=
+QjE0NzU/scmdc7149d4" target=3D"_blank" rel=3D"noopener" data-location=3D=
+"t5">Researchers say they have verified and sequenced Hitler=E2=80=99s D=
+NA =E2=80=93 and found a genetic disorder </a></span></strong></span></p=
+></div></div></td></tr></table>
+<table class=3D"text_block block-3" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:20px"><div style=3D"font-family:sans-serif"><div c=
+lass style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,=
+sans-serif;mso-line-height-alt:21.6px;color:#202020;line-height:1.8"><p =
+style=3D"margin:0;mso-line-height-alt:28.8px"><span style=3D"word-break:=
+ break-word; font-size: 16px;">Analysis of Adolf Hitler=E2=80=99s DNA re=
+veals he may have had a rare genetic disorder that can delay puberty.</s=
+pan></p></div></div></td></tr></table>
+<table class=3D"button_block block-4" width=3D"100%" border=3D"0" cellpa=
+dding=3D"5" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignmen=
+t" align=3D"center">
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" href=3D"https://e.newsletters.cnn.com/c=
+lick?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDEx=
+NTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdm=
+YzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVj=
+dC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZC=
+emU1azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZa=
+aG5iaUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY2=
+4x/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxMyUyRnNj=
+aWVuY2UlMkZoaXRsZXItZG5hLWRvY3VtZW50YXJ5JnJzaWQ9ZTMzMzE1YWItNTEwOC00MDU4=
+LTk2OWUtOTk4ODM1ODM3OTUwJnJpZD1lMzMzMTVhYi01MTA4LTQwNTgtOTY5ZS05OTg4MzU4=
+Mzc5NTAlM0FhcnRpY2xlcyUyMXVzZXJfaW50ZXJlc3QlM0ExJmc9YXJ0aWNsZXMlMjF1c2Vy=
+X2ludGVyZXN0Jm49MSZwPVRydWUmYj03YjkwMjE2NTU5ZGYzYzI4MTM2MGQ5NjMxNDUxOThj=
+MS0xNDc1JmM9SW4lMjUyMENhc2UlMjUyMFlvdSUyNTIwTWlzc2VkJTI1MjBJdCUyNTIwLSUy=
+NTIwSUNZTUkmcj1MMTl3WVdkbGN5OWpiV2g0ZEdReWRtOHdNRFF5TWpaeFptSjFOVEZsY0hw=
+bCZydD1hcnRpY2xlJng9Wlhod1gySjAmcmM9UG9wdWxhciZ0PTQ4OTc2OCZtPWVtYWlsJnV0=
+bV9zb3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09=
+ZW1haWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBU=
+T1JnM2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/J=
+MTExNTIwMjVDNDk0OTg0QjE0NzU/scmdc7149d4" style=3D"height:38px;width:120p=
+x;v-text-anchor:middle;" arcsize=3D"22%" stroke=3D"false" fillcolor=3D"#=
+cc0000">
+<w:anchorlock/>
+<v:textbox inset=3D"0px,0px,0px,0px">
+<center dir=3D"false" style=3D"color:#ffffff;font-family:Arial, sans-ser=
+if;font-size:14px">
+<![endif]-->
+<a class=3D"button" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmF=
+ua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzN=
+TA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3N=
+SIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vb=
+XRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwa=
+mdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9P=
+Q/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0d=
+HBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxMyUyRnNjaWVuY2UlMkZoa=
+XRsZXItZG5hLWRvY3VtZW50YXJ5JnJzaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2OWUtOTk4O=
+DM1ODM3OTUwJnJpZD1lMzMzMTVhYi01MTA4LTQwNTgtOTY5ZS05OTg4MzU4Mzc5NTAlM0Fhc=
+nRpY2xlcyUyMXVzZXJfaW50ZXJlc3QlM0ExJmc9YXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0J=
+m49MSZwPVRydWUmYj03YjkwMjE2NTU5ZGYzYzI4MTM2MGQ5NjMxNDUxOThjMS0xNDc1JmM9S=
+W4lMjUyMENhc2UlMjUyMFlvdSUyNTIwTWlzc2VkJTI1MjBJdCUyNTIwLSUyNTIwSUNZTUkmc=
+j1MMTl3WVdkbGN5OWpiV2g0ZEdReWRtOHdNRFF5TWpaeFptSjFOVEZsY0hwbCZydD1hcnRpY=
+2xlJng9Wlhod1gySjAmcmM9UG9wdWxhciZ0PTQ4OTc2OCZtPWVtYWlsJnV0bV9zb3VyY2U9Y=
+25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZ=
+WU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxUWYxa=
+FRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDN=
+Dk0OTg0QjE0NzU/scmdc7149d4" target=3D"_blank" style=3D"background-color:=
+#cc0000;border-bottom:0px solid transparent;border-left:0px solid transp=
+arent;border-radius:8px;border-right:0px solid transparent;border-top:0p=
+x solid transparent;color:#ffffff;display:inline-block;font-family:Helve=
+tica Neue, Helvetica, Arial, sans-serif;font-size:14px;font-weight:undef=
+ined;mso-border-alt:none;padding-bottom:5px;padding-top:5px;text-align:c=
+enter;text-decoration:none;width:auto;word-break:keep-all;" data-locatio=
+n=3D"t6"><span style=3D"word-break: break-word; padding-left: 15px; padd=
+ing-right: 15px; font-size: 14px; display: inline-block; letter-spacing:=
+ normal;"><span style=3D"word-break: break-word;"><span style=3D"word-br=
+eak: break-word; line-height: 28px;" data-mce-style>Read on CNN=C2=A0</s=
+pan></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div></td></tr></table>
+<table class=3D"divider_block block-5" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bott=
+om:10px;padding-left:10px;padding-right:10px;padding-top:35px"><div clas=
+s=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" width=3D"70%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inner" style=3D"fo=
+nt-size:1px;line-height:1px;border-top:1px solid #e3e1e1"><span style=3D=
+"word-break: break-word;">=E2=80=8A</span></td></tr></table></div></td><=
+/tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-4" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:15px;padding-=
+left:20px;padding-right:20px;padding-top:20px;vertical-align:top;border-=
+top:0;border-right:0;border-bottom:0;border-left:0">
+<table class=3D"image_block block-1" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"width:100%"><d=
+iv class=3D"alignment" align=3D"center" style=3D"line-height:10px"><div =
+style=3D"max-width:540px"><a href=3D"https://e.newsletters.cnn.com/click=
+?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1=
+NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNk=
+ZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5h=
+cGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1=
+azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5i=
+aUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/q=
+P3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0=
+aWNzJTJGZ2hpc2xhaW5lLW1heHdlbGwtbGF3eWVyLXByaXNvbi1maXJlZCZyc2lkPWUzMzMx=
+NWFiLTUxMDgtNDA1OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00MDU4=
+LTk2OWUtOTk4ODM1ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMiZnPWFy=
+dGljbGVzJTIxdXNlcl9pbnRlcmVzdCZuPTImcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2MyODEz=
+NjBkOTYzMTQ1MTk4YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3NlZCUy=
+NTIwSXQlMjUyMC0lMjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk0zTmlhbXd3TUdKaU1q=
+WnVkR2R6TlhVMWRYSnYmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3=
+NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lN=
+SSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJI=
+VFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYw=
+MTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ma95078d7" target=3D"_bla=
+nk" style=3D"outline:none" tabindex=3D"-1" data-location=3D"t4"><img src=
+=3D"https://media.cnn.com/api/v1/images/stellar/prod/2025-08-01t224253z-=
+322336138-rc2hyfa2y78j-rtrmadp-3-usa-trump-epstein-maxwell.JPG?c=3D16x9&=
+amp;q=3Dw_800,c_fill" style=3D"display:block;height:auto;border:0;width:=
+100%" width=3D"540" alt=3D"Prison employees have been terminated after G=
+hislaine Maxwell=E2=80=99s email messages were shared, her lawyer says |=
+ CNN Politics" title=3D"Prison employees have been terminated after Ghis=
+laine Maxwell=E2=80=99s email messages were shared, her lawyer says | CN=
+N Politics" height=3D"auto"></a></div></div></td></tr></table>
+<table class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:15px;padding-top:15px"><div style=3D"font-family:A=
+rial,sans-serif"><div class style=3D"font-size:12px;font-family:'Helveti=
+ca Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;color:#2020=
+20;line-height:1.5"><p style=3D"margin:0;mso-line-height-alt:27px">
+<span style=3D"word-break: break-word; font-size: 18px;"><strong><span s=
+tyle=3D"word-break: break-word;"><a style=3D"text-decoration: none; colo=
+r: #cc0000;" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aW=
+NoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEy=
+IiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJk=
+IjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWlu=
+LmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwamdWRUh6=
+VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9PQ/SWkhf=
+Q05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0dHBzJTNB=
+JTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0aWNzJTJGZ2hpc2xh=
+aW5lLW1heHdlbGwtbGF3eWVyLXByaXNvbi1maXJlZCZyc2lkPWUzMzMxNWFiLTUxMDgtNDA1=
+OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2OWUtOTk4ODM1=
+ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMiZnPWFydGljbGVzJTIxdXNl=
+cl9pbnRlcmVzdCZuPTImcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2MyODEzNjBkOTYzMTQ1MTk4=
+YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3NlZCUyNTIwSXQlMjUyMC0l=
+MjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk0zTmlhbXd3TUdKaU1qWnVkR2R6TlhVMWRY=
+SnYmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3NjgmbT1lbWFpbCZ1=
+dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lNSSZ1dG1fbWVkaXVt=
+PWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJIVFVXUDRPdyUyQjZQ=
+VE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYwMTE1NDc/gaRfHSg/=
+JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ma95078d7" target=3D"_blank" rel=3D"noope=
+ner" data-location=3D"t5">Prison employees have been terminated after Gh=
+islaine Maxwell=E2=80=99s email messages were shared, her lawyer says </=
+a></span></strong></span></p></div></div></td></tr></table>
+<table class=3D"text_block block-3" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:20px"><div style=3D"font-family:sans-serif"><div c=
+lass style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,=
+sans-serif;mso-line-height-alt:21.6px;color:#202020;line-height:1.8"><p =
+style=3D"margin:0;mso-line-height-alt:28.8px"><span style=3D"word-break:=
+ break-word; font-size: 16px;">Employees of a minimum-security prison ca=
+mp in Bryan, Texas, where convicted child-sex trafficker Ghislaine Maxwe=
+ll is serving time have been terminated, one of Maxwell=E2=80=99s lawyer=
+s said Friday, after a whistleblower this week released to Rep. Jamie Ra=
+skin alleged correspondence between Maxwell and her lawyer.</span></p></=
+div></div></td></tr></table>
+<table class=3D"button_block block-4" width=3D"100%" border=3D"0" cellpa=
+dding=3D"5" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignmen=
+t" align=3D"center">
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" href=3D"https://e.newsletters.cnn.com/c=
+lick?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDEx=
+NTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdm=
+YzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVj=
+dC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZC=
+emU1azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZa=
+aG5iaUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY2=
+4x/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBv=
+bGl0aWNzJTJGZ2hpc2xhaW5lLW1heHdlbGwtbGF3eWVyLXByaXNvbi1maXJlZCZyc2lkPWUz=
+MzMxNWFiLTUxMDgtNDA1OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00=
+MDU4LTk2OWUtOTk4ODM1ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMiZn=
+PWFydGljbGVzJTIxdXNlcl9pbnRlcmVzdCZuPTImcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2My=
+ODEzNjBkOTYzMTQ1MTk4YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3Nl=
+ZCUyNTIwSXQlMjUyMC0lMjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk0zTmlhbXd3TUdK=
+aU1qWnVkR2R6TlhVMWRYSnYmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00=
+ODk3NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJ=
+Q1lNSSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJx=
+QnJIVFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMx=
+NjYwMTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ma95078d7" style=3D"h=
+eight:38px;width:120px;v-text-anchor:middle;" arcsize=3D"22%" stroke=3D"=
+false" fillcolor=3D"#cc0000">
+<w:anchorlock/>
+<v:textbox inset=3D"0px,0px,0px,0px">
+<center dir=3D"false" style=3D"color:#ffffff;font-family:Arial, sans-ser=
+if;font-size:14px">
+<![endif]-->
+<a class=3D"button" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmF=
+ua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzN=
+TA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3N=
+SIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vb=
+XRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwa=
+mdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9P=
+Q/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0d=
+HBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0aWNzJTJGZ=
+2hpc2xhaW5lLW1heHdlbGwtbGF3eWVyLXByaXNvbi1maXJlZCZyc2lkPWUzMzMxNWFiLTUxM=
+DgtNDA1OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2OWUtO=
+Tk4ODM1ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMiZnPWFydGljbGVzJ=
+TIxdXNlcl9pbnRlcmVzdCZuPTImcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2MyODEzNjBkOTYzM=
+TQ1MTk4YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3NlZCUyNTIwSXQlM=
+jUyMC0lMjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk0zTmlhbXd3TUdKaU1qWnVkR2R6T=
+lhVMWRYSnYmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3NjgmbT1lb=
+WFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lNSSZ1dG1fb=
+WVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJIVFVXUDRPd=
+yUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYwMTE1NDc/g=
+aRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ma95078d7" target=3D"_blank" style=
+=3D"background-color:#cc0000;border-bottom:0px solid transparent;border-=
+left:0px solid transparent;border-radius:8px;border-right:0px solid tran=
+sparent;border-top:0px solid transparent;color:#ffffff;display:inline-bl=
+ock;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1=
+4px;font-weight:undefined;mso-border-alt:none;padding-bottom:5px;padding=
+-top:5px;text-align:center;text-decoration:none;width:auto;word-break:ke=
+ep-all;" data-location=3D"t6"><span style=3D"word-break: break-word; pad=
+ding-left: 15px; padding-right: 15px; font-size: 14px; display: inline-b=
+lock; letter-spacing: normal;"><span style=3D"word-break: break-word;"><=
+span style=3D"word-break: break-word; line-height: 28px;" data-mce-style=
+>Read on CNN=C2=A0</span></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div></td></tr></table>
+<table class=3D"divider_block block-5" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bott=
+om:10px;padding-left:10px;padding-right:10px;padding-top:35px"><div clas=
+s=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" width=3D"70%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inner" style=3D"fo=
+nt-size:1px;line-height:1px;border-top:1px solid #e3e1e1"><span style=3D=
+"word-break: break-word;">=E2=80=8A</span></td></tr></table></div></td><=
+/tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-4" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:15px;padding-=
+left:20px;padding-right:20px;padding-top:20px;vertical-align:top;border-=
+top:0;border-right:0;border-bottom:0;border-left:0">
+<table class=3D"image_block block-1" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"width:100%"><d=
+iv class=3D"alignment" align=3D"center" style=3D"line-height:10px"><div =
+style=3D"max-width:540px"><a href=3D"https://e.newsletters.cnn.com/click=
+?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1=
+NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNk=
+ZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5h=
+cGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1=
+azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5i=
+aUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/q=
+P3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0=
+aWNzJTJGdHJ1bXAtZXBzdGVpbi1kb2otaW52ZXN0aWdhdGUtZW5lbWllcyZyc2lkPWUzMzMx=
+NWFiLTUxMDgtNDA1OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00MDU4=
+LTk2OWUtOTk4ODM1ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMyZnPWFy=
+dGljbGVzJTIxdXNlcl9pbnRlcmVzdCZuPTMmcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2MyODEz=
+NjBkOTYzMTQ1MTk4YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3NlZCUy=
+NTIwSXQlMjUyMC0lMjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk1UbDJjR1F3TUdGeU1q=
+WndPREZ4ZEdab01tbzMmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3=
+NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lN=
+SSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJI=
+VFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYw=
+MTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s3g816aea57" target=3D"_bla=
+nk" style=3D"outline:none" tabindex=3D"-1" data-location=3D"t4"><img src=
+=3D"https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-22455=
+52166.jpg?c=3D16x9&amp;q=3Dw_800,c_fill" style=3D"display:block;height:a=
+uto;border:0;width:100%" width=3D"540" alt=3D"Trump says he=E2=80=99s as=
+king Justice Department to investigate Epstein=E2=80=99s ties to slew of=
+ high-profile figures | CNN Politics" title=3D"Trump says he=E2=80=99s a=
+sking Justice Department to investigate Epstein=E2=80=99s ties to slew o=
+f high-profile figures | CNN Politics" height=3D"auto"></a></div></div><=
+/td></tr></table>
+<table class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:15px;padding-top:15px"><div style=3D"font-family:A=
+rial,sans-serif"><div class style=3D"font-size:12px;font-family:'Helveti=
+ca Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;color:#2020=
+20;line-height:1.5"><p style=3D"margin:0;mso-line-height-alt:27px">
+<span style=3D"word-break: break-word; font-size: 18px;"><strong><span s=
+tyle=3D"word-break: break-word;"><a style=3D"text-decoration: none; colo=
+r: #cc0000;" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aW=
+NoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEy=
+IiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJk=
+IjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWlu=
+LmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwamdWRUh6=
+VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9PQ/SWkhf=
+Q05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0dHBzJTNB=
+JTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0aWNzJTJGdHJ1bXAt=
+ZXBzdGVpbi1kb2otaW52ZXN0aWdhdGUtZW5lbWllcyZyc2lkPWUzMzMxNWFiLTUxMDgtNDA1=
+OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2OWUtOTk4ODM1=
+ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMyZnPWFydGljbGVzJTIxdXNl=
+cl9pbnRlcmVzdCZuPTMmcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2MyODEzNjBkOTYzMTQ1MTk4=
+YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3NlZCUyNTIwSXQlMjUyMC0l=
+MjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk1UbDJjR1F3TUdGeU1qWndPREZ4ZEdab01t=
+bzMmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3NjgmbT1lbWFpbCZ1=
+dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lNSSZ1dG1fbWVkaXVt=
+PWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJIVFVXUDRPdyUyQjZQ=
+VE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYwMTE1NDc/gaRfHSg/=
+JMTExNTIwMjVDNDk0OTg0QjE0NzU/s3g816aea57" target=3D"_blank" rel=3D"noope=
+ner" data-location=3D"t5">Trump says he=E2=80=99s asking Justice Departm=
+ent to investigate Epstein=E2=80=99s ties to slew of high-profile figure=
+s </a></span></strong></span></p></div></div></td></tr></table>
+<table class=3D"text_block block-3" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:20px"><div style=3D"font-family:sans-serif"><div c=
+lass style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,=
+sans-serif;mso-line-height-alt:21.6px;color:#202020;line-height:1.8"><p =
+style=3D"margin:0;mso-line-height-alt:28.8px"><span style=3D"word-break:=
+ break-word; font-size: 16px;">President Donald Trump said Friday he wil=
+l ask Attorney General Pam Bondi to investigate convicted sex offender J=
+effrey Epstein=E2=80=99s ties to many other high-profile figures, in an =
+extraordinary step that comes just days after Democrats released emails =
+from the late Epstein that mention him.</span></p></div></div></td></tr>=
+</table>
+<table class=3D"button_block block-4" width=3D"100%" border=3D"0" cellpa=
+dding=3D"5" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignmen=
+t" align=3D"center">
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" href=3D"https://e.newsletters.cnn.com/c=
+lick?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDEx=
+NTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdm=
+YzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVj=
+dC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZC=
+emU1azQ2cXMwamdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZa=
+aG5iaUx2WkE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY2=
+4x/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBv=
+bGl0aWNzJTJGdHJ1bXAtZXBzdGVpbi1kb2otaW52ZXN0aWdhdGUtZW5lbWllcyZyc2lkPWUz=
+MzMxNWFiLTUxMDgtNDA1OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00=
+MDU4LTk2OWUtOTk4ODM1ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMyZn=
+PWFydGljbGVzJTIxdXNlcl9pbnRlcmVzdCZuPTMmcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2My=
+ODEzNjBkOTYzMTQ1MTk4YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3Nl=
+ZCUyNTIwSXQlMjUyMC0lMjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk1UbDJjR1F3TUdG=
+eU1qWndPREZ4ZEdab01tbzMmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00=
+ODk3NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJ=
+Q1lNSSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJx=
+QnJIVFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMx=
+NjYwMTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s3g816aea57" style=3D"h=
+eight:38px;width:120px;v-text-anchor:middle;" arcsize=3D"22%" stroke=3D"=
+false" fillcolor=3D"#cc0000">
+<w:anchorlock/>
+<v:textbox inset=3D"0px,0px,0px,0px">
+<center dir=3D"false" style=3D"color:#ffffff;font-family:Arial, sans-ser=
+if;font-size:14px">
+<![endif]-->
+<a class=3D"button" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmF=
+ua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzN=
+TA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3N=
+SIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vb=
+XRyYWluLmNvbS9jbGljay9jbm4vR0w2b213NmlmY0FNWFBqSDYyK04vREZCemU1azQ2cXMwa=
+mdWRUh6VEtTZS9mb3c5dmkvM3FFMTFybnZwZVdma0l3TndERkR5SUxDTFZaaG5iaUx2WkE9P=
+Q/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0d=
+HBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRnBvbGl0aWNzJTJGd=
+HJ1bXAtZXBzdGVpbi1kb2otaW52ZXN0aWdhdGUtZW5lbWllcyZyc2lkPWUzMzMxNWFiLTUxM=
+DgtNDA1OC05NjllLTk5ODgzNTgzNzk1MCZyaWQ9ZTMzMzE1YWItNTEwOC00MDU4LTk2OWUtO=
+Tk4ODM1ODM3OTUwJTNBYXJ0aWNsZXMlMjF1c2VyX2ludGVyZXN0JTNBMyZnPWFydGljbGVzJ=
+TIxdXNlcl9pbnRlcmVzdCZuPTMmcD1UcnVlJmI9N2I5MDIxNjU1OWRmM2MyODEzNjBkOTYzM=
+TQ1MTk4YzEtMTQ3NSZjPUluJTI1MjBDYXNlJTI1MjBZb3UlMjUyME1pc3NlZCUyNTIwSXQlM=
+jUyMC0lMjUyMElDWU1JJnI9TDE5d1lXZGxjeTlqYldoNk1UbDJjR1F3TUdGeU1qWndPREZ4Z=
+Edab01tbzMmcnQ9YXJ0aWNsZSZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3NjgmbT1lb=
+WFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lNSSZ1dG1fb=
+WVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJIVFVXUDRPd=
+yUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYwMTE1NDc/g=
+aRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s3g816aea57" target=3D"_blank" style=
+=3D"background-color:#cc0000;border-bottom:0px solid transparent;border-=
+left:0px solid transparent;border-radius:8px;border-right:0px solid tran=
+sparent;border-top:0px solid transparent;color:#ffffff;display:inline-bl=
+ock;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:1=
+4px;font-weight:undefined;mso-border-alt:none;padding-bottom:5px;padding=
+-top:5px;text-align:center;text-decoration:none;width:auto;word-break:ke=
+ep-all;" data-location=3D"t6"><span style=3D"word-break: break-word; pad=
+ding-left: 15px; padding-right: 15px; font-size: 14px; display: inline-b=
+lock; letter-spacing: normal;"><span style=3D"word-break: break-word;"><=
+span style=3D"word-break: break-word; line-height: 28px;" data-mce-style=
+>Read on CNN=C2=A0</span></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div></td></tr></table>
+<table class=3D"divider_block block-5" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bott=
+om:10px;padding-left:10px;padding-right:10px;padding-top:35px"><div clas=
+s=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" width=3D"70%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inner" style=3D"fo=
+nt-size:1px;line-height:1px;border-top:1px solid #e3e1e1"><span style=3D=
+"word-break: break-word;">=E2=80=8A</span></td></tr></table></div></td><=
+/tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-5" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td>
+<table class=3D"row-content stack" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0;color:#000;width:580px;margin:0 auto" width=3D=
+"580"><tbody><tr><td class=3D"column column-1" width=3D"100%" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;ver=
+tical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:=
+0"><table class=3D"html_block block-1" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fa=
+mily:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center" align=3D=
+"center"></div></td></tr></table></td></tr></tbody></table>
+</td></tr></tbody></table>
+<table class=3D"row row-6" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;color:#000;width:580px;margin:0 auto" width=3D"580"><tbody><tr><td clas=
+s=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;font-weight:400;text-align:left;padding-bottom:30px;padding-=
+left:20px;padding-right:20px;padding-top:5px;vertical-align:top;border-t=
+op:0;border-right:0;border-bottom:0;border-left:0">
+<table class=3D"text_block block-1" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"10" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad"><=
+div style=3D"font-family:sans-serif"><div class style=3D"font-size:12px;=
+font-family:Helvetica Neue,Helvetica,Arial,sans-serif;mso-line-height-al=
+t:14.399999999999999px;color:#c00;line-height:1.2"><p style=3D"margin:0;=
+font-size:14px;text-align:center;mso-line-height-alt:16.8px;letter-spaci=
+ng:2px">
+<strong><span style=3D"word-break: break-word; font-size: 20px;">WATCH</=
+span></strong></p></div></div></td></tr></table>
+<table class=3D"image_block block-2" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"width:100%"><d=
+iv class=3D"alignment" align=3D"center" style=3D"line-height:10px"><div =
+style=3D"max-width:540px">
+<a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxl=
+Y3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOi=
+Jjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbG=
+VjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWluLmNvbS9jbG=
+ljay9jbm4vdG55aGJwa0orT0h4UjJEalZ4MEJaMk1Oc2liaHYyUGZwK216SG5kZUpadEJHNk=
+VwT0V0NHZVaVVXSFdSbnNuMXBCVE1WbEJTREE0aFBOWUVxdXBocEE9PQ/SWkhfQ05OX2lfTm=
+V3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0dHBzJTNBJTJGJTJGd3=
+d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRmJ1c2luZXNzJTJGdmlkZW8lMkZtZWd5bi=
+1rZWxseS1xdWVzdGlvbnMtZXBzdGVpbi1wZWRvcGhpbGUtZGlndmlkJnJzaWQ9ODUwMjg5Y2=
+UtOWZkMS00YTBmLTgzYzQtNWUzNzA0MGIzNDhjJnJpZD04NTAyODljZS05ZmQxLTRhMGYtOD=
+NjNC01ZTM3MDQwYjM0OGMlM0F2aWRlbyUyMXVzZXJfaW50ZXJlc3QlM0EwJmc9dmlkZW8lMj=
+F1c2VyX2ludGVyZXN0Jm49MCZwPVRydWUmYj03YjkwMjE2NTU5ZGYzYzI4MTM2MGQ5NjMxND=
+UxOThjMS0xNDc1JmM9SW4lMjUyMENhc2UlMjUyMFlvdSUyNTIwTWlzc2VkJTI1MjBJdCUyNT=
+IwLSUyNTIwSUNZTUkmcj1MMTl3WVdkbGN5OWpiV2g1Y25WcU9Hc3dNRGgyTWpkeGJXZHFPVE=
+EwWWpCdSZydD12aWRlby5vdGhlciZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00ODk3NjgmbT=
+1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJQ1lNSSZ1dG=
+1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJxQnJIVFVXUD=
+RPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMxNjYwMTE1ND=
+c/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ha4ced720" target=3D"_blank" st=
+yle=3D"outline:none" tabindex=3D"-1" data-location=3D"t7"><img src=3D"ht=
+tps://media.cnn.com/api/v1/images/stellar/prod/still-22118879-94753-534-=
+still.jpg?c=3D16x9&amp;q=3Dw_800,c_fill" style=3D"display:block;height:a=
+uto;border:0;width:100%" width=3D"540" alt=3D"Megyn Kelly appears to que=
+stion whether Epstein was a pedophile | CNN Business" title=3D"Megyn Kel=
+ly appears to question whether Epstein was a pedophile | CNN Business" h=
+eight=3D"auto"></a>
+</div></div></td></tr></table>
+<table class=3D"text_block block-3" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-bottom:20px;padding-top:20px"><div style=3D"font-family:A=
+rial,sans-serif"><div class style=3D"font-size:12px;font-family:'Helveti=
+ca Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;color:#2020=
+20;line-height:1.5"><p style=3D"margin:0;mso-line-height-alt:27px">
+<span style=3D"word-break: break-word; font-size: 18px;"><strong><span s=
+tyle=3D"word-break: break-word;"><a style=3D"text-decoration: none; colo=
+r: #cc0000;" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aW=
+NoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEy=
+IiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJk=
+IjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWlu=
+LmNvbS9jbGljay9jbm4vdG55aGJwa0orT0h4UjJEalZ4MEJaMk1Oc2liaHYyUGZwK216SG5k=
+ZUpadEJHNkVwT0V0NHZVaVVXSFdSbnNuMXBCVE1WbEJTREE0aFBOWUVxdXBocEE9PQ/SWkhf=
+Q05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0dHBzJTNB=
+JTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRmJ1c2luZXNzJTJGdmlkZW8l=
+MkZtZWd5bi1rZWxseS1xdWVzdGlvbnMtZXBzdGVpbi1wZWRvcGhpbGUtZGlndmlkJnJzaWQ9=
+ODUwMjg5Y2UtOWZkMS00YTBmLTgzYzQtNWUzNzA0MGIzNDhjJnJpZD04NTAyODljZS05ZmQx=
+LTRhMGYtODNjNC01ZTM3MDQwYjM0OGMlM0F2aWRlbyUyMXVzZXJfaW50ZXJlc3QlM0EwJmc9=
+dmlkZW8lMjF1c2VyX2ludGVyZXN0Jm49MCZwPVRydWUmYj03YjkwMjE2NTU5ZGYzYzI4MTM2=
+MGQ5NjMxNDUxOThjMS0xNDc1JmM9SW4lMjUyMENhc2UlMjUyMFlvdSUyNTIwTWlzc2VkJTI1=
+MjBJdCUyNTIwLSUyNTIwSUNZTUkmcj1MMTl3WVdkbGN5OWpiV2g1Y25WcU9Hc3dNRGgyTWpk=
+eGJXZHFPVEEwWWpCdSZydD12aWRlby5vdGhlciZ4PVpYaHdYMkowJnJjPVBvcHVsYXImdD00=
+ODk3NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrSXQrLStJ=
+Q1lNSSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2aWRqUXJx=
+QnJIVFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzPTE3NjMx=
+NjYwMTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ha4ced720" target=3D"=
+_blank" rel=3D"noopener" data-location=3D"t8">Megyn Kelly appears to que=
+stion whether Epstein was a pedophile </a></span></strong></span></p></d=
+iv></div></td></tr></table>
+<table class=3D"text_block block-4" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad"><d=
+iv style=3D"font-family:sans-serif"><div class style=3D"font-size:12px;f=
+ont-family:Helvetica Neue,Helvetica,Arial,sans-serif;mso-line-height-alt=
+:21.6px;color:#202020;line-height:1.8"><p style=3D"margin:0;mso-line-hei=
+ght-alt:28.8px"><span style=3D"word-break: break-word; font-size: 16px;"=
+>During an episode of her podcast on Sirius XM, former Fox News host Meg=
+yn Kelly, questioned whether Jeffrey Epstein was a pedophile, saying we =
+are yet to hear evidence that children under 10 have come forward to cla=
+im they were assaulted by him.</span></p></div></div></td></tr></table>
+<table class=3D"text_block block-5" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" st=
+yle=3D"padding-top:5px"><div style=3D"font-family:sans-serif"><div class=
+ style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans=
+-serif;mso-line-height-alt:14.399999999999999px;color:#555;line-height:1=
+.2"><p style=3D"margin:0;font-size:12px;mso-line-height-alt:14.399999999=
+999999px">=C2=A0</p></div></div></td></tr></table>
+<table class=3D"button_block block-6" width=3D"100%" border=3D"0" cellpa=
+dding=3D"5" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignmen=
+t" align=3D"center">
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" href=3D"https://e.newsletters.cnn.com/c=
+lick?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDEx=
+NTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdm=
+YzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVj=
+dC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9jbm4vdG55aGJwa0orT0h4UjJEalZ4MEJaMk1O=
+c2liaHYyUGZwK216SG5kZUpadEJHNkVwT0V0NHZVaVVXSFdSbnNuMXBCVE1WbEJTREE0aFBO=
+WUVxdXBocEE9PQ/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY2=
+4x/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRmJ1=
+c2luZXNzJTJGdmlkZW8lMkZtZWd5bi1rZWxseS1xdWVzdGlvbnMtZXBzdGVpbi1wZWRvcGhp=
+bGUtZGlndmlkJnJzaWQ9ODUwMjg5Y2UtOWZkMS00YTBmLTgzYzQtNWUzNzA0MGIzNDhjJnJp=
+ZD04NTAyODljZS05ZmQxLTRhMGYtODNjNC01ZTM3MDQwYjM0OGMlM0F2aWRlbyUyMXVzZXJf=
+aW50ZXJlc3QlM0EwJmc9dmlkZW8lMjF1c2VyX2ludGVyZXN0Jm49MCZwPVRydWUmYj03Yjkw=
+MjE2NTU5ZGYzYzI4MTM2MGQ5NjMxNDUxOThjMS0xNDc1JmM9SW4lMjUyMENhc2UlMjUyMFlv=
+dSUyNTIwTWlzc2VkJTI1MjBJdCUyNTIwLSUyNTIwSUNZTUkmcj1MMTl3WVdkbGN5OWpiV2g1=
+Y25WcU9Hc3dNRGgyTWpkeGJXZHFPVEEwWWpCdSZydD12aWRlby5vdGhlciZ4PVpYaHdYMkow=
+JnJjPVBvcHVsYXImdD00ODk3NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lv=
+dStNaXNzZWQrSXQrLStJQ1lNSSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJG=
+OGZlQUY4UXN2aWRqUXJxQnJIVFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2=
+VXo5JmJ0X3RzPTE3NjMxNjYwMTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8h=
+a4ced720" style=3D"height:38px;width:127px;v-text-anchor:middle;" arcsiz=
+e=3D"22%" stroke=3D"false" fillcolor=3D"#cc0000">
+<w:anchorlock/>
+<v:textbox inset=3D"0px,0px,0px,0px">
+<center dir=3D"false" style=3D"color:#ffffff;font-family:Arial, sans-ser=
+if;font-size:14px">
+<![endif]-->
+<a class=3D"button" href=3D"https://e.newsletters.cnn.com/click?Edi5wLmF=
+ua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzN=
+TA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3N=
+SIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vb=
+XRyYWluLmNvbS9jbGljay9jbm4vdG55aGJwa0orT0h4UjJEalZ4MEJaMk1Oc2liaHYyUGZwK=
+216SG5kZUpadEJHNkVwT0V0NHZVaVVXSFdSbnNuMXBCVE1WbEJTREE0aFBOWUVxdXBocEE9P=
+Q/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3JkPWh0d=
+HBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI1JTJGMTElMkYxNCUyRmJ1c2luZXNzJTJGd=
+mlkZW8lMkZtZWd5bi1rZWxseS1xdWVzdGlvbnMtZXBzdGVpbi1wZWRvcGhpbGUtZGlndmlkJ=
+nJzaWQ9ODUwMjg5Y2UtOWZkMS00YTBmLTgzYzQtNWUzNzA0MGIzNDhjJnJpZD04NTAyODljZ=
+S05ZmQxLTRhMGYtODNjNC01ZTM3MDQwYjM0OGMlM0F2aWRlbyUyMXVzZXJfaW50ZXJlc3QlM=
+0EwJmc9dmlkZW8lMjF1c2VyX2ludGVyZXN0Jm49MCZwPVRydWUmYj03YjkwMjE2NTU5ZGYzY=
+zI4MTM2MGQ5NjMxNDUxOThjMS0xNDc1JmM9SW4lMjUyMENhc2UlMjUyMFlvdSUyNTIwTWlzc=
+2VkJTI1MjBJdCUyNTIwLSUyNTIwSUNZTUkmcj1MMTl3WVdkbGN5OWpiV2g1Y25WcU9Hc3dNR=
+GgyTWpkeGJXZHFPVEEwWWpCdSZydD12aWRlby5vdGhlciZ4PVpYaHdYMkowJnJjPVBvcHVsY=
+XImdD00ODk3NjgmbT1lbWFpbCZ1dG1fc291cmNlPWNubl9JbitDYXNlK1lvdStNaXNzZWQrS=
+XQrLStJQ1lNSSZ1dG1fbWVkaXVtPWVtYWlsJmJ0X2VlPTVjVndENmh1JTJGOGZlQUY4UXN2a=
+WRqUXJxQnJIVFVXUDRPdyUyQjZQVE9SZzNicVFmMWhUYkJvWE5ZSTRKY2o2VXo5JmJ0X3RzP=
+TE3NjMxNjYwMTE1NDc/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s8ha4ced720" tar=
+get=3D"_blank" style=3D"background-color:#cc0000;border-bottom:0px solid=
+ transparent;border-left:0px solid transparent;border-radius:8px;border-=
+right:0px solid transparent;border-top:0px solid transparent;color:#ffff=
+ff;display:inline-block;font-family:Helvetica Neue, Helvetica, Arial, sa=
+ns-serif;font-size:14px;font-weight:undefined;mso-border-alt:none;paddin=
+g-bottom:5px;padding-top:5px;text-align:center;text-decoration:none;widt=
+h:auto;word-break:keep-all;" data-location=3D"t9"><span style=3D"word-br=
+eak: break-word; padding-left: 15px; padding-right: 15px; font-size: 14p=
+x; display: inline-block; letter-spacing: normal;"><span style=3D"word-b=
+reak: break-word;"><span style=3D"word-break: break-word; line-height: 2=
+8px;" data-mce-style>Watch on CNN=C2=A0</span></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div></td></tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-7" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;border-radius:0;color:#000;width:580px;margin:0 auto" width=3D"580"><tb=
+ody><tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bott=
+om:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;bo=
+rder-bottom:0;border-left:0"><table class=3D"paragraph_block block-1" wi=
+dth=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pr=
+esentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:br=
+eak-word"><tr><td class=3D"pad" style=3D"padding-bottom:10px;padding-lef=
+t:5px;padding-right:5px;padding-top:10px"><div style=3D"color:#000;direc=
+tion:ltr;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-si=
+ze:16px;font-weight:400;letter-spacing:0;line-height:120%;text-align:cen=
+ter;mso-line-height-alt:19.2px"><p style=3D"margin:0">
+What did you think about today's email? Send us feedback to<span style=3D=
+"word-break: break-word; color: #cc0000;"> <a href=3D"mailto:icymi@cnn.c=
+om" target=3D"_blank" title=3D"icymi@cnn.com" rel=3D"noopener" style=3D"=
+text-decoration: none; color: #cc0000;" data-location=3D"t10">icymi@cnn.=
+com</a></span></p></div></td></tr></table></td></tr></tbody></table></td=
+></tr></tbody></table>
+<table class=3D"row row-8" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;border-radius:0;color:#000;width:580px;margin:0 auto" width=3D"580"><tb=
+ody><tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bott=
+om:5px;padding-top:5px;vertical-align:top;border-top:0;border-right:0;bo=
+rder-bottom:0;border-left:0"><table class=3D"html_block block-1" width=3D=
+"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presenta=
+tion" style=3D"mso-table-lspace:0;mso-table-rspace:0">
+<tr><td class=3D"pad"><div style=3D"font-family:Helvetica Neue,Helvetica=
+,Arial,sans-serif;text-align:center" align=3D"center">
+<div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"ce=
+nter"><tr><td align=3D"center"><a href=3D"https://e.newsletters.cnn.com/=
+click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDE=
+xNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTd=
+mYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly9saS5jbm4=
+uY29tL2NsaWNr/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24=
+x/qP3M9ODYzMzU1JmxpPSZlPXYucC5hbmtldmljaEBjb2xsZWN0b3JzaGFzaC5zdSZwPTQ5N=
+Dk4MyZzdHBlPWRlZmF1bHQmdXRtX3NvdXJjZT1jbm5fSW4rQ2FzZStZb3UrTWlzc2VkK0l0K=
+y0rSUNZTUkmdXRtX21lZGl1bT1lbWFpbCZidF9lZT01Y1Z3RDZodSUyRjhmZUFGOFFzdmlka=
+lFycUJySFRVV1A0T3clMkI2UFRPUmczYnFRZjFoVGJCb1hOWUk0SmNqNlV6OSZidF90cz0xN=
+zYzMTY2MDExNTQ3/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s4v8e4511e3" rel=3D=
+"nofollow" data-location=3D"t11"><img src=3D"https://li.cnn.com/imp?s=3D=
+863355&amp;li=3D&amp;e=3Dv.p.ankevich@collectorshash.su&amp;p=3D494983&a=
+mp;stpe=3Ddefault" border=3D"0" width=3D"600" style=3D"width: 100%; max-=
+width: 600px !important;"></a></td></tr></table></div>
+</div></td></tr>
+</table></td></tr></tbody></table></td></tr></tbody></table>
+<table class=3D"row row-9" align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-con=
+tent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;border-radius:0;color:#000;width:580px;margin:0 auto" width=3D"580"><tb=
+ody>
+<tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspa=
+ce:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:t=
+op;border-top:0;border-right:0;border-bottom:0;border-left:0"><table cla=
+ss=3D"html_block block-1" width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-=
+table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-family:Helvetic=
+a Neue,Helvetica,Arial,sans-serif;text-align:center" align=3D"center">
+<title></title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D=
+1">
+<!--[if mso]>
+<xml><w:WordDocument xmlns:w=3D"urn:schemas-microsoft-com:office:word"><=
+w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowP=
+NG/></o:OfficeDocumentSettings></xml>
+<![endif]--><!--[if !mso]><!--><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors=
+]{color:inherit!important;text-decoration:inherit!important}#MessageView=
+Body a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop=
+_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflo=
+w:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-he=
+ight:0} @media (max-width:620px){.row-1 .column-1 .block-27.social_block=
+ .alignment table,.row-1 .column-1 .block-29.social_block .alignment tab=
+le,.row-1 .column-1 .block-31.social_block .alignment table,.row-1 .colu=
+mn-1 .block-33.social_block .alignment table,.social_block.desktop_hide =
+.social-table{display:inline-block!important}.mobile_hide{display:none}.=
+row-content{width:100%!important}.stack .column{width:100%;display:block=
+}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;font=
+-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-he=
+ight:none!important}.row-1 .column-1 .block-27.social_block .alignment,.=
+row-1 .column-1 .block-29.social_block .alignment,.row-1 .column-1 .bloc=
+k-31.social_block .alignment,.row-1 .column-1 .block-33.social_block .al=
+ignment{text-align:left!important}}
+</style>
+<!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-=
+text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--><!--[if=
+ true]><style>.forceBgColor{background-color: white !important}</style><=
+![endif]--><table class=3D"nl-container" width=3D"100%" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tabl=
+e-lspace:0;mso-table-rspace:0;background-color:transparent"><tbody><tr><=
+td><table class=3D"row row-1" align=3D"center" width=3D"100%" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"ms=
+o-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-=
+content stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rsp=
+ace:0;background-color:#000;color:#000;width:600px;margin:0 auto" width=3D=
+"600">
+<tbody><tr><td class=3D"column column-1" width=3D"100%" style=3D"text-al=
+ign:left;mso-table-lspace:0;mso-table-rspace:0;font-weight:400;padding-b=
+ottom:20px;padding-left:20px;padding-right:20px;padding-top:20px;vertica=
+l-align:top">
+<table class=3D"html_block block-1" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-famil=
+y:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D"=
+center">
+
+
+
+
+
+
+
+
+
+
+</div></td></tr></table>
+<table class=3D"html_block block-2" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-famil=
+y:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D"=
+center">
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"left">
+  <tr>
+    <td align=3D"left"><a href=3D"https://e.newsletters.cnn.com/click?Ed=
+i5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJ=
+kOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGI=
+tMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cDovL3d3dy5jbm4uY29t/SW=
+khfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9zb3VyY=
+2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmY=
+nRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxU=
+WYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwM=
+jVDNDk0OTg0QjE0NzU/sak24fb7ea1" target=3D"_blank" data-location=3D"t15">=
+<img src=3D"https://images.newsletters.cnn.com/images/3dfe4d97843b307b4f=
+a50e553d3f9467/CNN_Free_Float_HEX_FullSize.png" width=3D"75" alt=3D"CNN"=
+></a></td>
+  </tr>
+</table>
+
+</div></td></tr></table>
+<div class=3D"spacer_block block-3" style=3D"height:10px;line-height:10p=
+x;font-size:1px">=E2=80=8A</div>
+<table class=3D"html_block block-4" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-famil=
+y:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D"=
+center"></div></td></tr></table>
+<table class=3D"html_block block-13" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fami=
+ly:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D=
+"center"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"left">
+  <tr>
+    <td align=3D"left" style=3D"font-size:12px; text-align:left; font-fa=
+mily: 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; color:#ffffff; l=
+ine-height: 20px;">You are receiving this newsletter because you signed =
+up for In Case You Missed It.<br>
+      To stop receiving this newsletter, <a href=3D"https://e.newsletter=
+s.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxN=
+zYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkY=
+jIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6L=
+y9mb3JtLmNubi5jb20vdW5zdWJzY3JpYmU/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1=
+YzQ5NDk4NGIxNDc1/LY24x/qP2VuY2F1PWpTQjdFdWRtZkd4b1pwSG8wVGJoQTVaYW1SMXVs=
+QW5TSVVWQ1BKUXh3OVNKV0xkcE9FNjdEJTJCZWlwZzFmJTBBUFIlMkJ5JTBBJm1lc3NhZ2Vf=
+dWlkPTE3NjMxNjYwMTE1NDU2MmQ4ZTM1MDYxYTImc2lkPXJlZ19yZWNz/gaRfHSg/JMTExNT=
+IwMjVDNDk0OTg0QjE0NzU/s0s0325e19e" target=3D"_blank" style=3D"color: #ff=
+ffff; text-decoration: underline;" data-location=3D"t26">unsubscribe</a>=
+ or sign up to <a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua=
+2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA=
+2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSI=
+sInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cuY25uLmNvbS9hY2NvdW5=
+0L3JlZ2lzdGVy/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24=
+x/qP3NvdXJjZT1ubF9mb290ZXImcmVkaXJlY3Q9aHR0cHM6Ly93d3cuY25uLmNvbS9hY2Nvd=
+W50L3NldHRpbmdzJnV0bV9zb3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDW=
+U1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCc=
+khUVVdQNE93JTJCNlBUT1JnM2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2N=
+jAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s7g9436e521" target=3D"_b=
+lank" style=3D"color: #ffffff; text-decoration: underline;" data-locatio=
+n=3D"t27">manage your CNN account</a>
+    </td>
+  </tr>
+</table></div></td></tr></table>
+<div class=3D"spacer_block block-14" style=3D"height:20px;line-height:20=
+px;font-size:1px">=E2=80=8A</div>
+<table class=3D"paragraph_block block-15" width=3D"100%" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"p=
+ad"><div style=3D"color:#fff;direction:ltr;font-family:'Helvetica Neue',=
+Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;letter-spacing=
+:0;line-height:1.5;text-align:left;mso-line-height-alt:18px"><p style=3D=
+"margin:0">
+<u><a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvb=
+GxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3Q=
+iOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29=
+sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cuY25uLmNvbS93ZWItbm90aWZpY2F0aW9=
+ucw/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9=
+zb3VyY2U9bmxfZm9vdGVyJnV0bV9zb3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCs=
+tK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGp=
+RcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc=
+2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s2u5686a6f1" target=
+=3D"_blank" style=3D"text-decoration: underline; color: #ffffff;" rel=3D=
+"noopener" data-location=3D"t28">Get CNN web alerts</a></u>=C2=A0 |=C2=A0=
+ <u><a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNv=
+bGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3=
+QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY2=
+9sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cuY25uLmNvbS9hY2NvdW50L3JlZ2lzdG=
+Vy/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3NvdXJj=
+ZT1ubF9mb290ZXImcmVkaXJlY3Q9aHR0cHM6Ly93d3cuY25uLmNvbS9hY2NvdW50L3NldHRp=
+bmdzJnV0bV9zb3VyY2U9Y25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9t=
+ZWRpdW09ZW1haWwmYnRfZWU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93=
+JTJCNlBUT1JnM2JxUWYxaFRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/g=
+aRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s7g9436e521" target=3D"_blank" style=
+=3D"text-decoration: underline; color: #ffffff;" rel=3D"noopener" data-l=
+ocation=3D"t29">Sign up for a free CNN account</a></u></p></div></td></t=
+r></table>
+<div class=3D"spacer_block block-16" style=3D"height:20px;line-height:20=
+px;font-size:1px">=E2=80=8A
+</div>
+<table class=3D"paragraph_block block-17" width=3D"100%" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"p=
+ad"><div style=3D"color:#fff;direction:ltr;font-family:'Helvetica Neue',=
+Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;letter-spacing=
+:0;line-height:1.5;text-align:left;mso-line-height-alt:18px"><p style=3D=
+"margin:0">
+<a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxl=
+Y3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOi=
+Jjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbG=
+VjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cud2JkcHJpdmFjeS5jb20vcG9saWN5Y2VudG=
+VyL2IyYy8/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/ga=
+RfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/seueb79a6d9" target=3D"_blank" title=3D=
+"Privacy Policy" rel=3D"noopener" style=3D"text-decoration: underline; c=
+olor: #ffffff;" data-location=3D"t30"></a><a href=3D"https://e.newslette=
+rs.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIx=
+NzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJk=
+YjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6=
+Ly93d3cud2JkcHJpdmFjeS5jb20vcG9saWN5Y2VudGVyL2IyYy8/SWkhfQ05OX2lfTmV3c19=
+OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE=
+0NzU/seueb79a6d9" target=3D"_blank" title=3D"Privacy Policy" style=3D"te=
+xt-decoration: underline; color: #ffffff;" rel=3D"noopener" data-locatio=
+n=3D"t31"></a><a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2=
+V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2=
+MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIs=
+InJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cud2JkcHJpdmFjeS5jb20v=
+cG9saWN5Y2VudGVyL2IyYy8/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGI=
+xNDc1/LY24x/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/seueb79a6d9" target=3D"=
+_blank" title=3D"Privacy Policy" rel=3D"noopener" style=3D"text-decorati=
+on: underline; color: #ffffff;" data-location=3D"t32">Privacy Policy</a>=
+=C2=A0| <a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNo=
+QGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIi=
+wiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIj=
+oiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cuY25uLmNvbS90ZXJtczA/SWkhfQ=
+05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9zb3VyY2U9Y=
+25uX0luK0Nhc2UrWW91K01pc3NlZCtJdCstK0lDWU1JJnV0bV9tZWRpdW09ZW1haWwmYnRfZ=
+WU9NWNWd0Q2aHUlMkY4ZmVBRjhRc3ZpZGpRcnFCckhUVVdQNE93JTJCNlBUT1JnM2JxUWYxa=
+FRiQm9YTllJNEpjajZVejkmYnRfdHM9MTc2MzE2NjAxMTU0Nw/gaRfHSg/JMTExNTIwMjVDN=
+Dk0OTg0QjE0NzU/sal252565eb" target=3D"_blank" title=3D"Terms of Use" sty=
+le=3D"text-decoration: underline; color: #ffffff;" rel=3D"noopener" data=
+-location=3D"t33">Terms of Use</a>
+</p></div></td></tr></table>
+<table class=3D"html_block block-18" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fami=
+ly:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D=
+"center"></div></td></tr></table>
+<div class=3D"spacer_block block-19" style=3D"height:10px;line-height:10=
+px;font-size:1px">=E2=80=8A</div>
+<table class=3D"html_block block-20" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fami=
+ly:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D=
+"center"></div></td></tr></table>
+<table class=3D"paragraph_block block-23" width=3D"100%" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"p=
+ad"><div style=3D"color:#fff;direction:ltr;font-family:'Helvetica Neue',=
+Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;letter-spacing=
+:0;line-height:1.5;text-align:left;mso-line-height-alt:18px"><p style=3D=
+"margin:0">=C2=AE =C2=A9 2025 Cable News Network. A Warner Bros. Discove=
+ry=C2=A0Company. All Rights Reserved.<br>
+1050 Techwood Drive NW, Atlanta, GA 30318</p></div></td></tr></table>
+<table class=3D"html_block block-24" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fami=
+ly:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D=
+"center"></div></td></tr></table>
+<div class=3D"spacer_block block-25" style=3D"height:10px;line-height:10=
+px;font-size:1px">=E2=80=8A</div>
+<table class=3D"html_block block-26" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fami=
+ly:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D=
+"center"></div></td></tr></table>
+<table class=3D"social_block block-33" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"text-align:l=
+eft;padding-right:0;padding-left:0"><div class=3D"alignment" align=3D"le=
+ft"><table class=3D"social-table" width=3D"216px" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspa=
+ce:0;mso-table-rspace:0;display:inline-block"><tr>
+<td style=3D"padding:0 4px 0 0"><a href=3D"https://e.newsletters.cnn.com=
+/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MD=
+ExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYT=
+dmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cuZm=
+FjZWJvb2suY29tL2Nubg/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxND=
+c1/LY24x/qP3V0bV9zb3VyY2U9bmxfZm9vdGVy/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0=
+NzU/scvfc7b74dd" target=3D"_blank" data-location=3D"t53"><img src=3D"htt=
+ps://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-onl=
+y-logo-default-gray/facebook@2x.png" width=3D"32" height=3D"auto" alt=3D=
+"Facebook" title=3D"Facebook" style=3D"display:block;height:auto;border:=
+0"></a></td>
+<td style=3D"padding:0 4px 0 0">
+<a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxl=
+Y3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOi=
+Jjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbG=
+VjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly90d2l0dGVyLmNvbS9jbm4/SWkhfQ05OX2lfTmV3c=
+19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9zb3VyY2U9bmxfZm9vdGVy/=
+gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/sbo96d5986b" target=3D"_blank" data=
+-location=3D"t54"><img src=3D"https://app-rsrc.getbee.io/public/resource=
+s/social-networks-icon-sets/t-only-logo-default-gray/twitter@2x.png" wid=
+th=3D"32" height=3D"auto" alt=3D"X" title=3D"X" style=3D"display:block;h=
+eight:auto;border:0"></a>
+</td>
+<td style=3D"padding:0 4px 0 0"><a href=3D"https://e.newsletters.cnn.com=
+/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MD=
+ExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYT=
+dmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cuaW=
+5zdGFncmFtLmNvbS9jbm4v/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIx=
+NDc1/LY24x/qP3V0bV9zb3VyY2U9bmxfZm9vdGVy/gaRfHSg/JMTExNTIwMjVDNDk0OTg0Qj=
+E0NzU/sfg7e77fea0" target=3D"_blank" data-location=3D"t55"><img src=3D"h=
+ttps://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-o=
+nly-logo-default-gray/instagram@2x.png" width=3D"32" height=3D"auto" alt=
+=3D"Instagram" title=3D"Instagram" style=3D"display:block;height:auto;bo=
+rder:0"></a></td>
+<td style=3D"padding:0 4px 0 0"><a href=3D"https://e.newsletters.cnn.com=
+/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MD=
+ExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYT=
+dmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cueW=
+91dHViZS5jb20vY25u/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1=
+/LY24x/qP3V0bV9zb3VyY2U9bmxfZm9vdGVy/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0Nz=
+U/sem4e001e0c" target=3D"_blank" data-location=3D"t56"><img src=3D"https=
+://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-=
+logo-default-gray/youtube@2x.png" width=3D"32" height=3D"auto" alt=3D"Yo=
+uTube" title=3D"YouTube" style=3D"display:block;height:auto;border:0"></=
+a></td>
+<td style=3D"padding:0 4px 0 0"><a href=3D"https://e.newsletters.cnn.com=
+/click?Edi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MD=
+ExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOiJjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYT=
+dmYzNkZGItMTQ3NSIsInJkIjoiY29sbGVjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cudG=
+lrdG9rLmNvbS9AY25u/SWkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1=
+/LY24x/qP3V0bV9zb3VyY2U9bmxfZm9vdGVy/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0Nz=
+U/s4vf721876a" target=3D"_blank" data-location=3D"t57"><img src=3D"https=
+://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-=
+logo-default-gray/tiktok@2x.png" width=3D"32" height=3D"auto" alt=3D"Tik=
+Tok" title=3D"TikTok" style=3D"display:block;height:auto;border:0"></a><=
+/td>
+<td style=3D"padding:0 4px 0 0">
+<a href=3D"https://e.newsletters.cnn.com/click?Edi5wLmFua2V2aWNoQGNvbGxl=
+Y3RvcnNoYXNoLnN1/CeyJtaWQiOiIxNzYzMTY2MDExNTQ1NjJkOGUzNTA2MWEyIiwiY3QiOi=
+Jjbm4tZWRkYzNjMzQwOWVmYzQ2YzJkYjIzNDlmYTdmYzNkZGItMTQ3NSIsInJkIjoiY29sbG=
+VjdG9yc2hhc2guc3UifQ/VaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY25u/S=
+WkhfQ05OX2lfTmV3c19OREJBTjExMTUyMDI1YzQ5NDk4NGIxNDc1/LY24x/qP3V0bV9zb3Vy=
+Y2U9bmxfZm9vdGVy/gaRfHSg/JMTExNTIwMjVDNDk0OTg0QjE0NzU/s4ud22ddec6" targe=
+t=3D"_blank" data-location=3D"t58"><img src=3D"https://app-rsrc.getbee.i=
+o/public/resources/social-networks-icon-sets/t-only-logo-default-gray/li=
+nkedin@2x.png" width=3D"32" height=3D"auto" alt=3D"LinkedIn" title=3D"Li=
+nkedIn" style=3D"display:block;height:auto;border:0"></a>
+</td>
+</tr></table></div></td></tr></table>
+<table class=3D"html_block block-34" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fami=
+ly:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center" align=3D=
+"center"></div></td></tr></table>
+</td></tr></tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table>
+<!-- End -->
+</div></td></tr></table></td></tr>
+</tbody></table></td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- End -->
+</body>
+</html>
+
+--==bfa456d2656a96e64abbdf63d6ed2807--

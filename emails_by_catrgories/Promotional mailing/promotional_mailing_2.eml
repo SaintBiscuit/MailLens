@@ -1,0 +1,791 @@
+Return-Path: <bounce.5eeb24000040d0ce0120110e@mta10-2.directcrm.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from mta10-2.directcrm.ru (mta10-2.directcrm.ru [176.107.162.254])
+	by mail.collectorshash.su (Postfix) with ESMTP id 17C5120975
+	for <v.p.ankevich@collectorshash.su>; Fri, 14 Nov 2025 12:31:33 +0300 (MSK)
+Content-Type: text/html;
+ charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Date: Fri, 14 Nov 2025 09:31:32 +0000
+Message-ID: <5eeb24000040d0ce0120110e@mta10-2.directcrm.ru>
+Subject: =?utf-8?B?8J+RviDQldGB0LvQuCDQmNCy0LDQvSDQuNC90YLQtdGA0LXRgdGD0LU=?=
+ =?utf-8?B?0YLRgdGPINC+0L3Qu9Cw0LnQvS3QuNCz0YDQsNC80LjigKY=?=
+From: =?utf-8?B?0KPRh9C4LtGA0YM=?= <info@uchi.ru>
+To: <v.p.ankevich@collectorshash.su>
+Reply-To: =?utf-8?B?0KPRh9C4LtGA0YM=?= <info@uchi.ru>
+Precedence: bulk
+X-xsMessageId: 5eeb24000040d0ce0120110e
+X-xsMailingId: 2419550
+X-Mailru-Msgtype: 2419550
+List-ID: <batch2419550.list-id.uchi.ru>
+Feedback-ID: 2419550:587:mindbox
+X-Mailer: mindbox.ru
+List-Unsubscribe: <mailto:lu.5eeb24000040d0ce0120110e@list-unsubscribe-stable.mindbox.ru>, <https://tn-wp.mckl.ru/ocu/XuskAABA0M4BIBEO>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=uchi.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=Hxogk/ghsQW6ju5YDLeHnO4mZNzyVak6u8Gvn47VE1U=;
+ b=Eo3300ZYjNTwf2uy9hNL3B8O2XQhwAFOcWSccqSdqy9QyormPYVC3SNM6+jwZzoa+tFPZYq+eOnHEbnJ4o2Ki6cT4Vns6kUTuUhDunziyly6eoPOorX4pDgkN3ICkkgmM06igBBvnEI6yzbK9MU2WuiozC0r7iBj3TzvLNC7drU=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=mta10-2.directcrm.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=Hxogk/ghsQW6ju5YDLeHnO4mZNzyVak6u8Gvn47VE1U=;
+ b=J/fICVyYxx7Xz/elO0reuTj1vYTcTkCXm+B06E+hJvCJzXspbct4kyk42C5Xvx2iiTwyQyxM64hohNEy5NqHNE9/lgXjGfmUP+rMZyaHpk98PosU9kdSl/i1j3hea18OeUXIFMmg+0VpACKlTQa+dB4Y8NfhaYCNarcMXGUILoY=
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">=0A<html><head>=0A<meta http-equiv=3D"Content-Ty=
+pe" content=3D"text/html; charset=3DUTF-8">=0A<meta name=3D"viewport" conte=
+nt=3D"width=3Ddevice-width, initial-scale=3D1.0">=0A<meta http-equiv=3D"X-U=
+A-Compatible" content=3D"IE=3Dedge">=0A<title>UCHi.RU</title>=0A<style type=
+=3D"text/css">=0Ahtml { -webkit-text-size-adjust:none; -ms-text-size-adjust=
+: none;}=0A=0A.mail_preheader {=0A    display: none !important;=0A}=0A.no-l=
+ink,.no-link a,.nolink a[href^=3D"tel"],.nolink a[href^=3D"sms"] {=0A   col=
+or:inherit;=0A   cursor:default;=0A   text-decoration:none;=0A}=0A/* Hover =
+style */=0A.active,.active a,.active a img, .active_link_head {=0Atransitio=
+n:all .3s ease;=0A}=0A.active:hover,.active a:hover,.active a img:hover {=
+=0Aopacity:.8;=0A}=0A.active_link:hover,.active_link a:hover {=0A text-deco=
+ration: none !important;=0A}=0A.active_link_head:hover,.active_link_head a:=
+hover {=0A color: #765FDE !important;=0A}=0A/*hover img*/=0A.hover_img:hove=
+r > .img_original {=0A  display: none;=0A}=0A.hover_img:hover > .img_hover =
+{=0A  display: block !important;=0A}=0A.hover_img:hover > .img_hover img {=
+=0A  display: block !important;=0A  width: 110px !important;=0A}=0A=0A@medi=
+a only screen and (min-device-width: 680px) {=0A  .table680{=0A    width:68=
+0px !important;=0A  }=0A}=0A@media only screen and (max-width: 680px) {=0A =
+   .table680 {=0A        width: 100% !important;=0A    }=0A}=0A @media only=
+ screen and (max-width: 600px) {=0A      .mw100 {=0A      max-width: 100% !=
+important;=0A      }=0A      .dn {=0A        display: none !important;=0A  =
+    }=0A      .db {=0A        display: block !important;=0A      }=0A      =
+.dib {=0A        display: inline-block !important;=0A      }=0A      .plpr6=
+ {=0A        padding-left: 6px !important;=0A        padding-right: 6px !im=
+portant;=0A      }=0A      .pr16 {=0A        padding-right: 16px !important=
+;=0A      }=0A      .fz14 {=0A        font-size: 14px !important;=0A       =
+ line-height: 20px !important;=0A      }=0A      .w35 {=0A        width: 40=
+px !important;=0A      }=0A      }      =0A @media only screen and (max-wid=
+th:375px) and (min-width:374px) {.body{min-width:374px !important;}}=0A@med=
+ia only screen and (max-width:414px) and (min-width:413px) {.body{min-width=
+:413px !important;}}=0A@media only screen and (max-device-width: 680px), on=
+ly screen and (max-width: 680px) {=0A  html { -webkit-text-size-adjust:none=
+; -ms-text-size-adjust: none;}=0A  .table680 {=0A    width: 100% !important=
+;=0A  }=0A  .mob_100 {=0A    width:100% !important;=0A    max-width:100% !i=
+mportant;=0A  }=0A  .mob_center {=0A    text-align: center !important;=0A  =
+}=0A  .mob_block {=0A    display: block !important;=0A    padding-top: 5px =
+!important;=0A  }=0A  .mob_center_bl {=0A    /*float:none !important;*/=0A =
+   /*display: block !important;*/=0A    margin: 0 auto;=0A  }=0A  .mob_heig=
+ht {=0A    height: auto !important;=0A  }=0A  .mob_bg {=0A    background-im=
+age: none !important;=0A  }=0A  .fs_12 {=0A    font-size: 12px !important;=
+=0A    line-height: 16px !important;=0A  }=0A  .fs_14 {=0A    font-size: 14=
+px !important;=0A    line-height: 21px !important;=0A  }=0A  .fs_16 {=0A   =
+ font-size: 16px !important;=0A    line-height: 24px !important;=0A  }=0A  =
+.fs_20 {=0A    font-size: 20px !important;=0A    line-height: 25px !importa=
+nt;=0A  }=0A  .fs_22 {=0A    font-size: 22px !important;=0A    line-height:=
+ 28px !important;=0A  }=0A  .fs_26 {=0A    font-size: 26px !important;=0A  =
+  line-height: 32px !important;=0A  }=0A  .wd_20 {=0A    width: 20px !impor=
+tant;=0A  }=0A  .wd_30 {=0A    width: 30px !important;=0A  }=0A  .wd_33 {=
+=0A    width: 33px !important;=0A  }=0A  .wd_46 {=0A    width: 46px !import=
+ant;=0A  }=0A  .wd_60 {=0A    width: 60px !important;=0A  }=0A  .wd_80 {=0A=
+    width: 80px !important;=0A  }=0A  .wd_95 {=0A    width: 95px !important=
+;=0A  }=0A  .wd_215 {=0A    width: 215px !important;=0A  }=0A  .hg_20 {=0A =
+   height: 20px !important;=0A    line-height: 20px !important;=0A  }=0A  .=
+hg_40 {=0A    height: 40px !important;=0A    line-height: 40px !important;=
+=0A  }=0A  .hg_50 {=0A    height: 50px !important;=0A    line-height: 50px =
+!important;=0A  }=0A  .hg_60 {=0A    height: 60px !important;=0A    line-he=
+ight: 60px !important;=0A  }=0A  .pad_15 {=0A    padding: 0 15px !important=
+;=0A  }=0A  .hover_img:hover > .img_hover img {=0A    display: block !impor=
+tant;=0A    width: 80px !important;=0A  }=0A  .pad_btn {=0A    padding: 15p=
+x 10px !important;=0A  }=0A   .dn {=0A        display: none !important;=0A =
+     }=0A      .db {=0A        display: block !important;=0A      }=0A}=0A<=
+/style>=0A<style type=3D"text/css">=0A@-ms-viewport{width:device-width}=0A<=
+/style>=0A</head>=0A=0A<body style=3D"margin: 0px; padding: 0px; font-size:=
+ 0px; line-height: 0px;"><!--[if !mso]><!-->=0A<div style=3D"display:none; =
+visibility:hidden; opacity:0; height:0; width:0; overflow:hidden; mso-hides=
+:all;">=0A	=D0=9F=D0=BE=D0=BC=D0=BE=D0=B6=D0=B5=D0=BC =D1=81=D0=B4=D0=B5=D0=
+=BB=D0=B0=D1=82=D1=8C =D1=88=D0=B0=D0=B3 =D0=BA =D0=BF=D1=80=D0=BE=D1=84=D0=
+=B5=D1=81=D1=81=D0=B8=D0=B8 =D0=B2 IT-=D1=81=D1=84=D0=B5=D1=80=D0=B5=0A	&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;<vk=
+-snippet-end/>=0A</div>=0A<!--<![endif]-->=0A<div id=3D"mailsub" class=3D"n=
+otification" style=3D"word-break: normal;-webkit-text-size-adjust:none; -ms=
+-text-size-adjust: none;line-height: normal; margin: 0px; padding: 0px; fon=
+t-size: 0px; line-height: 0px;" align=3D"center">=0A<table width=3D"100%" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"line-height: norma=
+l;" class=3D"gmail-fix"><tr><td align=3D"center" style=3D"margin: 0px; padd=
+ing: 0px 5px; font-size: 0px; line-height: 0px;min-width: 100%;" bgcolor=3D=
+"#fafafa">=0A=0A<!--[if (gte mso 9)|(IE)]>=0A<table width=3D"680" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0">=0A<tr><td>=0A<![endif]-->=0A<div s=
+tyle=3D"overflow: hidden;">=0A<table class=3D"table680" style=3D"max-width:=
+ 680px; min-width: 320px;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0">=0A<tbody><tr><td align=3D"center">=0A  <!--preheader-->=0A=
+  <!--[if !mso]><!-->=0A  <div class=3D"mail_preheader" style=3D"font-size:=
+0px;color:#FAFAFA;line-height:0px;">=0A=0A&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;=E2=80=85=0A  </div>=0A  <!--<![endif]-->=0A  <!--preheader =
+END-->=0A=0A	<!-- padding --><div style=3D"height: 25px; line-height: 25px;=
+ font-size:8px;">&nbsp;</div>=0A=0A	<!--content -->=0A	<table style=3D"max-=
+width: 680px; width: 100% !important; overflow: hidden; border-top-left-rad=
+ius: 25px; border-top-right-radius: 25px;" width=3D"680" cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0">=0A	<tr><td valign=3D"top" align=3D"center" =
+bgcolor=3D"#82AFFF">=0A=0A<!-- head -->=0A                                 =
+ <table style=3D"max-width: 100%;" width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">=0A                                    <tbody>=0A  =
+                                    <tr>=0A                                =
+        <td align=3D"center" valign=3D"top" style=3D"padding: 0 15px;">=0A =
+                                         <!--[if (gte mso 9)|(IE)]>=0A     =
+                                     <table width=3D"560" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A                       =
+                     <tr>=0A                                              <=
+td valign=3D"top" width=3D"560" style=3D"width:560px;">=0A                 =
+                               <![endif]-->=0A                             =
+                   <table class=3D"outer" style=3D"margin:0 auto;border-col=
+lapse:collapse;border-spacing:0;max-width:560px;" width=3D"100%" align=3D"c=
+enter" cellpadding=3D"0" cellspacing=3D"0">=0A                             =
+                     <tr>=0A                                               =
+     <td align=3D"left" valign=3D"middle" height=3D"110" class=3D"hg_60" st=
+yle=3D"padding-right: 10px;">=0A                                           =
+           <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/zJvABg/IMjML=
+FOhv_Vz3jqn/?u=3Dhttps%3A%2F%2Fwww.doma.uchi.ru%2Fit_school_uchiru%3Futm_so=
+urce%3Dit%26utm_medium%3Demail_mg%26utm_campaign%3Dmiddle%26utm_content%3D2=
+51114%26utm_term%3D5_11" target=3D"_blank" style=3D"color: #303030; font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; bor=
+der: 0;">=0A                                                      <img src=
+=3D"https://email-images.mindbox.ru/Uchi/25b4b3b9-2c11-486d-8962-52352427bd=
+89/15af88f6-938e-43fa-98d5-73fa41c77aeb.png" width=3D"120" alt=3D"uchi.ru" =
+border=3D"0" style=3D"display: block;" class=3D"wd_60" /></a>=0A           =
+                                         </td>=0A                          =
+                          =0A                                              =
+    </tr>=0A                                                </table>=0A    =
+                                            <!--[if (gte mso 9)|(IE)]>=0A  =
+                                            </td>=0A                       =
+                     </tr>=0A                                          </ta=
+ble>=0A                                          <![endif]-->=0A           =
+                             </td>=0A                                      =
+</tr>=0A                                    </tbody>=0A                    =
+              </table>=0A                                  <!-- head END --=
+>=0A=0A=0A	<!-- creative -->=0A                                  <table wid=
+th=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-w=
+idth: 100%;">=0A                                    <!-- =D0=9D=D0=B0=D1=87=
+=D0=B0=D0=BB=D0=BE =D0=B1=D0=BB=D0=BE=D0=BA=D0=B0 - =D0=B1=D0=B0=D0=BD=D0=
+=BD=D0=BD=D0=B5=D1=80 + =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=D0=
+=B9 =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 -->=0A                            =
+        <!-- =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 =D0=9F=D0=9A -->=0A      =
+                              <tr>=0A                                      =
+<td class=3D"dn" style=3D"text-align: center;">=0A                         =
+               <center>=0A                                =0A              =
+                            <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4B=
+IBEO/zZvABg/Ty-vjv-1NLqUQnXo/?u=3Dhttps%3A%2F%2Fwww.doma.uchi.ru%2Fit_schoo=
+l_uchiru%3Futm_source%3Dit%26utm_medium%3Demail_mg%26utm_campaign%3Dmiddle%=
+26utm_content%3D251114%26utm_term%3D5_11" target=3D"_blank" style=3D"outlin=
+e: none; text-decoration: none;">=0A                                       =
+   <span style=3D"font-size: 14px; line-height: 20px;font-family: Arial;"><=
+img src=3D"https://email-images.mindbox.ru/Uchi/a1dbf751-d6d8-45c1-9079-504=
+d6a6edbb9/632cfec9-6e83-4ed4-bedc-07ab81e151c5.png" width=3D"680" alt=3D"=
+=D0=9F=D0=B5=D1=80=D0=B2=D1=8B=D0=B5 =D1=88=D0=B0=D0=B3=D0=B8 =D0=B2 IT =D0=
+=B1=D0=B5=D1=81=D0=BF=D0=BB=D0=B0=D1=82=D0=BD=D0=BE" style=3D"border: 0; ma=
+rgin: 0 auto; display: block; height: auto; max-width: 680px; outline: none=
+; text-decoration: none; width: 100%;"/></span>=0A                         =
+                 </a>=0A                                        </center>=
+=0A                                      </td>=0A                          =
+          </tr>=0A                                    <!-- =D0=B1=D0=B0=D0=
+=BD=D0=BD=D0=B5=D1=80 =D0=9F=D0=9A =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 -->=0A   =
+                                 <!-- =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=
+=D0=BD=D1=8B=D0=B9 =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 -->=0A             =
+                       <tr style=3D"mso-hide:all;">=0A                     =
+                 <td class=3D"db" style=3D"text-align: center; display: non=
+e; mso-hide:all;">=0A                                        <center style=
+=3D"mso-hide:all;">=0A                                          <a href=3D"=
+https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/zpvABg/iYWKeHLh33a7bWm-/?u=3Dhttps=
+%3A%2F%2Fwww.doma.uchi.ru%2Fit_school_uchiru%3Futm_source%3Dit%26utm_medium=
+%3Demail_mg%26utm_campaign%3Dmiddle%26utm_content%3D251114%26utm_term%3D5_1=
+1" target=3D"_blank" style=3D"outline: none; text-decoration: none; mso-hid=
+e:all;">=0A                                          <span style=3D"font-si=
+ze: 14px; line-height: 20px;font-family: Arial; mso-hide:all;"><img src=3D"=
+https://email-images.mindbox.ru/Uchi/a1dbf751-d6d8-45c1-9079-504d6a6edbb9/5=
+58c0232-12ea-4f85-b699-6afc18d9d8be.png" width=3D"414" alt=3D"=D0=9F=D0=B5=
+=D1=80=D0=B2=D1=8B=D0=B5 =D1=88=D0=B0=D0=B3=D0=B8 =D0=B2 IT =D0=B1=D0=B5=D1=
+=81=D0=BF=D0=BB=D0=B0=D1=82=D0=BD=D0=BE" style=3D"border: 0; margin: 0 auto=
+; display: block; height: auto; max-width: 414px; outline: none; text-decor=
+ation: none; width: 100%; mso-hide:all;"/></span>=0A                       =
+                   </a>=0A                                        </center>=
+=0A                                      </td>=0A                          =
+          </tr>=0A                                    <!-- =D0=BC=D0=BE=D0=
+=B1=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=
+=80 =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 --> =0A                                 =
+   <!-- =D0=9A=D0=BE=D0=BD=D0=B5=D1=86 =D0=B1=D0=BB=D0=BE=D0=BA=D0=B0 - =D0=
+=B1=D0=B0=D0=BD=D0=BD=D0=BD=D0=B5=D1=80 + =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=
+=8C=D0=BD=D1=8B=D0=B9 =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 -->=0A          =
+                        </table>=0A                                  <!-- c=
+reative END -->=0A=0A	=0A<table style=3D"max-width: 680px;" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0">=0A                       =
+                   <tr class=3D"">=0A							<td align=3D"center" bgcolor=3D=
+"#598BEC" style=3D"background-color: #598BEC;">=0A								<table width=3D"1=
+00%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=0A									<tr>=
+=0A										<td align=3D"center" style=3D"background-size: cover; padding:=
+ 0px 15px 2px 15px;" id=3D"1724412300389">=0A											<!--[if (gte mso 9)=
+|(IE)]> <table width=3D"560" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"width: 560px;"> <tr><td> <![endif]-->=0A											<table width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-wid=
+th: 560px; border-spacing: 0px;">=0A=0A=0A												<tr>=0A													<=
+td align=3D"center" bgcolor=3D"#ffffff" style=3D"background-color: #ffffff;=
+ padding: 18px 15px 18px 15px; border-radius: 16px;">=0A														<!--[=
+if (gte mso 9)|(IE)]> <table width=3D"512" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"width: 512px;"> <tr><td> <![endif]-->=0A									=
+					<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"max-width: 512px; border-spacing: 0px;">=0A=0A															<tr>=
+=0A																<td align=3D"center">=0A																	<!--items -->=
+=0A																	<table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0">=0A=0A																		<tr>=0A																			<td align=
+=3D"left" valign=3D"top" style=3D"font-size: 0px; line-height: 0px;">=0A			=
+																	=0A																				<!--item -->=0A																				=
+<!--[if (gte mso 9)|(IE)]> </td><td valign=3D"top" width=3D"392" style=3D"w=
+idth: 332px;"> <![endif]-->=0A																				<div style=3D"display: in=
+line-block; vertical-align: top; width: 100%; max-width: 512px;" class=3D"l=
+etteros_mob_100">=0A																					<table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0">=0A=0A																						<tr>=0A			=
+																				<td align=3D"left" style=3D"padding: 2px 0;">=0A							=
+																	<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0">=0A=0A=0A																									<tr>=0A																					=
+					<td align=3D"left" style=3D"font-family: &#39;Noto Sans&#39;, Arial, H=
+elvetica, sans-serif; font-size: 18px; color: #1F2426; line-height: 25px; f=
+ont-weight: regular;" class=3D"fs_14">=0A                                  =
+                                                           =0A             =
+                                                              =D0=95=D1=81=
+=D0=BB=D0=B8 =D0=98=D0=B2=D0=B0=D0=BD =D1=83=D0=B2=D0=BB=D0=B5=D0=BA=D0=B0=
+=D0=B5=D1=82=D1=81=D1=8F =D0=B3=D0=B0=D0=B4=D0=B6=D0=B5=D1=82=D0=B0=D0=BC=
+=D0=B8, =D1=82=D0=BE,&nbsp;=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=
+, =D0=B7=D0=B0=D1=85=D0=BE=D1=87=D0=B5=D1=82 =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=
+=D1=82=D1=8C =D0=B6=D0=B8=D0=B7=D0=BD=D1=8C =D1=81&nbsp;IT-=D1=81=D1=84=D0=
+=B5=D1=80=D0=BE=D0=B9. <b>=D0=9F=D1=80=D0=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=B8=
+=D1=82=D0=B5 =D0=BD=D0=B5&nbsp;=D1=82=D1=80=D0=B0=D1=82=D0=B8=D1=82=D1=8C =
+=D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=BD=D0=B0&nbsp;=D0=BF=D1=80=D0=BE=D1=85=
+=D0=BE=D0=B6=D0=B4=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BE=D0=BD=D0=BB=D0=B0=D0=B9=
+=D0=BD-=D0=B8=D0=B3=D1=80, =D0=B0&nbsp;=D0=BD=D0=B0=D1=83=D1=87=D0=B8=D1=82=
+=D1=8C=D1=81=D1=8F =D0=B8=D1=85&nbsp;=D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B2=
+=D0=B0=D1=82=D1=8C.</b> =D0=9F=D0=B5=D1=80=D0=B2=D1=8B=D0=B9 =D1=88=D0=B0=
+=D0=B3 =D0=BA&nbsp;=D0=BF=D1=80=D0=BE=D1=84=D0=B5=D1=81=D1=81=D0=B8=D0=B8 =
+=D0=BC=D0=B5=D1=87=D1=82=D1=8B =D0=BF=D0=BE=D0=B7=D0=B2=D0=BE=D0=BB=D0=B8=
+=D1=82 =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C =D0=BD=D0=B0=D1=88 =D0=BA=
+=D1=83=D1=80=D1=81 =D0=BF=D0=BE&nbsp;=D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=
+=D0=BC=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8E =D0=B4=D0=BB=
+=D1=8F =D0=B4=D0=B5=D1=82=D0=B5=D0=B9 8&ndash;17&nbsp;=D0=BB=D0=B5=D1=82!  =
+ =0A</td>=0A																									</tr>=0A=0A																								</t=
+able>=0A																							</td>=0A																						</tr>=0A=0A			=
+																		</table>=0A																				</div>=0A																	=
+			<!--item END-->=0A																			</td>=0A																		</tr>=0A	=
+<tr>=0A																		=0A																		</tr>=0A																	=0A=
+=0A																	</table>=0A																	<!--[if (gte mso 9)|(IE)]> =
+</td></tr> </table> <![endif]-->=0A																</td>=0A															<=
+/tr>=0A=0A														</table>=0A														<!--[if (gte mso 9)|(IE)]>=
+ </td></tr> </table> <![endif]-->=0A													</td>=0A												</tr>=
+=0A=0A											</table>=0A										</td>=0A									</tr>=0A=0A								<=
+/table>=0A							</td>=0A						</tr>=0A                                    =
+</table>=0A        <table style=3D"max-width: 680px;" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0">=0A                             =
+             <tr class=3D"">=0A							<td align=3D"center" bgcolor=3D"#598B=
+EC" style=3D"background-color: #598BEC;">=0A								<table width=3D"100%" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=0A									<tr>=0A					=
+					<td align=3D"center" style=3D"background-size: cover; padding: 20px 15=
+px 0px 15px;" id=3D"1743164881592">=0A											<!--[if (gte mso 9)|(IE)]>=
+ <table width=3D"560" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"width: 560px;"> <tr><td> <![endif]-->=0A											<table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width: 560=
+px; border-spacing: 0px;">=0A=0A=0A												<tr>=0A													<td alig=
+n=3D"center" bgcolor=3D"#ffffff" style=3D"background-color: rgb(255, 255, 2=
+55); padding: 18px 15px 28px; border-radius: 16px;">=0A														<!--[i=
+f (gte mso 9)|(IE)]> <table width=3D"512" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"width: 512px;"> <tr><td> <![endif]-->=0A										=
+				<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"max-width: 512px; border-spacing: 0px;">=0A=0A															=0A=
+=0A															<tr>=0A																<td align=3D"center" style=3D"padd=
+ing-bottom: 20px;">=0A																	<table width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">=0A=0A																		<tr>=0A									=
+										<td align=3D"center">=0A																				<table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=0A																			=
+		<tr>=0A																						<td align=3D"center" valign=3D"top" width=3D=
+"28" style=3D"width: 0px; padding-top: 11px;">=0A																							<ta=
+ble width=3D"5" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"w=
+idth: 0px; border-spacing: 0px;">=0A=0A																								<tr>=0A					=
+																				<td align=3D"center">=0A																										<!--[=
+if (gte mso 9)|(IE)]> <v:oval xmlns:v=3D"urn:schemas-microsoft-com:vml" str=
+oke=3D"f" fillcolor=3D"#121217" style=3D"position: relative; top: 12px; wid=
+th: 5px; height: 5px;"></v:oval> <![endif]-->=0A=0A																								=
+	</td>=0A																								</tr>=0A=0A																							</table>=
+=0A																						</td>=0A																						<td align=3D"left" s=
+tyle=3D"font-family: &#39;Noto Sans&#39;, Arial, Helvetica, sans-serif; fon=
+t-size: 18px; color: #1F2426; line-height: 25px; font-weight: regular;" cla=
+ss=3D"fs_14">=0A                                                           =
+                                   =0A                                     =
+                                      =D0=A3=D1=80=D0=BE=D0=BA=D0=B8 =D0=BF=
+=D1=80=D0=BE=D1=85=D0=BE=D0=B4=D1=8F=D1=82 =D0=B2&nbsp;=D0=BC=D0=B8=D0=BD=
+=D0=B8-=D0=B3=D1=80=D1=83=D0=BF=D0=BF=D0=B0=D1=85. =D0=9F=D1=80=D0=B5=D0=BF=
+=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B8&nbsp;&mdash; =D0=BE=
+=D0=BF=D1=8B=D1=82=D0=BD=D1=8B=D0=B5 =D1=8D=D0=BA=D1=81=D0=BF=D0=B5=D1=80=
+=D1=82=D1=8B =D0=B8=D0=B7&nbsp;VK&nbsp;Group. =D0=9E=D0=BD=D0=B8 <b>=D0=BF=
+=D1=80=D0=BE=D1=81=D1=82=D1=8B=D0=BC =D1=8F=D0=B7=D1=8B=D0=BA=D0=BE=D0=BC =
+=D0=B8&nbsp;=D1=81&nbsp;=D0=BD=D0=B0=D0=B3=D0=BB=D1=8F=D0=B4=D0=BD=D1=8B=D0=
+=BC=D0=B8 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=B0=D0=BC=D0=B8 =D0=BE=D0=
+=B1=D1=8A=D1=8F=D1=81=D0=BD=D1=8F=D1=82,</b> =D0=BA=D0=B0=D0=BA =D0=BF=D0=
+=B8=D1=88=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=BE=D0=B4 =D0=B8&nbsp;=D1=81=D0=
+=BE=D0=B7=D0=B4=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=B0=D0=BB=D0=B3=D0=BE=D1=
+=80=D0=B8=D1=82=D0=BC=D1=8B. =D0=9A=D0=B0=D0=B6=D0=B4=D1=8B=D0=B9 =D1=83=D1=
+=87=D0=B5=D0=BD=D0=B8=D0=BA =D0=BF=D0=BE=D0=B4=D0=B3=D0=BE=D1=82=D0=BE=D0=
+=B2=D0=B8=D1=82 =D1=81=D0=BE=D0=B1=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D1=
+=8B=D0=B9 =D0=BF=D1=80=D0=BE=D0=B5=D0=BA=D1=82, =D0=BF=D0=BE=D0=BB=D1=83=D1=
+=87=D0=B8=D1=82 =D1=81=D0=B5=D1=80=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=
+=82 =D0=B4=D0=BB=D1=8F =D0=BF=D0=BE=D1=80=D1=82=D1=84=D0=BE=D0=BB=D0=B8=D0=
+=BE =D0=B8&nbsp;=D0=BF=D0=BE=D1=87=D1=83=D0=B2=D1=81=D1=82=D0=B2=D1=83=D0=
+=B5=D1=82 =D1=81=D0=B5=D0=B1=D1=8F =D0=BD=D0=B0=D1=81=D1=82=D0=BE=D1=8F=D1=
+=89=D0=B8=D0=BC =D1=80=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=
+=B8=D0=BA=D0=BE=D0=BC.=0A                                                  =
+                                                        =0A                =
+                                                                           =
+                =0A</td>=0A																									</tr>=0A=0A												=
+												</table>=0A																							</td>=0A																					=
+	</tr>=0A=0A																					</table>=0A																			=0A									=
+											<!--item END-->=0A																			</td>=0A																		<=
+/tr>=0A                                                            <tr>=0A	=
+															<td align=3D"center" style=3D"padding-bottom: 0px;">=0A					=
+												<a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/z5vABg/vms8=
+xgvvFB9yK5Nq/?u=3Dhttps%3A%2F%2Fwww.doma.uchi.ru%2Fit_school_uchiru%3Futm_s=
+ource%3Dit%26utm_medium%3Demail_mg%26utm_campaign%3Dmiddle%26utm_content%3D=
+251114%26utm_term%3D5_11" target=3D"_blank" style=3D"font-family: Arial, Ta=
+homa, Helvetica, sans-serif; font-size: 14px; color: #000000; text-decorati=
+on: none;">=0A                                  <img src=3D"https://email-i=
+mages.mindbox.ru/Uchi/2286a9b1-9b0a-4c54-a86e-85947f9eb816/3746497a-f67c-4c=
+f1-b373-dd4a6873304b.png" width=3D"512" alt=3D"2 =D0=BC=D0=B5=D1=81=D1=8F=
+=D1=86=D0=B0 =D0=BE=D0=B1=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=
+=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8E =D0=B2 =D0=BF=D0=BE=D0=B4=D0=B0=D1=80=D0=BE=D0=BA" border=3D"0" s=
+tyle=3D"display: block; width: 100%; max-width: 512px; border-radius: 12px;=
+" id=3D"1743164881588"> </a>																	</td>=0A															</tr>=
+=0A=0A        =0A																		</tr>=0A																	=0A=0A									=
+								</table>=0A																	<!--[if (gte mso 9)|(IE)]> </td></tr> <=
+/table> <![endif]-->=0A																</td>=0A															</tr>=0A=0A		=
+												</table>=0A							</td>=0A						</tr>=0A                       =
+             </table>=0A        =0A=0A      <table style=3D"max-width: 680p=
+x;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">=0A    =
+                                        <tr class=3D"">=0A							<td align=
+=3D"center" bgcolor=3D"#598BEC" style=3D"background-color: #598BEC;">=0A			=
+					<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>=0A=0A									<tr>=0A										<td align=3D"center" style=3D"background-s=
+ize: cover; padding: 20px 15px 40px 15px;" id=3D"1743164881592">=0A								=
+			<!--[if (gte mso 9)|(IE)]> <table width=3D"560" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"width: 560px;"> <tr><td> <![endif]-->=0A	=
+										<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"max-width: 560px; border-spacing: 0px;">=0A=0A=0A										=
+		<tr>=0A													<td align=3D"center" bgcolor=3D"#3764C9" style=3D"bac=
+kground-color: rgb(255, 255, 255); padding: 18px 15px 28px; border-radius: =
+16px;">=0A														<!--[if (gte mso 9)|(IE)]> <table width=3D"512" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 512px;"> <tr>=
+<td> <![endif]-->=0A														<table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"max-width: 512px; border-spacing: 0p=
+x;">=0A=0A															=0A=0A															<tr>=0A																<td al=
+ign=3D"center" style=3D"padding-bottom: 20px;">=0A																	<table w=
+idth=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=0A						=
+												<tr>=0A																			<td align=3D"center">=0A													=
+							<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">=0A=0A																					<tr>=0A																						<td align=3D"cen=
+ter" valign=3D"top" width=3D"28" style=3D"width: 0px; padding-top: 11px;">=
+=0A																							<table width=3D"5" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" style=3D"width: 0px; border-spacing: 0px;">=0A=0A							=
+																	<tr>=0A																									<td align=3D"center">=0A		=
+																								<!--[if (gte mso 9)|(IE)]> <v:oval xmlns:v=3D"urn:s=
+chemas-microsoft-com:vml" stroke=3D"f" fillcolor=3D"#121217" style=3D"posit=
+ion: relative; top: 12px; width: 5px; height: 5px;"></v:oval> <![endif]-->=
+=0A=0A																									</td>=0A																								</tr>=0A=0A	=
+																						</table>=0A																						</td>=0A												=
+										<td align=3D"left" style=3D"font-family: &#39;Noto Sans&#39;, Ari=
+al, Helvetica, sans-serif; font-size: 18px; color: #1F2426; line-height: 25=
+px; font-weight: regular;" class=3D"fs_14">=0A                             =
+                                           =D0=9F=D1=80=D0=B8=D0=B3=D0=BB=
+=D0=B0=D1=88=D0=B0=D0=B5=D0=BC  =D0=BD=D0=B0&nbsp;<b>=D0=B1=D0=B5=D1=81=D0=
+=BF=D0=BB=D0=B0=D1=82=D0=BD=D0=BE=D0=B5 =D0=B2=D0=B2=D0=BE=D0=B4=D0=BD=D0=
+=BE=D0=B5 =D0=B7=D0=B0=D0=BD=D1=8F=D1=82=D0=B8=D0=B5!</b> =D0=95=D1=81=D0=
+=BB=D0=B8 =D1=80=D0=B5=D0=B1=D0=B5=D0=BD=D0=BE=D0=BA =D0=BF=D1=80=D0=B8=D0=
+=BC=D0=B5=D1=82 =D0=B2&nbsp;=D0=BD=D0=B5=D0=BC =D1=83=D1=87=D0=B0=D1=81=D1=
+=82=D0=B8=D0=B5, =D0=BF=D0=BE=D0=B4=D0=B0=D1=80=D0=B8=D0=BC <b>=D0=B4=D0=BE=
+=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =
+=D0=B4=D0=B2=D0=B0 =D0=BC=D0=B5=D1=81=D1=8F=D1=86=D0=B0 =D0=BE=D0=B1=D1=83=
+=D1=87=D0=B5=D0=BD=D0=B8=D1=8F.</b> =D0=A3=D1=81=D0=BF=D0=B5=D0=B9=D1=82=D0=
+=B5 <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/0JvABg/sUD07VW4Cwlh=
+Qs9s/?u=3Dhttps%3A%2F%2Fwww.doma.uchi.ru%2Fit_school_uchiru%3Futm_source%3D=
+it%26utm_medium%3Demail_mg%26utm_campaign%3Dmiddle%26utm_content%3D251114%2=
+6utm_term%3D5_11" target=3D"_blank" style=3D"color: #765FDE; text-decoratio=
+n: none;">=D0=B7=D0=B0=D0=B1=D1=80=D0=BE=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=
+=B0=D1=82=D1=8C =D0=BC=D0=B5=D1=81=D1=82=D0=BE</a>&nbsp;&mdash; =D0=B8=D1=
+=85&nbsp;=D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D0=
+=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=BE.          =0A    =
+                                                                           =
+                             =0A</td>=0A																									</tr>=0A=
+=0A																								</table>=0A																							</td>=0A						=
+																</tr>=0A=0A																					</table>=0A																=
+			=0A																				<!--item END-->=0A																			</td>=0A				=
+														</tr>=0A	<tr>=0A																			<td align=3D"left" style=
+=3D"padding: 8px 0px 30px 0px;">=0A																				<table width=3D"100"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100%; bor=
+der-spacing: 0px;">=0A=0A																					 <tr>=0A              <td cla=
+ss=3D"active" height=3D"50" style=3D"background-color:#765FDE;height:auto;t=
+ext-align:center;vertical-align:middle;border-radius:14px;overflow:hidden">=
+=0A                 <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/0Zv=
+ABg/DeDgrdKqHPIBFBWL/?u=3Dhttps%3A%2F%2Fwww.doma.uchi.ru%2Fit_school_uchiru=
+%3Futm_source%3Dit%26utm_medium%3Demail_mg%26utm_campaign%3Dmiddle%26utm_co=
+ntent%3D251114%26utm_term%3D5_11" class=3D"btn pad_btn fs_14" style=3D"back=
+ground-color:#765FDE; border:0; border-radius:14px; color:#ffffff; display:=
+block; font-family:&#39;Noto Sans&#39;, Helvetica, Arial, sans-serif; font-=
+size:16px; font-weight: bold; padding: 25px 10px; text-align:center;text-de=
+coration: none; text-transform: uppercase;" target=3D"_blank">=D0=97=D0=90=
+=D0=9F=D0=98=D0=A1=D0=90=D0=A2=D0=AC=D0=A1=D0=AF=0A</a>=0A              </t=
+d>=0A           </tr>=0A=0A																				</table>=0A																	=
+		</td>=0A          </tr>=0A        <tr>=0A																			<td align=3D"=
+left" valign=3D"top" style=3D"font-size: 0px; line-height: 0px;">=0A							=
+													=0A																				<!--item -->=0A																				<!--=
+[if (gte mso 9)|(IE)]> </td><td valign=3D"top" width=3D"392" style=3D"width=
+: 332px;"> <![endif]-->=0A																				<div style=3D"display: inline=
+-block; vertical-align: top; width: 100%; max-width: 512px;" class=3D"lette=
+ros_mob_100">=0A																					<table width=3D"100%" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0">=0A=0A																						<tr>=0A							=
+																<td align=3D"center" style=3D"padding: 2px 0;">=0A									=
+															<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0">=0A=0A=0A																									<tr>=0A																							=
+			<td align=3D"center" style=3D"font-family: &#39;Noto Sans&#39;, Arial, H=
+elvetica, sans-serif; font-size: 18px; color: #1F2426; line-height: 25px; f=
+ont-weight: regular;" class=3D"fs_14">=0A                                  =
+                                                               =D0=A1=D0=BF=
+=D0=B0=D1=81=D0=B8=D0=B1=D0=BE, =D1=87=D1=82=D0=BE =D0=B2=D1=8B =D1=81 =D0=
+=BD=D0=B0=D0=BC=D0=B8!=0A                                                  =
+                                                         =0A</td>=0A							=
+																		</tr>=0A=0A																								</table>=0A											=
+												</td>=0A																						</tr>=0A=0A																					<=
+/table>=0A																				</div>=0A																				<!--item END-->=
+=0A																			</td>=0A        </tr>=0A																		</tr>=0A			=
+														=0A=0A																	</table>=0A																	<!--[if (g=
+te mso 9)|(IE)]> </td></tr> </table> <![endif]-->=0A																</td>=
+=0A															</tr>=0A=0A														</table>=0A														=0A=0A	=
+					=0A							</td>=0A						</tr>=0A                                    </=
+table>=0A	=0A		=0A	=0A		=0A=0A   =0A     =0A</td>=0A	</tr>=0A </table>=0A=
+=0A=0A    <!--content END-->=0A =0A=0A        =0A        =0A=0A	   <!--foot=
+er -->=0A    =0A      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-collapse: collapse; border-spacing: 0; =
+mso-table-lspace: 0; mso-table-rspace: 0; background-color: #fafafa; width:=
+ 100%;">=0A        <tr>=0A          <td valign=3D"top" align=3D"center">=0A=
+            <div style=3D"background-color: #fafafa; table-layout: fixed; t=
+ext-align: center; width: 100%;">=0A              <!--[if (gte mso 9)|(IE)]=
+>=0A              <table bgcolor=3D"#fafafa" width=3D"680" align=3D"center"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A                <tr>=
+=0A                  <td valign=3D"top" width=3D"680" style=3D"padding-left=
+: 0px; padding-right:0px;">=0A                    <![endif]-->=0A          =
+          <table bgcolor=3D"#fafafa" cellpadding=3D"0" align=3D"center" sty=
+le=3D"background-color: #fafafa; border-collapse: collapse; border-spacing:=
+ 0; margin: 0 auto; max-width: 680px; mso-table-lspace: 0; mso-table-rspace=
+: 0; width: 100%;">=0A                      <tr>=0A                        =
+<td style=3D"text-align: center;padding: 0 0 0 0;">=0A                     =
+     <!--[if (gte mso 9)|(IE)]>=0A                          <table align=3D=
+"center" width=3D"680" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=
+                            <tr>=0A                              <td width=
+=3D"680" valign=3D"top">=0A                                <![endif]-->=0A =
+                               <div style=3D"display: inline-block; max-wid=
+th: 680px; vertical-align: top; width: 100%;padding: 0;">=0A               =
+                   <table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" style=3D"border-spacing: 0;">=0A           =
+                         <tr>=0A                                      <td s=
+tyle=3D"background-color: #fafafa; border-radius: 0 0 0 0; padding: 0 4px 0=
+ 4px;">=0A                                        <table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-collapse: col=
+lapse; border-spacing: 0;">=0A                                          =0A=
+=0A                                            =0A                         =
+                 <tr>=0A                                            <td sty=
+le=3D"text-align: center;">=0A                                             =
+ <!--[if (gte mso 9)|(IE)]>=0A                                             =
+ <table align=3D"center" width=3D"632" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0">=0A                                                <tr>=0A    =
+                                              <td width=3D"632" valign=3D"t=
+op">=0A                                                    <![endif]-->=0A =
+                                                   <div style=3D"display: i=
+nline-block; max-width: 632px; vertical-align: top; width: 100%;padding: 0;=
+">=0A                                                      <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-coll=
+apse: collapse; border-spacing: 0;">=0A                                    =
+                    <tr>=0A                                                =
+          <td style=3D"padding: 0;">=0A                                    =
+                        <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse; border-spacing: 0=
+;">=0A                                                              <tr>=0A=
+                                                                <td style=
+=3D"padding: 18px 0 0 0;">=0A                                              =
+                    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"border-collapse: collapse; border-spacing: 0;">=0A=
+                                                                    <tr>=0A=
+                                                                      <td s=
+tyle=3D"padding: 0 4px 0 0;">=0A                                           =
+                             <table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"100%" style=3D"border-collapse: collapse; border-spacing=
+: 0;">=0A                                                                  =
+        <tr>=0A                                                            =
+                <td width=3D"24" height=3D"24" style=3D"padding: 0 0 0 14px=
+; text-align: left;">                                        =0A           =
+                                                                   <a href=
+=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/2pvABg/n3QtYC26j-lSeput/?u=3Dh=
+ttps%3A%2F%2Fhelp.uchi.ru%2Fwidget%2Ffront%2Ffeedback" target=3D"_blank" st=
+yle=3D"text-decoration: none;">=0A                                         =
+                                       <img src=3D"https://email-images.min=
+dbox.ru/Uchi/db8b58f9-0cd5-4fe0-bf58-a580d4a17d70/702c7269-6c2b-4196-94e6-a=
+0bd5531302b.png" width=3D"24" height=3D"24" alt=3D"" style=3D"border: 0; he=
+ight: auto; outline: none; text-decoration: none;">=0A                     =
+                                                         </a>=0A           =
+                                                                 </td>=0A  =
+                                                                          <=
+td class=3D"fz14" style=3D"color: #80808d; font-family: Arial; font-size: 1=
+6px; line-height: 24px; padding: 4px 10px 4px 4px; text-align: left;">=0A  =
+                                                                           =
+ <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/25vABg/K8e5Or04ObTcn6o=
+B/?u=3Dhttps%3A%2F%2Fhelp.uchi.ru%2Fwidget%2Ffront%2Ffeedback" target=3D"_b=
+lank" style=3D"color: #80808d; text-decoration: none;">=D0=A1=D0=B2=D1=8F=
+=D0=B7=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D1=81 =D0=BD=D0=B0=D0=BC=D0=B8</a>=0A=
+                                                                           =
+ </td>=0A                                                                  =
+        </tr>=0A                                                           =
+             </table>=0A                                                   =
+                   </td>=0A                                                =
+                    </tr> =0A                                              =
+                      <tr>=0A                                              =
+                        <td style=3D"padding: 0 4px 0 0;">=0A              =
+                                                          <table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-colla=
+pse: collapse; border-spacing: 0;">=0A                                     =
+                                     <tr>=0A                               =
+                                             <td width=3D"24" height=3D"24"=
+ style=3D"padding: 0 0 0 14px; text-align: left;">                         =
+               =0A                                                         =
+                     <a href=3D"tel:88005003072" style=3D"white-space: nowr=
+ap; color: #80808d; text-decoration: none;">=0A                            =
+                                                    <img src=3D"https://ema=
+il-images.mindbox.ru/Uchi/d8ecb05e-2468-4b44-8717-abca0d9ed304/c05a94cf-130=
+0-4384-bb13-cf8c6c2954eb.png" width=3D"24" height=3D"24" alt=3D"" style=3D"=
+border: 0; height: auto; outline: none; text-decoration: none;">=0A        =
+                                                                      </a>=
+=0A                                                                        =
+    </td>=0A                                                               =
+             <td class=3D"fz14" style=3D"color: #80808d; font-family: Arial=
+; font-size: 16px; line-height: 24px; padding: 4px 10px 4px 4px; text-align=
+: left;">=0A                                                               =
+               <a href=3D"tel:88005003072" style=3D"white-space: nowrap; co=
+lor: #80808d; text-decoration: none;">8 800 500-30-72</a>=0A               =
+                                                             </td>=0A      =
+                                                                    </tr>=
+=0A                                                                        =
+</table>=0A                                                                =
+      </td>=0A                                                             =
+       </tr>    =0A                                                        =
+          </table>=0A                                                      =
+          </td>=0A                                                         =
+       <td style=3D"text-align: right; padding: 26px 0 0 0;">=0A           =
+                                                       <div align=3D"right"=
+>=0A                                                                    <ta=
+ble align=3D"right" width=3D"100%" style=3D"border-collapse: collapse; bord=
+er-spacing: 0; max-width: 226px; width: 100%;">=0A                         =
+                                             <tr>=0A                       =
+                                                 <td class=3D"plpr6" style=
+=3D"padding: 0 12px 0 12px; text-align: right;">=0A                        =
+                                                  <a href=3D"https://tn-wp.=
+mckl.ru/c/XuskAABA0M4BIBEO/3JvABg/LKRmEyzUTLSP5GaI/?u=3Dhttps%3A%2F%2Fvk.co=
+m%2Fuchi_ru" target=3D"_blank" style=3D"outline: none; text-decoration: non=
+e;">=0A                                                                    =
+        <img class=3D"w35" width=3D"50" src=3D"https://email-images.mindbox=
+.ru/Uchi/d8ecb05e-2468-4b44-8717-abca0d9ed304/1f5be88e-aa1f-483f-a54a-491ba=
+3c1b3bf.png" alt=3D"" style=3D"border: 0; height: auto; outline: none; text=
+-decoration: none; max-width: 50px; width: 100%;"/>=0A                     =
+                                                     </a>=0A               =
+                                                         </td>=0A          =
+                                                              <td class=3D"=
+plpr6" style=3D"padding: 0 12px 0 12px; text-align: right;">=0A            =
+                                                              <a href=3D"ht=
+tps://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/3ZvABg/8tEv8r_L63dV8Pb1/?u=3Dhttps%3=
+A%2F%2Ft.me%2Fuchi_ru_official" target=3D"_blank" style=3D"outline: none; t=
+ext-decoration: none;">=0A                                                 =
+                           <img class=3D"w35" width=3D"50" src=3D"https://e=
+mail-images.mindbox.ru/Uchi/d8ecb05e-2468-4b44-8717-abca0d9ed304/d78ef867-1=
+e52-4a04-8f4e-5214808ef83d.png" alt=3D"" style=3D"border: 0; height: auto; =
+outline: none; text-decoration: none; max-width: 50px; width: 100%;"/>=0A  =
+                                                                        </a=
+>=0A                                                                       =
+ </td>=0A                                                                  =
+      <td class=3D"plpr6 pr16" style=3D"padding: 0 16px 0 12px; text-align:=
+ right;">=0A                                                               =
+           <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBEO/3pvABg/zSz9W=
+HL6I0rWfsjJ/?u=3Dhttps%3A%2F%2Fok.ru%2Fgroup%2F53573012160741" target=3D"_b=
+lank" style=3D"outline: none; text-decoration: none;">=0A                  =
+                                                          <img class=3D"w35=
+" width=3D"50" src=3D"https://email-images.mindbox.ru/Uchi/d8ecb05e-2468-4b=
+44-8717-abca0d9ed304/6b78188a-134e-4021-8f74-3b99d63605b1.png" alt=3D"" sty=
+le=3D"border: 0; height: auto; outline: none; text-decoration: none; max-wi=
+dth: 50px; width: 100%;"/>=0A                                              =
+                            </a>=0A                                        =
+                                </td>=0A                                   =
+                                   </tr>=0A                                =
+                                    </table>=0A                            =
+                                      </div>=0A                            =
+                                    </td>=0A                               =
+                               </tr>=0A                                    =
+                        </table>=0A                                        =
+                  </td>=0A                                                 =
+       </tr> =0A                                                        <tr=
+>=0A                                                          <td class=3D"=
+fz14" style=3D"color: #80808d; font-family: Arial; font-size: 16px; line-he=
+ight: 24px; padding: 22px 10px 0 16px; text-align: left;">=0A              =
+                                              =D0=92=D1=8B&nbsp;=D0=BF=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=
+=81=D1=8C=D0=BC=D0=BE, =D1=82=D0=B0=D0=BA =D0=BA=D0=B0=D0=BA =D0=BF=D0=BE=
+=D0=B4=D0=BF=D0=B8=D1=81=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0&nbsp;=
+=D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83 =D0=BD=D0=B0&nbsp;=D1=81=
+=D0=B0=D0=B9=D1=82=D0=B5 <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0M4BIBE=
+O/35vABg/f3Ikhb6h3W5rMYJf/?u=3Dhttps%3A%2F%2Fuchi.ru%2Fmindbox_login%3Fminb=
+ox_email_token%3D556E6976657273616C41757468656E7469636174696F6E437573746F6D=
+697A61626C6554696D654865785469636B65747C61316462663735312D643664382D3435633=
+12D393037392D3530346436613665646262397C317C762E702E616E6B657669636840636F6C=
+6C6563746F7273686173682E73757C323838307C323032352D31312D31342030393A33313A3=
+331%7C2CDB5D3E2EBD9C5C7B65DF8E07150EC919896D8AA8CD09C0D459D5CE1343A4510258E=
+FA28771B46053B1C29B1DA7B6A3A478ECCDDAF15E4D75C0534CC49A02A3%26minbox_extern=
+al_id_token%3D%26st_autologin_id%3D102975722%26next%3Dhttps%3A%2F%2Fuchi.ru=
+%2F" target=3D"_blank" style=3D"color: #80808d; text-decoration: none;">www=
+.uchi.ru</a>. =D0=92=D1=8B&nbsp;=D0=B2=D1=81=D0=B5=D0=B3=D0=B4=D0=B0 =D0=BC=
+=D0=BE=D0=B6=D0=B5=D1=82=D0=B5 <a href=3D"https://tn-wp.mckl.ru/c/XuskAABA0=
+M4BIBEO/4JvABg/Lyt9rPDvUuC2aeKA/?u=3Dhttps%3A%2F%2Ftn-wp.mckl.ru%2Fu%2FXusk=
+AABA0M4BIBEO%2FnNYru3i8E-yAkRBi" target=3D"_blank" style=3D"color: #2f2f45;=
+ text-decoration: underline;">=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=
+=8C=D1=81=D1=8F</a>=0A                                                     =
+     </td>=0A                                                        </tr> =
+ =0A                                                        <tr>=0A        =
+                                                  <td class=3D"fz14" style=
+=3D"color: #80808d; font-family: Arial; font-size: 16px; line-height: 24px;=
+ padding: 20px 16px 33px 16px; text-align: left;">=0A                      =
+                                      =D0=A0=D0=B5=D0=BA=D0=BB=D0=B0=D0=BC=
+=D0=B0. =D0=9E=D0=9E=D0=9E =C2=AB=D0=A3=D1=87=D0=B8.=D1=80=D1=83=C2=BB, <sp=
+an style=3D"white-space: nowrap;">=D0=98=D0=9D=D0=9D 7704821246</span>=0A  =
+                                                        </td>=0A           =
+                                             </tr>            =0A          =
+                                            </table>=0A                    =
+                                </div>=0A                                  =
+                  <!--[if (gte mso 9)|(IE)]>=0A                            =
+                      </td>=0A                                             =
+   </tr>=0A                                              </table>=0A       =
+                                       <![endif]-->=0A                     =
+                       </td>=0A                                          </=
+tr>=0A                                        </table>=0A                  =
+                    </td>=0A                                    </tr>      =
+                           =0A                                  </table>=0A=
+                                </div>=0A                                <!=
+--[if (gte mso 9)|(IE)]>=0A                              </td>=0A          =
+                  </tr>=0A                          </table>=0A            =
+              <![endif]-->=0A                        </td>=0A              =
+        </tr>=0A                      <tr>=0A                        <td>=
+=0A                          =0A                        </td>=0A           =
+           </tr>=0A                    </table>=0A                    <!--[=
+if (gte mso 9)|(IE)]>=0A                  </td>=0A                </tr>=0A =
+             </table>=0A              <![endif]-->=0A            </div>=0A =
+         </td>=0A        </tr>=0A      </table>=0A   </td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A</div>=0A</td>=0A</tr>=0A</table>=0A    </div>=0A  <img src=
+=3D"https://tn-wp.mckl.ru/o/XuskAABA0M4BIBEO/nNYru3i8E-yAkRBi" width=3D"1" =
+height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;"/></body>=0A</ht=
+ml>

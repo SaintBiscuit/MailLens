@@ -1,0 +1,519 @@
+Return-Path: <postman0@unisnd.com>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from smtp466.unisnd.com (smtp466.unisnd.com [195.39.207.160])
+	by mail.collectorshash.su (Postfix) with ESMTP id 717861FA0C
+	for <v.p.ankevich@collectorshash.su>; Thu, 24 Apr 2025 10:35:31 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=us; d=unisender.com;
+ h=From:To:Message-Id:Subject:MIME-Version:Content-Type:Date:no;
+ i=contacts@unisender.com;
+ bh=sDbtj+HluMeaGYjWb+wbucGdGLV6FN514gE4zyjwpdQ=;
+ b=MbapstNf6g0rAlHGIZW00B0uqrNSd9L3NV/s7Q9atlcydhgx+5O3JOcXNcGGoAN2yZbkrwxoMGlc
+   fIuzgjVCaIOAFMck+aCBWQ1oiV02vvp15CQ9oTXTzsZGwI0LmJVfNIIz6WnIlJc3haJTlYyX4xEe
+   5qImwRMsiP6WtANOaF8=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=jul2015; d=topeml.com;
+ h=From:To:Message-Id:Subject:MIME-Version:Content-Type:Date;
+ bh=sDbtj+HluMeaGYjWb+wbucGdGLV6FN514gE4zyjwpdQ=;
+ b=WJwnwxNLoze2xJGVDRTo9zjUwsnthwc0kg7OkUFq+PPaYrlsniHWI8S58RkxSUWOri8KQTPnPPJb
+   +CxofiJRJKoimhfsUv5UJ5g0g/5L8E13QuKZxeCP3ZDxr3Jp24JSAAiBxMSewxnXj/355odyNscj
+   uIRm5bELbQNyQQJV5KA=
+Received: by smtp466.unisnd.com id h17ks62erpk3 for <v.p.ankevich@collectorshash.su>; Thu, 24 Apr 2025 07:35:31 +0000 (envelope-from <postman0@unisnd.com>)
+From: "Unisender" <contacts@unisender.com>
+To: v.p.ankevich@collectorshash.su
+Message-Id: <E1u7r7L-t06ZFq-OP@ucs732-ucs-fast.msgpanel.com>
+Subject: =?UTF-8?B?0J/QvtC00YLQstC10YDQtNC40YLQtSDQstCw0YggZW1haWw=?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="MXU3cjdMLXQwNlpGcS1PUA=="
+Feedback-ID: sys_7542378:uns_7542378:system_unisender:UNISENDER
+X-EnvId: usproduction.sys_7542378_di5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1_MarketingEmail_87153566
+Date: Thu, 24 Apr 2025 07:35:31 +0000
+
+--MXU3cjdMLXQwNlpGcS1PUA==
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_79295_781306833.1745480131219"
+
+------=_Part_79295_781306833.1745480131219
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+body { Margin: 0; padding: 0; min-width: 100%; background-color: #f2f2f2; }=
+ table { border-spacing: 0; font-family: Aria, sans-serif; color: #333333; =
+} p{ line-height: 1.4!important; color: #333333 } a { color: #46a8c6; } ul =
+{ line-height: 2 } td { padding: 0; } img { border: 0; } .wrapper { width: =
+100%; table-layout: fixed; -webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; } .webkit { max-width: 600px; } .bg-gray { background-color: #f=
+2f2f2; } .bg-white { background-color: #ffffff; } .to-center { text-align: =
+center; } .to-left { text-align: left; } .white { color: #ffffff; } @-ms-vi=
+ewport { width: device-width; } .outer { Margin: 0 auto; width: 100%; max-w=
+idth: 600px; } .full-width-image img { width: 100%; height: auto; } .inner =
+{ padding: 20px; } .one-column .contents { text-align: center; } .grey { co=
+lor: #eae9e6; } .one-column a.button { display: block; text-align: center; =
+} .one-column p.li { Margin-bottom: 0; } .two-column { text-align: center; =
+font-size: 0; } .two-column .column { width: 100%; max-width: 300px; displa=
+y: inline-block; vertical-align: top; } .two-column .column1 { width: 100%;=
+ max-width: 300px; display: inline-block; vertical-align: top; } .two-colum=
+n .column2 { width: 100%; max-width: 300px; display: inline-block; vertical=
+-align: top; } .contents { width: 100%; } .two-column .contents { font-size=
+: 14px; text-align: left; } .two-column img { width: 100%; height: auto; } =
+.two-column .text { padding-top: 10px; } .two-column p.h6 { font-size: 30px=
+; font-weight: bold; Margin-top: 35px; } .three-column { text-align: center=
+; font-size: 0; padding-top: 10px; padding-bottom: 10px; } .three-column .c=
+olumn { width: 100%; max-width: 200px; display: inline-block; vertical-alig=
+n: top; } .three-column .contents { font-size: 14px; text-align: center; } =
+.three-column img { width: 100%; height: auto; } .three-column .text { padd=
+ing-top: 10px; } .left-sidebar { text-align: center; font-size: 0; } .left-=
+sidebar .column { width: 100%; display: inline-block; vertical-align: middl=
+e; } .left-sidebar .left { max-width: 300px; } .left-sidebar .right { max-w=
+idth: 300px; } .left-sidebar .contents { font-size: 14px; text-align: cente=
+r; } .right-sidebar { text-align: center; font-size: 0; } .right-sidebar .c=
+olumn { width: 100%; display: inline-block; vertical-align: middle; } .righ=
+t-sidebar .left { max-width: 300px; } .right-sidebar .right { max-width: 30=
+0px; } .right-sidebar .contents { font-size: 14px; text-align: center; } .n=
+otification p{ line-height: 1.4!important; color: #333333 } /*Media Queries=
+*/ @media screen and (max-width: 480px) { .die {display: none;} }
+
+=C2=A0
+
+=C2=A0
+
+=C2=A0
+
+=D0=94=D0=BE=D0=B1=D1=80=D0=BE =D0=BF=D0=BE=D0=B6=D0=B0=D0=BB=D0=BE=D0=B2=
+=D0=B0=D1=82=D1=8C =D0=B2 Unisender!
+
+=C2=A0
+
+=D0=9F=D0=BE=D0=B4=D1=82=D0=B2=D0=B5=D1=80=D0=B4=D0=B8=D1=82=D0=B5 =D0=B2=
+=D0=B0=D1=88 email =D0=B8 =D0=BD=D0=B0=D1=87=D0=BD=D0=B8=D1=82=D0=B5 =D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F
+
+=D0=9F=D0=BE=D0=B4=D1=82=D0=B2=D0=B5=D1=80=D0=B4=D0=B8=D1=82=D1=8C email (h=
+ttps://cp.unisender.com/ru/v5/registration/confirm/6wwajrhsq4kyk5zd7s3u5oie=
+1q7mfcbmpqrgudg3zks83sd61qttdnnqbook6nq8dxsxezd1admjihbbhruu6nm4p8sowze6yqp=
+bh1fa)
+
+=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=BE=D1=8F=D0=B2=D0=B8=D0=BB=D0=B8=D1=81=
+=D1=8C =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=8B:
+=D0=9D=D0=B0=D0=BF=D0=B8=D1=88=D0=B8=D1=82=D0=B5 =D0=BD=D0=B0=D0=BC (mailto=
+:contacts@unisender.com)
+
+=D0=94=D0=B0=D0=B2=D0=B0=D0=B9=D1=82=D0=B5 =D0=B4=D1=80=D1=83=D0=B6=D0=B8=
+=D1=82=D1=8C: YouTube (https://www.youtube.com/user/TheUnisender?utm_source=
+=3Dsysnotification&utm_medium=3Demail&utm_campaign=3Dtemplate),
+VK (https://vk.com/unisender?utm_source=3Dsysnotification&utm_medium=3Demai=
+l&utm_campaign=3Dtemplate), Unisender Blog (https://www.unisender.com/ru/bl=
+og?utm_source=3Dsysnotification&utm_medium=3Demail&utm_campaign=3Dtemplate)=
+,=C2=A0Telegram (https://t.me/+fSp1WgzkVCU3YTIy?utm_source=3Dsysnotificatio=
+n&utm_medium=3Demail&utm_campaign=3Dtemplate)
+
+=C2=A0
+
+
+------=_Part_79295_781306833.1745480131219
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<title></title><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><=
+meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0=
+"><title></title><style type=3D"text/css">body {
+        Margin: 0;
+        padding: 0;
+        min-width: 100%;
+        background-color: #f2f2f2;
+    }
+    table {
+        border-spacing: 0;
+        font-family: Aria, sans-serif;
+        color: #333333;
+    }
+    p{
+        line-height: 1.4!important;
+        color: #333333
+    }
+
+    a {
+        color: #46a8c6;
+    }
+   =20
+    ul {
+        line-height: 2
+    }
+    =20
+    td {
+        padding: 0;
+    }
+    img {
+        border: 0;
+    }
+    .wrapper {
+        width: 100%;
+        table-layout: fixed;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    }
+    .webkit {
+        max-width: 600px;
+    }
+    .bg-gray {
+        background-color: #f2f2f2;
+    }
+    .bg-white {
+        background-color: #ffffff;
+    }
+    .to-center {
+        text-align: center;
+    }
+    .to-left {
+        text-align: left;
+    }
+    .white {
+        color: #ffffff;
+    }
+    @-ms-viewport {
+        width: device-width;
+    }
+    .outer {
+        Margin: 0 auto;
+        width: 100%;
+        max-width: 600px;
+    }
+    .full-width-image img {
+        width: 100%;
+        height: auto;
+    }
+    .inner {
+        padding: 20px;
+    }
+    .one-column .contents {
+        text-align: center;
+    }
+    .grey {
+        color:  #eae9e6;
+    }
+    .one-column a.button {
+        display: block;
+        text-align: center;
+    }
+    .one-column p.li {
+        Margin-bottom: 0;
+    }
+    .two-column {
+        text-align: center;
+        font-size: 0;
+    }
+    .two-column .column {
+        width: 100%;
+        max-width: 300px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .two-column .column1 {
+        width: 100%;
+        max-width: 300px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .two-column .column2 {
+        width: 100%;
+        max-width: 300px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .contents {
+        width: 100%;
+    }
+    .two-column .contents {
+        font-size: 14px;
+        text-align: left;
+    }
+    .two-column img {
+        width: 100%;
+        height: auto;
+    }
+    .two-column .text {
+        padding-top: 10px;
+    }
+    .two-column p.h6 {
+        font-size: 30px;
+        font-weight: bold;
+        Margin-top: 35px;
+    }
+    .three-column {
+        text-align: center;
+        font-size: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .three-column .column {
+        width: 100%;
+        max-width: 200px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .three-column .contents {
+        font-size: 14px;
+        text-align: center;
+    }
+    .three-column img {
+        width: 100%;
+        height: auto;
+    }
+    .three-column .text {
+        padding-top: 10px;
+    }
+    .left-sidebar {
+        text-align: center;
+        font-size: 0;
+    }
+    .left-sidebar .column {
+        width: 100%;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .left-sidebar .left {
+        max-width: 300px;
+    }
+    .left-sidebar .right {
+        max-width: 300px;
+    }
+    .left-sidebar .contents {
+        font-size: 14px;
+        text-align: center;
+    }
+    .right-sidebar {
+        text-align: center;
+        font-size: 0;
+    }
+    .right-sidebar .column {
+        width: 100%;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .right-sidebar .left {
+        max-width: 300px;
+    }
+    .right-sidebar .right {
+        max-width: 300px;
+    }
+    .right-sidebar .contents {
+        font-size: 14px;
+        text-align: center;
+    }
+    .notification p{
+        line-height: 1.4!important;
+        color: #333333
+    }
+    /*Media Queries*/
+    @media screen and (max-width: 480px) {
+        .die {display: none;}
+    }
+</style><center class=3D"wrapper bg-gray" style=3D"width:100%;table-layout:=
+fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;background-co=
+lor:#f2f2f2;">
+<div class=3D"webkit" style=3D"max-width: 600px; margin: 0 auto;">
+<!--[if (gte mso 9)|(IE)]>
+        <table width=3D"600" align=3D"center" style=3D"border-spacing: 0; f=
+ont-family: Aria, sans-serif; color: #333333;"><tr>
+<td style=3D"padding-top: 0; padding-bottom: 0; padding-right: 0; padding-l=
+eft: 0; padding: 0;">
+        <![endif]-->
+<table align=3D"center" class=3D"outer" style=3D"border-spacing: 0; font-fa=
+mily: Aria, sans-serif; color: #333333; margin: 0 auto; width: 100%; max-wi=
+dth: 600px;">
+<!-- HEADER -->
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"min-height: 1px; font-size: 1px; height: 16px; paddin=
+g: 0;">=C2=A0</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"padding-top: 0; padding-bottom: 0px;=
+ padding-right: 0; padding-left: 0; padding: 0;"><a href=3D"https://www.uni=
+sender.com/?utm_source=3Dsysnotification&amp;utm_medium=3Demail&amp;utm_cam=
+paign=3Dtemplate" style=3D"text-decoration: none;" target=3D"_blank"><img a=
+lt=3D"UniSender" border=3D"0" src=3D"https://us-marketing.storage.unisender=
+.com/site/logo/uninew2.png" style=3D"width: 131px; display: block; border: =
+0;"></a></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td style=3D"min-height: 1px; font-size: 1px; height: 16px; paddin=
+g: 0;">=C2=A0</td>
+=09=09</tr>
+=09=09<!-- end HEADER -->
+=09</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+</div>
+
+<div class=3D"webkit" style=3D"border-radius: 10px; max-width: 600px; margi=
+n: 0 auto; background-color: #ffffff;">
+<!--[if (gte mso 9)|(IE)]>
+        <table width=3D"600" align=3D"center" style=3D"border-spacing: 0; f=
+ont-family: Aria, sans-serif; color: #333333;"><tr>
+<td style=3D"padding-top: 0; padding-bottom: 0; padding-right: 0; padding-l=
+eft: 0; padding: 0;">
+        <![endif]-->
+<table align=3D"center" class=3D"outer" style=3D"border-spacing: 0; font-fa=
+mily: Aria, sans-serif; color: #333333; margin: 0 auto; width: 100%; max-wi=
+dth: 600px;">
+<!-- TEXT -->
+=09<tbody>
+=09=09<tr>
+=09=09=09<td bgcolor=3D"#ffffff" class=3D"one-column" style=3D"padding-top:=
+ 0; padding-bottom: 0; padding-right: 0; padding-left: 0; padding: 0; borde=
+r-radius: 10% 10% 0% 0%;">
+=09=09=09<table style=3D"border-spacing: 0; font-family: Aria, sans-serif; =
+color: #333333;" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"font-size: 1px; line-height: 1px; height: 35=
+px">=C2=A0</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td class=3D"inner contents" style=3D"padding-top: 0px; p=
+adding-right: 45px; padding-left: 45px; padding-bottom: 0px; width: 100%; t=
+ext-align: center; color: #4b4f54; font: bold 24px arial,helvetica,sans-ser=
+if!important">=D0=94=D0=BE=D0=B1=D1=80=D0=BE =D0=BF=D0=BE=D0=B6=D0=B0=D0=BB=
+=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B2 Unisender!</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"font-size: 1px; line-height: 1px; height: 20=
+px">=C2=A0</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td class=3D"inner contents notification" style=3D"paddin=
+g-top: 5px; padding-right: 45px; padding-left: 45px; padding-bottom: 20px; =
+width: 100%; text-align: left; color: #4b4f54; font: 16px arial,helvetica,s=
+ans-serif!important;"><table align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"border-spacing: 0; font-family: Aria, sans-ser=
+if; color: #333333;" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"font-size: 16px; color: #333333; lin=
+e-height: 1.4!important; padding-bottom: 24px; padding: 0;">=D0=9F=D0=BE=D0=
+=B4=D1=82=D0=B2=D0=B5=D1=80=D0=B4=D0=B8=D1=82=D0=B5 =D0=B2=D0=B0=D1=88 emai=
+l =D0=B8 =D0=BD=D0=B0=D1=87=D0=BD=D0=B8=D1=82=D0=B5 =D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"padding: 0;">
+=09=09=09<div style=3D"margin-top:24px; margin-bottom:20px;">
+<!--[if mso]>
+  <roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://cp.unisender.com/ru/v5/regist=
+ration/confirm/6wwajrhsq4kyk5zd7s3u5oie1q7mfcbmpqrgudg3zks83sd61qttdnnqbook=
+6nq8dxsxezd1admjihbbhruu6nm4p8sowze6yqpbh1fa" style=3D"height: 40px; v-text=
+-anchor: middle; width: 260px;" arcsize=3D"5%" stroke=3D"f" fillcolor=3D"#D=
+D5F36"><center>
+  <![endif]--><a href=3D"https://cp.unisender.com/ru/v5/registration/confir=
+m/6wwajrhsq4kyk5zd7s3u5oie1q7mfcbmpqrgudg3zks83sd61qttdnnqbook6nq8dxsxezd1a=
+dmjihbbhruu6nm4p8sowze6yqpbh1fa" referrerpolicy=3D"no-referrer" rel=3D"noop=
+ener noreferer" style=3D"background-color: #ffc561; border-radius: 10px; co=
+lor: #191d3a; display: inline-block; font-family: sans-serif; font-size: 16=
+px; font-weight: normal; line-height: 40px; letter-spacing: 0.5px; text-ali=
+gn: center; text-decoration: none; padding-left: 24px; padding-right:24px; =
+padding-top:3px; padding-bottom:3px; -webkit-text-size-adjust: none;">=D0=
+=9F=D0=BE=D0=B4=D1=82=D0=B2=D0=B5=D1=80=D0=B4=D0=B8=D1=82=D1=8C email</a> <=
+!--[if mso]>
+    </center>
+</roundrect><![endif]-->
+</div>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09=09<!-- end TEXT -->
+=09=09<tr>
+=09=09=09<td bgcolor=3D"#ffffff" class=3D"right-sidebar" style=3D"border-to=
+p: 2px solid #E0E2E9; padding-top: 0px; padding-bottom: 0px; padding-right:=
+ 0px; padding-left: 0px; text-align: center; font-size: 0; padding: 0; bord=
+er-radius: 0% 0% 10% 10%;">
+<!--[if (gte mso 9)|(IE)]>
+                    <table width=3D"100%" style=3D"border-spacing: 0; font-=
+family: Aria, sans-serif; color: #333333;"><tr>
+<td width=3D"300" style=3D"padding-top: 0; padding-bottom: 0; padding-right=
+: 0; padding-left: 0; padding: 0;">
+                    <![endif]-->
+=09=09=09<table align=3D"center" class=3D"column left" style=3D"border-spac=
+ing: 0; font-family: Aria, sans-serif; color: #bfbdc3; width: 100%; display=
+: inline-block; vertical-align: top; max-width: 300px; text-align: center;"=
+ width=3D"300">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" class=3D"inner contents" style=3D"fo=
+nt: 14px/22px arial,helvetica,sans-serif!important;=20
+=09=09=09=09=09padding-top: 32px; padding-left: 0px; padding-bottom: 32px; =
+padding-right: 0px; border-spacing: 0; color: #757789; max-width: 300px; te=
+xt-align: center!important;
+=09=09=09=09=09width: 100%; width:300px" valign=3D"top" width=3D"300">=D0=
+=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=BE=D1=8F=D0=B2=D0=B8=D0=BB=D0=B8=D1=81=D1=
+=8C =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=8B:<br>
+=09=09=09=09=09=09<a href=3D"mailto:contacts@unisender.com" style=3D"color:=
+ #a05f83; text-decoration:none;" target=3D"_blank">=D0=9D=D0=B0=D0=BF=D0=B8=
+=D1=88=D0=B8=D1=82=D0=B5 =D0=BD=D0=B0=D0=BC</a>
+</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!--[if (gte mso 9)|(IE)]>
+</td>
+                    <td width=3D"300" style=3D"padding-top: 0; padding-bott=
+om: 0; padding-right: 0; padding-left: 0; padding: 0;">
+                    <![endif]-->
+
+=09=09=09<table class=3D"column right" style=3D"border-spacing: 0; font-fam=
+ily: Aria, sans-serif; color: #333333; width: 100%; display: inline-block; =
+vertical-align: top; max-width: 300px; text-align: center!important;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" class=3D"inner" style=3D"padding-top=
+: 32px; padding-bottom: 32px; padding-right: 0px; padding-left: 0px; color:=
+ #757789; font: 14px/22px arial,helvetica,sans-serif!important; =20
+text-align: center; max-width: 300px;" width=3D"300">=D0=94=D0=B0=D0=B2=D0=
+=B0=D0=B9=D1=82=D0=B5 =D0=B4=D1=80=D1=83=D0=B6=D0=B8=D1=82=D1=8C: <a href=
+=3D"https://www.youtube.com/user/TheUnisender?utm_source=3Dsysnotification&=
+amp;utm_medium=3Demail&amp;utm_campaign=3Dtemplate" style=3D"color: #a05f83=
+; text-decoration:none;" target=3D"_blank">YouTube</a>,<br>
+=09=09=09=09=09=09<a href=3D"https://vk.com/unisender?utm_source=3Dsysnotif=
+ication&amp;utm_medium=3Demail&amp;utm_campaign=3Dtemplate" style=3D"color:=
+ #a05f83; text-decoration:none;" target=3D"_blank">VK</a>, <a href=3D"https=
+://www.unisender.com/ru/blog?utm_source=3Dsysnotification&amp;utm_medium=3D=
+email&amp;utm_campaign=3Dtemplate" style=3D"color: #a05f83; text-decoration=
+:none;" target=3D"_blank">Unisender Blog</a>,=C2=A0<a href=3D"https://t.me/=
++fSp1WgzkVCU3YTIy?utm_source=3Dsysnotification&amp;utm_medium=3Demail&amp;u=
+tm_campaign=3Dtemplate" style=3D"color: #a05f83; text-decoration:none;" tar=
+get=3D"_blank">Telegram</a>
+</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--><!--[if (gte mso 9)=
+|(IE)]></td></tr></table><![endif]-->
+</div>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"font-size: 1px; line-height: 1px; height: 30px">=C2=
+=A0</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</center><center><table><tr><td><img src=3D"https://img.unisnd.com/ru/v5/sy=
+s_notification_read_track/7542378?hash=3D6amp1rbr68isi841erqjyhw8r9p9brnccg=
+7twmfe" width=3D"1" height=3D"1" alt=3D"" title=3D"" border=3D"0"></td></tr=
+></table></center>
+------=_Part_79295_781306833.1745480131219--
+
+--MXU3cjdMLXQwNlpGcS1PUA==--

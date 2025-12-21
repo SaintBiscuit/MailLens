@@ -1,0 +1,118 @@
+Content-Type: multipart/alternative;
+ boundary="------------ODtX3nTSRYf0z5WrHlrZp0oO"
+Message-ID: <e2c86441-78f7-41bd-9bb4-634cb027c239@company.com>
+Date: Tue, 18 Nov 2025 09:59:15 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: en-US
+To: testavsw@mail.ru
+From: =?UTF-8?B?0JvRg9C90LXQstCw?= <veeam-backup@company.com>
+Subject: [Veeam] Backup Job 'VM-Daily-Prod' Result: Success
+
+This is a multi-part message in MIME format.
+--------------ODtX3nTSRYf0z5WrHlrZp0oO
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+|Backup Job session has finished.|
+
+  *
+
+    *Job Name:*VM-Daily-Prod
+
+  *
+
+    *Session ID:*a1b2c3d4-1234-5678-9101-5e6f7a8b9c0d
+
+  *
+
+    *Status:**SUCCESS*
+
+  *
+
+    *Start Time:*2024-03-13 22:00:01 MSK
+
+  *
+
+    *End Time:*2024-03-14 02:15:44 MSK
+
+  *
+
+    *Duration:*4 hour(s), 15 minute(s)
+
+|[PROCESSED OBJECTS]|
+
+  *
+
+    srv-sql-01: 450 GB at 150 MB/s
+
+  *
+
+    srv-fs-01: 120 GB at 90 MB/s
+
+  *
+
+    *Total:*570 GB
+
+No warnings or errors.
+
+--------------ODtX3nTSRYf0z5WrHlrZp0oO
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p class="ds-markdown-paragraph"><code>Backup Job session has
+        finished.</code></p>
+    <ul>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Job Name:</span></strong><span>
+            VM-Daily-Prod</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Session ID:</span></strong><span>
+            a1b2c3d4-1234-5678-9101-5e6f7a8b9c0d</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Status:</span></strong><span>
+          </span><strong><span>SUCCESS</span></strong></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Start Time:</span></strong><span>
+            2024-03-13 22:00:01 MSK</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>End Time:</span></strong><span>
+            2024-03-14 02:15:44 MSK</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Duration:</span></strong><span>
+            4 hour(s), 15 minute(s)</span></p>
+      </li>
+    </ul>
+    <p class="ds-markdown-paragraph"><code>[PROCESSED OBJECTS]</code></p>
+    <ul>
+      <li>
+        <p class="ds-markdown-paragraph"><span>srv-sql-01: 450 GB at 150
+            MB/s</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><span>srv-fs-01: 120 GB at 90
+            MB/s</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Total:</span></strong><span>
+            570 GB</span></p>
+      </li>
+    </ul>
+    <p class="ds-markdown-paragraph"><span>No warnings or errors.</span></p>
+    <p></p>
+  </body>
+</html>
+
+--------------ODtX3nTSRYf0z5WrHlrZp0oO--

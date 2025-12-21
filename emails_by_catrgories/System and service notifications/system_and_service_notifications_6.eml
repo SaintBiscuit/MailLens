@@ -1,0 +1,127 @@
+Delivered-To: test@mail.ru
+Return-path: <platform@school.ru>
+Received-SPF: pass (mx317.i.mail.ru: domain of school.ru designates 195.133.239.91 as permitted sender) client-ip=195.133.239.91; envelope-from=platform@school.ru; helo=student.school.ru;
+Received: from mail.school.ru ([195.133.239.91]:36480 helo=student.school.ru)
+	by mx317.i.mail.ru with esmtp (envelope-from <platform@school.ru>)
+	id 1qytp9-009olF-2c
+	for test@mail.ru; Fri, 03 Nov 2023 16:02:56 +0300
+Received: by student.school.ru (Postfix)
+	id A1ED960689; Fri,  3 Nov 2023 16:02:55 +0300 (MSK)
+From: "Administrator (@root)" <platform@school.ru>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=school.ru;
+	s=student; t=1699016575;
+	bh=z+FhFvZC58Z+/5BK4q/z/zQbN9BkfLirmbt2IAPQF6k=; h=From:Subject;
+	b=PwKldJPKAIupp2iPxe50vEtb9KXMY4Dxdns5G/J5QqMMzoakDQJgLqqPtMCkfra4x
+	 hqB/rgliIZHdkrz1wSCZukjYO5h7IZvb6c+kj4el4GCgES6UFauUKa+srkvVwv8pkQ
+	 NCiTDoPI5LVf6gSWhHKmqGvNYzOQFlD50YhVmOFw=
+Reply-To: Gitlab School21 <platform@school.ru>
+To: <student@school.ru>
+In-Reply-To: <merge_request_238803@repos.school.ru>
+References: <merge_request_238803@repos.school.ru>
+Subject: Re: C3_SimpleBashUtils-1 | Merge master branch of project (id =
+ 27877) into master branch of project (id = 426168) (!1)
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6544ef7f6725e_c7e3dc886268035";
+ charset=UTF-8
+Precedence: bulk
+Content-Transfer-Encoding: 7bit
+X-GitLab-Project: C3_SimpleBashUtils-1
+X-GitLab-Project-Id: 426168
+X-GitLab-Project-Path: students/C3_SimpleBashUtils.ID_353513/shelobdfg_student.school.ru/C3_SimpleBashUtils-1
+List-Id: students/C3_SimpleBashUtils.ID_353513/shelobdfg_student.school.ru/C3_SimpleBashUtils-1
+ <426168.c3-simplebashutils-1.shelobdfg-student-21-school-ru.c3-simplebashutils-id-353513.students.repos.school.ru>
+List-Unsubscribe: <https://repos.school.ru/-/sent_notifications/90a4391dcebead52d951f1d681d2a609/unsubscribe?force=true>
+X-GitLab-MergeRequest-ID: 238803
+X-GitLab-MergeRequest-IID: 1
+X-GitLab-NotificationReason: assigned
+X-GitLab-Reply-Key: 90a4391dcebead52d951f1d681d2a609
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: All
+Message-Id: <E1qytp9-009olF-2c.platform-21-school-ru@mx317.i.mail.ru>
+Date: Fri, 03 Nov 2023 16:02:55 +0300
+X-Mailru-Src: mx
+X-6b629377: 1
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499A7F63DA2F9F2A54461ED951AC22C7845AA50D7CCA6FD1643E0BBDAAE39103F3638701F0628C4B95CB1D79AB62C8CA0F74035C6D48F5699C82B70E9FCA70EA7219DB077C1F076B10D7
+X-7FA49CB5: A9FCD207E66530D8A18204E546F3947C8A227228CDD87E2C7445A73D91B48462C8A9BA7A39EFB7663CFE1401686631C009758206774B3CD2D5E8D9A59859A8B630812A3043AAAA4571492C2D3FF63AF69449624AB7ADAF3722942BB2B68A25C6277E793F4B08E884357C6B6A3C29F8EB7445A73D91B48462BD9CCCA9EDD067B10E27AF6BAD91D6CD4E1E7243831EC1F578DA827A17800CE797F64BA17C5FDA6E6320D30F47244B793CFE1401686631C082BFA309970D60C2B287FD4696A6DC2F5F5C1EE8F4F765FC63AF70AF8205D7DCBFD28B28ED4578732EF20D2F80756B5F40A5AABA2AD37119BCF491FFA38154B6D5E8D9A59859A8B6E5E764EB5D94DBD4BCF491FFA38154B6B5C8C57E37DE458B543C44CD4AFD0029B289B51CCB092ABD8AA50765F7900637B289B51CCB092ABD5571747095F342E8C234C8B12C006B7A3DAF903650AD57C978F9B957332C4F92078D3367CF7583E68EEF46B7454FC60B9742502CCDD46D0DFA486DC37A503D0BF6B57BC7E64490618DEB871D839B73339E8FC8737B5C22498424CA1AAF98A6958941B15DA834481FCF19DD082D7633A0EF3E4896CB9E6436389733CBF5DBD5E9D5E8D9A59859A8B6957A4DEDD2346B42CC7F00164DA146DA6F5DAA56C3B73B23E7726E8460B7C23C
+X-C1DE0DAB: 0D63561A33F958A5A848685D5B215F1224EC5963D8873983A53FAAFAEFEB1E04F87CCE6106E1FC07E67D4AC08A07B9B0D166953D3EA3826BCB5012B2E24CD356
+X-C8649E89: 1C3962B70DF3F0AD26C0D434D75DEB2777DD89D51EBB77422CCB5A6D6581D03D0776B5B2C279835F17BCBE6708A5A68D02015372BE9702A21B2FD47C55630DDF2F4C765F2918493501146FF154FE13C06954BEDC13B1E95BB980F5B7EF9ED95E9B815B7972F6FBBEC0877A267E6CF09600946C78A6C8812B52EE4E5D9E54FDA44C41F94D744909CE2526943990DDEC6A521E6D404AC957E9E052569A48BDF98C37E69C174A41D00C
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu530nj6fImhcD4MUrOEAnl0W826KZ9Q+tr59cQFxbtK52nlS5dXYHM/vGJPPyhnCcOsWxjvstlFwfLDmG3SyZat9J5NbkWIjxq932/b2BQGyWkRn3AgzCpU/iMtBVD51WbvH0GkMdp0FX1YB//7MgRjFKBpKvK+rs7WGVLUNOmpm+E
+X-F696D7D5: biiuUxM+SjgFkN7lPM2KgovlCm7l2aiJqI0R9slxDa3wgMrJoVbrJw==
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=platform@school.ru
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (mx317.i.mail.ru: domain of school.ru designates 195.133.239.91 as permitted sender) smtp.mailfrom=platform@school.ru smtp.helo=student.school.ru;
+	 dkim=pass header.d=school.ru; dmarc=pass header.from=platform@school.ru
+X-Mailru-Intl-Transport: d,6b1b820
+
+
+----==_mimepart_6544ef7f6725e_c7e3dc886268035
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+Reassigned merge request 1
+
+https://repos.school.ru/students/C3_SimpleBashUtils.ID_353513/shelobdfg_student.school.ru/C3_SimpleBashUtils-1/-/merge_requests/1
+
+Assignee changed  to Shelob Jessika
+
+-- 
+View it on GitLab: https://repos.school.ru/students/C3_SimpleBashUtils.ID_353513/shelobdfg_student.school.ru/C3_SimpleBashUtils-1/-/merge_requests/1
+You're receiving this email because you have been assigned an item on repos.school.ru.
+
+
+
+----==_mimepart_6544ef7f6725e_c7e3dc886268035
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html lang="en">
+<head>
+<meta content="text/html; charset=US-ASCII" http-equiv="Content-Type">
+<title>
+GitLab
+</title>
+
+
+<style>img {
+max-width: 100%; height: auto;
+}
+</style>
+</head>
+<body>
+<div class="content">
+
+<p>
+Assignee changed
+to
+<strong>Shelob Jessika</strong>
+</p>
+
+
+</div>
+<div class="footer" style="margin-top: 10px;">
+<p style="font-size: small; color: #666;">
+&#8212;
+<br>
+<a href="https://repos.school.ru/students/C3_SimpleBashUtils.ID_353513/shelobdfg_student.school.ru/C3_SimpleBashUtils-1/-/merge_requests/1">View it on GitLab</a>.
+<br>
+You're receiving this email because you have been assigned an item on repos.school.ru.
+If you'd like to receive fewer emails, you can
+<a href="https://repos.school.ru/-/sent_notifications/90a4391dcebead52d951f1d681d2a609/unsubscribe">unsubscribe</a>
+from this thread or
+adjust your notification settings.
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"EmailMessage","action":{"@type":"ViewAction","name":"View Merge request","url":"https://repos.school.ru/students/C3_SimpleBashUtils.ID_353513/shelobdfg_student.school.ru/C3_SimpleBashUtils-1/-/merge_requests/1"}}</script>
+
+
+</p>
+</div>
+</body>
+</html>
+
+----==_mimepart_6544ef7f6725e_c7e3dc886268035--

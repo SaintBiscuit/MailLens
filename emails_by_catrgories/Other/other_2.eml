@@ -1,0 +1,1247 @@
+Delivered-To: test@mail.ru
+Return-path: <bounce+847896.acb507-an_shemetova=mail.ru@mir-kvestov.ru>
+Received-SPF: pass (exim-mx-758d577bfc-bknhq: domain of mir-kvestov.ru designates 198.61.254.9 as permitted sender) client-ip=198.61.254.9; envelope-from=bounce+847896.acb507-an_shemetova=mail.ru@mir-kvestov.ru; helo=so254-9.mailgun.net;
+Received: from so254-9.mailgun.net ([198.61.254.9]:10171)
+	by exim-mx-758d577bfc-bknhq with utf8esmtp (envelope-from <bounce+847896.acb507-an_shemetova=mail.ru@mir-kvestov.ru>)
+	id 1uCF55-00000000OEo-3AdC
+	for test@mail.ru; Tue, 06 May 2025 12:59:20 +0300
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mir-kvestov.ru; q=dns/txt; s=mailo; t=1746525558; x=1746532758;
+ h=Content-Transfer-Encoding: Content-Type: List-Unsubscribe-Post: List-Unsubscribe: Mime-Version: Subject: Subject: Message-ID: To: To: From: From: Date: Sender: Sender;
+ bh=0T9UT3kxyopJ39+s+MIKeKby5FEv5HBZ/o7ZWe8Qllk=;
+ b=EOi0Yiik9n82cWf14eubTuXoet0OaYIWv9JvcItyqXwJ/8wqlabtPuK9pc0gCiRV4d/ZCSKnaFfh5a62J8EGrCePBAbadlD+xDWqac99RTH7PzqcFzRJh5c0ayg7BzPb4hdYU85opS8d3cZzAisjToUsWTDfBeJl8d5u+eMgLHk=
+X-Mailgun-Sending-Ip: 198.61.254.9
+X-Mailgun-Sending-Ip-Pool-Name: 
+X-Mailgun-Sending-Ip-Pool: 
+X-Mailgun-Sid: WyJhZjFjNCIsImFuX3NoZW1ldG92YUBtYWlsLnJ1IiwiYWNiNTA3Il0=
+Received: from localhost.localdomain (unknown [51.250.50.17]) by cfa2bb91c8d2 with SMTP
+ id 6819dd76bd386a0780e0689f (version=TLS1.3, cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 06 May 2025 09:59:18 GMT
+Sender: info@mir-kvestov.ru
+Date: Tue, 06 May 2025 09:59:16 +0000
+From: =?UTF-8?B?0JzQuNGAINCa0LLQtdGB0YLQvtCy?= <info@mir-kvestov.ru>
+To: test@mail.ru
+Message-ID: <6819dd742c38b_212c293fcbd3536310319124@mir-kvestov-ru.mail>
+Subject: =?UTF-8?Q?=D0=91=D1=80=D0=BE=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5?=
+ =?UTF-8?Q?_=D0=BD=D0=B0_=D0=BA=D0=B2=D0=B5=D1=81=D1=82?=
+ =?UTF-8?Q?_=22=D0=A1=D0=BE=D0=BA=D1=80=D0=BE=D0=B2=D0=B8=D1=89=D0=B0?=
+ =?UTF-8?Q?_=D0=B1=D0=BE=D0=B3=D0=B0_=D0=A0=D0=B0=22?=
+ =?UTF-8?Q?_=D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=BE=D1=88=D0=BB=D0=BE?=
+ =?UTF-8?Q?_=D1=83=D1=81=D0=BF=D0=B5=D1=88=D0=BD=D0=BE?=
+Mime-Version: 1.0
+X-Mailgun-Tag: order_notification_email
+List-Unsubscribe: <https://mir-kvestov.ru/black_list_items?email=test@mail.ru&token=dc908e87de343503f85c2de68faec9de>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailru-Src: mx
+X-4EC0790: 10
+X-6b629377: 1
+X-7564579A: B8F34718100C35BD
+X-77F55803: E822A06ED42C499AB75AF827AABDE889EAE43325C8435195D3E0BF6AB21F3D9F0BBDAAE39103F3638701F0628C4B95CBD4C95745EC931C215625315EAE1456D8E13E8777B20AD7CE2738132FFF3F4024DDDE7B70B5F5C79F
+X-7FA49CB5: A9FCD207E66530D8A18204E546F3947CEA8397497A334BC0CC198E72ECD316A4C8A9BA7A39EFB7662668BECDD4E80C2709758206774B3CD2D5E8D9A59859A8B6FB156AB1B56C61CE71492C2D3FF63AF69449624AB7ADAF372C41A260DE71ECEB277E793F4B08E884EA8397497A334BC0CC198E72ECD316A4BD9CCCA9EDD067B1C4CCD9AED13F26354E1E7243831EC1F578DA827A17800CE7D267ED574222D4376320D30F47244B792668BECDD4E80C2782BFA309970D60C2B287FD4696A6DC2F5F5C1EE8F4F765FC63AF70AF8205D7DCBFD28B28ED4578732EF20D2F80756B5F40A5AABA2AD37119BCF491FFA38154B6D5E8D9A59859A8B652D31B9D28593E51BCF491FFA38154B6B5C8C57E37DE458B543C44CD4AFD0029B289B51CCB092ABD8AA50765F7900637FE9EFE935CD7C6AEB3661434B16C20AC508DBCF57D5253891B59CA4C82EFA65831ED8E623B952460451876C1E2DA7DD4CC7050041636EA546F9789CCF6C18C3F8528715B7D10C86859CC434672EE6371117882F4460429724CE54428C33FAD305F5C1EE8F4F765FCAA867293B0326636D2E47CDBA5A96583BD4B6F7A4D31EC0BC014FD901B82EE079FA2833FD35BB23D27C277FBC8AE2E8BAA867293B0326636D2E47CDBA5A96583BA9C0B312567BB23BDAD6C7F3747799A
+X-B7AD71C0: BCAA75B3C340DBBE2543621581D40AD6F398474377D4BCE879311020FFC8D4ADB0185866BEDD48064C187CEBE4307A43
+X-C1DE0DAB: 0D63561A33F958A532A30F0F4C4448A45002B1117B3ED696D5DE647D2047190F30C8F815570A3530277AA237ED671D4372AF3B35EA4094CC5DBE5CE84B47B0E4C79554A2A72441325F7975EAA671B31738FD4A19A4F76CB71C39E39C5FB3188C6736D1402DFA79FD6BCC41370207E0FDF2DBB7B6E8D169887EF90DD3780052EEC79554A2A7244132A8127B8BA5DAE4641E618B5D5F965AFD0B730A9793D99025B2D1C9E48B6DC60AE2A7E19323554B12787CBDA4B9FA07ACF18E36370DAB0D1E4EAF44D9B582CE87C8A4C02DF684249C2E763F503762DF50F6AAE36F1AF2432BF6228F3B180FA51DD0283EA430FA964BEEBF092486A2C6B2957033528158102E17C1E67C4FCC32AC4AC6F0C3BBD4C0F458C12E6D310A6D5309D688995C726CD6A71A35648BE338CEE8A2D8DB5D8E642DBA7CCD254A1CF5E89E0224A6590C59D2
+X-C8649E89: 1C3962B70DF3F0AD5D6BC0BD8E691C7A5B8CC852D892F92909E8BB001188613B0776B5B2C279835F17BCBE6708A5A68D02015372BE9702A21A3D19D0A7A3C70402B74A4E094F0B6A3F4A0A7EA7F16863E71AC78ECB1FC780CC00CD180C298E1CD236F2DEBC3F8B0821965BDF890649DE3D4696320D8BE450AA47EB725ABC3C49CAACD699CDC6F98202C26D483E81D6BE24003F9B82CC0DD29CF57D488FF498E01C4647A6EF12D72043082AE146A756F3
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OURs3E5O9HgLbe1f6qYhvLutKFiSd6Yd7yPpbiiZ/d5BsxIjK0jGQgCHUM3Ry2Lt2G3MDkMauH3h0dBdQGj+BB/iPzQYh7XS3ysCEUJX3xZO/8uwn9+TrhzyzlhkqIRCMw==
+X-F696D7D5: LwDnx7U7JB1KD2oU+mBvrIFqgwAqeo+zPkw1t9ewF71vZwHL7wKDbhVjKz9M/meG
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=info@mir-kvestov.ru
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mx-758d577bfc-bknhq: domain of mir-kvestov.ru designates 198.61.254.9 as permitted sender) smtp.mailfrom=bounce+847896.acb507-an_shemetova=mail.ru@mir-kvestov.ru smtp.helo=so254-9.mailgun.net;
+	 dkim=pass header.d=mir-kvestov.ru; dmarc=pass header.from=info@mir-kvestov.ru
+X-Mailru-Intl-Transport: d,b7f70a7
+
+<!DOCTYPE html>
+
+<html lang=3D"">
+
+<head>
+
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+
+  <style>/* Email styles need to be inline */</style>
+
+</head>
+
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+
+  <head>
+
+    <title>=D0=9C=D0=B8=D1=80 =D0=9A=D0=B2=D0=B5=D1=81=D1=82=D0=BE=D0=B2</t=
+itle>
+
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+
+    <style type=3D"text/css">
+
+      a { outline: none; color: #ccc; text-decoration: underline }
+
+      a:hover { text-decoration:none !important }
+
+      .h-u a { text-decoration:none }
+
+      .h-u a:hover { text-decoration:underline !important }
+
+      a[x-apple-data-detectors] { color:inherit !important; text-decoration=
+:none !important }
+
+      a[href^=3D"tel"]:hover { text-decoration: none !important }
+
+      .active-i a:hover, .active-t:hover { opacity: 0.8 }
+
+      .active-i a, .active-t { transition: all 0.3s ease }
+
+      a img { border: none }
+
+      b, strong { font-weight: 700 }
+
+      th { padding: 0; font-size: normal }
+
+      .ns span, .ns a { color: inherit !important; text-decoration: none !i=
+mportant; border: none !important }
+
+      .none_link a { text-decoration: none !important; color: white !import=
+ant }
+
+      @media only screen and (max-width: 677px) {
+
+        .ta-c { text-align: center !important }
+
+        .t-c { float: none !important; margin: 0 auto }
+
+        .mob_item { width: 100% !important; max-width: 330px !important }
+
+        .mob_100 { width: 100% !important; max-width: 100% !important }
+
+      }
+
+    </style>
+
+  </head>
+
+  <body style=3D"margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-te=
+xt-size-adjust:100%; background: #0e0e0e;">
+
+    <table width=3D"100%" style=3D"min-width:320px;" cellspacing=3D"0" cell=
+padding=3D"0">
+
+      <!-- preview text -->
+
+      <tr><td style=3D"display:none; font-size:1px; line-height:1px; color:=
+#0e0e0e;">=D0=91=D1=80=D0=BE=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D0=B5 =D0=BF=D1=80=D0=BE=D1=88=D0=BB=D0=BE =D1=83=D1=81=D0=BF=D0=B5=D1=
+=88=D0=BD=D0=BE</td></tr>
+
+      <tr>
+
+        <td bgcolor=3D"#0e0e0e" align=3D"center">
+
+          <table width=3D"660" align=3D"center" style=3D"width:100% !import=
+ant; max-width:660px; margin:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+
+            <!-- preheader -->
+
+            <tr>
+
+              <td align=3D"right" style=3D"padding:0 20px;" height=3D"65" v=
+align=3D"middle">
+
+                <!-- head -->
+
+                <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"max-width: 100%;">
+
+                  <tr>
+
+                    <td align=3D"left">
+
+                      <a href=3D"http://email.mir-kvestov.ru/c/eJxMzDFuxCAQ=
+QNHTmG5XMMOAXVCk2WtYA4xlFNtEmOX80aZK_b9eDpwiaa8kGG8dARHNag8OWS_giKMFBhSvmSz=
+5iFvWkjSoEtxslpy9hYRzXMFAggW3FDMSOjQazWLATlafpT2-h9y9jkd7P08uhzrC3vvPPeHXBK=
+8JXv-eZ3urFvha711O6XXwx-ByfEIPtWVp61V72UriXuq1yh85AvwGAAD__6B0QBg" target=
+=3D"_blank" style=3D"color: white; font-family: Arial, Helvetica, sans-seri=
+f; font-size: 16px; line-height: 18px;">
+
+                        <img src=3D"http://images.directcrm.ru/campaigns/16=
+4537/379596/5" width=3D"125" height=3D"37" alt=3D"=D0=9C=D0=B8=D1=80 =D0=BA=
+=D0=B2=D0=B5=D1=81=D1=82=D0=BE=D0=B2" border=3D"0" style=3D"display: block;=
+" />
+
+                      </a>
+
+                    </td>
+
+                    <td align=3D"right" height=3D"37" valign=3D"middle"></t=
+d>
+
+                  </tr>
+
+                </table>
+
+                <!-- head END -->
+
+              </td>
+
+            </tr>
+
+            <!-- main -->
+
+            <tr>
+
+              <td style=3D"background:#0b0b0b;">
+
+                <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+
+                  <!-- content -->
+
+                  <!-- main banner -->
+
+                  <tr>
+
+                    <td style=3D"font:24px/30px Segoe UI, Arial, Helvetica,=
+ sans-serif; color:#5eabfb; font-weight: bold; padding-bottom: 30px;" align=
+=3D"center">
+
+                      <span style=3D"color: #e3002b;"><img src=3D"https://m=
+ir-kvestov.ru/emails/order_notification_email/creative1.png" style=3D"displ=
+ay: block; border: none; width: 100% !important; max-width: 660px;" alt=3D"=
+=D0=98=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=BE =D0=B1=
+=D1=80=D0=BE=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8" width=
+=3D"660" height=3D"auto"></span>
+
+                    </td>
+
+                  </tr>
+
+                  <!-- block -->
+
+                  <tr>
+
+                    <td align=3D"center" style=3D"font:19px/25px Segoe UI, =
+Arial, Helvetica, sans-serif; color:white; padding:0 20px 40px 20px;">
+
+                        =D0=90=D0=BD=D0=BD=D0=B0, =D0=B2=D1=8B =D0=B7=D0=B0=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0&nbsp;=D0=BA=
+=D0=B2=D0=B5=D1=81=D1=82 =C2=AB=D0=A1=D0=BE=D0=BA=D1=80=D0=BE=D0=B2=D0=B8=
+=D1=89=D0=B0 =D0=B1=D0=BE=D0=B3=D0=B0 =D0=A0=D0=B0=C2=BB =D0=BE=D1=82 =D0=
+=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B8 =C2=ABQuestreality=C2=BB
+
+                      <p style=3D"font-family: Segoe UI, Arial, Helvetica, =
+sans-serif; font-size: 14px; color: #a4a6a8; line-height: 21px; margin: 15p=
+x 0 0;">=D0=91=D0=BB=D0=B0=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D0=B8=D0=BC =D0=92=
+=D0=B0=D1=81 =D0=B7=D0=B0=C2=A0=D0=B1=D1=80=D0=BE=D0=BD=D0=B8=D1=80=D0=BE=
+=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BA=D0=B2=D0=B5=D1=81=D1=82=D0=B0. =D0=96=
+=D0=B5=D0=BB=D0=B0=D0=B5=D0=BC =D0=92=D0=B0=D0=BC =D0=B8=D0=BD=D1=82=D0=B5=
+=D1=80=D0=B5=D1=81=D0=BD=D0=BE=D0=B9 =D0=B8=D0=B3=D1=80=D1=8B!</p>
+
+                    </td>
+
+                  </tr>
+
+
+
+                  <!-- Get4Click =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=
+=B4=D0=BB=D1=8F =D0=A0=D0=A4 -->
+
+
+
+                  <tr><td style=3D"font:23px/30px Segoe UI, Arial, Helvetic=
+a, sans-serif; color:#f1d302; padding:0 20px 25px 20px; font-weight: bold; =
+text-transform: uppercase;" align=3D"center">=D0=98=D0=BD=D1=84=D0=BE=D1=80=
+=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=BE&nbsp;=D0=B1=D1=80=D0=BE=D0=BD=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8</td></tr>
+
+                  <tr>
+
+                    <td align=3D"center">
+
+                      <!-- items -->
+
+                      <table width=3D"84%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"max-width: 84%;">
+
+                        <tr>
+
+                          <td align=3D"left" style=3D"font-size: 0px; line-=
+height: 0px;">
+
+                            <!-- Item -->
+
+                            <div style=3D"display: inline-block; width: 250=
+px; vertical-align: top;" class=3D"mob_100">
+
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                <tr>
+
+                                  <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 12px; line-height: 15px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: separate;">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"35">
+
+                                          <img src=3D"https://mir-kvestov.r=
+u/emails/order_notification_email/ico1.png" width=3D"22" height=3D"22" alt=
+=3D"" border=3D"0" style=3D"display: block;" />
+
+                                        </td>
+
+                                        <td align=3D"left" valign=3D"top">
+
+                                          <div style=3D"line-height: 21px; =
+white-space: nowrap;" class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 15px; color: white; line-he=
+ight: 21px;">25 =D0=BC=D0=B0=D1=8F 2025 =D0=B2&nbsp;15:00</span>
+
+                                          </div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                    <div style=3D"height: 10px; line-height=
+: 10px; font-size: 2px;">=C2=A0</div>
+
+                                  </td>
+
+                                </tr>
+
+                              </table>
+
+                            </div>
+
+                            <!-- Item END-->
+
+                            <!--[if (gte mso 9)|(IE)]>
+
+                            </td><td valign=3D"top" width=3D"171">
+
+                            <![endif]-->
+
+                            <!-- Item -->
+
+                            <div style=3D"display: inline-block; width: 171=
+px; vertical-align: top;" class=3D"mob_100">
+
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                <tr>
+
+                                  <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 12px; line-height: 15px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: separate;">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"35">
+
+                                          <img src=3D"https://mir-kvestov.r=
+u/emails/order_notification_email/ico2.png" width=3D"22" height=3D"21" alt=
+=3D"" border=3D"0" style=3D"display: block;" />
+
+                                        </td>
+
+                                        <td align=3D"left" valign=3D"top">
+
+                                          <div style=3D"line-height: 21px; =
+white-space: nowrap;" class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 15px; color: white; line-he=
+ight: 21px;">1 =E2=80=93 6&nbsp;=D1=87=D0=B5=D0=BB.</span>
+
+                                          </div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                    <div style=3D"height: 10px; line-height=
+: 10px; font-size: 2px;">=C2=A0</div>
+
+                                  </td>
+
+                                </tr>
+
+                              </table>
+
+                            </div>
+
+                            <!-- Item END-->
+
+                            <!--[if (gte mso 9)|(IE)]>
+
+                            </td><td valign=3D"top" width=3D"133">
+
+                            <![endif]-->
+
+                            <!-- Item -->
+
+                            <div style=3D"display: inline-block; width: 133=
+px; vertical-align: top;" class=3D"mob_100">
+
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                <tr>
+
+                                  <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 12px; line-height: 15px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: separate;">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"35">
+
+                                          <img src=3D"https://mir-kvestov.r=
+u/emails/order_notification_email/ico3.png" width=3D"22" height=3D"22" alt=
+=3D"" border=3D"0" style=3D"display: block;" />
+
+                                        </td>
+
+                                        <td align=3D"left" valign=3D"top">
+
+                                          <div style=3D"line-height: 21px; =
+white-space: nowrap;" class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 15px; color: white; line-he=
+ight: 21px;">60&nbsp;=D0=BC=D0=B8=D0=BD.</span>
+
+                                          </div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                    <div style=3D"height: 10px; line-height=
+: 10px; font-size: 2px;">=C2=A0</div>
+
+                                  </td>
+
+                                </tr>
+
+                              </table>
+
+                            </div>
+
+                            <!-- Item END-->
+
+                          </td>
+
+                        </tr>
+
+                      </table>
+
+                      <!-- items END -->
+
+
+
+                      <div style=3D"height: 20px; line-height: 20px; font-s=
+ize: 2px;">=C2=A0</div>
+
+
+
+                      <!-- ico_tbl -->
+
+                      <table width=3D"84%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"max-width: 84%;">
+
+                        <tr>
+
+                          <td align=3D"left" valign=3D"top" width=3D"35">
+
+                            <img src=3D"https://mir-kvestov.ru/emails/order=
+_notification_email/ico4.png" width=3D"22" height=3D"30" alt=3D"" border=3D=
+"0" style=3D"display: block;" />
+
+                          </td>
+
+                          <td align=3D"left">
+
+                            <div style=3D"line-height: 21px;" class=3D"none=
+_link">
+
+                              <span style=3D"font-family: Segoe UI, Arial, =
+Helvetica, sans-serif; font-size: 15px; color: white; line-height: 21px;">
+
+                                =D0=BC. =D0=A7=D0=BA=D0=B0=D0=BB=D0=BE=D0=
+=B2=D1=81=D0=BA=D0=B0=D1=8F, =D0=BF=D0=B5=D1=80. 4-=D0=B9 =D0=A1=D1=8B=D1=
+=80=D0=BE=D0=BC=D1=8F=D1=82=D0=BD=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B9=
+, =D0=B4. 3/5, =D1=81=D1=82=D1=80. 5
+
+                                <br>5-10 =D0=BC=D0=B8=D0=BD=D1=83=D1=82 =D0=
+=BE=D1=82 =D1=81=D1=82=D0=B0=D0=BD=D1=86=D0=B8=D0=B8 =D0=BC=D0=B5=D1=82=D1=
+=80=D0=BE =D0=A7=D0=BA=D0=B0=D0=BB=D0=BE=D0=B2=D1=81=D0=BA=D0=B0=D1=8F =D0=
+=B8 10 =D0=BC=D0=B8=D0=BD=D1=83=D1=82 =D0=BE=D1=82 =D1=81=D1=82=D0=B0=D0=BD=
+=D1=86=D0=B8=D0=B8 =D0=BC=D0=B5=D1=82=D1=80=D0=BE =D0=9A=D1=83=D1=80=D1=81=
+=D0=BA=D0=B0=D1=8F. =D0=9A=D0=B2=D0=B5=D1=81=D1=82 =D0=BD=D0=B0=D1=85=D0=BE=
+=D0=B4=D0=B8=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D1=82=D0=B5=D1=80=D1=80=D0=B8=
+=D1=82=D0=BE=D1=80=D0=B8=D0=B8 =D1=85=D0=BE=D1=81=D1=82=D0=B5=D0=BB=D0=B0 =
+=C2=AB=D0=90=D0=B9=D0=BF=D1=80=D0=BE=D1=81=D0=BF=D0=B0=D0=BB=D0=B8=C2=BB
+
+                              </span>
+
+                            </div>
+
+                            <div style=3D"height: 22px; line-height: 22px; =
+font-size: 2px;">=C2=A0</div>
+
+                            <div style=3D"line-height: 21px;" class=3D"none=
+_link">
+
+                              <span style=3D"font-family: Segoe UI, Arial, =
+Helvetica, sans-serif; font-size: 15px; color: white; line-height: 21px;">=
+=D0=9E=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=D0=B7=D0=B0=D1=82=D0=BE=D1=80 =D0=BC=
+=D0=BE=D0=B6=D0=B5=D1=82 =D0=BF=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D0=B8=D1=82=
+=D1=8C =D0=B2=D0=B0=D1=81 =D0=BF=D1=80=D0=B8=D0=B9=D1=82=D0=B8 =D0=BD=D0=B0=
+ =D0=B8=D0=B3=D1=80=D1=83 =D0=B7=D0=B0=D1=80=D0=B0=D0=BD=D0=B5=D0=B5, =D0=
+=BF=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D1=83=D1=8E =D0=B8=D0=BD=D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8E =D0=B2=D1=8B =D0=BC=D0=BE=D0=B6=D0=
+=B5=D1=82=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BF=D0=
+=BE =D1=82=D0=B5=D0=BB=D0=B5=D1=84=D0=BE=D0=BD=D1=83, =D1=83=D0=BA=D0=B0=D0=
+=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC=D1=83 =D0=BD=D0=B8=D0=B6=D0=B5.</span>
+
+                            </div>
+
+                          </td>
+
+                        </tr>
+
+                      </table>
+
+                      <!-- ico_tbl END -->
+
+
+
+                      <div style=3D"height: 30px; line-height: 30px; font-s=
+ize: 2px;">=C2=A0</div>
+
+
+
+                      <!-- btn -->
+
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+
+                        <tr>
+
+                          <td  align=3D"center" style=3D"mso-padding-alt:13=
+px 10px 14px; font:15px/15px Segoe UI, Arial, Helvetica, sans-serif;  overf=
+low:hidden;">
+
+                              <a style=3D"width:200px;border-radius:3px; ba=
+ckground-color:#e3002b; color:#ffffff; text-decoration:none; display:inline=
+-block; padding:13px 10px 14px; font-weight: bold; text-transform: uppercas=
+e; margin:0 10px 10px 10px;" target=3D"_blank" href=3D"http://email.mir-kve=
+stov.ru/c/eJxMjs1OhjAQAJ-m3PjS7lIKhx5MDK9BlnYbqkA_-4OJT2_0YLzPZMZbcpuWpmOrz=
+DBq0FpP3W4Dy3FT0s8ujEZrIydWZvDBBIk0A3bRjpOavTcDOJy2FRQ4mDG4zaPGEZVENSsYxCDP=
+mPv3m0tNd5_b46R4dIfda30WgS8CFgHLP-aRm4Dlo3GpRcDSjujoz__i83ijPlCmdKVb4FL29Nm=
+f9BT4WnPjLlu61rLzyTXd9JOneDxy66pN2XNer1RjiI5qTNfKvze3he8AAAD___UbVcM">=D0=
+=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C =D0=BD=D0=B0 =D0=BA=D0=B0=D1=
+=80=D1=82=D0=B5</a>
+
+                          </td>
+
+                        </tr>
+
+                      </table>
+
+                      <!-- btn END -->
+
+                      <div style=3D"height: 37px; line-height: 37px; font-s=
+ize: 2px;">=C2=A0</div>
+
+
+
+                      <!-- items -->
+
+                      <table width=3D"84%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"max-width: 84%;">
+
+                        <tr>
+
+                          <td align=3D"left" valign=3D"top" style=3D"font-s=
+ize: 0px; line-height: 0px;">
+
+                            <!-- Item -->
+
+                            <div style=3D"display: inline-block; vertical-a=
+lign: top; width: 100%; max-width: 325px; font-size: 14px; line-height: 18p=
+x;">
+
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                <tr>
+
+                                  <td align=3D"left" valign=3D"top" style=
+=3D"font-size: 14px; line-height: 18px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"35">
+
+                                          <img src=3D"https://mir-kvestov.r=
+u/emails/order_notification_email/ico5.png" width=3D"26" height=3D"33" alt=
+=3D"" border=3D"0" style=3D"display: block;" />
+
+                                        </td>
+
+                                        <td align=3D"left">
+
+                                          <div style=3D"line-height: 21px;"=
+ class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 15px; color: white; line-he=
+ight: 21px;">=D0=A6=D0=B5=D0=BD=D0=B0: 6000 =D1=80.</span>
+
+                                          </div>
+
+                                          <div style=3D"height: 5px; line-h=
+eight: 5px; font-size: 2px;">=C2=A0</div>
+
+                                          <div style=3D"line-height: 17px;"=
+ class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 12px; color: white; line-he=
+ight: 17px;">
+
+                                                (=D0=A6=D0=B5=D0=BD=D0=B0 =
+=D0=B4=D0=BB=D1=8F =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B =D0=B8=D0=B7 =
+1-4 =D1=87=D0=B5=D0=BB=D0=BE=D0=B2=D0=B5=D0=BA, =D0=B4=D0=BE=D0=BF=D0=BB=D0=
+=B0=D1=82=D0=B0 =D0=B7=D0=B0 5, 6-=D0=B3=D0=BE =D0=B8=D0=B3=D1=80=D0=BE=D0=
+=BA=D0=BE=D0=B2 - 1300 =D1=80=D1=83=D0=B1./=D1=87=D0=B5=D0=BB.)
+
+                                            </span>
+
+                                          </div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                    <div style=3D"height: 10px; line-height=
+: 10px; font-size: 2px;">=C2=A0</div>
+
+                                  </td>
+
+                                </tr>
+
+                              </table>
+
+                            </div>
+
+                            <!-- Item END-->
+
+
+
+                            <!--[if (gte mso 9)|(IE)]></td><td valign=3D"to=
+p" width=3D"229"><![endif]-->
+
+
+
+                            <!-- Item -->
+
+                            <div style=3D"display: inline-block; vertical-a=
+lign: top; width: 229px; font-size: 14px; line-height: 18px;">
+
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                <tr>
+
+                                  <td align=3D"left" valign=3D"top" style=
+=3D"font-size: 14px; line-height: 18px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"35">
+
+                                          <img src=3D"https://mir-kvestov.r=
+u/emails/order_notification_email/ico6.png" width=3D"20" height=3D"30" alt=
+=3D"" border=3D"0" style=3D"display: block;" />
+
+                                        </td>
+
+                                        <td align=3D"left">
+
+                                          <div style=3D"line-height: 21px;"=
+ class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 15px; color: white; line-he=
+ight: 21px;">=D0=A2=D0=B5=D0=BB=D0=B5=D1=84=D0=BE=D0=BD</span>
+
+                                          </div>
+
+                                          <div style=3D"height: 5px; line-h=
+eight: 5px; font-size: 2px;">=C2=A0</div>
+
+                                          <div style=3D"line-height: 17px;"=
+>
+
+                                            <a href=3D"tel:+74955653213" re=
+l=3D"nofollow" style=3D"font-family: Segoe UI, Arial, Helvetica, sans-serif=
+; font-size: 12px; color: white; line-height: 17px; text-decoration: none;"=
+>+7 (495) 565-32-13</a>
+
+                                          </div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                    <div style=3D"height: 10px; line-height=
+: 10px; font-size: 2px;">=C2=A0</div>
+
+                                  </td>
+
+                                </tr>
+
+                              </table>
+
+                            </div>
+
+                            <!-- Item END-->
+
+                             <!-- Item -->
+
+                            <div style=3D"display: inline-block; vertical-a=
+lign: top; width: 100%; max-width: 325px; font-size: 14px; line-height: 18p=
+x;">
+
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                <tr>
+
+                                  <td align=3D"left" valign=3D"top" style=
+=3D"font-size: 14px; line-height: 18px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"35">
+
+                                          <img src=3D"https://mir-kvestov.r=
+u/emails/order_notification_email/suitcase.png" width=3D"26" height=3D"26" =
+alt=3D"" border=3D"0" style=3D"display: block;" />
+
+                                        </td>
+
+                                        <td align=3D"left">
+
+                                          <div style=3D"line-height: 21px;"=
+ class=3D"none_link">
+
+                                            <span style=3D"font-family: Seg=
+oe UI, Arial, Helvetica, sans-serif; font-size: 15px; color: white; line-he=
+ight: 21px;">=D0=A3=D1=81=D0=BB=D1=83=D0=B3=D1=83 =D0=BE=D0=BA=D0=B0=D0=B7=
+=D1=8B=D0=B2=D0=B0=D0=B5=D1=82: =D0=98=D0=9F =D0=A1=D0=B0=D0=BB=D0=B8=D0=BA=
+=D0=BE=D0=B2 =D0=90.=D0=90. (=D0=98=D0=9D=D0=9D:=C2=A0500113739692)</span>
+
+                                          </div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                  </td>
+
+                                </tr>
+
+                              </table>
+
+                            </div>
+
+                            <!-- Item END-->
+
+                          </td>
+
+                        </tr>
+
+
+
+                      </table>
+
+                      <!-- items END -->
+
+                      <div style=3D"height: 20px; line-height: 20px; font-s=
+ize: 2px;">=C2=A0</div>
+
+
+
+
+
+                      <div style=3D"height: 20px; line-height: 20px; font-s=
+ize: 2px;">=C2=A0</div>
+
+                    </td>
+
+                  </tr>
+
+                  <tr>
+
+                    <td align=3D"center" valign=3D"top" style=3D"padding:30=
+px 0 30px 0;">
+
+                      <!-- item -->
+
+                      <table width=3D"94%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"max-width: 94%;" class=3D"mob_item">
+
+                        <tr>
+
+                          <td align=3D"center" bgcolor=3D"white">
+
+                            <div style=3D"height: 20px; line-height: 20px; =
+font-size: 2px;">=C2=A0</div>
+
+                            <table width=3D"96%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"max-width: 96%;">
+
+                              <tr>
+
+                                <td align=3D"center" valign=3D"top" style=
+=3D"font-size: 0px; line-height: 0px;">
+
+                                  <!-- Item -->
+
+                                  <div style=3D"display: inline-block; vert=
+ical-align: top; width: 100%; max-width: 295px; font-size: 14px; line-heigh=
+t: 18px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                      <tr>
+
+                                        <td align=3D"left" valign=3D"top" s=
+tyle=3D"font-size: 14px; line-height: 18px;">
+
+                                          <table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0">
+
+                                            <tr>
+
+                                              <td align=3D"center" valign=
+=3D"top">
+
+                                                <a href=3D"http://email.mir=
+-kvestov.ru/c/eJxMzTFyhiAQQOHTQKcDu65CQZHGazgr4EiikiBS5PSZpMj8_XvzBcd-JTXJ6=
+PQ0jAREZOTuiBRsqMfgjaGVjWU1oFZ29RQUWJTJjUbbEKYBPJp1AQ0eLG5-DUg4olaorYZBDOpM=
+pfto8a65deXpT06HPNxe6-ct8E3ALGB-afryCJi_nnjXW8D8HMnz__8dz-Odu40L5ys3WRxfy73=
+HM9bc-BfjdPTlkdXlEmJZrlzTljzXlK8l_tnNwU8AAAD__-RtTy0" target=3D"_blank" sty=
+le=3D"color: white; font-family: Arial, Helvetica, sans-serif; font-size: 1=
+6px; line-height: 18px;">
+
+                                                  <img src=3D"https://mir-k=
+vestov.ru/uploads/quests/4436/small_improved/%D0%B7%D0%B5%D0%BC%D0%BB.jpg?1=
+643767646" width=3D"279" alt=3D"" border=3D"0" style=3D"display: block;" />
+
+                                                </a>
+
+                                              </td>
+
+                                            </tr>
+
+                                          </table>
+
+                                          <div style=3D"height: 10px; line-=
+height: 10px; font-size: 2px;">=C2=A0</div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                  </div>
+
+                                  <!-- Item END-->
+
+
+
+                                  <!--[if (gte mso 9)|(IE)]></td><td valign=
+=3D"top" width=3D"295"><![endif]-->
+
+
+
+                                  <!-- Item -->
+
+                                  <div style=3D"display: inline-block; vert=
+ical-align: top; width: 100%; max-width: 295px; font-size: 14px; line-heigh=
+t: 18px;">
+
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"border-collapse: collapse;">
+
+                                      <tr>
+
+                                        <td align=3D"center" valign=3D"top"=
+ style=3D"font-size: 14px; line-height: 18px;">
+
+                                          <table width=3D"260" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width: 260px;">
+
+                                            <tr>
+
+                                              <td style=3D"font:18px/23px S=
+egoe UI, Arial, Helvetica, sans-serif; color:#1880b5; padding-bottom: 13px;=
+">
+
+                                                <div style=3D"height: 50px;=
+ overflow: hidden; text-overflow: ellipsis;">=D0=A1=D0=BE=D0=BA=D1=80=D0=BE=
+=D0=B2=D0=B8=D1=89=D0=B0 =D0=B1=D0=BE=D0=B3=D0=B0 =D0=A0=D0=B0</div>
+
+                                              </td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                              <td style=3D"font:14px/21px S=
+egoe UI, Arial, Helvetica, sans-serif; color:#0b0b0b; padding-bottom: 25px;=
+">
+
+                                                <div style=3D"height: 63px;=
+ overflow: hidden; text-overflow: ellipsis;">=D0=93=D1=80=D0=BE=D0=B1=D0=BD=
+=D0=B8=D1=86=D0=B0 =D0=B1=D0=BE=D0=B3=D0=B0 =D0=A0=D0=B0 =D1=81=D0=BA=D1=80=
+=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D1=82=D0=B0=D0=B9=D0=BD=D1=8B, =D1=81=D0=BE=
+=D0=BA=D1=80=D0=BE=D0=B2=D0=B8=D1=89=D0=B0 =D0=B8 =D1=81=D0=BC=D0=B5=D1=80=
+=D1=82=D0=BE=D0=BD=D0=BE=D1=81=D0=BD=D1=8B=D0=B5 =D0=BB=D0=BE=D0=B2=D1=83=
+=D1=88=D0=BA=D0=B8. =D0=A0=D0=B8=D1=81=D0=BA=D0=BD=D0=B5=D1=82=D0=B5 =D0=B2=
+=D0=BE=D0=B9=D1=82=D0=B8?</div>
+
+                                              </td>
+
+                                            </tr>
+
+                                            <!-- btn -->
+
+                                            <tr>
+
+                                              <td align=3D"center">
+
+                                                <table width=3D"260" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width: 260px; width=
+: 100% !important;">
+
+                                                  <tr>
+
+                                                    <td class=3D"active-t" =
+bgcolor=3D"#f1d302" align=3D"center" style=3D"mso-padding-alt:13px 10px 14p=
+x; font:13px/13px Segoe UI, Arial, Helvetica, sans-serif; border-radius:3px=
+; overflow:hidden;">
+
+                                                      <a style=3D"color:#0b=
+0b0b; text-decoration:none; display:block; padding:13px 10px 14px; font-wei=
+ght: bold; text-transform: uppercase;" href=3D"http://email.mir-kvestov.ru/=
+c/eJxMzTFyhiAQQOHTQKcDu65CQZHGazgr4EiikiBS5PSZpMj8_XvzBcd-JTXJ6PQ0jAREZOTui=
+BRsqMfgjaGVjWU1oFZ29RQUWJTJjUbbEKYBPJp1AQ0eLG5-DUg4olaorYZBDOpMpfto8a65deXp=
+T06HPNxe6-ct8E3ALGB-afryCJi_nnjXW8D8HMnz__8dz-Odu40L5ys3WRxfy73HM9bc-BfjdPT=
+lkdXlEmJZrlzTljzXlK8l_tnNwU8AAAD__-RtTy0">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=
+=B0=D1=82=D1=8C =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=D1=82=D0=B5</a>
+
+                                                    </td>
+
+                                                  </tr>
+
+                                                </table>
+
+                                              </td>
+
+                                            </tr>
+
+                                            <!-- btn END -->
+
+                                          </table>
+
+                                          <div style=3D"height: 10px; line-=
+height: 10px; font-size: 2px;">=C2=A0</div>
+
+                                        </td>
+
+                                      </tr>
+
+                                    </table>
+
+                                  </div>
+
+                                  <!-- Item END-->
+
+                                </td>
+
+                              </tr>
+
+                            </table>
+
+                            <div style=3D"height: 10px; line-height: 10px; =
+font-size: 2px;">=C2=A0</div>
+
+                          </td>
+
+                        </tr>
+
+                      </table>
+
+                      <!-- item END -->
+
+                    </td>
+
+                  </tr>
+
+
+
+                </table>
+
+              </td>
+
+            </tr>
+
+            <!-- footer -->
+
+            <tr>
+
+              <td style=3D"padding:30px 20px 0 20px;">
+
+                <table width=3D"585" align=3D"center" style=3D"width:100% !=
+important; max-width:585px; margin:0 auto;" cellpadding=3D"0" cellspacing=
+=3D"0">
+
+                  <tr>
+
+                    <td align=3D"center" style=3D"font-size:0; line-height:=
+0;">
+
+                      <!--[if (gte mso 9)|(IE)]>
+
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0">
+
+                        <tr>
+
+                          <td width=3D"292" valign=3D"top">
+
+                      <![endif]-->
+
+                      <div style=3D"max-width:292px; vertical-align:top; wi=
+dth:100%; display:inline-block;">
+
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse: collapse; border-spacing: 0; margin-bottom=
+: 20px;" width=3D"100%"><tbody><tr><td height=3D"20" style=3D"padding: 0 0 =
+0 16px; text-align: left; vertical-align: middle;" valign=3D"middle" width=
+=3D"20"><img alt=3D"" height=3D"22" src=3D"https://mir-kvestov.ru/emails/br=
+iefcase.png" style=3D"border: 0; height: auto; outline: none; text-decorati=
+on: none;" width=3D"22" /></td><td style=3D"color: #848484; font-family: &#=
+39;Helvetica Neue&#39;, Arial; font-size: 14px; line-height: 20px; padding:=
+ 4px 10px 4px 10px; text-align: left;">=D0=9E=D0=9E=D0=9E &quot;=D0=9C=D0=
+=B8=D1=80 =D0=9A=D0=B2=D0=B5=D1=81=D1=82=D0=BE=D0=B2 C&quot;</td></tr><tr><=
+td height=3D"20" style=3D"padding: 0 0 0 16px; text-align: left; vertical-a=
+lign: middle;" valign=3D"middle" width=3D"20"><img alt=3D"" height=3D"20" s=
+rc=3D"https://email-image.ru/mir-kvestov/220713/call.png" style=3D"border: =
+0; height: auto; outline: none; text-decoration: none;" width=3D"20" /></td=
+><td style=3D"color: #848484; font-family: &#39;Helvetica Neue&#39;, Arial;=
+ font-size: 14px; line-height: 20px; padding: 4px 10px 4px 10px; text-align=
+: left;"><a style=3D"color: #848484; text-decoration:none;" href=3D"tel:+74=
+993221524">+7 (499) 322-15-24</a></td></tr><tr><td height=3D"20" style=3D"p=
+adding: 0 0 0 16px; text-align: left; vertical-align: middle;" valign=3D"mi=
+ddle" width=3D"20"><img alt=3D"" height=3D"20" src=3D"https://email-image.r=
+u/mir-kvestov/220713/email.png" style=3D"border: 0; height: auto; outline: =
+none; text-decoration: none;" width=3D"20" /></td><td style=3D"color: #8484=
+84; font-family: &#39;Helvetica Neue&#39;, Arial; font-size: 14px; line-hei=
+ght: 20px; padding: 4px 10px 4px 10px; text-align: left;"><a style=3D"color=
+: #848484;text-decoration:none;" href=3D"mailto:info@mir-kvestov.ru">info@m=
+ir-kvestov.ru</a></td></tr></tbody></table>
+
+                      </div>
+
+                      <!--[if (gte mso 9)|(IE)]>
+
+                      </td>
+
+                      <td width=3D"292" valign=3D"top">
+
+                      <![endif]-->
+
+                      <div style=3D"max-width:292px; vertical-align:top; wi=
+dth:100%; display:inline-block;">
+
+                        <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0">
+
+                          <tr>
+
+                            <td style=3D"padding:6px 0 44px;">
+
+                              <table align=3D"right" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"t-c"><tbody><tr><td class=3D"active-i"><a href=3D"ht=
+tp://email.mir-kvestov.ru/c/eJwszL2OhCAUQOGngW6MXH7UgmIbX4PA5RLJiGwQef7NbKY=
+6zckXrceg54WTFYsyGrTWKz8smRRNkJ9ogUYmERKsJDxiUIk8z9asYotxUYByDQ4EIGwyYYhSSy=
+PFLMUmQDE1l9xe70F3r-PVnqn4fPLTHr3_3kz-MNgZ7OM9YS0M9pLb93Xt4c36y90HFep1-I_l8=
+zm1h3dbW6Tmrtpzyuh7rpejf3pY-AsAAP__ul5EnA" style=3D"text-decoration:none;">=
+<img alt=3D"vk" src=3D"https://email-image.ru/mir-kvestov/180815/ico-vkonta=
+kte.png" style=3D"width:39px; vertical-align:top;" width=3D"39" /></a></td>=
+<td width=3D"14"></td><td class=3D"active-i"><a href=3D"http://email.mir-kv=
+estov.ru/c/eJwszDGOriAQAODTQPcbmQGBguI1XsMMMEbyRDaInn-zm-2_fDlQima2koOyejFg=
+jHHyCPuctOeoOLPNaNGzc6wIFNNOzkRZwuKUz9lqSOjiBgoSeNxTzGhwQTWj8gq00HMt_fP_5Xu=
+099OfqVI55RmOMb5ugf8ErALWMVUWsNbS_2R_ZA90bffBlUd76Seick79kSO0nrlvVxtlL4lGad=
+fGv-8b4DsAAP__j8BC3A" style=3D"text-decoration:none;"><img alt=3D"tg" src=
+=3D"https://email-image.ru/mir-kvestov/180815/ico-telegram.png" style=3D"wi=
+dth:26px; vertical-align:top;" width=3D"26" /></a></td></tr></tbody></table=
+>
+
+                            </td>
+
+                          </tr>
+
+                        </table>
+
+                      </div>
+
+                      <!--[if (gte mso 9)|(IE)]>
+
+                      </td>
+
+                      </tr>
+
+                      </table>
+
+                      <![endif]-->
+
+                    </td>
+
+                  </tr>
+
+                </table>
+
+              </td>
+
+            </tr>
+
+            <tr>
+
+  <td class=3D"ta-c" style=3D"padding:0 15px 29px 15px; font:13px/16px Sego=
+e UI, Arial, Helvetica, sans-serif; color:#ccc; text-align: left; ">=D0=9C=
+=D0=B8=D1=80 =D0=9A=D0=B2=D0=B5=D1=81=D1=82=D0=BE=D0=B2 =E2=80=94 =D0=B8=D0=
+=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D1=8B=D0=B9=
+ =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81. =D0=9E=D1=80=D0=B3=D0=B0=D0=BD=D0=B8=
+=D0=B7=D0=B0=D1=86=D0=B8=D1=8F =D0=B8=D0=B3=D1=80 =D0=B8 =D0=B8=D0=BD=D1=8B=
+=D0=B5 =D1=83=D1=81=D0=BB=D1=83=D0=B3=D0=B8 =D0=BE=D0=BA=D0=B0=D0=B7=D1=8B=
+=D0=B2=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=BF=D0=B0=D1=80=D1=82=D0=BD=D0=B5=
+=D1=80=D0=B0=D0=BC=D0=B8 =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=B0. =D0=98=
+=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=BE=D0=B1 =D0=BF=
+=D0=B0=D1=80=D1=82=D0=BD=D0=B5=D1=80=D0=B0=D1=85-=D0=BE=D1=80=D0=B3=D0=B0=
+=D0=BD=D0=B8=D0=B7=D0=B0=D1=82=D0=BE=D1=80=D0=B0=D1=85 =D0=B8=D0=B3=D1=80 =
+=D1=80=D0=B0=D0=B7=D0=BC=D0=B5=D1=89=D0=B5=D0=BD=D0=B0 =D0=BD=D0=B0 =D1=81=
+=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B0=D1=85 =D0=BA=D0=B2=D0=B5=D1=81=
+=D1=82=D0=BE=D0=B2 =D0=B2 =D1=80=D0=B0=D0=B7=D0=B4=D0=B5=D0=BB=D0=B5 =C2=AB=
+=D0=9A=D0=BE=D0=BD=D1=82=D0=B0=D0=BA=D1=82=D1=8B =E2=86=92 =D0=A3=D1=81=D0=
+=BB=D1=83=D0=B3=D1=83 =D0=BE=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=
+=82=C2=BB.</td>
+
+</tr>
+
+
+
+<tr>
+
+<td class=3D"ta-c" style=3D"padding:0 15px 29px 15px; font:13px/16px Segoe =
+UI, Arial, Helvetica, sans-serif; color:#ccc; text-align: left; "> =D0=92=
+=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =
+=D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =
+=D1=87=D1=82=D0=BE =D0=B7=D0=B0=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=
+=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0 =D1=81=
+=D0=B0=D0=B9=D1=82=D0=B5 <a style=3D"color:#ccc; text-decoration:underline;=
+" href=3D"http://email.mir-kvestov.ru/c/eJxMzDFuxCAQQNHTmG5XMMOAXVCk2WtYA4x=
+lFNtEmOX80aZK_b9eDpwiaa8kGG8dARHNag8OWS_giKMFBhSvmSz5iFvWkjSoEtxslpy9hYRzXM=
+FAggW3FDMSOjQazWLATlafpT2-h9y9jkd7P08uhzrC3vvPPeHXBK8JXv-eZ3urFvha711O6XXwx=
+-ByfEIPtWVp61V72UriXuq1yh85AvwGAAD__6B0QBg">mir-kvestov.ru</a>. =D0=95=D1=
+=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=BD=D0=B5 =D0=B6=D0=B5=D0=BB=D0=B0=D0=B5=D1=
+=82=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D1=8C =D0=B8=D0=BD=D1=
+=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D1=83=D1=8E =D1=
+=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83 =D0=BE=D1=82 =C2=AB=D0=9C=D0=
+=B8=D1=80=D0=B0&nbsp;=D0=BA=D0=B2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=C2=BB, =D0=
+=BD=D0=B0=D0=B6=D0=BC=D0=B8=D1=82=D0=B5 <a style=3D"color:#ccc; text-decora=
+tion:underline;" href=3D"http://email.mir-kvestov.ru/c/eJxszT2uqzAQxfHV2F0i=
+mMFfhYsnRWwDmZmxYgXwk3FY_1VS3eL25_87HBOtZnBa4ugma8AY4_UzIjufmBwxrZPzVsRDsDb=
+kkNGGALpE68fA7CYg9OsCIxAEzLQyGrQ4DjiGESY1DXtpt9clZ6_Xrb3veyqb3uKz9_-nwn8KZg=
+Xzr829vRXM65botWzl7Evpsp8KZ_mUCh_pWM6n7NLrlT58Ktu3sb2-5FD4YAqDF-9YcEIzYPaGg=
+MX6nIQCi27xb0P3WBtLW47aSy6UeqnH8v3VV4SfAAAA__8wXF_w">=D0=BE=D1=82=D0=BF=D0=
+=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F</a>. </td>
+
+</tr>
+
+          </table>
+
+        </td>
+
+      </tr>
+
+    </table>
+
+  <img width=3D"1" height=3D"1" alt=3D"" src=3D"http://email.mir-kvestov.ru=
+/o/eJwcy0tuwyAQANDTlF0iGBg-C86ChgEUVNtIGHP-qtm_VyJxRulEjcoZi4CIXnyis9ZLS6Uw=
+N2Uz5ZCJJTYDiMGAFD1ar0IpzgBrnxMoYAi6cS4atdVKahUUmB8jzz5fv7vea-zXfN4n9UPMSFe=
+6P_Wsa2z6R9SP93zEimOWOtM1Vm-dafVxpfo9O8JfAAAA__8GzzYY"></body>
+
+</html>
+
+</body>
+
+</html>
+
+

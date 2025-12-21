@@ -1,0 +1,98 @@
+Content-Type: multipart/alternative;
+ boundary="------------yCS90T3foHYTAkS9uleS5NOL"
+Message-ID: <d44ca3cc-5b19-40d4-8396-6782e60d73cb@company.com>
+Date: Tue, 18 Nov 2025 10:01:21 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: en-US
+To: testavsw@mail.ru
+From: =?UTF-8?B?0JvRg9C90LXQstCw?= <gitlab@company.com>
+Subject: Pipeline passed for project 'billing-api' on branch 'staging'
+
+This is a multi-part message in MIME format.
+--------------yCS90T3foHYTAkS9uleS5NOL
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+|Pipeline #782 for billing-api/billing-api finished successfully.|
+
+  *
+
+    *Project:*billing-api
+
+  *
+
+    *Branch:*staging
+
+  *
+
+    *Commit:*a1b2c3d4 (Update payment gateway SDK to v2.5)
+
+  *
+
+    *Author:*Ivan Petrov
+
+  *
+
+    *Duration:*12 min, 45 sec
+
+  *
+
+    *Status:**PASSED*
+
+  *
+
+    *Environment:*|staging|was updated.
+
+The application has been successfully deployed to the Kubernetes cluster.
+
+--------------yCS90T3foHYTAkS9uleS5NOL
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p class="ds-markdown-paragraph"><code>Pipeline #782 for
+        billing-api/billing-api finished successfully.</code></p>
+    <ul>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Project:</span></strong><span>
+            billing-api</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Branch:</span></strong><span>
+            staging</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Commit:</span></strong><span>
+            a1b2c3d4 (Update payment gateway SDK to v2.5)</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Author:</span></strong><span>
+            Ivan Petrov</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Duration:</span></strong><span>
+            12 min, 45 sec</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Status:</span></strong><span>
+          </span><strong><span>PASSED</span></strong></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Environment:</span></strong><span>
+          </span><code>staging</code><span> was updated.</span></p>
+      </li>
+    </ul>
+    <span>The application has been successfully deployed to the
+      Kubernetes cluster.</span>
+    <p></p>
+  </body>
+</html>
+
+--------------yCS90T3foHYTAkS9uleS5NOL--

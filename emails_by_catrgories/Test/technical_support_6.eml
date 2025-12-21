@@ -1,0 +1,89 @@
+Content-Type: multipart/alternative;
+ boundary="------------oknQm01mSZneD30V30kMCKpU"
+Message-ID: <30c4c0ac-0145-44c2-963a-08b8fe676756@test.ru>
+Date: Wed, 19 Nov 2025 10:02:00 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: en-US
+To: test@test.ru
+From: Ivanova Ekaterina <test14@test.ru>
+Subject: =?UTF-8?B?0J3QtSDQt9Cw0LPRgNGD0LbQsNC10YLRgdGPINGB0YLRgNCw0L3QuNGG?=
+ =?UTF-8?B?0LAg0L7RgtGH0ZHRgtC+0LIg0LIg0LvQuNGH0L3QvtC8INC60LDQsdC40L3QtdGC?=
+ =?UTF-8?B?0LU=?=
+
+This is a multi-part message in MIME format.
+--------------oknQm01mSZneD30V30kMCKpU
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Добрый день!
+
+При попытке открыть страницу отчётов (https://example.com/reports ) в 
+браузере Chrome на Windows 11 — страница загружается бесконечно, ошибка 
+в консоли: |404 Not Found| для |/api/v2/reports/data|.
+
+Проблема воспроизводится у трёх сотрудников.
+До вчерашнего дня работало корректно.
+Проверяли: кэш браузера, другие устройства, Wi-Fi — не помогло.
+
+Просим проверить:
+
+ 1. Доступность эндпоинта |/api/v2/reports/data|
+ 2. Возможные изменения в маршрутизации или правах доступа
+
+Срочность: средняя — влияет на ежедневную отчётность.
+
+С уважением,
+Андрей Петров
+Отдел аналитики
+an.petrov@company.ru
+
+--------------oknQm01mSZneD30V30kMCKpU
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Добрый день!</p>
+    <p data-spm-anchor-id="a2ty_o01.29997173.0.i5.3154c9214vkPhi">При
+      попытке открыть страницу отчётов (<a
+        href="https://example.com/reports" target="_blank"
+        rel="nofollow" style="position: relative;"
+        class="moz-txt-link-freetext">https://example.com/reports </a>)
+      в браузере Chrome на Windows 11 — страница загружается бесконечно,
+      ошибка в консоли: <code
+        class="codespan cursor-pointer z-[9] relative">404 Not Found</code>
+      для <code class="codespan cursor-pointer z-[9] relative">/api/v2/reports/data</code>.
+    </p>
+    <div class="my-2"></div>
+    <p>Проблема воспроизводится у трёх сотрудников.<br>
+      До вчерашнего дня работало корректно.<br>
+      Проверяли: кэш браузера, другие устройства, Wi-Fi — не помогло. </p>
+    <div class="my-2"></div>
+    <p>Просим проверить: </p>
+    <ol start="1" dir="auto">
+      <li>Доступность эндпоинта <code
+          class="codespan cursor-pointer z-[9] relative">/api/v2/reports/data</code>
+      </li>
+      <li data-spm-anchor-id="a2ty_o01.29997173.0.i4.3154c9214vkPhi">Возможные
+        изменения в маршрутизации или правах доступа</li>
+    </ol>
+    <div class="my-2"></div>
+    <p>Срочность: средняя — влияет на ежедневную отчётность. </p>
+    <div class="my-2"></div>
+    <p>С уважением,<br>
+      Андрей Петров<br>
+      Отдел аналитики<br>
+      <a href="mailto:an.petrov@company.ru" target="_blank"
+        rel="nofollow" style="position: relative;"
+        class="moz-txt-link-freetext">an.petrov@company.ru </a> </p>
+    <p></p>
+  </body>
+</html>
+
+--------------oknQm01mSZneD30V30kMCKpU--

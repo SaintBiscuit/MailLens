@@ -1,0 +1,72 @@
+Return-Path: <noreply@edc.sale>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from mail.edc.sale (static.93.103.109.65.clients.your-server.de [65.109.103.93])
+	by mail.collectorshash.su (Postfix) with ESMTP id C66E81FA0C
+	for <v.p.ankevich@collectorshash.su>; Thu, 24 Apr 2025 17:07:53 +0300 (MSK)
+Received: by mail.edc.sale (Postfix, from userid 1000)
+	id 32CF463C8D00; Thu, 24 Apr 2025 16:07:53 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 mail.edc.sale 32CF463C8D00
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=edc.sale; s=mail;
+	t=1745503673; bh=ZRP01j5oOb5QL1QRekc02qm4CSYzn7QQlm9aUfCHdQU=;
+	h=To:Subject:Date:From:List-Unsubscribe:From;
+	b=d5PfNwJO0P//ePwcl6/KC+maO9D9/v1thnykUx0rJ7SrxPAyEDvO/GXZpZdZaFbp6
+	 h7LNZaZ+Ys3RpXH+e/bK+G3CZ8kEbwWkcmRcJsGCaY6y6HI5BZPS4ctVgoTtiVktBb
+	 IQ/ejyEaaKri0dEFTiEcjK+G/EFEqb52U/OQEdrcsmFjpGbYeBvIE/IVKgZ6wFeK3X
+	 e/eVzZqSUjwnrHz6Km9IKmG080afBLkHPJ2rfxtG0Gcl6Jqwl9iIbOWMusfEFSVNHP
+	 pQxB+7VtjMASRbO2yh9YSkxWh6fPJwdOKffnLjCLoh+nn+r3liuxB0nUUOStgZupGn
+	 0XbA+7TAtwFig==
+To: v.p.ankevich@collectorshash.su
+Subject: =?UTF-8?B?0KDQtdCz0LjRgdGC0YDQsNGG0LjRjyDQvdCwIMKrRURDLlNBTEXCuw==?=
+Date: Thu, 24 Apr 2025 17:07:53 +0300
+From: =?UTF-8?Q?=C2=ABEDC=2ESALE=C2=BB?= <mail@edc.sale>
+Message-ID: <pCNY3n7IOHMSs4v4Drr2Zgb9Hr8WGaBVuxOFMXuY@edc.sale>
+List-Unsubscribe: =?us-ascii?Q?<https://edc.sale/ru/user/unsubscribe=3Fh=3Dc83?=
+ =?us-ascii?Q?e0b0207b3cf9ce2e740277f201f83.351260.0>?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_pCNY3n7IOHMSs4v4Drr2Zgb9Hr8WGaBVuxOFMXuY"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_pCNY3n7IOHMSs4v4Drr2Zgb9Hr8WGaBVuxOFMXuY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте!
+При регистрации своего аккаунта вы указали этот адрес: v.p.ankevich@collectorshash.su
+Ваш пароль: йфцыувкаеп
+
+
+
+
+Ссылка для активации: https://edc.sale/ru/user/register?key=67b831c8a04f441db0e9f52f1aaf360c&step=activate
+
+--b1_pCNY3n7IOHMSs4v4Drr2Zgb9Hr8WGaBVuxOFMXuY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<table style="max-width: 680px; font-family: Arial; margin: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><img style="width: 250px;" src="https://edc.sale/img/logo-email.jpg" alt="EDC.SALE" /></td>
+</tr>
+<tr>
+<td>
+<div style="font-size: 20px; text-align: center; margin: 0px 0px 20px 0px;">Здравствуйте!</div>
+<div style="font-size: 16px; line-height: 25px; text-align: center; margin: 0px 0px 20px 0px;">При регистрации своего аккаунта вы указали этот адрес: <strong>v.p.ankevich@collectorshash.su</strong></div>
+<div style="font-size: 16px; line-height: 25px; text-align: center; margin: 0px 0px 20px 0px;">Ваш пароль: <strong>йфцыувкаеп</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="font-size:16px; text-align: center; margin: 0px 0px 20px 0px;">Ссылка для активации: <a href="https://edc.sale/ru/user/register?key=67b831c8a04f441db0e9f52f1aaf360c&step=activate">https://edc.sale/ru/user/register?key=67b831c8a04f441db0e9f52f1aaf360c&step=activate</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+--b1_pCNY3n7IOHMSs4v4Drr2Zgb9Hr8WGaBVuxOFMXuY--
+

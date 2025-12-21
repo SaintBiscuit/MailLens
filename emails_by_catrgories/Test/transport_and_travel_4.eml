@@ -1,0 +1,855 @@
+Delivered-To: test@mail.ru
+Received: by 2002:a0c:e904:0:b0:702:c2a5:fde8 with SMTP id a4csp2377101qvo;
+        Mon, 7 Jul 2025 04:04:28 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IEtsfO/00rGMUut8GcOKzPW4ebs4I7KbfprBHvt6ZM6/4bqabjmQn6AUKNkxfQkeHeVLnJy
+X-Received: by 2002:a05:651c:31d4:b0:32a:77a3:8781 with SMTP id 38308e7fff4ca-32f09313da7mr32361321fa.30.1751886267872;
+        Mon, 07 Jul 2025 04:04:27 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1751886267; cv=none;
+        d=google.com; s=arc-20240605;
+        b=XqFCSmTqqluvry0hHXCXmkkk+RqqPYwLQZscxzHMEOheSlUVWeEFA5kFe1I0lonSud
+         o3I5px1jWnKiFFTlDNO+EKmldE1Ah3Nx+2pb8/s4FGuSQn0Fy5BThdTYjxYu7NAOr+yi
+         iNRK4PY1Kt4KuuQGNm6kw8F5f6O7YrkFfZXUITYMrokzqwQ4U58rFWMztXoKl/y92re4
+         q0/8v0SXYfLIbDtx0nNgajXqXFAhShdNHnzahDD01SG56mopsaqArLiZTUsEzRiApR43
+         m2eJNWUW8oU0n3yQ4YsDnS+qxZsJSLHoPPqMKm5a1/zVSkmlNGMEL8hcbvV5OOZwCxdg
+         tyig==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:subject:message-id:to:from:date:dkim-signature;
+        bh=Q4tTCzjm5BOsn6a+OYt29kGbJbou67nv4UYcu6nnOeU=;
+        fh=GK4RETpE+SOF88Li7gxYlk79ZFS7w1KKUU5q3rQaVUQ=;
+        b=THZckwJKhVfrLAPtJbaK+WM1Y//CDApCTn9+YRCrq8EXB0YU6e6vH6sKALawG989qB
+         2oDDiMrWNpDlPq1AON/Bp0qTWl5i4tFmw7MHG7/Ex3+aQZMkaqtD8MoBkaEr3VxqAtnm
+         5SEY5uSCx7UndfejA+l0I3gFTo2iO8IfI+7y/npSZ6LDb0CSGPhTaN+eo9wQREcko0/i
+         zzSXLqc2viZ1zAlsZurQE8oqYXQnZDt3WgRaj96DVSYhWXAUgC+2vM5AkRHRqVLWnQYn
+         cBUYzavb2HnCZacvMwwWhoF9Cz/dbNb+wmwMk3GZlSvsscOc0Dbq9xynOqa3tKjLjTxG
+         cq5g==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@flypobeda.ru header.s=mta header.b=VKXM5EMR;
+       spf=pass (google.com: domain of notify@flypobeda.ru designates 185.99.10.168 as permitted sender) smtp.mailfrom=notify@flypobeda.ru;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=flypobeda.ru
+Return-Path: <notify@flypobeda.ru>
+Received: from relay.pobeda.aero (relay.pobeda.aero. [185.99.10.168])
+        by mx.google.com with ESMTP id 38308e7fff4ca-32e1b1c8436si25038891fa.156.2025.07.07.04.04.27
+        for <test@mail.ru>;
+        Mon, 07 Jul 2025 04:04:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notify@flypobeda.ru designates 185.99.10.168 as permitted sender) client-ip=185.99.10.168;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@flypobeda.ru header.s=mta header.b=VKXM5EMR;
+       spf=pass (google.com: domain of notify@flypobeda.ru designates 185.99.10.168 as permitted sender) smtp.mailfrom=notify@flypobeda.ru;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=flypobeda.ru
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=flypobeda.ru; s=mta;
+	t=1751886267; bh=sd1psx2dd9S6NCYoxEKQMo68V1HNs3rl1jNmTiiUMMI=;
+	h=Date:From:To:Subject:From;
+	b=VKXM5EMRnVNwJHwd473borh3QgPxo7pD9KkFWZqjgk2TsQCPxctXA2+pHekgDINmI
+	 mdVCQ17mi0zi6LwYXcTZ0zgueC0RVGgrYRClVa54R9Ak7MC8T72HU19psbtjNEw/5C
+	 je41CsIFbwJ10KaQ/9PV5zUlgPPL1zPLhg9Bey0S7ymf9V317UqtkCCM31MEGMkp1G
+	 bLiQV9WAYQ6sd8MaxYrNZOf+vAcHyMQtUHOeoWXIZU1Zh1LzekpNiJpDE1dhHTZrRz
+	 K4dEoErkyOlyntHdMxR9q2eAqe6PF3IG5673/HlhGlUwLLv2N0WRqN5y6yvche6cta
+	 ZzFBAT/39JYFg==
+Received: from messages-srv-pr.idm.pobeda.aero (unknown [10.20.166.37])
+	by messages-mail-pr01.idm.pobeda.aero (Postfix) with ESMTP id 5306D690;
+	Mon,  7 Jul 2025 14:04:27 +0300 (MSK)
+Date: Mon, 7 Jul 2025 14:04:27 +0300 (MSK)
+From: =?UTF-8?B?4pyIINCQ0LLQuNCw0LrQvtC80L/QsNC90LjRjyDQn9C+0LHQtdC00LA=?=
+ <notify@flypobeda.ru>
+To: test@mail.ru
+Message-ID: <1937993725.662301.1751886267337@messages-srv-pr.idm.pobeda.aero>
+Subject: =?UTF-8?B?0JTQvtCx0YDQviDQv9C+0LbQsNC70L4=?=
+ =?UTF-8?B?0LLQsNGC0Ywg0LIg0JrQsNC30LDQvdGM?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_662300_1977639739.1751886267336"
+
+------=_Part_662300_1977639739.1751886267336
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"
+      xmlns:v=3D"urn:schemas-microsoft-com:vml"
+      xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+  <head>
+    <!--[if gte mso 9]><xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+    <meta http-equiv=3D"Content-Type"
+          content=3D"text/html; charset=3Dutf-8"/>
+    <meta name=3D"viewport"
+          content=3D"width=3Ddevice-width, initial-scale=3D1.0"/>
+    <meta http-equiv=3D"X-UA-Compatible"
+          content=3D"IE=3DEdge"/>
+    <meta name=3D"x-apple-disable-message-reformatting"/>
+    <style type=3D"text/css">
+        html {
+          -webkit-text-size-adjust: none;
+          -ms-text-size-adjust: none;
+        }
+
+        @media only screen and (max-width: 599px) {
+          .m_mob_100 {
+            width: 100% !important;
+            max-width: 100% !important;
+          }
+        }
+
+        .desktop-hide {
+          display: none;
+        }
+
+        @media only screen and (max-width: 500px) {
+          .desktop-hide {
+            display: table !important;
+          }
+
+          .desktop-hide-row {
+            display: table-row !important;
+          }
+
+          .mobile-hide {
+            display: none;
+          }
+        }
+      </style>
+  </head>
+  <body style=3D"margin: 0px; padding: 0px">
+    <table width=3D"100%"
+           border=3D"0"
+           cellspacing=3D"0"
+           cellpadding=3D"0"
+           style=3D"line-height: normal; font-size: 0"
+           bgcolor=3D"transparent">
+      <tr>
+        <td align=3D"center">
+          <!--[if !mso]><!-->
+         =20
+          <div class=3D"dvPreheader"
+               style=3D"font-size: 0px; line-height: 0px; color: transparen=
+t;">
+              =D0=9A=D0=B0=D0=BA =D0=BF=D1=80=D0=BE=D1=88=D1=91=D0=BB =D0=
+=B2=D0=B0=D1=88 =D0=BF=D0=BE=D0=BB=D1=91=D1=82?
+          </div>
+          <div class=3D"dvPreheader"
+               style=3D"font-size: 0px; line-height: 0px; color: transparen=
+t;">&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;
+          </div>
+          <!--<![endif]-->
+          <!--[if (gte mso 9)|(IE)]>
+          <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"width: 600px;">
+          <tr><td>
+          <![endif]-->
+          <table width=3D"100%"
+                 border=3D"0"
+                 align=3D"center"
+                 cellspacing=3D"0"
+                 cellpadding=3D"0"
+                 style=3D"max-width: 600px; min-width: 365px;">
+            <tr>
+              <td align=3D"center">
+                <table width=3D"100%"
+                       border=3D"0"
+                       cellspacing=3D"0"
+                       cellpadding=3D"0">
+                  <tbody>
+                    <tr>
+                      <td align=3D"center"
+                          bgcolor=3D"#ffffff"
+                          style=3D"background-color: #FFFFFF; padding: 26px=
+ 15px; background-color: #ffffff; background-position: center center; paddi=
+ng: 26px 15px 26px 15px; border-radius: 25px 25px 0px 0px">
+                        <!--[if (gte mso 9)|(IE)]><table width=3D"540" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 540px;"><tr><t=
+d><![endif]-->
+                        <table width=3D"100%"
+                               border=3D"0"
+                               cellspacing=3D"0"
+                               cellpadding=3D"0"
+                               style=3D"max-width: 540px">
+                          <tbody>
+                            <tr>
+                              <td align=3D"left">
+                                <table border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0">
+                                  <tbody>
+                                    <tr>
+                                      <td align=3D"center"
+                                          valign=3D"middle"
+                                          style=3D" padding: 10px 0px 0px 0=
+px">
+                                        <table border=3D"0"
+                                               cellspacing=3D"0"
+                                               cellpadding=3D"0">
+                                          <tbody>
+                                            <tr>
+                                              <td align=3D"center"
+                                                  style=3D" border: none; b=
+order-radius: 0px 0px 0px 0px">
+                                                <a target=3D"_blank"
+                                                   style=3D"font-family: Ar=
+ial, Helvetica, Tahoma, sans-serif; font-size: 14px; color: #000000; text-d=
+ecoration: none"
+                                                   href=3D"https://www.flyp=
+obeda.ru/ru">
+                                                 =20
+                                                  <img src=3D"https://cdn.f=
+lypobeda.ru/media/survey/ru/social/logo_Blue.png"
+                                                       width=3D"130"
+                                                       alt=3D"flypobeda.ru"
+                                                       border=3D"0"
+                                                       style=3D"display: bl=
+ock; width: 100%; max-width: 130px; border-radius: 0px 0px 0px 0px; width: =
+100%"/>                                     =20
+                                                </a>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]></td></tr></table><![endi=
+f]-->
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                <table width=3D"100%"
+                       border=3D"0"
+                       cellspacing=3D"0"
+                       cellpadding=3D"0">
+                  <tbody>
+                    <tr>
+                      <td align=3D"center"
+                          bgcolor=3D"#ffffff"
+                          style=3D"background-color: #FFFFFF; background-co=
+lor: #ffffff; background-position: center center; padding: 0px 0px 0px 0px;=
+ border-radius: 0px 0px 0px 0px">
+                        <!--[if (gte mso 9)|(IE)]><table width=3D"600" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 600px;"><tr><t=
+d><![endif]-->
+                        <table width=3D"100%"
+                               border=3D"0"
+                               cellspacing=3D"0"
+                               cellpadding=3D"0"
+                               style=3D"max-width: 600px">
+                          <tbody>
+                            <tr>
+                              <td align=3D"center">
+                                <table border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0">
+                                  <tbody>
+                                    <tr>
+                                      <td align=3D"left"
+                                          valign=3D"middle"
+                                          style=3D" padding: 10px 0px 20px =
+0px">
+                                        <table border=3D"0"
+                                               cellspacing=3D"0"
+                                               cellpadding=3D"0">
+                                          <tbody>
+                                            <tr>
+                                              <td align=3D"center"
+                                                  style=3D" border: none; b=
+order-radius: nullpx nullpx 0px 0px">
+                                                <a target=3D"_blank"
+                                                   style=3D"font-family: Ar=
+ial, Tahoma, Helvetica, sans-serif; font-size: 14px; color: #000000; text-d=
+ecoration: none"
+                                                   href=3D"https://www.flyp=
+obeda.ru/ru/flights/KZN">
+                                                  <img src=3D"https://cdn.f=
+lypobeda.ru/media/survey/ru/summer/kzn.png"
+                                                       width=3D"540"
+                                                       alt=3D""
+                                                       border=3D"0"
+                                                       style=3D"display: bl=
+ock; width: 100%; max-width: 600px; border-radius: 0px 25px 25px 25px; widt=
+h: 100%"/>
+                                                </a>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]></td></tr></table><![endi=
+f]-->
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table width=3D"100%"
+                       border=3D"0"
+                       cellspacing=3D"0"
+                       cellpadding=3D"0">
+                  <tbody>
+                    <tr>
+                      <td align=3D"center"
+                          bgcolor=3D"#ffffff"
+                          style=3D"background-color: #FFFFFF; padding: 4px =
+15px; background-color: #ffffff; background-position: center center; paddin=
+g: 15px 15px 5px 15px; border-radius: 0px 0px 0px 0px">
+                        <!--[if (gte mso 9)|(IE)]><table width=3D"540" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 540px;"><tr><t=
+d><![endif]-->
+                        <table width=3D"100%"
+                               border=3D"0"
+                               cellspacing=3D"0"
+                               cellpadding=3D"0"
+                               style=3D"max-width: 540px">
+                          <tbody>
+                            <tr>
+                              <td align=3D"left">
+                                <tbody>
+                                  <tr>
+                                    <td align=3D"left"
+                                        style=3D" padding: 0px 0px 0px 0px"=
+>
+                                      <table border=3D"0"
+                                             cellspacing=3D"0"
+                                             cellpadding=3D"0">
+                                        <tbody>
+                                          <tr>
+                                            <td align=3D"left"
+                                                style=3D"font-family: Arial=
+, Tahoma, Helvetica, sans-serif; font-size: 18px; line-height: 1.5; color: =
+#000000; padding:  0px 0px;background-color: transparent;border: none;borde=
+r-radius: 0px 0px 0px 0px;font-family: Arial, Tahoma, sans-serif; font-size=
+: 16px; font-weight: normal; font-style: normal; letter-spacing: 0px; line-=
+height: 1.5"
+                                                bgcolor=3D"transparent">
+                                              <p style=3D"margin: 0">
+                                               =20
+                                                <span style=3D"color: #5e5c=
+68">=D0=A3=D0=B2=D0=B0=D0=B6=D0=B0=D0=B5=D0=BC=D1=8B=D0=B9 =D0=BA=D0=BB=D0=
+=B8=D0=B5=D0=BD=D1=82!<br>
+                                                    <br>=D0=91=D0=BB=D0=B0=
+=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D0=B8=D0=BC =D0=B2=D0=B0=D1=81 =D0=B7=D0=B0 =
+=D0=B2=D1=8B=D0=B1=D0=BE=D1=80 =D0=9F=D0=BE=D0=B1=D0=B5=D0=B4=D1=8B =D0=B4=
+=D0=BB=D1=8F =D0=BF=D1=83=D1=82=D0=B5=D1=88=D0=B5=D1=81=D1=82=D0=B2=D0=B8=
+=D1=8F =D0=BF=D0=BE =D0=BC=D0=B0=D1=80=D1=88=D1=80=D1=83=D1=82=D1=83 <b><sp=
+an>=D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0</span> =E2=80=94 <span>=D0=9A=D0=B0=
+=D0=B7=D0=B0=D0=BD=D1=8C</span> <span>07.07.2025</span></b>
+                                                      <br>
+                                                        <br>=D0=9F=D0=BE=D0=
+=B6=D0=B0=D0=BB=D1=83=D0=B9=D1=81=D1=82=D0=B0, =D0=BF=D0=BE=D0=B4=D0=B5=D0=
+=BB=D0=B8=D1=82=D0=B5=D1=81=D1=8C =D0=B2=D0=BF=D0=B5=D1=87=D0=B0=D1=82=D0=
+=BB=D0=B5=D0=BD=D0=B8=D1=8F=D0=BC=D0=B8 =D0=BE =D0=BF=D0=B5=D1=80=D0=B5=D0=
+=BB=D1=91=D1=82=D0=B5. =D0=AD=D1=82=D0=BE =D0=B7=D0=B0=D0=B9=D0=BC=D1=91=D1=
+=82 =D0=B2=D1=81=D0=B5=D0=B3=D0=BE =D0=BF=D0=B0=D1=80=D1=83 =D0=BC=D0=B8=D0=
+=BD=D1=83=D1=82, =D0=B0 =D0=BD=D0=B0=D0=BC =D0=BF=D0=BE=D0=BC=D0=BE=D0=B6=
+=D0=B5=D1=82 =D1=81=D1=82=D0=B0=D1=82=D1=8C =D0=BB=D1=83=D1=87=D1=88=D0=B5.=
+ =D0=9C=D1=8B =D1=86=D0=B5=D0=BD=D0=B8=D0=BC =D0=B2=D0=B0=D1=88=D0=B5 =D0=
+=BC=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 =E2=99=A5
+                                                </span>
+                                              </p>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]></td></tr></table><![endi=
+f]-->
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table width=3D"100%"
+                       border=3D"0"
+                       cellspacing=3D"0"
+                       cellpadding=3D"0">
+                  <tbody>
+                    <tr>
+                      <td align=3D"center"
+                          bgcolor=3D"#ffffff"
+                          style=3D"background-color: #ffffff;background-pos=
+ition: center center; border-radius: 0px 0px 0px 0px; padding: 25px 15px 15=
+px 15px">
+                        <!--[if (gte mso 9)|(IE)]><table width=3D"540" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 540px;"><tr><t=
+d><![endif]-->
+                        <table width=3D"100%"
+                               border=3D"0"
+                               cellspacing=3D"0"
+                               cellpadding=3D"0"
+                               style=3D"max-width: 540px">
+                          <tbody>
+                            <tr>
+                              <td align=3D"center"
+                                  style=3D"padding: 0px 0px 6px 0px">
+                                <!--[if (gte mso 9)|(IE)]><table width=3D"2=
+30" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 230px;=
+"><tr><td><![endif]-->
+                                <table width=3D"230px"
+                                       style=3D" max-width: 230px;  width: =
+230px"
+                                       border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0">
+                                  <tbody>
+                                    <tr>
+                                      <td nowrap=3D""
+                                          align=3D"center"
+                                          valign=3D"middle"
+                                          bgcolor=3D"#f50071"
+                                          style=3D"background-color: #f5007=
+1; border: none; display: block; border-radius: 25px 25px 25px 25px; mso-pa=
+dding-alt: 14px 11px">
+                                        <a href=3D"https://flypobeda.ru/ru/=
+services/survey?hash=3DRND7q%2FHs%2FxMJTbfBcBef83SHLH86wb3EbueKj1CG2%2FBQuB=
+u3aUUfpaWWKyyJj6I6UllbStdVI2xmpWPki26krW7JTXfx72TfSa6mx3W0xT04qppnU8imV5Bz6=
+iGTHGnjacxLfeeSskCEcUFXA%2BbUOuKBDHvdNVEXOkj%2FbuVwrX4Cx9nfOlhqTwFv%2B5rpyv=
+s6kJCz5xWAO85UBorX8X5rItx6z4Wj9IL8GJYJ84KS0sEJPp1miCS1seM%2FO%2FePYP4qs30UH=
+HelNOa%2FMZNpcltuq8bWjjNavTZuDoUmG4%2Fua3CNDbh%2BnMvbwWAJbTWCcXVTch15k7zj3C=
+H3uqp3UJNLXQ%3D%3D"
+                                          target=3D"_blank"
+                                          style=3D"white-space: normal; tex=
+t-decoration: none; display: block; padding: 14px 11px; font-family: Helvet=
+ica, Tahoma, sans-serif; font-size: 18px; font-weight: bold; letter-spacing=
+: 0px; line-height: 1.15; color: #ffffff">
+                                         =20
+                                          <span>=D0=9E=D1=81=D1=82=D0=B0=D0=
+=B2=D0=B8=D1=82=D1=8C =D0=BE=D1=82=D0=B7=D1=8B=D0=B2</span>
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <!--[if (gte mso 9)|(IE)]></td></tr></table=
+><![endif]-->
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]></td></tr></table><![endi=
+f]-->
+                      </td>
+                    </tr>
+                    <tr style=3D"height: 0px"/>
+                  </tbody>
+                </table>
+                <table width=3D"100%"
+                       border=3D"0"
+                       cellspacing=3D"0"
+                       cellpadding=3D"0">
+                  <tbody>
+                    <tr>
+                      <td align=3D"center"
+                          bgcolor=3D"#ffffff"
+                          style=3D"background-color: #ffffff; padding: 0px =
+00px 00px 00px; background-color: #ffffff; background-position: center cent=
+er; padding: 0px 00px 0px 00px; border-radius: 0px 0px 0px 0px">
+                        <table width=3D"100%"
+                               border=3D"0"
+                               cellspacing=3D"0"
+                               cellpadding=3D"0">
+                          <tbody>
+                            <tr>
+                              <td align=3D"center">
+                                <table width=3D"100%"
+                                       border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0">
+                                  <tbody>
+                                    <tr style=3D"height: 5px"/>
+                                  </tbody>
+                                </table>
+                                <table width=3D"100%"
+                                       border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0"
+                                       style=3D"max-width: 600px">
+                                  <tbody>
+                                    <tr>
+                                      <td align=3D"center">
+                                        <table border=3D"0"
+                                               cellspacing=3D"0"
+                                               cellpadding=3D"0">
+                                          <tbody>
+                                            <tr>
+                                              <td align=3D"left"
+                                                  valign=3D"middle"
+                                                  style=3D" padding: 00px 0=
+px 5px 0px">
+                                                <table border=3D"0"
+                                                       cellspacing=3D"0"
+                                                       cellpadding=3D"0">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td align=3D"center"
+                                                          style=3D" border:=
+ none; border-radius: nullpx nullpx 0px 0px">
+                                                       =20
+                                                         <a target=3D"_blan=
+k"
+                                                           style=3D"font-fa=
+mily: Arial, Tahoma, Helvetica, sans-serif; font-size: 14px; color: #000000=
+; text-decoration: none"
+                                                           href=3D"https://=
+t.me/pobeda_aero_bot">
+                                                          <img src=3D"https=
+://cdn.flypobeda.ru/media/survey/ru/social/vitya.png"
+                                                               width=3D"540=
+"
+                                                               alt=3D""
+                                                               border=3D"0"
+                                                               style=3D"dis=
+play: block; width: 100%; max-width: 600px; border-radius: 0px; width: 100%=
+"/>
+                                                         </a>
+                                                      </td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <table cellpadding=3D"0"
+                                       cellspacing=3D"0"
+                                       class=3D"center"
+                                       align=3D"center"
+                                       style=3D"mso-table-lspace:0pt;mso-ta=
+ble-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:center">
+                                  <tr style=3D"border-collapse:collapse">
+                                    <td align=3D"left"
+                                        style=3D"padding:0;Margin:0;width:2=
+62px">
+                                      <table cellpadding=3D"0"
+                                             cellspacing=3D"0"
+                                             width=3D"100%"
+                                             style=3D"mso-table-lspace:0pt;=
+mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                        <tr style=3D"border-collapse:collap=
+se">
+                                          <td align=3D"right"
+                                              class=3D"es-m-txt-c es-m-p0r"
+                                              style=3D"padding:0;Margin:0;f=
+ont-size:0px;padding-right:35px">
+                                            <table cellpadding=3D"0"
+                                                   cellspacing=3D"0"
+                                                   class=3D"es-table-not-ad=
+apt es-social"
+                                                   style=3D"mso-table-lspac=
+e:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                                              <tr style=3D"border-collapse:=
+collapse">
+                                                <td align=3D"center"
+                                                    valign=3D"top"
+                                                    style=3D"padding:0;Marg=
+in:0; padding-right:5px;">
+                                                  <a target=3D"_blank"
+                                                     href=3D"https://t.me/P=
+obedaAirlines"
+                                                     style=3D"-webkit-text-=
+size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;tex=
+t-decoration:underline;color:#79ADE7;font-size:14px">
+                                                    <img title=3D"Telegram"
+                                                         src=3D"https://cdn=
+.flypobeda.ru/media/survey/ru/social/tg.png"
+                                                         alt=3D"Tg"
+                                                         width=3D"55"
+                                                         style=3D"display:b=
+lock;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicu=
+bic"/>
+                                                  </a>
+                                                </td>
+                                                <td align=3D"center"
+                                                    valign=3D"top"
+                                                    style=3D"padding:0;Marg=
+in:0;padding-right:5px;">
+                                                  <a target=3D"_blank"
+                                                     href=3D"https://vk.com=
+/flypobeda"
+                                                     style=3D"-webkit-text-=
+size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;tex=
+t-decoration:underline;color:#79ADE7;font-size:14px">
+                                                    <img title=3D"Vkontakte=
+"
+                                                         src=3D"https://cdn=
+.flypobeda.ru/media/survey/ru/social/vk.png"
+                                                         alt=3D"Vk"
+                                                         width=3D"55"
+                                                         style=3D"display:b=
+lock;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicu=
+bic"/>
+                                                  </a>
+                                                </td>
+                                                <td align=3D"center"
+                                                    valign=3D"top"
+                                                    style=3D"padding:0;Marg=
+in:0;">
+                                                  <a target=3D"_blank"
+                                                     href=3D"https://dzen.r=
+u/pobeda_aero"
+                                                     style=3D"-webkit-text-=
+size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;tex=
+t-decoration:underline;color:#79ADE7;font-size:14px">
+                                                    <img title=3D"Yandex.Dz=
+en"
+                                                         src=3D"https://cdn=
+.flypobeda.ru/media/survey/ru/social/zn.png"
+                                                         alt=3D"Yd"
+                                                         width=3D"55"
+                                                         style=3D"display:b=
+lock;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicu=
+bic"/>
+                                                  </a>
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        <tr style=3D"border-collapse:collap=
+se">
+                                          <td align=3D"right"
+                                              class=3D"es-m-txt-c es-m-p0r"
+                                              style=3D"padding:0;Margin:0;p=
+adding-top:20px;padding-right:40px">
+                                            <p style=3D"Margin:0;-webkit-te=
+xt-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;=
+font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida=
+ sans', tahoma, sans-serif;line-height:20px;color:#14a0e6;font-size:13px;fo=
+nt-weight:400"/>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <table width=3D"100%"
+                                       border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0">
+                                  <tbody>
+                                    <tr>
+                                      <td align=3D"center"
+                                          bgcolor=3D"#ffffff"
+                                          style=3D"background-color: #fffff=
+f;background-position: center center; border-radius: 0px 0px 0px 0px; paddi=
+ng: 10px 10px 10px 10px">
+                                        <!--[if (gte mso 9)|(IE)]><table wi=
+dth=3D"540" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width=
+: 540px;"><tr><td><![endif]-->
+                                        <table width=3D"100%"
+                                               border=3D"0"
+                                               cellspacing=3D"0"
+                                               cellpadding=3D"0"
+                                               style=3D"max-width: 540px">
+                                          <tbody>
+                                            <tr>
+                                              <td align=3D"center"
+                                                  style=3D"color: #000000; =
+font-family: Arial, Tahoma, sans-serif; font-size: 12px; font-weight: norma=
+l; font-style: normal; line-height: 1.5;padding: 0px 0px 0px 0px">
+                                                <p style=3D"margin: 0">
+                                                 =20
+                                                  <span style=3D"color: rgb=
+(146, 166, 195)">=D0=9E=D0=9E=D0=9E =C2=AB=D0=90=D0=B2=D0=B8=D0=B0=D0=BA=D0=
+=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D1=8F =C2=AB=D0=9F=D0=BE=D0=B1=D0=B5=D0=
+=B4=D0=B0=C2=BB, =D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=B0=D1=
+=8F =D0=A4=D0=B5=D0=B4=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F, =D0=B3. =D0=9C=
+=D0=BE=D1=81=D0=BA=D0=B2=D0=B0, =D0=9E=D0=93=D0=A0=D0=9D 5147746103380, =D0=
+=9B=D0=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F =E2=84=96=D0=9F=D0=9F 0377 =
+=D0=BE=D1=82 1 =D0=BE=D0=BA=D1=82=D1=8F=D0=B1=D1=80=D1=8F 2015 =D0=B3.
+                                                  </span>
+                                                </p>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                        <!--[if (gte mso 9)|(IE)]></td></tr=
+></table><![endif]-->
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <table width=3D"100%"
+                                       border=3D"0"
+                                       cellspacing=3D"0"
+                                       cellpadding=3D"0">
+                                  <tbody>
+                                    <tr>
+                                      <td align=3D"center"
+                                          bgcolor=3D"#ffffff"
+                                          style=3D"background-color: #FFFFF=
+F; padding: 5px 0; background-color: #ffffff; background-position: center c=
+enter; padding: 5px 0px 25px 0px; border-radius: 0px 0px 25px 25px">
+                                        <table width=3D"100%"
+                                               border=3D"0"
+                                               cellspacing=3D"0"
+                                               cellpadding=3D"0">
+                                          <tbody>
+                                            <tr>
+                                              <td align=3D"center">
+                                                <!-- items -->
+                                                <table width=3D"100%"
+                                                       border=3D"0"
+                                                       cellspacing=3D"0"
+                                                       cellpadding=3D"0"
+                                                       style=3D"max-width: =
+600px">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td align=3D"center">
+                                                        <table border=3D"0"
+                                                               cellspacing=
+=3D"0"
+                                                               cellpadding=
+=3D"0">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td align=3D"=
+left"
+                                                                  valign=3D=
+"middle"
+                                                                  style=3D"=
+ padding: 10px 20px 20px 0px">
+                                                                <table bord=
+er=3D"0"
+                                                                       cell=
+spacing=3D"0"
+                                                                       cell=
+padding=3D"0">
+                                                                  <tbody>
+                                                                    <tr>
+                                                                      <td a=
+lign=3D"center"
+                                                                          s=
+tyle=3D"padding:0;Margin:0;padding-top:0px;padding-left:45px">
+                                                                        <a =
+target=3D"_blank"
+                                                                           =
+style=3D"font-family: Arial, Tahoma, Helvetica, sans-serif; font-size: 14px=
+; color: #000000; text-decoration: none"
+                                                                           =
+href=3D"https://www.flypobeda.ru/ru/privacy_policy">
+                                                                         =
+=20
+                                                                          <=
+img src=3D"https://cdn.flypobeda.ru/media/survey/ru/social/knopka_policy.pn=
+g"
+                                                                           =
+    width=3D"160"
+                                                                           =
+    alt=3D""
+                                                                           =
+    border=3D"0"
+                                                                           =
+    style=3D"display: block; width: 100%; max-width: 160px; border-radius: =
+0px; width: 100%"/>
+                                                                        </a=
+>
+                                                                      </td>
+                                                                    </tr>
+                                                                  </tbody>
+                                                                </table>
+                                                              </td>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table>
+                                                      </td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                <!-- items END -->
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                        </td></tr>
+                        </table>
+                        <![endif]-->
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+------=_Part_662300_1977639739.1751886267336--

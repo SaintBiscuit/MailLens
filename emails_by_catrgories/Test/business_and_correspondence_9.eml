@@ -1,0 +1,945 @@
+Received: from SJ2PR02MB10123.namprd02.prod.outlook.com (2603:10b6:a03:55e::9) by
+ BL0PR02MB5476.namprd02.prod.outlook.com with HTTPS; Fri, 7 Nov 2025 11:34:27
+ +0000
+Received: from CH2PR05CA0071.namprd05.prod.outlook.com (2603:10b6:610:38::48) by
+ SJ2PR02MB10123.namprd02.prod.outlook.com (2603:10b6:a03:55e::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9298.12; Fri, 7 Nov
+ 2025 11:34:23 +0000
+Received: from CH2PEPF0000009F.namprd02.prod.outlook.com (2603:10b6:610:38:cafe::3d) by
+ CH2PR05CA0071.outlook.office365.com (2603:10b6:610:38::48) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.9320.8
+ via Frontend Transport; Fri, 7 Nov 2025 11:34:23 +0000
+Received: from mail-qv1-xf44.google.com (2607:f8b0:4864:20::f44) by
+ CH2PEPF0000009F.mail.protection.outlook.com (2603:10b6:61f:fc00::315) with
+ Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id
+ 15.20.9298.6 via Frontend Transport; Fri, 7 Nov 2025 11:34:22 +0000
+Received: by mail-qv1-xf44.google.com with SMTP id
+ 6a1803df08f44-791fd6bffbaso7293816d6.3        for
+ <STA_MSL_TEAM_CHN@groups.publicisgroupe.net>; Fri, 07 Nov 2025 03:34:22
+ -0800 (PST)
+Authentication-Results: spf=none (sender IP is 2607:f8b0:4864:20::f44) smtp.mailfrom=albatheras.com;
+ dkim=pass (signature was verified)
+ header.d=albatheras-com.20230601.gappssmtp.com;dmarc=none action=none
+ header.from=albatheras.com;compauth=pass reason=106
+Received-SPF: None (protection.outlook.com: albatheras.com does not designate permitted
+ sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;       
+ d=albatheras-com.20230601.gappssmtp.com; s=20230601; t=1762515261;
+ x=1763120061; darn=groups.publicisgroupe.net;       
+ h=cc:to:subject:message-id:date:from:in-reply-to:references        
+ :mime-version:from:to:cc:subject:date:message-id:reply-to;       
+ bh=aji+vI4cMKQ/IlGuDie7j6p6hwa9CwGzJSs+Y6wXF3g=;       
+ b=fRQ/TEz3dSGFFfXiiL2gwgeGYHh0Yosxi3SM4Z50WVrgZgEug8erKHSGTfwgPdDOW1        
+ YIvL4oEiXq2n27gg7OGhi2zBwEdY1IbamDiZDvtj1UcNA/SG3NPqt7OfOzPSbTXWWV+5        
+ gy67zKQe5Rnk8SmlCQVs+zeBOWWtAW712Ml3rslxqBxWGtLaxJb1qsLvesfXAC0OA/5M        
+ ZDeIWgcx9WctDLiHlSgSZRODWdr4Tx+qz7fxPywyMEGKjeppz5XpVsub0pApNuSU2wsa        
+ ciEa9X5ic/s0RqCbSyM6ooSraZm1QFU5uCZI6/gEnkWQT/PeBtKKwv0maSBZZwG1vTa8        
+ ow6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601;
+ t=1762515261; x=1763120061;       
+ h=cc:to:subject:message-id:date:from:in-reply-to:references        
+ :mime-version:x-gm-gg:x-gm-message-state:from:to:cc:subject:date        
+ :message-id:reply-to;       
+ bh=aji+vI4cMKQ/IlGuDie7j6p6hwa9CwGzJSs+Y6wXF3g=;       
+ b=IRiO2qc7zbsoJ5+oAukDwHMRJsFbINsGSUTpZmYs2UP11uOrSDkFpI1aLue+mR2Cc3        
+ 8RHYtcodJUFn0XuQ6uOQY3aitRhAnitb86nR81iPppBTyctv3jQkX5SJWS8j1Vhf9evn        
+ U/yYhUTLTC3Sxd0xUPJV3yeDDTBNs3NeQXnfkkzsmtxVDAB57c0Q8wncinaW5BA8AyyC        
+ J4lsiM8cEagGnnE9tsgwJ6GDDx3ofTWkeysJSCAyBGcXCh7y+6ssHu5+rmRsc2c4RJbw        
+ P3LDEU1HDSFOlN5fI5BtY2Za0hVOJkrJDUg6Tp8sB4KUfmYA5TecSnGETht7yaeQGY2n        
+ iS0g==
+X-Gm-Message-State: AOJu0YwM045SQiUqbJOHXHn9xxAFiShelTh3E5gn33hdx2w1XGNeHf76	Zd+JUKJdNOOc+2nDzjGFN832UxIwBCmH/jw3Odc5IHt1CAwY9uPNNtv8SZDUQviNAPlGkH+xXzo	RH5p0t6VyATHo4VEqVq2AO54uS/cuZoySZ5XXJDc9+6+gzparAKvjtPtmzBC3RWmGOsM=
+X-Gm-Gg: ASbGnctL2a2QItPDfgND4lXbIuCXdVAztAVv061V2qxPTE8+v1nVmQ2736ujXzRQJHQ	w3rBlQWK8zQYgPK5DII8pyWLDMMpBBFV95Jd0WZXfsfk8ZwUAqn2JC7t/dCYfkRsf/7YlgNXspR	fapkUmXufSGyOQDn7dKwMwZFF61/2XUSvAi+eVcRVLUsYYHzvX+QhWNxoDfqU8NrgOuBPVEPULB	w1K/5jXiJact3TNfwbNnen7GRemAy/a5cXoJEdI17eW4w==
+X-Google-Smtp-Source: AGHT+IFfEXZg2fITpQsumzHq7w5hJmHerDIs80839O32LZevsbh4Eyh9MXfM8Ow+Eha6T9ks8St813QR8M5uCamtPek=
+X-Received: by 2002:a05:6808:68d3:20b0:450:1d1a:601f with SMTP id
+ 5614622812f47-4501d1a6b5amr402501b6e.38.1762509487487; Fri, 07 Nov 2025
+ 01:58:07 -0800 (PST)
+MIME-Version: 1.0
+References: <2faa94ce-c6e4-7b00-76cf-ca62b5d7777c@albathera.com>
+ <DM8PR02MB80545D9B8948F91342249FE3E7C3A@DM8PR02MB8054.namprd02.prod.outlook.com> <CAMZWB0fPLkHEyAzDQEXTdPLOf5M-UPdgvz0znRG3rt5WsFssdg@mail.gmail.com>
+In-Reply-To: <CAMZWB0fPLkHEyAzDQEXTdPLOf5M-UPdgvz0znRG3rt5WsFssdg@mail.gmail.com>
+From: "Mariam Albeer" <m.albeer@albatheras.com>
+Date: Fri, 7 Nov 2025 04:57:52 -0500
+X-Gm-Features: AWmQ_blRay1UZiHN4pknIKCctM4Hk4RT1oFueFRXa6k4IjAHWmAQkRsAM5jZ5N0
+Message-ID: <CAMZWB0fm4qxJBGFJBm_kJZU-awpvzixLptTQaEcDre2EnTNJrw@mail.gmail.com>
+Subject: Re: RFQ - Supply Contract - Albathera Project (New Empire Exhibits Exhibition
+ Village)
+To: "IreneWL Wang" <irenewl.wang@mslgroup.com>
+Cc: "STA_MSL_TEAM_CHN" <STA_MSL_TEAM_CHN@groups.publicisgroupe.net>
+Return-Path: m.albeer@albatheras.com
+X-MS-Exchange-Organization-ExpirationStartTime: 07 Nov 2025 11:34:23.1624 (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 30e1d014-9894-4edc-d205-08de1df1996d
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d52c9ea1-7c21-47b1-82a3-33a74b1f74b8:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: CH2PEPF0000009F:EE_|SJ2PR02MB10123:EE_|BL0PR02MB5476:EE_
+X-MS-Exchange-Organization-AuthSource: CH2PEPF0000009F.namprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 30e1d014-9894-4edc-d205-08de1df1996d
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|5063199012|5073199012|4073199012|43022699015|22003199012|69100299015|4076899003|8096899003|4053099003|13003099007;
+X-Forefront-Antispam-Report: CIP:2607:f8b0:4864:20::f44;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail-qv1-xf44.google.com;PTR:mail-qv1-xf44.google.com;CAT:NONE;SFTY:9.25;SFS:(13230040)(5063199012)(5073199012)(4073199012)(43022699015)(22003199012)(69100299015)(4076899003)(8096899003)(4053099003)(13003099007);DIR:INB;SFTY:9.25;
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 07 Nov 2025 11:34:22.9200 (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 30e1d014-9894-4edc-d205-08de1df1996d
+X-MS-Exchange-CrossTenant-Id: d52c9ea1-7c21-47b1-82a3-33a74b1f74b8
+X-MS-Exchange-CrossTenant-AuthSource: CH2PEPF0000009F.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ2PR02MB10123
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.2665975
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9298.006
+X-MS-Exchange-ExternalInOutlookResult: NotEnabled
+X-Microsoft-Antispam-Mailbox-Delivery: ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(4710137)(4713098)(4999163)(920097)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info: =?us-ascii?Q?/qd1jFJ3QiIMmQ2Tl/UVy/Q0wqUCyfzY39OGDTttCdMRk5nYvbFHJTGkfYkb?=
+ =?us-ascii?Q?nncZmNbtuhCQ4eEY5DJaSJG2C2pACM2v61H6f894bm/aJQSjPPzXsoPjyr3d?=
+ =?us-ascii?Q?AEDSmoTDRXVZu7KnqaH8JzuRTeIsUOgVbBiNzv2t9Fynw/bJJ+fQ8l4+6xAJ?=
+ =?us-ascii?Q?VEebL5DBOXINGVz5sELxEy6fEfLmMbUHlFpu8jEvyXoaZDjiR5zy1VGmWuxQ?=
+ =?us-ascii?Q?T7S2Jkc/QF3bqIK6gyRExhi1jc3uHh3XwYkdNdmL6HKJLTA+/lSHwVfTAufq?=
+ =?us-ascii?Q?KaGWMr7zCiik0TNdPT/RXxm4HC1mVncppmmZZry640AaIPuCY9ekOuahr5dZ?=
+ =?us-ascii?Q?x4aSR9XC3dzFCGJ9IXcrozyuoGXvYww6y/oebwkuNxgzy1DpzMTJyo2LCEl/?=
+ =?us-ascii?Q?kBETZJdI94GIbrYsIWRYpAGjyASoeMa2f3EU5sK4KCvTk9F8un9fIH+gbaBO?=
+ =?us-ascii?Q?koQcUFVntbJg40zLkfXJ5gC1YH0nmcN7dNKNoOtbwfyQTLh/okeI2sz0+2h8?=
+ =?us-ascii?Q?u7f3JI8YSb3lhvm6q6ayIDM1iWsAbiMK9Rg5j07Wla3OTOXmJJJ2bJqLc7ZF?=
+ =?us-ascii?Q?NprPTAv5IOiUo9r0/ms47LlyzGVBO4J1ycIDFzV0APF62qmP2ySZ9H7WRQx2?=
+ =?us-ascii?Q?lZh1iRHnr2maPaIld4ix4YVqJVPD1I5IFeUCjiEywVLAxJVRSjeHG0OsI6+9?=
+ =?us-ascii?Q?Edfbk6rBH5dqE1yonXlfWlEqUEWvdMftMxusp0epTNgpCgVoGe6/USLNx6sP?=
+ =?us-ascii?Q?ASg73grzV250mx1GCif1iyFAXGQOMzXY10MWg51vRhhLJ5mA21hLgKUJqBnT?=
+ =?us-ascii?Q?L9RrDNwt9FHnYtsSZR+Nig+ByZyoV8XRVfAM+1cSsITF8RrwYJhRYZ+dubG2?=
+ =?us-ascii?Q?V0JrUHx4U8d1DiKH+muvKnkRN4W8mub8JRdoYqraTXbraDir7AcfqwUjGI9x?=
+ =?us-ascii?Q?n/bnXQc73dBgIAWO9ftTiwuZ7lCFNOy9BFhNYq/tqI5ybPCVFnmcKSuloIml?=
+ =?us-ascii?Q?s7ZhdFqRFnFD932yKb6Q9Ng5xyKYMq284gyJpz9GYGSAI8f0e3cwOqW5j6Hh?=
+ =?us-ascii?Q?DF1Ae0gCRYHnz0kwpRFQj89Uvl9W0aObz91odY5Ca83MG7fBfdKFpQwW9XP5?=
+ =?us-ascii?Q?VMgU/zdtNr6oz4YII63cvfzTSfgXi919UcwfdFSIMt5+RJSeYWXRHXrMMg2H?=
+ =?us-ascii?Q?iaFiW5l6vmn7ROB12TCk/30RCg7SjLAC9KgPQ4r5dHctftPX0fKcrADu7GSQ?=
+ =?us-ascii?Q?7HIh5rHoWdqDMfkEkxSTEUITGuR16vcgU/yGfSFCEjLI5A701c82QVeOUqQB?=
+ =?us-ascii?Q?u1MQ3ziDDN5aHnBPzdhrBGVhvnnNuNtCY8gdUcrJPyG2r1uRPXPmsvjHifyM?=
+ =?us-ascii?Q?lqDPpQfpXJZ7g2YViJqFsNu3zZUxOF5zL4c7eNftNYWgjsOE+fYhFi0zek+n?=
+ =?us-ascii?Q?22VUq/NAC/Op7tpQLSn1iZCJOjHnz2My5BtPdf3qwV7t8hf+RUHuy+t+1lbJ?=
+ =?us-ascii?Q?6oM6CDoCaOvf1+/dLEs2RDZD0UqOFNr1uk0h2KVqx1PngghWA4A62xmD2TZ6?=
+ =?us-ascii?Q?jidyXFnoKFmkpjeKGkQqdo7TiLKG7KHKiq0dFzSbLRYMmh/ud13rBs1HHaT/?=
+ =?us-ascii?Q?JdnDmParh0pIGtR+Qa7sTMGT25BVMNQWPrajW2RFbrg6B3rVooZCPKwifmLg?=
+ =?us-ascii?Q?KbuV0nvWYdZJiTvRbPnnZ8ZiZ/89Vp77+gPJGTR0DbfOSI/UOww0A8BlQKkl?=
+ =?us-ascii?Q?VgZEicnbmZkwCcBdQnXLhza1dvK2M+j+09sB8hFd1xanAl4osiWkiGo8DORv?=
+ =?us-ascii?Q?K0Od3cSiajVykgX1BppyJDjyJObh5agGEGzkLb3wRK6EA0E4O49wWg0o1moP?=
+ =?us-ascii?Q?ZV1mzGWFKQxh7zX0iV2q2YgQnB85JfFvR5d9U+kvi4HbdL4XA6xQADF5fmas?=
+ =?us-ascii?Q?YdeIgxs2eSDpDNVbx+6JaXuyfWa9P8YrTfjat82kjwHS7crg7sZ2jM7GxbQw?=
+ =?us-ascii?Q?1oQpLhSKsffdof2ufKBBtxfBmqVelMMuMZkdcYhszR20oDeJqOm7hndqZpK3?=
+ =?us-ascii?Q?9k+qZrDCJ+AfFoVN4cfgwswFh6FsY5BwP7dSqfBdqXFWc6ZArDemEUrHDvGq?=
+ =?us-ascii?Q?kOtn07zzQCyJVlu1VVGLC5LksJRcG/QLThZG4JegTZmRLa3byxOmhDVQSZoG?=
+ =?us-ascii?Q?0Wp2426C84d/O9B+nuzc29G3pqP5VWbYnP6CXeBmUsCajCU9B7pT+88/Jsn0?=
+ =?us-ascii?Q?8cTAanJWFgvwmn4q16YApj/gugqW3PGBcCWH9YbZE+56RYraESshoe9Xv90m?=
+ =?us-ascii?Q?WyN0VnaDCK6vd2d57rq8dTAYZXCHt8BsnPsdTlp5NKJ9AJH3bhNGFxoqiX5U?=
+ =?us-ascii?Q?06cEvkyNU3qswURKkYnc6QHh9ftjSyhtLJWbRoP+Md30+uRMgfcDEpf8q0ee?=
+ =?us-ascii?Q?nGtOU9Wcl/XLfdOF/4FtoIsrZ+gENSQyqBP8+XH2/zT0h/5EWIn9jB4KaZUg?=
+ =?us-ascii?Q?6aRgPPCmDN0c/nOZOvATc62D+eYnhA8+4UrvQdXzHIfW4mNTiqXW3C0hp+o3?=
+ =?us-ascii?Q?F0ROiqdytN0+6JuD2M0QeGmkYjPIQrS1EYAkudzSiIXRyGmb32Qb7D4iCeui?=
+ =?us-ascii?Q?teBHO3xwSZSM2NI9QDn3coaKl+YOQoQbuqDAybv2Yz/JB8UR30b5veoWDFgl?=
+ =?us-ascii?Q?AjG76kp5i5qC7Qm/CxJrh7Auop3uSywnicVPNpFlFd7FOdUvOpZH+t5Ebayt?=
+ =?us-ascii?Q?GkLlHPqvvwiaB29oQJcimejRDtU7m6zGkJ8hhphvdGuJrWZosBzvc2texxjk?=
+ =?us-ascii?Q?tP5bDQHMbyvRYoOrYHw3ubVnuyOU43/sjbA5H9Sw8f6b2L0/8ckW5yVumQPb?=
+ =?us-ascii?Q?+yG5xgrWUY/qivAh7PxUZFsP/eNp0dmXQWZcnLZs9H028v0mPHtofHb10Ij7?=
+ =?us-ascii?Q?alBTkK0C24x4LP+rIkOXv0tAq1uTMXkU4SsFJJxcAlOzmpAAkEPglg8T8cnc?=
+ =?us-ascii?Q?aN14DNvjXO4BWraLAb5OmBhb3/2tAaSC6b8GUCyWhZbbjYI3U/qZ9GWpPw8r?=
+ =?us-ascii?Q?QvZn60kVLmg88CxlWKA/yLmNfK1RT8FxXiGelsKJMem9yT3fI80JCVs42eNN?=
+ =?us-ascii?Q?CszJ9b3rl/hDj1VJsfM+lKuxgimzWv7QQYz31DLe2kwYzenstEMs8YTi/DnD?=
+ =?us-ascii?Q?reIW+a1FfNTorvZPtPG+0UY6mEQMP8kisfProjaTnN/MSyfrhgov3OI9pDeS?=
+ =?us-ascii?Q?QJoh13LYWFsM+vyQKY3X5s1wnXcjmClejLHBOODIHwm7T4CRwl7Od0qxA9VB?=
+ =?us-ascii?Q?Jcf9vkblD1JX2s/8CgWV7KxQxaO4HObA96vcE8TF1o59ufAA5A6vMXyfNsMj?=
+ =?us-ascii?Q?0j6syY6CO7lW6X0Ej1WGLThC3Zy1VI468GCrAxvDA9ne8hbVtkGNnmbLKEow?=
+ =?us-ascii?Q?DDL67NIevaRHNPKwImSzCz9KBB/aT5e9YYEQRnMnn9poAkorfDnPku4/RtCZ?=
+ =?us-ascii?Q?fFZv6ht8zbBS6rnLdHNCcvTpwVgQZExqDBoQudnH8GbKfRdhB44O9KTdqg?=
+ =?us-ascii?Q?=3D=3D?=
+Sender: "Mariam Albeer" <m.albeer@albatheras.com>
+X-MS-Exchange-Organization-OriginalClientIPAddress: 2607:f8b0:4864:20::f44
+X-MS-Exchange-Organization-OriginalServerIPAddress: 2603:10b6:61f:fc00::315
+Content-Type: multipart/related;
+ boundary="--_=_NextPart0_1a84095f-82f2-410d-a9cf-239fcb4876f8"
+
+----_=_NextPart0_1a84095f-82f2-410d-a9cf-239fcb4876f8
+Content-Type: multipart/alternative; boundary="000000000000ea62420642fe3717"
+
+
+--000000000000ea62420642fe3717
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=09
+Some people who received this message don't often get email from m=2Ealbeer=
+@albatheras=2Ecom=2E  <https://aka=2Ems/LearnAboutSenderIdentification> Lea=
+rn why this is important=20
+=09
+
+External to the Groupe / en provenance de l'ext=C3=A9rieur du Groupe
+
+=20
+
+Dear Irene,
+
+
+
+I just wanted to follow up quickly with you to see if you have been able to=
+ review our RFQ documents?  I would love to know if you need any additional=
+ information as to provide further updates with my team=2E=20
+
+
+
+
+Please let me know=2E I look forward to hearing from you=2E
+
+Best,
+
+Mariam Albeer
+
+Director of Commercial Operations
+ABC Group
+
+T: +9714 875 7899
+albathera=2Ecom <https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?ur=
+l=3Dhttp%3A%2F%2Falbathera=2Ecom%2F&data=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=
+=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c2147b182a333a74b1f74b=
+8%7C0%7C0%7C638981120674073999%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+40000%7C%7C%7C&sdata=3DI%2FFK%2FoK57slXVB2T3q8s%2BtyTTr35tedXPj6p8VK963w%3D=
+&reserved=3D0>=20
+
+  <https://reachgroup=2Eae/flag-day=2Epng>=20
+
+
+On Fri, Nov 7, 2025 at 2:25=E2=80=AFAM Mariam Albeer <m=2Ealbeer@albatheras=
+=2Ecom <mailto:m=2Ealbeer@albatheras=2Ecom> > wrote:
+
+
+Dear Irene,
+
+
+Thank you for your quick response; it's a pleasure connecting with you=2E M=
+y apologies for the missing document=2E
+
+Attached, you will find a brief description of the work request along with =
+the project specification file folder on SharePoint=2E
+
+
+Mariam Albeer shared a file with you from Microsoft Sharepoint=2E Click the=
+ Excel below to preview=2E=20
+
+
+
+
+ <https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?url=3Dhttps%3A%2F=
+%2Fmslgroup-dot-project-bidding-multi-files=2Eew=2Er=2Eappspot=2Ecom%2F&dat=
+a=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=2Ecom%7C30e1d01498944edcd20508de1df199=
+6d%7Cd52c9ea17c2147b182a333a74b1f74b8%7C0%7C0%7C638981120674100545%7CUnknow=
+n%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiI=
+sIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=3DsinQitrXSjCmUyx%=
+2FnvDOp8lluyYnTUw4iAJqdQsdt4A%3D&reserved=3D0>  Albathera Q1 2026  Project =
+RFQ & Specification (RFP)=2Exlxs
+
+
+Please review and provide your proposals for our consideration by November =
+14th?
+
+We look forward to receiving your proposal and collaborating on this projec=
+t=2E
+
+
+
+Mariam Albeer
+Director of Commercial Operations
+ABC Group
+
+T: +9714 875 7899
+albathera=2Ecom <https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?ur=
+l=3Dhttp%3A%2F%2Falbathera=2Ecom%2F&data=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=
+=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c2147b182a333a74b1f74b=
+8%7C0%7C0%7C638981120674120576%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+40000%7C%7C%7C&sdata=3D0s08Y68DCSV7pEvJrkXqTl93DC5gv%2FFv1puhyU8IgRo%3D&res=
+erved=3D0>=20
+
+  <https://reachgroup=2Eae/flag-day=2Epng>=20
+
+On Thu, Nov 6, 2025 at 11:17=E2=80=AFPM IreneWL Wang <irenewl=2Ewang@mslgro=
+up=2Ecom <mailto:irenewl=2Ewang@mslgroup=2Ecom> > wrote:
+
+
+Dear Mariam,
+
+=20
+
+Thank you for reaching out to us and for considering our firm for your upco=
+ming project=2E We are very interested in learning more about this opportun=
+ity and would be happy to provide a quote based on the details outlined in =
+your Request for Quotation (RFQ)=2E
+
+=20
+
+However, we noticed that the RFQ file mentioned in your email was not attac=
+hed=2E Could you please resend the attachment at your earliest convenience?=
+ Once we have reviewed the document, we will be able to provide a comprehen=
+sive response regarding pricing, ETA, and delivery requirements=2E
+
+=20
+
+We appreciate your flexibility and look forward to the possibility of colla=
+borating with ABC Group on this project=2E Please don=E2=80=99t hesitate to=
+ reach out if you have any additional questions or need further information=
+ from us in the meantime=2E
+
+=20
+
+Best regards,=20
+
+Irene
+
+=20
+
+=E5=8F=91=E4=BB=B6=E4=BA=BA: Mariam Albeer <m=2Ealbeer@albathera=2Ecom <mai=
+lto:m=2Ealbeer@albathera=2Ecom> >=20
+=E5=8F=91=E9=80=81=E6=97=B6=E9=97=B4: 2025=E5=B9=B411=E6=9C=886=E6=97=A5 21=
+:07
+=E6=94=B6=E4=BB=B6=E4=BA=BA: STA_MSL_TEAM_CHN <STA_MSL_TEAM_CHN@groups=2Epu=
+blicisgroupe=2Enet <mailto:STA_MSL_TEAM_CHN@groups=2Epublicisgroupe=2Enet> =
+>
+=E4=B8=BB=E9=A2=98: RFQ - Supply Contract - Albathera Project (New Empire E=
+xhibits Exhibition Village)
+
+=20
+
+=09
+Some people who received this message don't often get email from m=2Ealbeer=
+@albathera=2Ecom <mailto:m=2Ealbeer@albathera=2Ecom> =2E Learn why this is =
+important <https://aka=2Ems/LearnAboutSenderIdentification> =20
+
+=09
+
+External to the Groupe / en provenance de l'ext=C3=A9rieur du Groupe
+
+=20
+
+Good morning,
+
+I hope this email finds you well=2E My name is Mariam Albeer , and I am the=
+ Director of Commercial Operations at  ABC Group=2E We are currently seekin=
+g quotes for supply services for an upcoming project scheduled to commence =
+in Q1 2026=2E
+
+I would like to inquire if your firm can provide quotes in accordance with =
+the price requests, estimated time of arrival (ETA), and delivery requireme=
+nts outlined in the attached Request for Quotation (RFQ) file=2E We are fle=
+xible and willing to accommodate a schedule that is convenient for your com=
+pany=2E
+
+We look forward to the possibility of discussing this and other potential o=
+pportunities with your firm=2E
+
+
+Mariam Albeer=20
+Director of Commercial Operations
+ABC Group
+
+T: +9714 875 7899
+albathera=2Ecom <https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?ur=
+l=3Dhttp%3A%2F%2Falbathera=2Ecom%2F&data=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=
+=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c2147b182a333a74b1f74b=
+8%7C0%7C0%7C638981120674139345%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+40000%7C%7C%7C&sdata=3DfbxsvuAAAeKOeiN3QmjH8ljnqkqXyQOzqp7T7hdypuM%3D&reser=
+ved=3D0>=20
+
+
+
+
+
+------------------------------------------------------------------------=20
+Disclaimer The information in this email and any attachments may contain pr=
+oprietary and confidential information that is intended for the addressee(s=
+) only=2E If you are not the intended recipient, you are hereby notified th=
+at any disclosure, copying, distribution, retention or use of the contents =
+of this information is prohibited=2E When addressed to our clients or vendo=
+rs, any information contained in this e-mail or any attachments is subject =
+to the terms and conditions in any governing contract=2E If you have receiv=
+ed this e-mail in error, please immediately contact the sender and delete t=
+he e-mail=2E=20
+
+
+--000000000000ea62420642fe3717
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head>
+<body>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D" aspect-ratio: revert background: revert block-size: revert border: re=
+vert bottom: revert color: revert color-scheme: revert content-visibility: =
+revert cursor: revert direction: revert display: revert font-size: revert h=
+eight: revert hyphens: revert letter-spacing: revert line-height: revert ma=
+rgin: revert opacity: revert order: revert outline: revert overflow: revert=
+ padding: revert position: revert resize: revert rotate: revert scale: reve=
+rt tab-size: revert table-layout: revert text-align: revert text-indent: re=
+vert text-orientation: revert text-overflow: revert text-shadow: revert tex=
+t-transform: revert text-wrap: revert top: revert transition: revert user-s=
+elect: revert vertical-align: revert visibility: revert white-space: revert=
+ width: revert word-break: revert word-spacing: revert writing-mode: revert=
+ zoom: revert cellpadding: 0 border: 0 cellspacing: 0 display: table width:=
+ 100% table-layout: fixed border-collapse: seperate float: none border-spac=
+ing: 0px 0px " align=3D"left">
+<tbody style=3D" aspect-ratio: revert background: revert block-size: revert=
+ border: revert bottom: revert color: revert color-scheme: revert content-v=
+isibility: revert cursor: revert direction: revert display: revert font-siz=
+e: revert height: revert hyphens: revert letter-spacing: revert line-height=
+: revert margin: revert opacity: revert order: revert outline: revert overf=
+low: revert padding: revert position: revert resize: revert rotate: revert =
+scale: revert tab-size: revert table-layout: revert text-align: revert text=
+-indent: revert text-orientation: revert text-overflow: revert text-shadow:=
+ revert text-transform: revert text-wrap: revert top: revert transition: re=
+vert user-select: revert vertical-align: revert visibility: revert white-sp=
+ace: revert width: revert word-break: revert word-spacing: revert writing-m=
+ode: revert zoom: revert display: block ">
+<tr style=3D" aspect-ratio: revert background: revert block-size: revert bo=
+rder: revert bottom: revert color: revert color-scheme: revert content-visi=
+bility: revert cursor: revert direction: revert display: revert font-size: =
+revert height: revert hyphens: revert letter-spacing: revert line-height: r=
+evert margin: revert opacity: revert order: revert outline: revert overflow=
+: revert padding: revert position: revert resize: revert rotate: revert sca=
+le: revert tab-size: revert table-layout: revert text-align: revert text-in=
+dent: revert text-orientation: revert text-overflow: revert text-shadow: re=
+vert text-transform: revert text-wrap: revert top: revert transition: rever=
+t user-select: revert vertical-align: revert visibility: revert white-space=
+: revert width: revert word-break: revert word-spacing: revert writing-mode=
+: revert zoom: revert ">
+<td valign=3D"middle" width=3D"1px" bgcolor=3D"#A6A6A6" cellpadding=3D"7px =
+2px 7px 2px" style=3D" aspect-ratio: revert background: revert block-size: =
+revert border: revert bottom: revert color: revert color-scheme: revert con=
+tent-visibility: revert cursor: revert direction: revert display: revert fo=
+nt-size: revert height: revert hyphens: revert letter-spacing: revert line-=
+height: revert margin: revert opacity: revert order: revert outline: revert=
+ overflow: revert padding: revert position: revert resize: revert rotate: r=
+evert scale: revert tab-size: revert table-layout: revert text-align: rever=
+t text-indent: revert text-orientation: revert text-overflow: revert text-s=
+hadow: revert text-transform: revert text-wrap: revert top: revert transiti=
+on: revert user-select: revert vertical-align: revert visibility: revert wh=
+ite-space: revert width: revert word-break: revert word-spacing: revert wri=
+ting-mode: revert zoom: revert padding: 7px 2px 7px 2px background-color: #=
+A6A6A6 valign: middle width: 0px ">
+</td>
+<td valign=3D"middle" width=3D"100%" bgcolor=3D"#EAEAEA" cellpadding=3D"7px=
+ 5px 7px 15px" color=3D"#212121" style=3D" aspect-ratio: revert background:=
+ revert block-size: revert border: revert bottom: revert color: revert colo=
+r-scheme: revert content-visibility: revert cursor: revert direction: rever=
+t display: revert font-size: revert height: revert hyphens: revert letter-s=
+pacing: revert line-height: revert margin: revert opacity: revert order: re=
+vert outline: revert overflow: revert padding: revert position: revert resi=
+ze: revert rotate: revert scale: revert tab-size: revert table-layout: reve=
+rt text-align: revert text-indent: revert text-orientation: revert text-ove=
+rflow: revert text-shadow: revert text-transform: revert text-wrap: revert =
+top: revert transition: revert user-select: revert vertical-align: revert v=
+isibility: revert white-space: revert width: revert word-break: revert word=
+-spacing: revert writing-mode: revert zoom: revert width: 100% background-c=
+olor: #EAEAEA padding: 7px 5px 7px 15px font-family: wf_segoe-ui_normal, Se=
+goe UI, Segoe WP, Tahoma, Arial, sans-serif font-size: 12px font-weight: no=
+rmal color: #212121 text-align: left word-wrap: break-word ">
+<div style=3D" aspect-ratio: revert background: revert block-size: revert b=
+order: revert bottom: revert color: revert color-scheme: revert content-vis=
+ibility: revert cursor: revert direction: revert display: revert font-size:=
+ revert height: revert hyphens: revert letter-spacing: revert line-height: =
+revert margin: revert opacity: revert order: revert outline: revert overflo=
+w: revert padding: revert position: revert resize: revert rotate: revert sc=
+ale: revert tab-size: revert table-layout: revert text-align: revert text-i=
+ndent: revert text-orientation: revert text-overflow: revert text-shadow: r=
+evert text-transform: revert text-wrap: revert top: revert transition: reve=
+rt user-select: revert vertical-align: revert visibility: revert white-spac=
+e: revert width: revert word-break: revert word-spacing: revert writing-mod=
+e: revert zoom: revert ">
+Some people who received this message don't often get email from m=2Ealbeer=
+@albatheras=2Ecom=2E
+<a href=3D"https://aka=2Ems/LearnAboutSenderIdentification" style=3D"backgr=
+ound: revertcolor: revertcontent-visibility: revertdirection: revertdisplay=
+: revertfont-size: revertopacity: revertrotate: revertscale: revertvisibili=
+ty: revert">
+Learn why this is important</a> </div>
+</td>
+<td valign=3D"middle" align=3D"left" width=3D"75px" bgcolor=3D"#EAEAEA" cel=
+lpadding=3D"7px 5px 7px 5px" color=3D"#212121" style=3D" aspect-ratio: reve=
+rt background: revert block-size: revert border: revert bottom: revert colo=
+r: revert color-scheme: revert content-visibility: revert cursor: revert di=
+rection: revert display: revert font-size: revert height: revert hyphens: r=
+evert letter-spacing: revert line-height: revert margin: revert opacity: re=
+vert order: revert outline: revert overflow: revert padding: revert positio=
+n: revert resize: revert rotate: revert scale: revert tab-size: revert tabl=
+e-layout: revert text-align: revert text-indent: revert text-orientation: r=
+evert text-overflow: revert text-shadow: revert text-transform: revert text=
+-wrap: revert top: revert transition: revert user-select: revert vertical-a=
+lign: revert visibility: revert white-space: revert width: revert word-brea=
+k: revert word-spacing: revert writing-mode: revert zoom: revert width: 75p=
+x background-color: #EAEAEA padding: 7px 5px 7px 5px font-family: wf_segoe-=
+ui_normal, Segoe UI, Segoe WP, Tahoma, Arial, sans-serif font-size: 12px fo=
+nt-weight: normal color: #212121 text-align: left word-wrap: break-word ali=
+gn: left ">
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<div>
+<table class=3D"MsoNormalTable" style=3D"border-collapse: collapse; backgro=
+und-color: #ffff00; height: 30px;" border=3D"0" width=3D"416" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+<tbody>
+<tr style=3D"height: 7px;">
+<td style=3D"width: 399=2E6px; border: 1pt solid #bcab78; padding: 0in 5=2E4=
+pt; height: 7px;">
+<p class=3D"MsoNormal" style=3D"text-align: center;" align=3D"center"><span=
+ style=3D"color: #ff0000; font-size: 9pt;"><strong><span style=3D"font-fami=
+ly: 'Arial', sans-serif;">External to the Groupe / en provenance de l'ext=
+=C3=A9rieur du Groupe</span></strong></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-GB" style=3D"font-size: 11=2E0pt; m=
+so-ansi-language: EN-GB;">&nbsp;</span></p>
+</div>
+<div>
+<div dir=3D"ltr">Dear&nbsp;Irene,<br>
+<br>
+<p style=3D"font-size:13px;margin:0px;font-variant-numeric:normal;font-vari=
+ant-east-asian:normal;font-variant-alternates:normal;font-size-adjust:none;=
+font-kerning:auto;font-feature-settings:normal;font-stretch:normal;line-hei=
+ght:normal;font-family:&quot;Helvetica Neue&quot;">
+<font color=3D"#000000">I just wanted to follow up quickly&nbsp;with you to=
+ see if you have been able to review our RFQ documents?&nbsp; I would love =
+to know if you need any additional information as to provide further update=
+s with my team=2E&nbsp;</font></p>
+<p style=3D"font-size:13px;margin:0px;font-variant-numeric:normal;font-vari=
+ant-east-asian:normal;font-variant-alternates:normal;font-size-adjust:none;=
+font-kerning:auto;font-feature-settings:normal;font-stretch:normal;line-hei=
+ght:normal;font-family:&quot;Helvetica Neue&quot;;min-height:15px">
+<font color=3D"#000000"><br>
+</font></p>
+<p style=3D"font-size:13px;margin:0px;font-variant-numeric:normal;font-vari=
+ant-east-asian:normal;font-variant-alternates:normal;font-size-adjust:none;=
+font-kerning:auto;font-feature-settings:normal;font-stretch:normal;line-hei=
+ght:normal;font-family:&quot;Helvetica Neue&quot;">
+<font color=3D"#000000">Please let me know=2E I look forward to hearing fro=
+m you=2E<br>
+<br>
+Best,<br>
+</font><span style=3D"font-family:Arial,Helvetica,sans-serif;font-size:smal=
+l"><br>
+Mariam Albeer</span><font color=3D"#000000"></font></p>
+<span class=3D"gmail-im">
+<div>
+<div id=3D"m_-4888921223396742277m_710480889921943376m_-3301804906223302778=
+mail-editor-reference-message-container">
+<div>
+<div>
+<p>Director of Commercial Operations<br>
+ABC Group<u></u><u></u></p>
+<p>T: &#43;9714 875 7899<br>
+<a href=3D"https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?url=3Dht=
+tp%3A%2F%2Falbathera=2Ecom%2F&amp;data=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=
+=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c2147b182a333a74b1f74b=
+8%7C0%7C0%7C638981120674073999%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+40000%7C%7C%7C&amp;sdata=3DI%2FFK%2FoK57slXVB2T3q8s%2BtyTTr35tedXPj6p8VK963=
+w%3D&amp;reserved=3D0" originalsrc=3D"http://albathera=2Ecom/" target=3D"_b=
+lank">albathera=2Ecom</a><u></u><u></u></p>
+</div>
+</div>
+</div>
+</div>
+<p style=3D"font-size:13px;margin:0px;font-variant-numeric:normal;font-vari=
+ant-east-asian:normal;font-variant-alternates:normal;font-size-adjust:none;=
+font-kerning:auto;font-feature-settings:normal;font-stretch:normal;line-hei=
+ght:normal;font-family:&quot;Helvetica Neue&quot;">
+<img src=3D"https://reachgroup=2Eae/flag-day=2Epng" alt=3D"Contoso logo" cl=
+ass=3D"gmail-CToWUd" style=3D"font-family: Arial, Helvetica, sans-serif; fo=
+nt-size: small;"></p>
+</span></div>
+<br>
+<div class=3D"gmail_quote gmail_quote_container">
+<div dir=3D"ltr" class=3D"gmail_attr">On Fri, Nov 7, 2025 at 2:25=E2=80=AFA=
+M Mariam Albeer &lt;<a href=3D"mailto:m=2Ealbeer@albatheras=2Ecom">m=2Ealbe=
+er@albatheras=2Ecom</a>&gt; wrote:<br>
+</div>
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0=2E8ex;borde=
+r-left:1px solid rgb(204,204,204);padding-left:1ex">
+<div dir=3D"ltr">Dear&nbsp;Irene,<br>
+<br>
+<div>Thank you for your quick response; it's a pleasure connecting with you=
+=2E My apologies for the missing document=2E</div>
+<div><br>
+</div>
+<div>Attached, you will find a brief description of the work request along =
+with the project specification file folder on SharePoint=2E</div>
+<div><br>
+</div>
+<div>
+<div dir=3D"ltr" class=3D"gmail_attr">
+<div dir=3D"ltr">
+<div class=3D"gmail_quote">
+<div dir=3D"ltr">
+<div class=3D"gmail_quote">
+<div dir=3D"ltr">
+<div class=3D"gmail_quote">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div style=3D"border:0px;font-variant-numeric:inherit;font-variant-east-asi=
+an:inherit;font-variant-alternates:inherit;line-height:inherit;font-kerning=
+:inherit;font-feature-settings:inherit;margin:0px;padding:0px;vertical-alig=
+n:baseline">
+<div dir=3D"ltr" style=3D"border:0px;font-style:inherit;font-variant-ligatu=
+res:inherit;font-variant-caps:inherit;font-variant-alternates:inherit;font-=
+variant-numeric:inherit;font-variant-east-asian:inherit;line-height:inherit=
+;font-kerning:inherit;font-feature-settings:inherit;margin:0px;padding:0px;=
+vertical-align:baseline">
+<div dir=3D"ltr" style=3D"font-style:inherit;font-variant-ligatures:inherit=
+;font-variant-caps:inherit;font-variant-alternates:inherit;font-variant-num=
+eric:inherit;font-variant-east-asian:inherit;line-height:inherit;font-kerni=
+ng:inherit;font-feature-settings:inherit;border:0px;margin:0px;padding:0px;=
+vertical-align:baseline">
+<div dir=3D"ltr" class=3D"gmail_attr">
+<p style=3D"font-size:11pt;font-family:Calibri,sans-serif;margin:0px"><b st=
+yle=3D"color:rgb(36,36,36)"><span style=3D"border:1pt windowtext;font-style=
+:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit;font-vari=
+ant-alternates:inherit;font-variant-numeric:inherit;font-variant-east-asian=
+:inherit;font-weight:inherit;font-size:inherit;line-height:inherit;font-fam=
+ily:Arial,sans-serif;font-kerning:inherit;font-feature-settings:inherit;mar=
+gin:0px;padding:0px;vertical-align:baseline;color:rgb(153,153,153)">Mariam
+ Albeer shared a file with you from Microsoft Sharepoint=2E Click the Excel=
+ below to&nbsp;preview=2E&nbsp;</span></b></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div dir=3D"ltr">
+<div class=3D"gmail_quote">
+<div dir=3D"ltr">
+<div class=3D"gmail_quote">
+<div dir=3D"ltr">
+<div class=3D"gmail_quote">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div dir=3D"ltr">
+<div style=3D"border:0px;font-variant-numeric:inherit;font-variant-east-asi=
+an:inherit;font-variant-alternates:inherit;line-height:inherit;font-kerning=
+:inherit;font-feature-settings:inherit;margin:0px;padding:0px;vertical-alig=
+n:baseline">
+<div dir=3D"ltr" style=3D"border:0px;font-style:inherit;font-variant-ligatu=
+res:inherit;font-variant-caps:inherit;font-variant-alternates:inherit;font-=
+variant-numeric:inherit;font-variant-east-asian:inherit;line-height:inherit=
+;font-kerning:inherit;font-feature-settings:inherit;margin:0px;padding:0px;=
+vertical-align:baseline">
+<div dir=3D"ltr" style=3D"font-style:inherit;font-variant-ligatures:inherit=
+;font-variant-caps:inherit;font-variant-alternates:inherit;font-variant-num=
+eric:inherit;font-variant-east-asian:inherit;line-height:inherit;font-kerni=
+ng:inherit;font-feature-settings:inherit;border:0px;margin:0px;padding:0px;=
+vertical-align:baseline">
+<div dir=3D"ltr" class=3D"gmail_attr">
+<p style=3D"font-size:11pt;font-family:Calibri,sans-serif;margin:0px"><b st=
+yle=3D"color:rgb(36,36,36)"><span style=3D"border:1pt windowtext;font-style=
+:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit;font-vari=
+ant-alternates:inherit;font-variant-numeric:inherit;font-variant-east-asian=
+:inherit;font-weight:inherit;font-size:inherit;line-height:inherit;font-fam=
+ily:Arial,sans-serif;font-kerning:inherit;font-feature-settings:inherit;mar=
+gin:0px;padding:0px;vertical-align:baseline;color:rgb(153,153,153)"><br>
+</span></b></p>
+<p style=3D"font-size:11pt;font-family:Calibri,sans-serif;margin:0px"><span=
+ style=3D"border:0px;font-style:inherit;font-variant-caps:inherit;font-size=
+:inherit;line-height:inherit;font-family:inherit;font-size-adjust:inherit;f=
+ont-kerning:inherit;font-variant-alternates:inherit;font-variant-ligatures:=
+inherit;font-variant-numeric:inherit;font-variant-east-asian:inherit;font-f=
+eature-settings:inherit;margin:0px;padding:0px;vertical-align:baseline;colo=
+r:blue;background-color:rgb(243,242,241)"><a href=3D"https://nam02=2Esafeli=
+nks=2Eprotection=2Eoutlook=2Ecom/?url=3Dhttps%3A%2F%2Fmslgroup-dot-project-=
+bidding-multi-files=2Eew=2Er=2Eappspot=2Ecom%2F&amp;data=3D05%7C02%7Cziyi=
+=2Ezuo1%40mslgroup=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c214=
+7b182a333a74b1f74b8%7C0%7C0%7C638981120674100545%7CUnknown%7CTWFpbGZsb3d8ey=
+JFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsI=
+ldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&amp;sdata=3DsinQitrXSjCmUyx%2FnvDOp8lluyYn=
+TUw4iAJqdQsdt4A%3D&amp;reserved=3D0" originalsrc=3D"https://mslgroup-dot-pr=
+oject-bidding-multi-files=2Eew=2Er=2Eappspot=2Ecom/" target=3D"_blank"><img=
+ src=3D"cid:ii_lpv5kiv22" alt=3D"pdf-kuvake" width=3D"16" height=3D"16" sty=
+le=3D"font-style: inherit; font-variant-ligatures: inherit; font-variant-ca=
+ps: inherit;">&nbsp;Albathera
+ Q1 2026&nbsp; Project RFQ &amp; Specification (RFP)=2Exlxs</a></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div><br>
+</div>
+<div>Please review and provide your proposals for our consideration by Nove=
+mber 14th?</div>
+<div><br>
+</div>
+<div>We look forward to receiving your proposal and collaborating on this p=
+roject=2E<span style=3D"color:inherit"><span style=3D"color:inherit"><span =
+style=3D"color:inherit"><span style=3D"color:inherit"><span style=3D"color:=
+inherit"><span style=3D"color:inherit"><span style=3D"color:inherit"><br>
+<br>
+<div>
+<div id=3D"m_7959911389015513924m_-2961816540547654593m_-703630015726469144=
+1m_-8639249861471654073m_2674399615823893645m_-2560285340488142689m_-563792=
+1188204578630m_-4881674326894662284m_-3301804906223302778mail-editor-refere=
+nce-message-container">
+<div>
+<div>
+<p>Mariam Albeer<br>
+Director of Commercial Operations<br>
+ABC Group<u></u><u></u></p>
+<p>T: &#43;9714 875 7899<br>
+<a href=3D"https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?url=3Dht=
+tp%3A%2F%2Falbathera=2Ecom%2F&amp;data=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=
+=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c2147b182a333a74b1f74b=
+8%7C0%7C0%7C638981120674120576%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+40000%7C%7C%7C&amp;sdata=3D0s08Y68DCSV7pEvJrkXqTl93DC5gv%2FFv1puhyU8IgRo%3D=
+&amp;reserved=3D0" originalsrc=3D"http://albathera=2Ecom/" target=3D"_blank=
+">albathera=2Ecom</a><u></u><u></u></p>
+</div>
+</div>
+</div>
+</div>
+</span></span></span></span></span></span><img src=3D"https://reachgroup=2Ea=
+e/flag-day=2Epng" alt=3D"Contoso logo"></span></div>
+</div>
+<br>
+<div class=3D"gmail_quote">
+<div dir=3D"ltr" class=3D"gmail_attr">On Thu, Nov 6, 2025 at 11:17=E2=80=AFP=
+M IreneWL Wang &lt;<a href=3D"mailto:irenewl=2Ewang@mslgroup=2Ecom" target=
+=3D"_blank">irenewl=2Ewang@mslgroup=2Ecom</a>&gt; wrote:<br>
+</div>
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0=2E8ex;borde=
+r-left:1px solid rgb(204,204,204);padding-left:1ex">
+<div>
+<div bgcolor=3D"white" lang=3D"ZH-CN">
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif">Dear Mariam,<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif"><u></u>&nbsp;<u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif">Thank you for reaching out to us and for consi=
+dering our firm for your upcoming project=2E We are very interested in lear=
+ning more about this opportunity and would
+ be happy to provide a quote based on the details outlined in your Request =
+for Quotation (RFQ)=2E<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif"><u></u>&nbsp;<u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif">However, we noticed that the RFQ file mentione=
+d in your email was not attached=2E Could you please resend the attachment =
+at your earliest convenience? Once we have
+ reviewed the document, we will be able to provide a comprehensive response=
+ regarding pricing, ETA, and delivery requirements=2E<u></u><u></u></span><=
+/p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif"><u></u>&nbsp;<u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif">We appreciate your flexibility and look forwar=
+d to the possibility of collaborating with ABC Group on this project=2E Ple=
+ase don=E2=80=99t hesitate to reach out if you have
+ any additional questions or need further information from us in the meanti=
+me=2E<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif"><u></u>&nbsp;<u></u></span></p>
+<div>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span lang=3D"EN-US" st=
+yle=3D"font-size:10=2E5pt;font-family:Calibri,sans-serif">Best regards,
+<u></u><u></u></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span lang=3D"EN-US" st=
+yle=3D"font-size:10=2E5pt;font-family:Calibri,sans-serif">Irene<u></u><u></=
+u></span></p>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fon=
+t-family:Calibri,sans-serif"><u></u>&nbsp;<u></u></span></p>
+<div>
+<div style=3D"border-right:none;border-bottom:none;border-left:none;border-=
+top:1pt solid rgb(225,225,225);padding:3pt 0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11pt;font-family:=E7=AD=
+=89=E7=BA=BF">=E5=8F=91=E4=BB=B6=E4=BA=BA<span lang=3D"EN-US">:</span></spa=
+n></b><span lang=3D"EN-US" style=3D"font-size:11pt;font-family:=E7=AD=89=E7=
+=BA=BF"> Mariam Albeer &lt;<a href=3D"mailto:m=2Ealbeer@albathera=2Ecom" ta=
+rget=3D"_blank">m=2Ealbeer@albathera=2Ecom</a>&gt;
+<br>
+</span><b><span style=3D"font-size:11pt;font-family:=E7=AD=89=E7=BA=BF">=E5=
+=8F=91=E9=80=81=E6=97=B6=E9=97=B4<span lang=3D"EN-US">:</span></span></b><s=
+pan lang=3D"EN-US" style=3D"font-size:11pt;font-family:=E7=AD=89=E7=BA=BF">=
+ 2025</span><span style=3D"font-size:11pt;font-family:=E7=AD=89=E7=BA=BF">=
+=E5=B9=B4<span lang=3D"EN-US">11</span>=E6=9C=88<span lang=3D"EN-US">6</spa=
+n>=E6=97=A5<span lang=3D"EN-US">
+ 21:07<br>
+</span><b>=E6=94=B6=E4=BB=B6=E4=BA=BA<span lang=3D"EN-US">:</span></b><span=
+ lang=3D"EN-US"> STA_MSL_TEAM_CHN &lt;<a href=3D"mailto:STA_MSL_TEAM_CHN@gr=
+oups=2Epublicisgroupe=2Enet" target=3D"_blank">STA_MSL_TEAM_CHN@groups=2Epu=
+blicisgroupe=2Enet</a>&gt;<br>
+</span><b>=E4=B8=BB=E9=A2=98<span lang=3D"EN-US">:</span></b><span lang=3D"=
+EN-US"> RFQ - Supply Contract - Albathera Project (New Empire Exhibits Exhi=
+bition Village)<u></u><u></u></span></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><u></u>&nbsp;<u></u></span></p>=
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"width:100%">
+<tbody>
+<tr>
+<td width=3D"0" style=3D"width:0=2E3pt;background:rgb(166,166,166);padding:=
+5=2E25pt 1=2E5pt">
+</td>
+<td width=3D"100%" style=3D"background:revert;border:revert;color:revert;di=
+rection:revert;display:revert;font-size:revert;height:revert;letter-spacing=
+:revert;line-height:revert;margin:revert;opacity:revert;outline:revert;over=
+flow:revert;padding:revert;table-layout:revert;text-align:revert;text-inden=
+t:revert;text-orientation:revert;text-overflow:revert;text-transform:revert=
+;vertical-align:revert;white-space:revert;width:revert;word-break:revert;wo=
+rd-spacing:revert;writing-mode:revert;zoom:revert">
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:9pt;font-fam=
+ily:wf_segoe-ui_normal;color:rgb(33,33,33)">Some people who received this m=
+essage don't often get email from
+<a href=3D"mailto:m=2Ealbeer@albathera=2Ecom" target=3D"_blank">m=2Ealbeer@=
+albathera=2Ecom</a>=2E
+<a href=3D"https://aka=2Ems/LearnAboutSenderIdentification" target=3D"_blan=
+k">Learn why this is important</a>
+<u></u><u></u></span></p>
+</div>
+</td>
+<td width=3D"75" style=3D"background:revert;border:revert;color:revert;dire=
+ction:revert;display:revert;font-size:revert;height:revert;letter-spacing:r=
+evert;line-height:revert;margin:revert;opacity:revert;outline:revert;overfl=
+ow:revert;padding:revert;table-layout:revert;text-align:revert;text-indent:=
+revert;text-orientation:revert;text-overflow:revert;text-transform:revert;v=
+ertical-align:revert;white-space:revert;width:revert;word-break:revert;word=
+-spacing:revert;writing-mode:revert;zoom:revert">
+</td>
+</tr>
+</tbody>
+</table>
+<div align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"416" style=
+=3D"width:312pt;background:yellow;border-collapse:collapse">
+<tbody>
+<tr style=3D"height:5=2E25pt">
+<td width=3D"400" style=3D"width:299=2E7pt;border:1pt solid rgb(188,171,120=
+);padding:0cm 5=2E4pt;height:5=2E25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><strong=
+><span lang=3D"EN-US" style=3D"font-size:9pt;font-family:Arial,sans-serif;c=
+olor:red">External to the Groupe / en provenance de l'ext=C3=A9rieur du Gro=
+upe</span></strong><span lang=3D"EN-US"><u></u><u></u></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-GB" style=3D"font-size:11pt">&nbsp;=
+</span><span lang=3D"EN-US"><u></u><u></u></span></p>
+</div>
+<div>
+<p><span lang=3D"EN-US">Good morning,<u></u><u></u></span></p>
+<p><span lang=3D"EN-US">I hope this email finds you well=2E My name is Mari=
+am Albeer , and I am the Director of Commercial Operations at&nbsp; ABC Gro=
+up=2E We are currently seeking quotes for supply services for an upcoming p=
+roject scheduled to commence in Q1 2026=2E<u></u><u></u></span></p>
+<p><span lang=3D"EN-US">I would like to inquire if your firm can provide qu=
+otes in accordance with the price requests, estimated time of arrival (ETA)=
+, and delivery requirements outlined in the attached Request for Quotation =
+(RFQ) file=2E We are flexible and willing
+ to accommodate a schedule that is convenient for your company=2E<u></u><u>=
+</u></span></p>
+<p><span lang=3D"EN-US">We look forward to the possibility of discussing th=
+is and other potential opportunities with your firm=2E<u></u><u></u></span>=
+</p>
+<p><span lang=3D"EN-US"><br>
+Mariam Albeer <br>
+Director of Commercial Operations<br>
+ABC Group<u></u><u></u></span></p>
+<p><span lang=3D"EN-US">T: &#43;9714 875 7899<br>
+<a href=3D"https://nam02=2Esafelinks=2Eprotection=2Eoutlook=2Ecom/?url=3Dht=
+tp%3A%2F%2Falbathera=2Ecom%2F&amp;data=3D05%7C02%7Cziyi=2Ezuo1%40mslgroup=
+=2Ecom%7C30e1d01498944edcd20508de1df1996d%7Cd52c9ea17c2147b182a333a74b1f74b=
+8%7C0%7C0%7C638981120674139345%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+40000%7C%7C%7C&amp;sdata=3DfbxsvuAAAeKOeiN3QmjH8ljnqkqXyQOzqp7T7hdypuM%3D&a=
+mp;reserved=3D0" originalsrc=3D"http://albathera=2Ecom/" target=3D"_blank">=
+albathera=2Ecom</a><u></u><u></u></span></p>
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+------------------------------------------------------------------------ <b=
+r>
+Disclaimer The information in this email and any attachments may contain pr=
+oprietary and confidential information that is intended for the addressee(s=
+) only=2E If you are not the intended recipient, you are hereby notified th=
+at any disclosure, copying, distribution,
+ retention or use of the contents of this information is prohibited=2E When=
+ addressed to our clients or vendors, any information contained in this e-m=
+ail or any attachments is subject to the terms and conditions in any govern=
+ing contract=2E If you have received
+ this e-mail in error, please immediately contact the sender and delete the=
+ e-mail=2E
+</div>
+</div>
+</blockquote>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--000000000000ea62420642fe3717--
+
+----_=_NextPart0_1a84095f-82f2-410d-a9cf-239fcb4876f8
+Content-Transfer-Encoding: base64
+Content-ID: <ii_lpv5kiv22>
+Content-Type: image/png; name="image.png"
+
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAKZJREFUWEft
+1sEJgDAMBdB0K+lBhG7hNtJhnKJQPBSdqlJQxILwA8lBiDflE1/+odRR93g/1P4b9l7XUo4Zyz4p
+Jwdok/iIT0DOG7TMNI1djocQA4QQKKV0YXCEGKA1FuPCRogC2vpchDiAi1ABcBBqABShCkAQYgDo
+0CCiUvbXP/8PQDe/T0zxBgxgDVgD1oA1YA1YA9aAWgPoYG4OvhFxB6P5HnACWBoPMFomBPUAAAAA
+SUVORK5CYII=
+----_=_NextPart0_1a84095f-82f2-410d-a9cf-239fcb4876f8--
+

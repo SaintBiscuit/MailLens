@@ -1,0 +1,570 @@
+Return-Path: najem.benyoussef@tic-inspectiongroup.com
+Delivered-To: arbi.jbeli@tic-inspectiongroup.com
+Received: from localhost (HELO queue) (127.0.0.1)	by localhost with SMTP; 20 Nov 2025
+ 10:53:25 +0200
+Received: from unknown (HELO output45.mail.ovh.net) (192.168.13.155)  by 192.168.9.10
+ with AES256-GCM-SHA384 encrypted SMTP; 20 Nov 2025 10:53:25 +0200
+Received: from vr18.mail.ovh.net (unknown [10.101.8.18])	by out45.mail.ovh.net
+ (Postfix) with ESMTP id 4dBsZX5wY1zTgLw	for
+ <arbi.jbeli@tic-inspectiongroup.com>; Thu, 20 Nov 2025 08:53:24 +0000 (UTC)
+Received: from in47.mail.ovh.net (unknown [10.101.4.47])	by vr18.mail.ovh.net (Postfix)
+ with ESMTP id 4dBsZX4l2cz2lHKH	for <arbi.jbeli@tic-inspectiongroup.com>;
+ Thu, 20 Nov 2025 08:53:24 +0000 (UTC)
+Received: from 14.mo561.mail-out.ovh.net (14.mo561.mail-out.ovh.net [188.165.43.98])	by
+ in47.mail.ovh.net (Postfix) with ESMTPS id 4dBsZX40cQz11LrM	for
+ <arbi.jbeli@tic-inspectiongroup.com>; Thu, 20 Nov 2025 08:53:24 +0000 (UTC)
+Received: from director5.ghost.mail-out.ovh.net (unknown [10.110.58.249])	by
+ mo561.mail-out.ovh.net (Postfix) with ESMTP id 4dBsZX1vHWz6PqH	for
+ <arbi.jbeli@tic-inspectiongroup.com>; Thu, 20 Nov 2025 08:53:24 +0000 (UTC)
+Received: from ghost-submission-7d8d68f679-h8fj5 (unknown [10.110.188.136])	by
+ director5.ghost.mail-out.ovh.net (Postfix) with ESMTPS id D400810022A	for
+ <arbi.jbeli@tic-inspectiongroup.com>; Thu, 20 Nov 2025 08:53:23 +0000 (UTC)
+Received: from tic-inspectiongroup.com ([37.59.142.114])	by
+ ghost-submission-7d8d68f679-h8fj5 with ESMTPSA	id
+ z76jKQPXHmkudi4A8oNwAg	(envelope-from
+ <najem.benyoussef@tic-inspectiongroup.com>)	for
+ <arbi.jbeli@tic-inspectiongroup.com>; Thu, 20 Nov 2025 08:53:23 +0000
+Authentication-Results: mx.mail.ovh.net;    arc=none (no signatures found);    dkim=pass (2048-bit
+ rsa key sha256) header.d=tic-inspectiongroup.com
+ header.i=@tic-inspectiongroup.com header.b=BVY6cv1h header.a=rsa-sha256
+ header.s=ovhmo2772413-selector1;    dmarc=none
+ policy.published-domain-policy=none policy.applied-disposition=none
+ policy.evaluated-disposition=none (p=none,d=none,d.eval=none)
+ policy.policy-from=p header.from=tic-inspectiongroup.com;    spf=pass
+ smtp.mailfrom=najem.benyoussef@tic-inspectiongroup.com
+ smtp.helo=14.mo561.mail-out.ovh.net;    x-tls=pass smtp.version=TLSv1.3
+ smtp.cipher=TLS_AES_256_GCM_SHA384 smtp.bits=256
+Authentication-Results: garm.ovh; auth=pass (GARM-114S008cd823f43-04ed-4408-9184-4e65df91509e,       
+             7E9790505CD0C656009CC3371A2FE658F80DE16D)
+ smtp.auth=najem.benyoussef@tic-inspectiongroup.com
+Received-SPF: pass    (tic-inspectiongroup.com: Sender is authorized to use
+ 'najem.benyoussef@tic-inspectiongroup.com' in 'mfrom' identity (mechanism
+ 'include:mx.ovh.com' matched))    receiver=in47.mail.ovh.net;   
+ identity=mailfrom;   
+ envelope-from="najem.benyoussef@tic-inspectiongroup.com";   
+ helo=14.mo561.mail-out.ovh.net;    client-ip=188.165.43.98
+X-OVh-ClientIp: 196.234.127.51
+From: "Najem BEN YOUSSEF" <najem.benyoussef@tic-inspectiongroup.com>
+To: "'Arbi Jbeli'" <arbi.jbeli@tic-inspectiongroup.com>
+References: <20251119154250.E2BE2A14C1AF5446@feiliks.com>
+In-Reply-To: <20251119154250.E2BE2A14C1AF5446@feiliks.com>
+Subject: TR: October 2025 Statement of Account - Imports + Exports
+Date: Thu, 20 Nov 2025 10:00:14 +0100
+Message-ID: <001201dc59fc$161f8f70$425eae50$@tic-inspectiongroup.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQFeaElKC1f7XRBYJFFoDAJLLTG947X3J0cA
+Content-Language: fr
+X-Ovh-Tracer-Id: 15493508619834398994
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: -100
+X-VR-SPAMSCORE: -100
+X-VR-SPAMCAUSE: dmFkZTGT4ZSzCdVguvpOfSCZ+lENX2Nq9hty0ukc/CQIQ9PBxXJF1GNmrLeqgIKe58h9xNUM8dupa8GBRJBXMIVwC7auPKgyKaO9LN/j8cayJNl4RpCe0fI2szPbe9DkU7GxeBeSIesCU0YnQujsWfYu2sdX0A95njR1e+TJKOil3S1g9dTJzmD069T4trk3XdOfpFxvHdmu78wyNiqb/LJ6vezR1pbvfJPL3CExfBFVIbZNCCWApZltfgm7KqFwIso4aERhwn30CSUlS36jcLjDFXah9oT9/GcfxcTzKRFPfVhFW743yxt2u8iGyysFIV7S2UIfyi0fSvN/ZTMmoRRTRW/+KxLTZ8scRWueqmU2Fhy8SlgWbw247AP+zUvY2UK8LkN3XMBWjTMuT2/gdaxwL2hQfzsGj0TFXRH+yclIGa9YQYkbKT1vqcph1SB9PxM9iOVfPqatvIFyfHC/4GBw2bYqZlAQgjZhnOZFh47dAL8AK/cKVbHvvTlJvtK+ygTZgFifbpL45NvGcuFoEjmoZUPnX5tRDOsIN2/xVst/zvxACT+Gom5qxm+HwKgcDfdz9y+Jwi8q7PUrfXuIzQ8D+yRcBN0UeXZqQLiATTa/DN+1M+XpnTZ6U9GMrHXKOCOLJaCGr5vr6IQzME9cy9eWzBWNF94B13vR2KWw3lza3brX+A
+X-VR-SPAMCAUSE: dmFkZTFQYJ4B+4itW1yzUaTpFX74SDwy0qSpztWutUQZr7sfdOitxpq3JI3YLcuDe37oFjT9qxokhTIt4TUU23K4/l4lvxtXpqd+Li4PTPZlkW5OYmFVuGWZkXPGXgaXXE/jFc87PtUwS/U/8B67AO/1GqPxtOLT3b1+q+MntM+iY/P+rwX+NJVjKRxr2Yv6TwauS89DlNY4MF56sR/mkXl1/n3/1yzJujROQenIeRIwuekaDuUwfq1nIcJ2cJ1kYkGtTLzuTe6zxkN998HU+wq4koxxjOzhOfcqrNOr+G7W7Z/QgRlStIJ8UdCTZRsp0Y0mEBFQq+77Nj+D1n9gVZfowPpTmVNxcNAO/xTkBPAIq1s5COhTVYTYfTG1xoR6ymkpMUC5WrRmQsoYeH+BcnB8z3mM5v4X5o3GsKhnmhUOsAYNavQJ8nyLQk2y3SwtA3lBWltphoyr8q+oRq/oT8WJ03zXBjtQNSvSMQ3xdaQI0eSylRY6BQIOlc/RlCHhQ7REkNHG9wsFX3t3GztuoSMmilxme0O2zuGKDOhNDsb9mAk6nLRcPf1kT0yZQtCc4PQiU2ilGvI/y0e+X/tNSTlexH81dVwrcTB3Gx42qyPRD0PAZIeDvrreGuPGZ7WVFFqXgv6hlSB5qYU4+vd9yka3UQfclHOGRDSQADLDaK4nO4RC9w
+DKIM-Signature: a=rsa-sha256; bh=PdnWEBQCb+WrOMEK1auWmROGSuZHk1c4xe+FZ8P+BNM=;
+ c=relaxed/relaxed; d=tic-inspectiongroup.com; h=From;
+ s=ovhmo2772413-selector1; t=1763628804; v=1;
+ b=BVY6cv1hcy52jVQ+IPAm1ZQRGUKBPifY0As7ZZbPGAH0+21At9ePolC+3JLFu5ffBIovxgNR
+ i+r9NUm/R65J+2hNnsbS/61t0izhPRUvIEn89xCA6J1b1ZqgxmgrT5sLeh39iOVYWMrJRLDFNG+
+ ORPXwpwyjVszeK2pwElT1n4CbB2dUYMRFyWWD8SvfWzebpxmA1uSRoSIlw875+79yODZZoSqLvZ
+ BcDLv4Zsu9rrTf9UAYktIqsmeczU6xNSysgkNpUDMnDRlbCtKKBbftHl2DxV0YCsZ66Aot+DZS6
+ jmsOJiyFSBacW3T0AGeB3TToTWdCpdB9Q4/W1m9+AjS0g==
+X-OVH-Remote: 188.165.43.98 (14.mo561.mail-out.ovh.net)
+X-Ovh-Spam-Status: OK
+X-Ovh-Spam-Reason: vr: OK; dkim: disabled; spf: disabled
+X-Ovh-Message-Type: OK
+Sender: "Najem BEN YOUSSEF" <najem.benyoussef@tic-inspectiongroup.com>
+Content-Type: multipart/related;
+ boundary="--_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4"
+
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0013_01DC5A04.77EE7EC0"
+
+
+------=_NextPart_000_0013_01DC5A04.77EE7EC0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+=20
+
+=20
+
+ <https://www=2Etunisietravail=2Enet/uploads/2018/06/tic-inspectiongroup=2Ep=
+ng>=20
+
+	Najem BEN YOUSSEF
+Ing=C3=A9nieur  CRP
+Technique inspection et contr=C3=B4le
+
+T: (216) 70 169 780
+E: najem=2Ebenyoussef@tic-inspectiongroup=2Ecom <mailto:najem=2Ebenyoussef@=
+tic-inspectiongroup=2Ecom>=20
+
+ <https://www=2Efacebook=2Ecom/TIC-Inspection-Group-178667922616157/?ref=3Da=
+ymt_homepage_panel>   <https://twitter=2Ecom/TICINSPECTION>   <https://www=
+=2Eyoutube=2Ecom/channel/UCiYO_fpn0maR8OUewtOyVBA?view_as=3Dsubscriber>   <=
+https://www=2Elinkedin=2Ecom/feed/> =20
+
+Lot 1-1-18 Zone Industrielle Kheireddine, 2015 Le Kram, Tunis-TUNISIE
+
+=20
+
+P Pensez =C3=A0 l'environnement avant d'imprimer ce message
+
+=20
+
+De : "=E7=8E=8B=E6=B5=B7=E9=89=B4 " [mailto:szac03@feiliks=2Ecom]=20
+Envoy=C3=A9 : mercredi 19 novembre 2025 13:43
+=C3=80 : najem=2Ebenyoussef@tic-inspectiongroup=2Ecom
+Objet : October 2025 Statement of Account - Imports + Exports
+
+=20
+
+Dear  najem=2Ebenyoussef :
+
+
+         Good afternoon=2E Attached is your company's  October statement of=
+ account=2E Please check it=2E If you have no questions,  please email us t=
+o request an invoice=2E Thank you !
+
+=20
+
+=20
+
+Our company will be fully implementing electronic invoices; paper invoices =
+will no longer be used=2E Please be aware of  this=2E If you require a prin=
+ted and stamped statement, please provide a scanned copy, or if you require=
+ the original to be mailed, please let us know the specific procedure=2E No=
+ reply indicates that this is not required=2E Thank you=2E=20
+
+=20
+
+Wang Haijian
+
+Settlement Clerk /  Settlement Department
+
+South China Region /  Feilida Logistics
+
+-------------------------------------------
+
+Telephone:  +86 (0) 755 23950011  ext=2E  6906
+
+Email:  szac03@feiliks=2Ecom=20
+
+Website:  http://www=2Efeiliks=2Ecom <http://www=2Efeiliks=2Ecom/>=20
+
+5th  Floor, Zhongbao Logistics Building, No=2E  28  Taohua Road, Futian Fre=
+e Trade Zone, Shenzhen, Guangdong Province, China
+
+
+------=_NextPart_000_0013_01DC5A04.77EE7EC0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas=2Emicrosoft=2Ecom/office/2004/12/omml" xmlns=3D"h=
+ttp://www=2Ew3=2Eorg/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><!--=
+[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+=2Eshape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+@font-face
+	{font-family:"Microsoft YaHei";
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft JhengHei";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@Microsoft JhengHei";}
+@font-face
+	{font-family:"\@Microsoft YaHei";}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"\@DengXian";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p=2EMsoNormal, li=2EMsoNormal, div=2EMsoNormal
+	{margin:0cm;
+	margin-bottom:=2E0001pt;
+	font-size:12=2E0pt;
+	font-family:"Times New Roman",serif;
+	mso-believe-normal-left:yes;}
+a:link, span=2EMsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span=2EMsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p=2Emsonormal0, li=2Emsonormal0, div=2Emsonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12=2E0pt;
+	font-family:"Times New Roman",serif;}
+span=2EEmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+=2EMsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10=2E0pt;}
+@page WordSection1
+	{size:612=2E0pt 792=2E0pt;
+	margin:70=2E85pt 70=2E85pt 70=2E85pt 70=2E85pt;}
+div=2EWordSection1
+	{page:WordSection1;}
+--></style><![if mso 9]><style>p=2EMsoNormal
+	{margin-left:4=2E8pt;}
+</style><![endif]><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3D"FR" link=3D"blue" vl=
+ink=3D"purple" style=3D"margin-left:4=2E8pt;margin-top:4=2E8pt;margin-right=
+:4=2E8pt;margin-bottom:4=2E8pt"><div class=3D"WordSection1"><p class=3D"Mso=
+Normal"><span style=3D"font-size:11=2E0pt;font-family:&quot;Calibri&quot;,s=
+ans-serif;color:#1F497D;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span=
+></p><p class=3D"MsoNormal"><span style=3D"font-size:11=2E0pt;font-family:&=
+quot;Calibri&quot;,sans-serif;color:#1F497D;mso-fareast-language:EN-US"><o:=
+p>&nbsp;</o:p></span></p><div><p class=3D"MsoNormal"><span style=3D"font-si=
+ze:11=2E0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D"><o:p>=
+&nbsp;</o:p></span></p><table class=3D"MsoNormalTable" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"0" style=3D"width:277=2E5pt;backgroun=
+d:white;border-collapse:collapse"><tr><td width=3D"102" valign=3D"top" styl=
+e=3D"width:76=2E5pt;border:none;border-right:solid #929292 1=2E0pt;padding:=
+0cm 0cm 0cm 0cm"><p class=3D"MsoNormal" style=3D"mso-margin-top-alt:26=2E25=
+pt;margin-right:0cm;margin-bottom:4=2E5pt;margin-left:0cm"><a href=3D"https=
+://www=2Etunisietravail=2Enet/uploads/2018/06/tic-inspectiongroup=2Epng" ta=
+rget=3D"_blank"><span style=3D"font-size:10=2E0pt;font-family:&quot;Arial&q=
+uot;,sans-serif;color:#337AB7;text-decoration:none"><img border=3D"0" width=
+=3D"90" height=3D"90" style=3D"width:=2E9375in;height:=2E9375in" id=3D"Imag=
+e_x0020_1" src=3D"cid:image001=2Ejpg@01DC5A04=2E772C4030" alt=3D"Logo"></sp=
+an></a><span style=3D"font-size:10=2E0pt;font-family:&quot;Arial&quot;,sans=
+-serif;color:#444444"><o:p></o:p></span></p></td><td width=3D"25" style=3D"=
+width:18=2E75pt;padding:0cm 0cm 0cm 0cm"></td><td width=3D"243" valign=3D"t=
+op" style=3D"width:182=2E25pt;padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNorma=
+l" style=3D"margin-bottom:13=2E5pt"><b><span style=3D"font-family:&quot;Cal=
+ibri&quot;,sans-serif;color:#002060">Najem BEN YOUSSEF</span></b><span styl=
+e=3D"font-size:10=2E0pt;font-family:&quot;Calibri Light&quot;,sans-serif;co=
+lor:#002060"><br>Ing=C3=A9nieur&nbsp; CRP<br>Technique inspection et contr=
+=C3=B4le</span><span style=3D"font-size:10=2E0pt;font-family:&quot;Calibri =
+Light&quot;,sans-serif;color:#002060"><o:p></o:p></span></p><p class=3D"Mso=
+Normal" style=3D"margin-bottom:13=2E5pt"><b><span style=3D"font-size:9=2E0p=
+t;font-family:&quot;Arial&quot;,sans-serif;color:#002060">T:</span></b><spa=
+n style=3D"font-size:9=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color=
+:#444444">&nbsp;</span><span style=3D"font-size:9=2E0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#767171">(216) 70&nbsp;169 780</span><span styl=
+e=3D"font-size:9=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color:#4444=
+44"><br></span><b><span style=3D"font-size:9=2E0pt;font-family:&quot;Arial&=
+quot;,sans-serif;color:#002060">E:</span></b><span style=3D"font-size:9=2E0=
+pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444">&nbsp;</span><u>=
+<span style=3D"font-size:9=2E0pt;font-family:&quot;Calibri Light&quot;,sans=
+-serif;color:blue"><a href=3D"mailto:najem=2Ebenyoussef@tic-inspectiongroup=
+=2Ecom"><span style=3D"color:#0563C1">najem=2Ebenyoussef@tic-inspectiongrou=
+p=2Ecom</span></a></span></u><span style=3D"font-size:10=2E0pt;font-family:=
+&quot;Arial&quot;,sans-serif;color:#002060"><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"margin-bottom:10=2E5pt"><a href=3D"https://www=2Efa=
+cebook=2Ecom/TIC-Inspection-Group-178667922616157/?ref=3Daymt_homepage_pane=
+l" target=3D"_blank"><span style=3D"font-size:10=2E0pt;font-family:&quot;Ar=
+ial&quot;,sans-serif;color:#337AB7;text-decoration:none"><img border=3D"0" =
+width=3D"20" height=3D"20" style=3D"width:=2E2083in;height:=2E2083in" id=3D"=
+Image_x0020_2" src=3D"cid:image002=2Epng@01DC5A04=2E772C4030" alt=3D"facebo=
+ok icon"></span></a><span style=3D"font-size:10=2E0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:#444444">&nbsp;</span><a href=3D"https://twitter=
+=2Ecom/TICINSPECTION" target=3D"_blank"><span style=3D"font-size:10=2E0pt;f=
+ont-family:&quot;Arial&quot;,sans-serif;color:#337AB7;text-decoration:none"=
+><img border=3D"0" width=3D"20" height=3D"20" style=3D"width:=2E2083in;heig=
+ht:=2E2083in" id=3D"Image_x0020_3" src=3D"cid:image003=2Epng@01DC5A04=2E772=
+C4030" alt=3D"twitter icon"></span></a><span style=3D"font-size:10=2E0pt;fo=
+nt-family:&quot;Arial&quot;,sans-serif;color:#444444">&nbsp;</span><a href=
+=3D"https://www=2Eyoutube=2Ecom/channel/UCiYO_fpn0maR8OUewtOyVBA?view_as=3Ds=
+ubscriber" target=3D"_blank"><span style=3D"font-size:10=2E0pt;font-family:=
+&quot;Arial&quot;,sans-serif;color:#337AB7;text-decoration:none"><img borde=
+r=3D"0" width=3D"20" height=3D"20" style=3D"width:=2E2083in;height:=2E2083i=
+n" id=3D"Image_x0020_4" src=3D"cid:image004=2Epng@01DC5A04=2E772C4030" alt=
+=3D"youtube icon"></span></a><span style=3D"font-size:10=2E0pt;font-family:=
+&quot;Arial&quot;,sans-serif;color:#444444">&nbsp;</span><a href=3D"https:/=
+/www=2Elinkedin=2Ecom/feed/" target=3D"_blank"><span style=3D"font-size:10=
+=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color:#337AB7;text-decorati=
+on:none"><img border=3D"0" width=3D"20" height=3D"20" style=3D"width:=2E208=
+3in;height:=2E2083in" id=3D"Image_x0020_5" src=3D"cid:image005=2Epng@01DC5A=
+04=2E772C4030" alt=3D"linkedin icon"></span></a><span style=3D"font-size:10=
+=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444">&nbsp;<o:p><=
+/o:p></span></p><p class=3D"MsoNormal" style=3D"margin-bottom:7=2E5pt"><spa=
+n style=3D"font-size:9=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color=
+:#767171">Lot 1-1-18 Zone Industrielle Kheireddine,</span><span style=3D"fo=
+nt-size:10=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color:#767171">&n=
+bsp;</span><span style=3D"font-size:9=2E0pt;font-family:&quot;Arial&quot;,s=
+ans-serif;color:#767171">2015 Le Kram, Tunis-TUNISIE<o:p></o:p></span></p><=
+/td></tr><tr><td colspan=3D"3" style=3D"padding:10=2E5pt 0cm 0cm 0cm"><p cl=
+ass=3D"MsoNormal" style=3D"text-align:justify;line-height:7=2E5pt"><span st=
+yle=3D"font-size:7=2E0pt;font-family:&quot;Arial&quot;,sans-serif;color:#92=
+9292"><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=3D"MsoNormal">=
+<b><span lang=3D"EN-GB" style=3D"font-size:11=2E0pt;font-family:Webdings;co=
+lor:green">P</span></b><span lang=3D"EN-GB" style=3D"font-size:11=2E0pt;fon=
+t-family:&quot;Tahoma&quot;,sans-serif;color:green"> </span><b><span style=
+=3D"font-size:11=2E0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;colo=
+r:green">Pensez =C3=A0 l'environnement</span></b><b><span style=3D"font-siz=
+e:10=2E0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;color:green"> av=
+ant d'imprimer ce message</span></b><b><span style=3D"font-size:10=2E0pt;fo=
+nt-family:&quot;Arial Narrow&quot;,sans-serif;color:green"><o:p></o:p></spa=
+n></b></p></div><p class=3D"MsoNormal"><span style=3D"font-size:11=2E0pt;fo=
+nt-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;mso-fareast-language=
+:EN-US"><o:p>&nbsp;</o:p></span></p><div><div style=3D"border:none;border-t=
+op:solid #E1E1E1 1=2E0pt;padding:3=2E0pt 0cm 0cm 0cm"><p class=3D"MsoNormal=
+"><b><span style=3D"font-size:11=2E0pt;font-family:&quot;Calibri&quot;,sans=
+-serif">De&nbsp;:</span></b><span style=3D"font-size:11=2E0pt;font-family:&=
+quot;Calibri&quot;,sans-serif"> &quot;</span><span style=3D"font-size:11=2E0=
+pt;font-family:&quot;MS Gothic&quot;">=E7=8E=8B=E6=B5=B7</span><span style=
+=3D"font-size:11=2E0pt;font-family:&quot;Microsoft JhengHei&quot;,sans-seri=
+f">=E9=89=B4</span><span style=3D"font-size:11=2E0pt;font-family:&quot;Cali=
+bri&quot;,sans-serif"> &quot; [mailto:szac03@feiliks=2Ecom] <br><b>Envoy=C3=
+=A9&nbsp;:</b> mercredi 19 novembre 2025 13:43<br><b>=C3=80&nbsp;:</b> naje=
+m=2Ebenyoussef@tic-inspectiongroup=2Ecom<br><b>Objet&nbsp;:</b> October 202=
+5 Statement of Account - Imports &#43; Exports<o:p></o:p></span></p></div><=
+/div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><p class=3D"MsoNormal" sty=
+le=3D"background:white"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;fo=
+nt-family:&quot;Microsoft YaHei&quot;,sans-serif;color:black">Dear&nbsp;&nb=
+sp;najem=2Ebenyoussef :<br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;</span><span style=3D"font-size:10=2E5pt;font-family:&quot;Mi=
+crosoft YaHei&quot;,sans-serif;color:black">Good afternoon=2E Attached is y=
+our company's&nbsp;</span><span style=3D"font-size:10=2E5pt;font-family:&qu=
+ot;Microsoft YaHei&quot;,sans-serif;color:black"> <span lang=3D"EN-US">Octo=
+ber</span></span><span style=3D"font-size:10=2E5pt;font-family:&quot;Micros=
+oft YaHei&quot;,sans-serif;color:black">&nbsp;statement of account=2E Pleas=
+e check it=2E If you have no questions,&nbsp; please email us to request an=
+ invoice=2E Thank you&nbsp;</span><span lang=3D"EN-US" style=3D"font-size:1=
+0=2E5pt;font-family:&quot;Microsoft YaHei&quot;,sans-serif;color:black">!</=
+span><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#222222"=
+><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"background:white;orp=
+hans: 2;widows: 2;font-variant-ligatures: normal;font-variant-caps: normal;=
+-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-deco=
+ration-style: initial;text-decoration-color: initial;word-spacing:0px"><spa=
+n lang=3D"EN-US" style=3D"font-size:10=2E5pt;font-family:&quot;Arial&quot;,=
+sans-serif;color:#222222">&nbsp;</span><span style=3D"font-family:&quot;Ari=
+al&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p class=3D"MsoNor=
+mal" style=3D"background:white;orphans: 2;widows: 2;font-variant-ligatures:=
+ normal;font-variant-caps: normal;-webkit-text-stroke-width: 0px;text-decor=
+ation-thickness: initial;text-decoration-style: initial;text-decoration-col=
+or: initial;word-spacing:0px"><span lang=3D"EN-US" style=3D"font-size:10=2E5=
+pt;font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span><sp=
+an style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></=
+o:p></span></p><div><div><p class=3D"MsoNormal" style=3D"text-align:justify=
+;line-height:15=2E0pt;background:white"><b><span style=3D"font-size:10=2E5p=
+t;font-family:&quot;Microsoft YaHei&quot;,sans-serif;color:red">Our company=
+ will be fully implementing electronic invoices; paper invoices will no lon=
+ger be used=2E Please be aware of&nbsp; this=2E If you require a printed an=
+d stamped statement, please provide a scanned copy, or if you require the o=
+riginal to be mailed,&nbsp;please let us know the specific procedure=2E No =
+reply indicates that this is not required=2E Thank you=2E</span></b><span s=
+tyle=3D"font-family:&quot;Arial&quot;,sans-serif;color:#222222"> <o:p></o:p=
+></span></p><p class=3D"MsoNormal" style=3D"text-align:justify;background:w=
+hite"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;font-family:&quot;Ar=
+ial&quot;,sans-serif;color:#222222">&nbsp;</span><span style=3D"font-family=
+:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;background:=
+white"><span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&=
+quot;,sans-serif;color:black">Wang Haijian</span><span style=3D"font-family=
+:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;background:=
+white"><span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&=
+quot;,sans-serif;color:black">Settlement Clerk&nbsp;</span><span lang=3D"EN=
+-US" style=3D"font-size:10=2E5pt;font-family:&quot;Verdana&quot;,sans-serif=
+;color:black">/&nbsp;</span><span lang=3D"EN-US" style=3D"font-size:10=2E5p=
+t;font-family:&quot;Microsoft YaHei&quot;,sans-serif;color:black"> </span><=
+span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&quot;,sa=
+ns-serif;color:black">Settlement Department</span><span style=3D"font-famil=
+y:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p clas=
+s=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;background=
+:white"><span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei=
+&quot;,sans-serif;color:black">South China Region&nbsp;</span><span lang=3D"=
+EN-US" style=3D"font-size:10=2E5pt;font-family:&quot;Verdana&quot;,sans-ser=
+if;color:black">/&nbsp;</span><span lang=3D"EN-US" style=3D"font-size:10=2E5=
+pt;font-family:&quot;Microsoft YaHei&quot;,sans-serif;color:black"> </span>=
+<span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&quot;,s=
+ans-serif;color:black">Feilida Logistics</span><span style=3D"font-family:&=
+quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;background:=
+white"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;font-family:&quot;V=
+erdana&quot;,sans-serif;color:black">--------------------------------------=
+-----</span><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#=
+222222"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"text-align:ju=
+stify;line-height:15=2E0pt;background:white"><span style=3D"font-size:10=2E5=
+pt;font-family:&quot;Microsoft YaHei&quot;,sans-serif;color:black">Telephon=
+e:&nbsp;</span><span style=3D"font-size:10=2E5pt;font-family:&quot;Verdana&=
+quot;,sans-serif;color:black"> <span lang=3D"EN-US">&#43;86 (0) 755 2395001=
+1&nbsp;&nbsp;</span></span><span style=3D"font-size:10=2E5pt;font-family:&q=
+uot;Microsoft YaHei&quot;,sans-serif;color:black">ext=2E&nbsp;</span><span =
+style=3D"font-size:10=2E5pt;font-family:&quot;Verdana&quot;,sans-serif;colo=
+r:black"> <span lang=3D"EN-US">6906</span></span><span style=3D"font-family=
+:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;background:=
+white"><span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&=
+quot;,sans-serif;color:black">Email:&nbsp;</span><span style=3D"font-family=
+:&quot;Arial&quot;,sans-serif;color:#222222"> </span><span lang=3D"EN-US" s=
+tyle=3D"font-size:10=2E5pt;font-family:&quot;Verdana&quot;,sans-serif;color=
+:#222222">szac03@feiliks=2Ecom</span><span lang=3D"EN-US" style=3D"font-siz=
+e:10=2E5pt;font-family:DengXian;color:#222222"> </span><span style=3D"font-=
+family:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p=
+ class=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;backg=
+round:white"><span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft =
+YaHei&quot;,sans-serif;color:black">Website:&nbsp;</span><span lang=3D"EN-U=
+S" style=3D"font-size:10=2E5pt;font-family:DengXian;color:#222222"><a href=
+=3D"http://www=2Efeiliks=2Ecom/" target=3D"_blank"><span style=3D"color:#11=
+55CC"> </span><span style=3D"font-family:&quot;Verdana&quot;,sans-serif;col=
+or:black">http://www=2Efeiliks=2Ecom</span></a></span><span style=3D"font-f=
+amily:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><p =
+class=3D"MsoNormal" style=3D"text-align:justify;line-height:15=2E0pt;backgr=
+ound:white"><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;font-family:&q=
+uot;Verdana&quot;,sans-serif;color:black">5th&nbsp;</span><span lang=3D"EN-=
+US" style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#222222"> </spa=
+n><span style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&quot;=
+,sans-serif;color:black">Floor,&nbsp;Zhongbao Logistics Building, No=2E&nbs=
+p;</span><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#222=
+222"> </span><span lang=3D"EN-US" style=3D"font-size:10=2E5pt;font-family:&=
+quot;Verdana&quot;,sans-serif;color:black">28&nbsp;</span><span lang=3D"EN-=
+US" style=3D"font-size:10=2E5pt;font-family:&quot;Microsoft YaHei&quot;,san=
+s-serif;color:black"> </span><span style=3D"font-size:10=2E5pt;font-family:=
+&quot;Microsoft YaHei&quot;,sans-serif;color:black">Taohua Road, Futian Fre=
+e Trade Zone, Shenzhen, Guangdong Province, China</span><span style=3D"font=
+-family:&quot;Arial&quot;,sans-serif;color:#222222"><o:p></o:p></span></p><=
+/div></div></div></body></html>
+------=_NextPart_000_0013_01DC5A04.77EE7EC0--
+
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4
+Content-Transfer-Encoding: base64
+Content-ID: <image001.jpg@01DC5A04.772C4030>
+Content-Type: image/jpeg; name="image001.jpg"
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABaAFoDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAooooAKKKKACiiigAooooAKKKKACikooAWikooAWikpaACiiigAooooAKKKKAOK+J0kkWi6eY5H
+QnUIgSrFcjPTiutuYVubSWBnZBKhQshwy5GMg+tcd8VlDeHLPf8A6sX0W9v7oOR17VrRaFpVloVx
+pVvPIIr1HcBrks7cclSTnt2rVr93H5i6la7urX4d+DQPOmvDGSsPnPlpHJzjPp/QVyFvoviPxZaf
+2trWsSWFlJzFGgbkdsIMYH161h6mJH+HegSOWeBLycOSSe/H6A162L1br7NaQ2yS2VxErI4PGzH9
+KeIm8NT5l8Tdr7i3KPgjw/JokFy76tNqEcrAR7ywVAPYk85rqc1gy6wdKt73zLdIbaxhZ9xY84Hy
+j8ay/DXjp9U0lbvULIpLLM0cENqDIzhQCx57DPWsKc514uo/n01KOypaydR8RWmlmEXEVyTJE02E
+i3FEXG5m9MZ5pL/xLYacY/NMrh4vPJijLBIv77egquVga9FZ11rtnZvKsrtmK2N2xVcjywcZHr9K
+g1DxNY6a8azich4ftDMkZYRx5A3N6DmizA16WmqwZQwPB5FLSAqalZ21/ZSWt7b/AGiCUbXjK5zW
+BpXgvQ9HvBdW1pdvMoKxtK7P5QPB25PFbuo2s11FGLedoWVw2VYjIweDj8KyU0vWxEq/2jtkCjL7
+i38JBGOnJ5zVLmtpKwDW8J6U/hltBSG4W1YlkZssyMTncCfQ1yNrY+OPBebWwgTUrAE+WANwH0GQ
+y/TpXWPpOvqCBqXmAHgbypIPqcdv1AxVq207WEvI5Li+DwoGXarH5jjhj/hWkJuKak0xWOJuNG8Z
+eNZEj1lV07T1YMyAAZ+i5JJ9M11F34Wt20u0s9OMlqtrC8C7od4ZXHzZGRzkZz61Muka6q/NqYcg
+gjLHjOc59e2Klh0jVIZk36g88KlMguVJAHzD8+fwxRObezSSBIr6p4Yh1WG1jnkuAba1NurbOSx2
+4c88/d5B65qTVdEk1Fy8VzJbtLa/ZLjFvkOnX5Rn5T19etOfR9X2KkepMBtxuLtkHnn344wenWpo
+LDWI5LIyXyuImfzuvzgn5TjucVn7y+0MraroTXxzaTy2wezNlIHg35j7EcjBqa40KzvNQtrm7ikn
+SC28hYnj4JyDuPPt0qNtJ1psbdRMZA5YSM2TnPTHf/61D6NrBVCupEN1kG5iD8oGB7Z3H8aLS/mA
+3UnHCiOQdvu8VNXPWml6tbtbo10v2eOQMUEhJC4I2ZxyBx9a6GptbqAtFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/9k=
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4
+Content-Transfer-Encoding: base64
+Content-ID: <image002.png@01DC5A04.772C4030>
+Content-Type: image/png; name="image002.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB
+kUlEQVQ4ja3VPWgUQRjG8d8N4RATRAQPwUY7sfEDwUJD8NBKFCvRSgIhFlY2FlaCImglGCFlKkkg
+pJAUggQEEVEUQ9DKQAoJikmwEYLBqMXM6t6xswbMC8vs+/WH2Xnm3YapryqsD5dwGgewC9+xgOd4
+iKdVjY0uYAPDuJEgdfYEV/G+HAyl9ybGMboBGJzCK5zLAUdxPtP8Ey8xjTel+FZM4FgR6EnrMAYz
+sBWcxGzyj+NZKd/EFPZjJYgHcCsDg5EE60Ub/RU1LVwnbvkidtYAP6T1MmZwO1M3hC0BZ2pg8Cut
+zX/UbcOJgEOZgnkcwePkjyV/qAa6r0deIqs6T/Rzelo1wN0B65nkXlG87eRfSH7uG8JawGIm2SfK
+pdjBnuQfrAF+CqJgN8veBkxuEmwRLwIe+au1/7F7WA/4gSvyh7MRm8N9OsfXNdypKP6Cb9iOHRX5
+JRwVZ+Wf4QB3k39T5xRqyWtvAWcLmK5GosYG8DoDKGwND8Rb9q6c6J7YZTss3vPiF7CKj+Lon8Zy
+VdNvV/NPD1hxox0AAAAASUVORK5CYII=
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4
+Content-Transfer-Encoding: base64
+Content-ID: <image003.png@01DC5A04.772C4030>
+Content-Type: image/png; name="image003.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAABI1BMVEUAru8Aru8Aru8Aru8Aru8A
+ru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8A
+ru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8A
+ru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8A
+ru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8A
+ru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru8Aru/eWifuAAAAYHRS
+TlMAAQIDBAUGBwgKDg8SExQVGRscHR4mKCwvMTM3OzxCTVZgZWdvcHV6e4GDhIWHiIyQkpOUlp6l
+q7GztLi5vb7Cw8TGx8jJz9DS1dfY29zl5ufo6ers7e/w8/T19vj6+/7M+50kAAAA00lEQVR4AVXB
+hVYCAQAAwcXAwFZMxBa7W+zuAgNR9v+/wncej5gh1DZ98OLX5eogJXWpd0OF7R5CsUPLMgkCtWkr
+fcQB5q122wBdef3OqWbHh1I3RzoJs+p+MqMmgehywQe4Us/oWHn7AWi5VSGvPg5DpDcCJFRpV72O
+UDShSszAUpTQrirkVE9b+Bf/VYVjA1v9ANFjAzClvl5vdAKxPQMXEMvq00xffdPAwrP/RoExq6Uj
+AOtWum8lULtm2WU3RSN3hj7nGimpSSzunJ9sjjYT+AOieFZUmvjzxgAAAABJRU5ErkJggg==
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4
+Content-Transfer-Encoding: base64
+Content-ID: <image004.png@01DC5A04.772C4030>
+Content-Type: image/png; name="image004.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB
+oUlEQVQ4jZ3VPWhUQRQF4G+fKwoRjYVJYzYgaJk0gtFYCYLYqIU/paCCoIKF9iJYBbQQtDCNZSwM
+FjaBFDayEsFCsLNQdC1E4w8q0QQt5g2ZzHss657u3nfm3PvunJlpeLioBg0cwknswwia+IAXmMUM
+flUXVgV34zYm6ioleIureJAmi4x0Bk97EINW2eVdrIvJZkI4hXvC7/4PzmMZl9IOR/sUi7iII2mH
+N7ApIy3hI75ZHf56bMY2DGT8m3jcxCBOJB/mcFrY0W4YwDVcKeMdOFDgcFk54lYPYvAD17Pc0QLj
+WfJNFg/hrKoj4Ds+JfF4geGM9DmLNwob9hyTNaIpf7jASkbI44gRjKk6IeWvFOhkhMGaBXewUzDx
+3y78ToF2Rmhl8XtcwJearjdYO7J2gXlhuBHH9W7wnDsbL4cpq36Cd3iNRfwpc8vCQWhgK7ZjVyLY
+xt4ouAUvhcH3g9/Yj4Xora9l+z/7FLyMBdaa9RkOCue3VyzhnLD7ckHCXTiG+8LMuuEJ9mA6Tdbd
+2BEtHBOegNGyQAev8Eh4Cir4B1I5VsyP5z0MAAAAAElFTkSuQmCC
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4
+Content-Transfer-Encoding: base64
+Content-ID: <image005.png@01DC5A04.772C4030>
+Content-Type: image/png; name="image005.png"
+
+iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB
+mUlEQVQ4ja3VP0iVURjH8c99u0lFkEJqRA0tEQ1ZUwRR0KJDkUQ1OekQhHvq4FCTWzVItAZFQxo3
+QlraEgskxCGHIielPyBCYNCf2/Cewz29XPG+0W95OM8553v+vM/5vRVTazbRaQyEeAg78AkLeI4H
+WC9OqjQBHsYd9G22UtBXjOMe6jGZFQadx3wLMNiLSUxhZzPgWTzB7tDeaAEK/XiESgrcg4doC+0R
+7MJYi9CLGE6BI9ifDJgP8XWLQLiJ9iq2YbDQ+RhP0VsC2I7LVZxCV6FzGm/kX28I10L+Kp5hCccw
+io5kXn8Vx5us9lJ+p98C8H6y81h7L7CImWReT4Z9JY7Vg3e4nkDT4u7O8LMEcAhHNO68jpWk/1eG
+1RLAaohtSS7d0EqG2RLArTSXyS/2w38CTscj3JUbQtQFHNSogBshHg2xM8l1hriMWnSb7fK6i4Cy
+qsvfdC0+vR+4gi//CJxAjb/d5j3O4GMJ0G+5J47GRNEPl3ACt/F9C9hbnMOtNNnMsaO6cAkncUD+
+Zj9r/AJeSZw66g89lFHYpaVCjgAAAABJRU5ErkJggg==
+----_=_NextPart0_5f0e7319-1ddb-4491-a3b3-3ba2acfd40b4--
+

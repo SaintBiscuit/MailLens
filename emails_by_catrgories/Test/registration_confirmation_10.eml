@@ -1,0 +1,72 @@
+Return-Path: <noreply@megagroup.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from relay4.oml.ru (relay4.oml.ru [185.32.58.48])
+	by mail.collectorshash.su (Postfix) with ESMTP id E38261FA0C
+	for <v.p.ankevich@collectorshash.su>; Thu, 24 Apr 2025 10:34:37 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=megagroup.ru; s=main; h=X-Feedback-ID:Feedback-ID:Content-Type:MIME-Version
+	:X-Megagroup-Tpl:Message-ID:Subject:Reply-To:From:To:Date:Precedence:List-ID:
+	List-Unsubscribe:X-Megagroup-Service:X-Megagroup-Message-Id;
+	bh=DuzSqvDEiBdGX3ZQpxyfqmk0WDDK4Tx2KcFVxtuK+hA=; b=ldUdh3ige371paQW4dbbFSci4l
+	q9aY/ivdabPyjtPvUej+wKPj7oKgS7CZsISxIcVbN9FaUhaUc0eqO0I3wiCYENFAbwQODyZaUA7Aq
+	z4tu/FA67SRgyoNivHa1e0BQ/D2zMPrADqX68yYlxFGSnACe3+KbCIvzlzXJgGnDVCD1xyGmRV/cj
+	d2dMMVbBLJ9F4zmjI6Ju24kbw+9okhdGKlxiV4rYviiIFtKXzro5D9vaeb6VUCsN2U7ba3gdl81gt
+	kd5WsnqMPcGYCzB8+ruyp3D36LmqcN2IGUj3LUaadLNBmNq2IhJxVZ8Do6uqw2qTiZewPleY73dHm
+	STVXVRfw==;
+Received: from php-master3.k12.site.m ([10.2.44.19]:42812)
+	by relay4.oml.ru with esmtp (Exim 4.93)
+	(envelope-from <noreply@megagroup.ru>)
+	id 1u7r6T-00B7MF-F3
+	for v.p.ankevich@collectorshash.su; Thu, 24 Apr 2025 10:34:37 +0300
+Received: by php-master3.k12.site.m (Postfix, from userid 1000)
+	id 69EB542E8D; Thu, 24 Apr 2025 10:34:37 +0300 (+03)
+Date: Thu, 24 Apr 2025 10:34:37 +0300
+To: v.p.ankevich@collectorshash.su
+From: "info@modernmagic.ru" <noreply@megagroup.ru>
+Reply-To: info@modernmagic.ru
+Subject: =?utf-8?B?0KDQtdCz0LjRgdGC0YDQsNGG0LjRjyDQvdCwINGB0LDQudGC0LUgbW9kZXJu?=
+ =?utf-8?B?bWFnaWMucnU=?=
+Message-ID: <908f74e77bb568efe7003b6a2597db25@php-master3.k12.site.m>
+X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)
+X-Megagroup-Trace: v2354076-tuser_activate_client-o213086709
+X-Megagroup-Tpl: 1425168021
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_908f74e77bb568efe7003b6a2597db25"
+Feedback-ID: noreply@megagroup.ru-v2354076-tuser_activate_client:relay4.oml.ru
+X-Feedback-ID: noreply@megagroup.ru-v2354076-tuser_activate_client:relay4.oml.ru
+
+This is a multi-part message in MIME format.
+
+--b1_908f74e77bb568efe7003b6a2597db25
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+0JLRiyDQt9Cw0YDQtdCz0LjRgdGC0YDQuNGA0L7QstCw0L3RiyDQvdCwINGB0LDQudGC0LU6IG1v
+ZGVybm1hZ2ljLnJ1DQoNCtCb0L7Qs9C40L06IHYucC5hbmtldmljaEBjb2xsZWN0b3JzaGFzaC5z
+dQ0KDQrQn9Cw0YDQvtC70Yw6IHYucC5hbmtldmljaEBjb2xsZWN0b3JzaGFzaC5zdQ0KDQoNCgnQ
+lNC70Y8g0L/QvtC00YLQstC10YDQttC00LXQvdC40Y8g0YDQtdCz0LjRgdGC0YDQsNGG0LjQuCDQ
+v9GA0L7QudC00LjRgtC1LCDQv9C+0LbQsNC70YPQudGB0YLQsCwg0L/QviDRgdGB0YvQu9C60LU6
+DQoJaHR0cHM6Ly9tb2Rlcm5tYWdpYy5ydS9yZWdpc3RyYWNpeWE/bW9kZT1hY3RpdmF0aW9uJmk9
+MjEzMDg2NzA5JmtleT1hYWEzYzk0NmQ5NjlkNDJkODMyZDU3ZThmNjA5OWM5ZmY3OWVjZGY2
+
+
+--b1_908f74e77bb568efe7003b6a2597db25
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+DQrQktGLINC30LDRgNC10LPQuNGB0YLRgNC40YDQvtCy0LDQvdGLINC90LAg0YHQsNC50YLQtTog
+bW9kZXJubWFnaWMucnUNCjxicj4NCtCb0L7Qs9C40L06IHYucC5hbmtldmljaEBjb2xsZWN0b3Jz
+aGFzaC5zdQ0KPGJyPg0K0J/QsNGA0L7Qu9GMOiB2LnAuYW5rZXZpY2hAY29sbGVjdG9yc2hhc2gu
+c3UNCjxicj4NCg0KCdCU0LvRjyDQv9C+0LTRgtCy0LXRgNC20LTQtdC90LjRjyDRgNC10LPQuNGB
+0YLRgNCw0YbQuNC4INC/0YDQvtC50LTQuNGC0LUsINC/0L7QttCw0LvRg9C50YHRgtCwLCDQv9C+
+INGB0YHRi9C70LrQtToNCgk8YSBocmVmPSJodHRwczovL21vZGVybm1hZ2ljLnJ1L3JlZ2lzdHJh
+Y2l5YT9tb2RlPWFjdGl2YXRpb24maT0yMTMwODY3MDkma2V5PWFhYTNjOTQ2ZDk2OWQ0MmQ4MzJk
+NTdlOGY2MDk5YzlmZjc5ZWNkZjYiPmh0dHBzOi8vbW9kZXJubWFnaWMucnUvcmVnaXN0cmFjaXlh
+P21vZGU9YWN0aXZhdGlvbiZpPTIxMzA4NjcwOSZrZXk9YWFhM2M5NDZkOTY5ZDQyZDgzMmQ1N2U4
+ZjYwOTljOWZmNzllY2RmNjwvYT4NCg==
+
+
+
+--b1_908f74e77bb568efe7003b6a2597db25--

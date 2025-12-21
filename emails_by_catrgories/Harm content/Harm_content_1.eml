@@ -1,0 +1,309 @@
+Delivered-To: test@mail.ru
+Return-path: <zoid_762-1325082701-9383338435@pornhub.com>
+Received: from [208.91.206.111] (ident=root)
+	by exim-del-5cb9cdf9d6-58vn7 with local (envelope-from <zoid_762-1325082701-9383338435@pornhub.com>)
+	id 1uOkHx-000000007No-3i5R; Tue, 10 Jun 2025 00:44:17 +0300
+X-Mailru-Noreply: yes
+Received-SPF: pass (exim-mxpdd-fdffd44c-zd2fs: domain of pornhub.com designates 208.91.206.111 as permitted sender) client-ip=208.91.206.111; envelope-from=zoid_762-1325082701-9383338435@pornhub.com; helo=mail1.secureprovide.com;
+Received: from mail1.secureprovide.com ([208.91.206.111]:36889)
+	by exim-mxpdd-fdffd44c-zd2fs with esmtp (envelope-from <zoid_762-1325082701-9383338435@pornhub.com>)
+	id 1uOkHu-00000000Siq-3lVM
+	for bakit@mail.ru; Tue, 10 Jun 2025 00:44:15 +0300
+X-MSFBL: txPR2ZR1Rwcjd2F/QMSHgud6GljJfHzID85roBubPJE=|eyJiIjoic2VjdXJlcHJ
+	vdmlkZV9tczNfMTExIiwidSI6InpvaWRfNzYyLTEzMjUwODI3MDEtOTM4MzMzODQ
+	zNSIsImciOiJzZWN1cmVwcm92aWRlIiwiciI6ImJha2l0QGVkdS5mYS5ydSJ9
+List-Unsubscribe: <mailto:zoid_762-1325082701-9383338435@pornhub.com?subject=Unsubscribe>
+Received: from [208.99.80.139] ([208.99.80.139:24174] helo=pornhub.com)
+	by ded4070 (envelope-from <zoid_762-1325082701-9383338435@pornhub.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id BC/85-18901-DA557486; Mon, 09 Jun 2025 21:44:13 +0000
+Date: Mon, 09 Jun 2025 21:44:13 +0000
+Message-ID: <BC.85.18901.DA557486@ded4070>
+From: Pornhub <noreply@pornhub.com>
+To: bakit@mail.ru
+Subject: 4acd30a wrote something on your stream
+Feedback-ID: 762:securesender
+mail_data: 6mUUGp9XwO%2BXtXMG1ldxwl6vG7OdxUmew83%2F585t%2BUBvfwgJH3bH35OFHViuvOoMPsuX%2BtRYmJDvosVMpkvGpKDFRR%2Fw1zIpA5mbKvtZHrM6xgazWpqEtov1YAzmcOfcImA%2F4AQg0Z0%3D
+zoid_binding: secureprovide_ms3_111
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-----=6a2195fc12398c1b345cb58fb095522b"
+X-Mailru-Src: mxpdd
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499AB25099DBCA2D2CECC5D043F47266ED7DBB239B6EF5F80E710BBDAAE39103F3638701F0628C4B95CBF55E0130F6D0FA46B658C2915D1DD1C31CE73523F0618D7F096CD06A839B9712FEDCCBD3DDE7F493
+X-7FA49CB5: A9FCD207E66530D8A18204E546F3947C5D19C1A866823038E546BADEEE944E86C8A9BA7A39EFB7662668BECDD4E80C2709758206774B3CD2D5E8D9A59859A8B691ED3FF3879F8A7C71492C2D3FF63AF69449624AB7ADAF371372035B18816207277E793F4B08E8847E742751FF950947CEA83A4A5FB14F47BD9CCCA9EDD067B132F17D1A625F2DB94E1E7243831EC1F578DA827A17800CE7E6994782BFEFCBBA6320D30F47244B792668BECDD4E80C2782BFA309970D60C2B287FD4696A6DC2F5F5C1EE8F4F765FC1F8789D36234D406BFD28B28ED4578732EF20D2F80756B5F40A5AABA2AD37119BCF491FFA38154B6D5E8D9A59859A8B63BFED7F2D0475B238F08D7030A58E5ADC58D69EE07B1408453DF159EA87357C20A6AB1C7CE11FEE35C553DABC7664349B3661434B16C20AC508DBCF57D5253891B59CA4C82EFA6583C6B8AAE794E2477E95E150CB2A405C6D68F9DD36EFDD3BF6F9789CCF6C18C3F8528715B7D10C86859CC434672EE6371117882F4460429724CE54428C33FAD305F5C1EE8F4F765FCF1175FABE1C0F9B6A471835C12D1D9774AD6D5ED66289B52BA9C0B312567BB23117882F44604297287769387670735209ECD01F8117BC8BEA471835C12D1D977C4224003CC8364767DFF0A840B692CF8
+X-C1DE0DAB: 0D63561A33F958A57CB20EDC0328A6335002B1117B3ED6968FE3179C4D3B05761BDDAE3D1EA49BEAA016BF2182CC9EFBA132EA92956906CB250ECE3C382DB3F9A71A35648BE338CEED902CAAD3CD6B00BA7CCD254A1CF5E8101A59A81348067D
+X-C8649E89: 1C3962B70DF3F0AD41EC5AFF89B60AA387807E0823442EA28699758F8B23E24113B41CC83C5A8C4FAE07FA4140B39978C6088A57996CFB9C0DC77D903865E45DC17D96CE9B27386AF077FEE427F47D739BD5BE549A62710BC3AFA601D62ABEA3A2EB5867757DD8E54E2DB8694E5A42251C68F66DD3B8F74D34857A812FC2A485F3872CBE5127A2C55AAF1CC6101FE00E9A2E9DCC52523636D6822BE19F9F4DB2FE92D73F4F2388CEB7331C78E9D527B2BD20AB34E976DB0A2ECC8C38951323495DAE1684EAB83E2BAEB56061FBD873057768C8DE430AD357662256BEEFA9527F5EF27F432FEE7FE6B98CFECC6AB49DFBBFF5552090643350887E03476BC5F44CF0B280C38A1325F537FD76D11AF80A0D7752CAC9372F15B7BC6085D08CE80FD9C2A6FC3F6A468C68247453645A027C18A7285BF96B6084FC127C919F8D2F3835D7236DE72E21CAAAE083AA339DC5E8142BD3E44DE9B469C4
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OURs3E5O9HgLbe1f6qYhvLutKFiSd6Yd7yPpbiiZ/d5BXSEUlmOL/u3RgfA1O6uIw3OVb9MUfLubE5+Az6C2ticnsYKKBts4nq2srDw724QfHzcUQFlSUyjBYoz3O3+XqK7Nv61TE6ZvkUgybmAKp3E=
+X-F696D7D5: h7JbfN343jquR4nrruoYuB7qCZMYihstH0bmQpd5XNvz9lCkHnW+QQ==
+X-Magic: 6842231AE7BBE9F5543F41750A8B7FE455488487B06F5B68D8EB4490474FBAA3
+X-Mailru-Noreply: yes
+X-Mras: PROBABLE_SPAM
+X-SRW: DCF1E4C7EA592339989D596DD2948F03B3A0CA16C71764A600CD1DD2D91FF64DE6772CF1604344A3
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mxpdd-fdffd44c-zd2fs: domain of pornhub.com designates 208.91.206.111 as permitted sender) smtp.mailfrom=zoid_762-1325082701-9383338435@pornhub.com smtp.helo=mail1.secureprovide.com;
+	 dkim=pass header.d=pornhub.com; dmarc=pass header.from=noreply@pornhub.com
+X-Mailru-Intl-Transport: d,5fa8546
+
+-------=6a2195fc12398c1b345cb58fb095522b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello 239cfc2,
+
+4acd30a wrote something on your stream!
+
+Read Stream Posthttps://www.pornhub.com/users/239cfc2/post/stream_posts_gif=
+s/150879261
+This email sent from Pornhub.com to bakit@mail.ru
+To control emails from Pornhub adjust your Email Preferenceshttps://www.por=
+nhub.com/user/prefs
+Unsubscribe to no longer receive this type of emailhttps://clk.secureprovid=
+e1.com/index.php?a=3Dtracking.unsubscribe&d=3D6mUUGp9XwO%2BXtXMG1ldxwl6vG7O=
+dxUmew83%2F585t%2BUBvfwgJH3bH35OFHViuvOoMPsuX%2BtRYmJDvosVMpkvGpKDFRR%2Fw1z=
+IpA5mbKvtZHrM6xgazWpqEtov1YAzmcOfcImA%2F4AQg0Z0%3D
+
+
+-------=6a2195fc12398c1b345cb58fb095522b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html style=3D"background: #f4f4f4 !important;">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+    <title>Pornhub</title>
+    <style type=3D"text/css">
+        /* Client-specific Styles */
+        #outlook a{padding:0;} /* Force Outlook to provide a "view in brows=
+er" button. */
+        body{width:550px !important;} .ReadMsgBody{width:550px;} .ExternalC=
+lass{width:550px;} /* Force Hotmail to display emails at full width */
+        body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms fr=
+om changing default text sizes. */
+
+        /* Reset Styles */
+        body{margin:0; padding:0;}
+        img{border:0; height:auto; line-height:100%; outline:none; text-dec=
+oration:none;}
+        table td{border-collapse:collapse; margin: 0; padding:0; }
+        table tr{border-collapse:collapse; margin: 0; padding:0; }
+        #templateContainer{height:100% !important; margin:0; padding:0; }
+    </style>
+</head>
+<body>
+
+<!-- BEGIN BACKGROUND TABLE -->
+
+<table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" data-mobile=3D"true" dir=3D"ltr" data-width=3D"550" style=3D"f=
+ont-size: 20px; background-image: none; background-color: #f4f4f4;">
+    <tbody><tr><td align=3D"center" valign=3D"top">
+
+=09=09<!-- BEGIN CONTAINER TABLE -->
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"55=
+0" id=3D"templateContainer" style=3D"background: #f4f4f4; font-family:Arial=
+;" align=3D"center" bgcolor=3D"f4f4f4">
+
+            <!-- BEGIN EMAIL HEADER -->
+            <tr>
+                <table width=3D"550" border=3D"0" style=3D"center top no-re=
+peat;" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" class=3D"table"=
+ bgcolor=3D"f4f4f4">
+
+                <table width=3D"550" border=3D"0" style=3D"center top no-re=
+peat;" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" class=3D"table"=
+ bgcolor=3D"f4f4f4">
+                    <tr>
+                        <td align=3D"center" height=3D"20"> </td>
+                    </tr>
+                    <tr>
+                        <td align=3D"center" style=3D"display:block; color:=
+#000000; font-size:24pt; font-family: Arial;">
+                            <img src=3D"https://ds.phncdn.com/misc/email/ph=
+/ph-logo.png" id=3D"headerImage" width=3D"" height=3D"" border=3D"0" style=
+=3D"display:block;" alt=3D"Pornhub" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align=3D"center" height=3D"20"> </td>
+                    </tr>
+                </table>
+
+                </table>
+            </tr>
+            <!-- END EMAIL HEADER -->
+
+            <!-- BEGIN MAIN BODY CONTENT -->
+            <tr>
+                <table width=3D"550" border=3D"0" style=3D"center top no-re=
+peat;" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" class=3D"table"=
+ bgcolor=3D"ffffff">
+
+                    <tr>
+                        <td align=3D"center" height=3D"25"> </td>
+                    </tr>
+
+                    <tr>
+                        <td align=3D"left" style=3D"display:block; color:#f=
+fffff; font-size:18pt; margin-top:0px; padding-left:25px; padding-right:25p=
+x; margin-bottom:0px; ">
+                            <p style=3D"color:#000000; font-family: Arial; =
+font-size:18px; margin-top:0px; margin-bottom:0px; ">
+                                Hello 239cfc2,
+                                <br/><br/><a style=3D"color: #ff9900; text-=
+decoration: none;" href=3D"https://clk.secureprovide1.com/index.php?a=3Dtra=
+cking.click&d=3DEPPonAZsqqadbM6qxaAj3ay0YKJDklIcCmrgYuX1guhTRxOuOIMG1tcypmG=
+MTehJis0JaTe3U6YYb5YMgJF0O9pXw2g4AAYFa84aeKFfuIRY1r%2BBQM5TxhxXt68dZ2JR52cI=
+z6WisKQBXvpTmCw%2B6700Xao4jvEtzS3vlwFBq%2FHdJ%2FvO1RbealEUno9aNw15KczJ3hpqS=
+vMmBL5uQXlOagvdrNMa6CIBd%2Fn6RHiPgDM%3D">4acd30a</a> wrote something on you=
+r stream!
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td align=3D"center" height=3D"25"> </td>
+                    </tr>
+
+                    <!-- BEGIN BUTTON ROW -->
+                    <tr>
+                        <td align=3D"left" style=3D"display:block; color:#f=
+fffff; font-size:18pt; margin-top:0px; padding-left:25px; padding-right:25p=
+x; margin-bottom:0px; ">
+                            <table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+                                <tr>
+                                    <td>
+                                        <table align=3D"center" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0">
+                                            <tr>
+                                                <td>
+                                                    <a href=3D"https://clk.=
+secureprovide1.com/index.php?a=3Dtracking.click&d=3DPcDPzFNk%2FUTYwYT8%2FiB=
+tjjnTfCy4ZRsuMeDF1nIxM%2F550Y3TcsRKXoKKV0LdzJsl19yNztx%2BBCUAbF9jb530Y%2B1R=
+8L3GD2KZ6HYubY6Sd0%2FgCYr%2BUirPo4ZUq9Q7%2BVltZUFJNs5JnVjvkLxmLj0IW0zjMTCBq=
+SM0L8IUC%2FzwqUPNKNk%2BJcr5yHoemigy7QOlXWEujaTmif8jwe5PnySU2Ss3QHdQknr8z%2B=
+GjD1FLWIsP%2BcIuv4InPavCwN0fYCEvXcX7Ws2cV2o%3D" target=3D"_blank" style=3D"=
+font-size: 20px; font-family: Helvetica, Arial, sans-serif; color: #ffffff;=
+ text-decoration: none; border-radius: 3px; -webkit-border-radius: 3px; -mo=
+z-border-radius: 3px; background-color: #FF9900; border-top: 15px solid #FF=
+9900; border-bottom: 15px solid #FF9900; border-right: 30px solid #FF9900; =
+border-left: 30px solid #FF9900; display: inline-block;">
+                                                    Read Stream Post</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- END BUTTON ROW -->
+
+                    <tr>
+                        <td align=3D"center" height=3D"25"> </td>
+                    </tr>
+
+                    <!-- FOOTER BEGIN -->
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"550" id=3D"templateFooter" style=3D"background: #f4f4f4; font-fam=
+ily:Arial;" align=3D"center">
+                        <tr>
+                            <td align=3D"center" height=3D"25"> </td>
+                        </tr>
+
+                        <tr>
+                            <td align=3D"center" style=3D"display:block; co=
+lor:#ffffff; font-size:13pt; margin-top:0px; padding-left:25px; padding-rig=
+ht:25px; margin-bottom:0px; ">
+
+                                <p style=3D"color:#808080; font-family: Ari=
+al; font-size:13px; margin-top:0px; margin-bottom:0px; ">
+
+                                    <!-- LANGUAGE START -->
+                                    <a href=3D"https://clk.secureprovide1.c=
+om/index.php?a=3Dtracking.click&d=3DqAksPJb7mP4F8T%2FwaLUctHskwlzLu3XCak1Ni=
+a09KHi3X81KyZP2%2BFl%2F4TxBGJsCSi0xmHCOaOp8ERyVc7hYg6Pp9Vb8yJ72L%2BRJS3%2Fa=
+IaMZuO2Wth3xs0jjiCgC5o6VWDZGC3ek%2BUNBjEx3%2BuRS%2FkbYFwNEf7E4TVSeqPoTdVWmT=
+nmXuajJ6xvfrU2qu7Wp50MK6BUTJvYOwDdjLN66ct5CqXIGn7EA4UDwbdT0BMc%3D" target=
+=3D"_blank" style=3D"font-size: 14px; font-family: Helvetica, Arial, sans-s=
+erif; color: #ffffff; text-decoration: none; border-radius: 3px; -webkit-bo=
+rder-radius: 3px; -moz-border-radius: 3px; background-color: #FF9900; borde=
+r-top: 2px solid #FF9900; border-bottom: 2px solid #FF9900; border-right: 3=
+px solid #FF9900; border-left: 5px solid #FF9900; display: inline-block;">
+                                    English =E2=96=BC</a>
+                                    Change Language:
+                                    <a style=3D"color: #808080; text-decora=
+tion:underline; white-space:nowrap;" href=3D"https://clk.secureprovide1.com=
+/index.php?a=3Dtracking.click&d=3Dzig%2FrR9Rc3Fr2sFxBV7svFj2kKCulBKd8xpjPQc=
+iNNVUgw9DVIy%2BlckWAGSHhVDhUusxeggnWbzD6rR8nlb9fttsqoiBUslWTlqh3KWG4%2BICpG=
+DnVTmC3CRvUwue7xfoCkt2IVCeQ5vTVf7RG2E7w87N1buL42PtQoO0gYOyXzAu0iBD%2B%2BsKZ=
+AZtuc%2B%2FgBg3ovo93f%2FZ4URYkn5mDJTrvlRzUxe5%2BfgEQGdJi4E7X%2Fk%3D">Select=
+ Email Language</a>
+                                    <br/><br/>
+                                    <!-- LANGUAGE END -->
+
+                                    This email sent from Pornhub.com to <a =
+style=3D"color:#808080; text-decoration:none;" target=3D"_blank" href=3D"ba=
+kit@mail.ru">bakit@mail.ru</a>
+                                    <br/>To control emails from Pornhub adj=
+ust your <a href=3D"https://www.pornhub.com/user/prefs" target=3D"_blank" s=
+tyle=3D"color:#808080; text-decoration:underline;">Email Preferences</a>
+                                    <br/><a href=3D"https://clk.secureprovi=
+de1.com/index.php?a=3Dtracking.unsubscribe&d=3D6mUUGp9XwO%2BXtXMG1ldxwl6vG7=
+OdxUmew83%2F585t%2BUBvfwgJH3bH35OFHViuvOoMPsuX%2BtRYmJDvosVMpkvGpKDFRR%2Fw1=
+zIpA5mbKvtZHrM6xgazWpqEtov1YAzmcOfcImA%2F4AQg0Z0%3D" target=3D"_blank" styl=
+e=3D"color:#808080;text-decoration:underline;">Unsubscribe</a> to no longer=
+ receive this type of email                                    <br/><br/>
+                                    <a style=3D"color:#808080; text-decorat=
+ion:underline;" target=3D"_blank" href=3D"https://www.pornhub.com/blog">Por=
+nhub Blog</a>
+                                    =C2=A0 | =C2=A0
+                                    <a style=3D"color:#808080; text-decorat=
+ion:underline;" target=3D"_blank" href=3D"https://www.twitter.com/pornhub">=
+Pornhub Twitter</a>
+                                    =C2=A0 | =C2=A0
+                                    <a style=3D"color:#808080; text-decorat=
+ion:underline;" target=3D"_blank" href=3D"https://www.pornhub.com/informati=
+on/privacy">Privacy Policy</a>
+                                    =C2=A0 | =C2=A0
+                                    <a style=3D"color:#808080; text-decorat=
+ion:underline; white-space:nowrap;" target=3D"_blank" href=3D"https://www.p=
+ornhub.com/support">Contact Support</a>
+                                </p>
+                                <br/>
+                                <p style=3D"color:#808080; font-family: Ari=
+al; font-size:11px; margin-top:0px; margin-bottom:0px; ">
+                                    Aylo Freesites Ltd., 195-197 Old Nicosi=
+a-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540
+                                </p>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td align=3D"center" height=3D"25"> </td>
+                        </tr>
+                    </table>
+                    <!-- FOOTER END -->
+
+                    <!-- END MAIN BODY CONTENT -->
+                </table>
+            </tr>
+
+            <!-- END CONTAINER TABLE -->
+        </table>
+
+        <!-- END BACKGROUND TABLE -->
+    </td></tr></tbody>
+</table>
+<img width=3D"10" height=3D"10" src=3D"https://clk.secureprovide1.com/index=
+.php?a=3Dtracking.open&d=3DrEVmlgU8XiJk6BqEFt49eEko9i0AlMcz1CmmBBRXLi1%2BJu=
+57LfkKQcnWmHtYTxsMYhl4IC7Hb2oW6DzjqgehzwAB0FeHPJpLRo4HtsWSmKdyPaCsCx0%2FjiH=
+LiQDv4mZYgAEBVaZkKFY%3D"/></body></html>
+
+-------=6a2195fc12398c1b345cb58fb095522b--
+

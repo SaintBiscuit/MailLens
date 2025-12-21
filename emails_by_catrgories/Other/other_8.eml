@@ -1,0 +1,426 @@
+Delivered-To: test@mail.ru
+Return-path: <bounce.9be61e00040000009809060b@s1.mbx-sender-01.ru>
+Received-SPF: pass (exim-mx-ccccbfbf-xqpjz: domain of s1.mbx-sender-01.ru designates 193.243.174.164 as permitted sender) client-ip=193.243.174.164; envelope-from=bounce.9be61e00040000009809060b@s1.mbx-sender-01.ru; helo=s1.mbx-sender-01.ru;
+Received: from s1.mbx-sender-01.ru ([193.243.174.164]:47582)
+	by exim-mx-ccccbfbf-xqpjz with esmtp (envelope-from <bounce.9be61e00040000009809060b@s1.mbx-sender-01.ru>)
+	id 1vJQqV-00000000OeK-1Hxt
+	for test@mail.ru; Thu, 13 Nov 2025 09:30:15 +0300
+Content-Type: text/html;
+ charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Date: Thu, 13 Nov 2025 06:30:14 +0000
+Message-ID: <9be61e00040000009809060b@s1.mbx-sender-01.ru>
+Subject: =?utf-8?B?0JLRiyDQt9Cw0L/QuNGB0LDQvdGLINC90LAg0L7RgtC60YDRi9GC0Ys=?=
+ =?utf-8?B?0Lkg0YPRgNC+0Loh?=
+From: =?utf-8?B?T1RVUy4g0J7QvdC70LDQudC9LdC+0LHRgNCw0LfQvtCy0LDQvdC40LU=?= <info@email.otus.ru>
+To: <test@mail.ru>
+Reply-To: =?utf-8?B?T1RVUy4g0J7QvdC70LDQudC9LdC+0LHRgNCw0LfQvtCy0LDQvdC40LU=?= <info@email.otus.ru>
+Precedence: bulk
+X-xsMessageId: 9be61e00040000009809060b
+X-xsMailingId: 2025115
+X-Mailru-Msgtype: 2025115
+List-ID: <batch2025115.list-id.email.otus.ru>
+Feedback-ID: 2025115:12452:mindbox
+X-Mailer: mindbox.ru
+List-Unsubscribe: <mailto:lu.9be61e00040000009809060b@list-unsubscribe-stable.mindbox.ru>, <https://tn-sky.mckx.ru/ocu/m-YeAAQAAACYCQYL>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=email.otus.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=A5X/R2GtiiABXaWmFpuSdBEkFdRSCrlLSjnXZ10S6bs=;
+ b=2MvKj0+vHHkN7FR2N1rFU0U2ffJy6p8M0Tz18RR3VNpzC8y8TWLv+rjAnF2KNcdMzD+j7T4t2NcQBu3H5W50K7Z4muYRmcpdBtefRDloytmtlW7zxMRpb5bGqEcdvSXdtmfBm2sT4tkoDBxVqyIF3E37VYc17Bwg7f1owYqhoJU=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=s1.mbx-sender-01.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=A5X/R2GtiiABXaWmFpuSdBEkFdRSCrlLSjnXZ10S6bs=;
+ b=dn++cTLgtf6i2xMw4+Wnd9g/naE4RlOyjrddMYdMMVXlBb0y0RX0vWpn1spdEVTVpLVu3dIVesU9fGzPNhwk3FBzzCC7SchAKqKnpTYFbC8T6qEgiSBaeGjMyHGOG9PRLQ6dWBkyv+/UOvnB4bJSIo0G7JrZ+402Nz+jyTtgd44=
+X-Mailru-Src: mx
+X-174C08C4: 5188C02AEC42908CA6948A72021C24DE96BBA28369E3F2D27AFD5336C5A2E4A0BCF678C7329BA986
+X-4EC0790: 10
+X-6b629377: 1
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499A6C6F5BA1281650A2D812EB8DBBA5822DC3C8DA33A09204300BBDAAE39103F3638701F0628C4B95CBFB358ACD0C9FDC439805F036138DF2B2541E5E97ED86C28D9BB5A9E6BDBF9844FEDCCBD3DDE7F493
+X-7FA49CB5: FF5795518A3D127A4AD6D5ED66289B5278DA827A17800CE7811C3E343B302E2EEA1F7E6F0F101C67BD4B6F7A4D31EC0BCC500DACC3FED6E28638F802B75D45FF8AA50765F790063770BCEBC9193A33448638F802B75D45FF914D58D5BE9E6BC1A93B80C6DEB9DEE97C6FB206A91F05B259F06DAE981CCB062E070BE324C7D3C41B429DF87CECF9D7F6B57BC7E64490618DEB871D839B73339E8FC8737B5C22498424CA1AAF98A6958941B15DA834481FCF19DD082D7633A0EF3E4896CB9E6436389733CBF5DBD5E9D5E8D9A59859A8B68424CA1AAF98A6958941B15DA834481F9449624AB7ADAF37520BB28E76B93C0993EC92FD9297F6718AA50765F7900637529967F4B9EC00849C1989B85EA75BBD2EF20D2F80756B5F67A0E196DC694B51520BB28E76B93C092DBA43225CD8A89FAC8605B231E809878384D02A0897AA0237578E637FB275F4AB97B39BE83A5FF4CB5012B2E24CD356
+X-C1DE0DAB: 0D63561A33F958A5A44BD3E7BD66155A5002B1117B3ED696374B1F5210FF24E119AC5B239BAD4335277AA237ED671D4372AF3B35EA4094CCB861051D4BA689FC9C5DF10A05D560A9D2B5782620B851B7C8C84E951CD0BE2F58C12E6D310A6D5322651ADD0554E206A71A35648BE338CEED902CAAD3CD6B00BA7CCD254A1CF5E822F1126AC028CC48638A446BE3E5C627BF0CFE790FC11A72BA7CCD254A1CF5E898FC9E4466441A027CDA689C54079AF113D920A87098A3ED2E763F503762DF50F9B15EA09876ED18088AEFE095676FE0111F93E371B791A05E36EC0954C3E50C48D6E36740CB9E90
+X-C8649E89: 1C3962B70DF3F0ADE7E53542E5811AC4221D93EE93388A13AEF8CC3D8BA37ADB0776B5B2C279835F17BCBE6708A5A68D02015372BE9702A2114E597FC944CB23599EA94C89DE4C3AE58D99AF361B70A24D085E329476697D19612CEDA120E25A38177F7FC89B4AD86DD8C0277C01DD69EB80DAF810D252C6CD79FFE4E1ACFE4ECAACD699CDC6F98202C26D483E81D6BE24003F9B82CC0DD231A5D720848ABB8D9F5C8E7D61E90F26
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OfZ0vNcMxcDrfOQpxYwmE7vQD3UB9D76Zz+as/Gjtpo0vaO7KSycqTS2BrL1CsEIyo+YZGhNlNshhEF1PvRNA/skcW4yaQ06LvFX+FmbwDW1sNQ1TLlf/70=
+X-F696D7D5: LwDnx7U7JB1KD2oU+mBvrIFqgwAqeo+zPkw1t9ewF73vatARb1IrmxYavM/6mx+t
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=info@email.otus.ru
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mx-ccccbfbf-xqpjz: domain of s1.mbx-sender-01.ru designates 193.243.174.164 as permitted sender) smtp.mailfrom=bounce.9be61e00040000009809060b@s1.mbx-sender-01.ru smtp.helo=s1.mbx-sender-01.ru;
+	 dkim=pass header.d=email.otus.ru;
+	 dkim=pass header.d=s1.mbx-sender-01.ru; dmarc=pass header.from=info@email.otus.ru
+X-Mailru-Intl-Transport: d,2affdb9
+
+<!DOCTYPE html> <html> <head> <meta charset=3D"utf-8" /> <meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /> <meta name=3D"v=
+iewport" content=3D"width=3D400" /> <title>m_auto_all_regol</title>  <link =
+rel=3D"shortcut icon" href=3D"https://tilda.ws/img/tildafavicon.ico" /> <st=
+yle type=3D"text/css"> =0A=0A		.ExternalClass {width:100%;}=0A		=0A		img{=
+=0A		  border:0 none;=0A		  height:auto;=0A		  line-height:100%;=0A		  outl=
+ine:none;=0A		  text-decoration:none;=0A		  -ms-interpolation-mode: bicubic=
+;=0A		}=0A		=0A		a img{=0A		  border:0 none;=0A		}=0A		=0A		#outlook a {pad=
+ding:0;}=0A				=0A		#allrecords{=0A		  height:100% !important;=0A		  margin=
+:0;=0A		  padding:0;=0A		  width:100% !important;=0A		  -webkit-font-smooth=
+ing: antialiased;=0A		  line-height: 1.45;=0A		}=0A=0A		#allrecords td{=0A	=
+	  margin:0;=0A		  padding:0;=0A		}=0A		=0A		#allrecords ul{-webkit-padding=
+-start:30px;}=0A				#allrecords a{color:#1081b1;text-decoration: none;}=0A	=
+			=0A		.t-records ol,=0A		.t-records ul{=0A			padding-left: 20px;=0A			mar=
+gin-top: 0px;=0A			margin-bottom: 10px;=0A		}=0A				=0A		@media only screen=
+ and (max-width: 600px) {=0A		  .r{=0A		  	width:100% !important;=0A		  	mi=
+n-width:400px !important;=0A		  	margin-top: -1px !important;=0A=0A		  }=0A=
+		}		=0A		=0A		@media only screen and (max-width: 480px) {=0A		  .t-emailBl=
+ock {=0A		    display: block !important;=0A		    padding-left: 0 !important=
+;=0A		    padding-right: 0 !important;=0A		    width: 100% !important;=0A		=
+  }=0A		=0A		  .t-emailBlockPadding {=0A		    padding-top: 15px !important;=
+=0A		  }=0A=0A		  .t-emailBlockPadding30 {=0A		    padding-top: 30px !impor=
+tant;=0A		  }		  =0A		  =0A		  .t-emailAlignLeft {=0A		    text-align: left=
+ !important;=0A		    margin-left: 0 !important;=0A		  }=0A		=0A		  .t-email=
+AlignCenter {=0A		    text-align: center !important;=0A		    margin-left: a=
+uto !important;=0A		    margin-right: auto !important;=0A		  }		  =0A		}=0A=
+=0A		=0A		=0A	</style> </head> <body cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"padding: 0; margin: 0; border: 0; width:100%; -webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; background-color: #191a1c;"><!--[if !ms=
+o]><!-->=0A<div style=3D"display:none; visibility:hidden; opacity:0; height=
+:0; width:0; overflow:hidden; mso-hides:all;">=0A	=D0=A1=D1=81=D1=8B=D0=BB=
+=D0=BA=D1=83 =D0=BD=D0=B0 =D1=82=D1=80=D0=B0=D0=BD=D1=81=D0=BB=D1=8F=D1=86=
+=D0=B8=D1=8E =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BC =D0=BE=D1=82=
+=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=BC =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=
+=D0=BE=D0=BC =D0=B8  =D0=BF=D1=80=D0=BE=D0=B4=D1=83=D0=B1=D0=BB=D0=B8=D1=80=
+=D1=83=D0=B5=D0=BC =D0=B2 =D1=81=D0=BC=D1=81 =D0=B7=D0=B0 =D0=BD=D0=B5=D1=
+=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BC=D0=B8=D0=BD=D1=83=D1=82 =D0=
+=B4=D0=BE =D1=81=D1=82=D0=B0=D1=80=D1=82=D0=B0=0A	&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;<vk-snippet-end/>=0A</div=
+>=0A<!--<![endif]--> <!--allrecords--> <table id=3D"allrecords" class=3D"t-=
+records" data-tilda-email=3D"yes" data-tilda-project-id=3D"7657338" data-ti=
+lda-page-id=3D"62736161" data-tilda-page-alias=3D"" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"width:100%; border-collapse:collapse; border-spacing:=
+0; padding:0; margin:0; border:0;"> <tr> <td style=3D"background-color: #19=
+1a1c; "> <!--record_mail--> <table id=3D"rec862183886" style=3D"width:100%;=
+ border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpaddi=
+ng=3D"0" cellspacing=3D"0" data-record-type=3D"624"> <tr> <td style=3D"padd=
+ing-left:15px; padding-right:15px; "> <table id=3D"recin862183886" class=3D=
+"r" style=3D"margin: 0 auto;border-spacing: 0;width:600px;" align=3D"center=
+"><tr><td style=3D"padding-top:30px;padding-bottom:30px;padding-left:0;padd=
+ing-right:0;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%"> <tr> <td class=3D"" valign=3D"middle" style=3D"text-align: left=
+; padding-right: 10px; width: 50%;"> <table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%"> <tr> <td width=3D"150px"> <img width=3D"1=
+50" style=3D"display: block; width: 150px;" src=3D"https://email-images.min=
+dbox.ru/0760cea1-84c8-46c0-b73c-a3a3556976d2/6.png"> </td> <td style=3D"tex=
+t-align: left; padding-left: 18px;"> <div style=3D"font-weight: normal; fon=
+t-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#fafafa;font-=
+size:16px;"> </div> </td> </tr> </table> </td> <td class=3D"" valign=3D"mid=
+dle" style=3D"text-align: right; padding-left: 10px; width: 50%;"> </td> </=
+tr> </table></td></tr></table> </td> </tr> </table> <!--/record--> <!--reco=
+rd_mail--> <table id=3D"rec862183887" style=3D"width:100%; border-collapse:=
+collapse; border-spacing:0; margin:0; border:0;" cellpadding=3D"0" cellspac=
+ing=3D"0" data-record-type=3D"322"> <tr> <td style=3D"padding-left:15px; pa=
+dding-right:15px; "> <table id=3D"recin862183887" class=3D"r" style=3D"marg=
+in: 0 auto;border-spacing: 0;width:600px;" align=3D"center"><tr><td style=
+=3D"padding-top:0px;padding-bottom:0px;padding-left:0;padding-right:0;"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"width:100%;"> <tr> <td style=3D"width:100%; text-align: center;"> <img =
+width=3D"600" align=3D"center" style=3D"display: block; width: 100%; height=
+: auto;" src=3D"https://email-images.mindbox.ru/bc1e106a-1545-47b2-9d48-2fb=
+adeec4257/3.png" imgfield=3D"img"> </td> </tr> </table> </td></tr></table> =
+</td> </tr> </table> <!--/record--> <!--record_mail--> <table id=3D"rec8621=
+85463" style=3D"width:100%; border-collapse:collapse; border-spacing:0; mar=
+gin:0; border:0;" cellpadding=3D"0" cellspacing=3D"0" data-record-type=3D"6=
+45"> <tr> <td style=3D"padding-left:15px; padding-right:15px; "> <table id=
+=3D"recin862185463" class=3D"r" style=3D"margin: 0 auto;background-color:#2=
+42424;border-spacing: 0;width:600px;" align=3D"center"><tr><td style=3D"pad=
+ding-top:15px;padding-bottom:30px;padding-left:30px;padding-right:30px;"> <=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"margin-right: auto;table-layout: fixed;"> <tr> <td style=3D"text-align:=
+ left; padding: 0px 0 0px;"> <div style=3D"margin-right: auto; font-weight:=
+ normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#=
+fafafa;font-size:22px;line-height:1.3;padding-top:0px;padding-bottom:0px; p=
+adding:0;">=D0=9F=D1=80=D0=B8=D0=B2=D0=B5=D1=82, =D0=90=D0=BD=D0=BD=D0=B0! =
+</div> </td> </tr> <tr> <td style=3D"text-align: left; padding: 16px 0 10px=
+;"> <div style=3D"margin-right: auto; font-weight: normal; font-family: Hel=
+vetica Neue, Helvetica, Arial, sans-serif; color:#fafafa;font-size:20px;lin=
+e-height:1.7;padding-bottom:10px; padding:0;">=D0=92=D1=8B&nbsp;=D1=83=D1=
+=81=D0=BF=D0=B5=D1=88=D0=BD=D0=BE =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D0=
+=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0&nbsp;=D0=BE=D1=82=D0=BA=D1=80=D1=8B=D1=
+=82=D1=8B=D0=B9 =D1=83=D1=80=D0=BE=D0=BA  =C2=AB=D0=90=D1=82=D0=B0=D0=BA=D0=
+=B8 =D0=BD=D0=B0 =D0=9E=D0=A1 Windows=C2=BB. =D0=A1=D1=81=D1=8B=D0=BB=D0=BA=
+=D1=83 =D0=BD=D0=B0&nbsp;=D1=82=D1=80=D0=B0=D0=BD=D1=81=D0=BB=D1=8F=D1=86=
+=D0=B8=D1=8E =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BC =D0=BE=D1=82=
+=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=BC =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=
+=D0=BE=D0=BC (=D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D0=BE =D0=BF=D0=BE=D1=8F=D0=B2=
+=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B7=D0=B0 1 =D1=87=D0=B0=D1=81 =D0=
+=BF=D0=B5=D1=80=D0=B5=D0=B4 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=BC) =D0=B8 =
+=D0=BF=D1=80=D0=BE=D0=B4=D1=83=D0=B1=D0=BB=D0=B8=D1=80=D1=83=D0=B5=D0=BC =
+=D0=B2 =D1=81=D0=BC=D1=81 =D0=B7=D0=B0 =D0=BD=D0=B5=D1=81=D0=BA=D0=BE=D0=BB=
+=D1=8C=D0=BA=D0=BE =D0=BC=D0=B8=D0=BD=D1=83=D1=82 =D0=B4=D0=BE =D1=81=D1=82=
+=D0=B0=D1=80=D1=82=D0=B0.</div> </td> </tr> </table></td></tr></table> </td=
+> </tr> </table> <!--/record--> <!--record_mail--> <table id=3D"rec86219146=
+9" style=3D"width:100%; border-collapse:collapse; border-spacing:0; margin:=
+0; border:0;" cellpadding=3D"0" cellspacing=3D"0" data-record-type=3D"645">=
+ <tr> <td style=3D"padding-left:15px; padding-right:15px; "> <table id=3D"r=
+ecin862191469" class=3D"r" style=3D"margin: 0 auto;background-color:#242424=
+;border-spacing: 0;width:600px;" align=3D"center"><tr><td style=3D"padding-=
+top:15px;padding-bottom:30px;padding-left:30px;padding-right:30px;"> <table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"m=
+argin-right: auto;table-layout: fixed;"> <tr> <td style=3D"text-align: left=
+; padding: 16px 0 10px;"> <div style=3D"margin-right: auto; font-weight: no=
+rmal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#faf=
+afa;font-size:20px;line-height:1.7;padding-bottom:10px; padding:0;">=D0=9E=
+=D1=82=D0=BA=D1=80=D1=8B=D1=82=D1=8B=D0=B5 =D1=83=D1=80=D0=BE=D0=BA=D0=B8 =
+=D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D1=8F=D1=82 =D0=BF=D1=80=D0=B5=D0=BF=
+=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B8 O=EF=BB=BFTUS. =D0=
+=AD=D1=82=D0=BE =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=BD=D0=B0=D1=8F =D0=B2=D0=
+=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D1=83=D0=B2=D0=
+=B8=D0=B4=D0=B5=D1=82=D1=8C, =D0=BA=D0=B0=D0=BA =D1=81=D1=82=D1=80=D0=BE=D0=
+=B8=D1=82=D1=81=D1=8F =D0=BE=D0=B1=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=
+=B7=D0=B0=D0=B4=D0=B0=D1=82=D1=8C =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=
+=8B =D0=B8 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BE=D0=B1=D1=
+=80=D0=B0=D1=82=D0=BD=D1=83=D1=8E =D1=81=D0=B2=D1=8F=D0=B7=D1=8C =D0=BE=D1=
+=82 =D1=8D=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=D0=BE=D0=B2.</div> </td> </t=
+r> <tr> <td style=3D"padding: 24px 0 0"> <table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"margin-right: auto;" align=3D"left"> <tr> <t=
+d> <!--[if mso]> <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xml=
+ns:w=3D"urn:schemas-microsoft-com:office:word"=0Ahref=3D"https://otus.ru/ev=
+ents/near/" style=3D"height:52px;v-text-anchor:middle;mso-wrap-style:none;m=
+so-position-horizontal:center;"=0Aarcsize=3D"45%" stroke=3D"f"=0Afillcolor=
+=3D"#005ece"> <w:anchorlock/> <center style=3D"text-decoration: none; paddi=
+ng: 15px 30px; font-size: 15px; text-align: center; font-weight: bold; font=
+-family:Helvetica Neue, Helvetica, Arial, sans-serif; width: 100%;color:#ff=
+ffff;">=0A=D0=9A=D0=90=D0=9B=D0=95=D0=9D=D0=94=D0=90=D0=A0=D0=AC =D0=92=D0=
+=A1=D0=95=D0=A5 =D0=9C=D0=95=D0=A0=D0=9E=D0=9F=D0=A0=D0=98=D0=AF=D0=A2=D0=
+=98=D0=99=0A</center> </v:roundrect> <![endif]--> <!--[if !mso]--> <a style=
+=3D"display: table-cell; text-decoration: none; padding: 15px 30px; font-si=
+ze: 15px; text-align: center; font-weight: bold; font-family:Helvetica Neue=
+, Helvetica, Arial, sans-serif; width: 100%;color:#ffffff; background-color=
+:#005ece; border-radius: 15px;"=0Ahref=3D"https://tn-sky.mckx.ru/c/m-YeAAQA=
+AACYCQYL/aJGPBg/aZ-byVjkvbn6C-kE/?u=3Dhttps%3A%2F%2Fotus.ru%2Fevents%2Fnear=
+%2F%3Futm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dchain%26utm_=
+content%3Dauto%26utm_term%3Dregol">=0A=D0=9A=D0=90=D0=9B=D0=95=D0=9D=D0=94=
+=D0=90=D0=A0=D0=AC =D0=92=D0=A1=D0=95=D0=A5 =D0=9C=D0=95=D0=A0=D0=9E=D0=9F=
+=D0=A0=D0=98=D0=AF=D0=A2=D0=98=D0=99=0A</a> <!--[endif]--> </td> </tr> </ta=
+ble> </td> </tr> </table></td></tr></table> </td> </tr> </table> <!--/recor=
+d--> <!--record_mail--> <table id=3D"rec862183899" style=3D"width:100%; bor=
+der-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding=
+=3D"0" cellspacing=3D"0" data-record-type=3D"322"> <tr> <td style=3D"paddin=
+g-left:15px; padding-right:15px; "> <table id=3D"recin862183899" class=3D"r=
+" style=3D"margin: 0 auto;border-spacing: 0;width:600px;" align=3D"center">=
+<tr><td style=3D"padding-top:0px;padding-bottom:0px;padding-left:0;padding-=
+right:0;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"width:100%;"> <tr> <td style=3D"width:100%; text-align: cent=
+er;"> <img width=3D"600" align=3D"center" style=3D"display: block; width: 1=
+00%; height: auto;" src=3D"https://email-images.mindbox.ru/c8ac98cc-6289-48=
+74-9e15-e88fb44aea43/5.png" imgfield=3D"img"> </td> </tr> </table> </td></t=
+r></table> </td> </tr> </table> <!--/record--> <!--record_mail--> <table id=
+=3D"rec862183900" style=3D"width:100%; border-collapse:collapse; border-spa=
+cing:0; margin:0; border:0;" cellpadding=3D"0" cellspacing=3D"0" data-recor=
+d-type=3D"645"> <tr> <td style=3D"padding-left:15px; padding-right:15px; ">=
+ <table id=3D"recin862183900" class=3D"r" style=3D"margin: 0 auto;backgroun=
+d-color:#191a1c;border-spacing: 0;width:600px;" align=3D"center"><tr><td st=
+yle=3D"padding-top:45px;padding-bottom:0px;padding-left:30px;padding-right:=
+30px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" style=3D"margin-right: auto;table-layout: fixed;"> <tr> <td style=3D"te=
+xt-align: left; padding: 15px 0 0;"> <div style=3D"margin-right: auto; font=
+-weight: normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;=
+ color:#a6a6a6;font-size:24px;line-height:1.3; padding:0;">=D0=95=D1=81=D1=
+=82=D1=8C =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81?</div> </td> </tr> <tr> <td =
+style=3D"text-align: left; padding: 16px 0 2px;"> <div style=3D"margin-righ=
+t: auto; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial=
+, sans-serif; color:#a6a6a6;font-size:14px;line-height:1.7; padding:0;">=D0=
+=A1=D0=B2=D1=8F=D0=B7=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D1=81&nbsp;=D0=BD=D0=
+=B0=D0=BC=D0=B8 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BB=D1=8E=D0=B1=D1=8B=D0=
+=BC =D1=83=D0=B4=D0=BE=D0=B1=D0=BD=D1=8B=D0=BC =D0=B4=D0=BB=D1=8F&nbsp;=D0=
+=B2=D0=B0=D1=81 =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=BE=D0=BC, =D0=B0&nb=
+sp;=D1=82=D0=B0=D0=BA=D0=B6=D0=B5 =D0=BC=D1=8B&nbsp;=D0=B2=D1=81=D0=B5=D0=
+=B3=D0=B4=D0=B0 <a href=3D"https://tn-sky.mckx.ru/c/m-YeAAQAAACYCQYL/aZGPBg=
+/JhD3XlrE4ZvB-qCq/?u=3Dhttps%3A%2F%2Ft.me%2FOtushelp_bot%3Futm_source%3Dema=
+il%26utm_medium%3Demail%26utm_campaign%3Dchain%26utm_content%3Dauto%26utm_t=
+erm%3Dregol" target=3D"_blank" rel=3D"noreferrer noopener" style=3D"color: =
+rgb(166, 166, 166); border-bottom: 1px solid rgb(166, 166, 166); box-shadow=
+: none; text-decoration: none;">=D0=BE=D1=82=D0=B2=D0=B5=D1=87=D0=B0=D0=B5=
+=D0=BC =D0=B2&nbsp;Telegram</a> =D0=B8&nbsp;=D0=B2&nbsp;=D1=87=D0=B0=D1=82=
+=D0=B0=D1=85 =D0=BE=D1=84=D0=B8=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=
+=D1=85 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2 =D0=B2&nbsp;=
+=D1=81=D0=BE=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D1=81=D0=B5=
+=D1=82=D1=8F=D1=85.</div> </td> </tr> </table></td></tr></table> </td> </tr=
+> </table> <!--/record--> <!--record_mail--> <table id=3D"rec862183901" sty=
+le=3D"width:100%; border-collapse:collapse; border-spacing:0; margin:0; bor=
+der:0;" cellpadding=3D"0" cellspacing=3D"0" data-record-type=3D"628"> <tr> =
+<td style=3D"padding-left:15px; padding-right:15px; "> <table id=3D"recin86=
+2183901" class=3D"r" style=3D"margin: 0 auto;border-spacing: 0;width:600px;=
+" align=3D"center"><tr><td style=3D"padding-top:45px;padding-bottom:15px;pa=
+dding-left:30px;padding-right:30px;"> <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"width:100%; margin: 0 auto;table=
+-layout: fixed;"> <tr> <td> <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"margin: 0 auto;table-layout: fixed;" align=3D"center"> <t=
+r> <td align=3D"center" style=3D"width: 34px; height: 34px; padding: 0 9px;=
+"> <a style=3D"text-decoration: none;" href=3D"https://tn-sky.mckx.ru/c/m-Y=
+eAAQAAACYCQYL/apGPBg/9SZFmhFSuFH8BCb4/?u=3Dhttps%3A%2F%2Fvk.ru%2Fotusru%3Fu=
+tm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dchain%26utm_content=
+%3Dauto%26utm_term%3Dregol"> <img width=3D"34" style=3D"display: block; wid=
+th: 34px; max-width: 34px;" src=3D"https://email-images.mindbox.ru/ecbd53d0=
+-ce7b-4999-b7ce-a3fcb374ea2c/1.png"> </a> </td> <td align=3D"center" style=
+=3D"width: 34px; height: 34px; padding: 0 9px;"> <a style=3D"text-decoratio=
+n: none;" href=3D"https://tn-sky.mckx.ru/c/m-YeAAQAAACYCQYL/a5GPBg/OmLjRu0M=
+JSwZV6p3/?u=3Dhttps%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCetgtvy93o3i3CvyGX=
+KFU3g%3Futm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dchain%26ut=
+m_content%3Dauto%26utm_term%3Dregol"> <img width=3D"34" style=3D"display: b=
+lock; width: 34px; max-width: 34px;" src=3D"https://email-images.mindbox.ru=
+/d90b24bf-0cf7-4893-96e1-faaa46cda091/2.png"> </a> </td> <td align=3D"cente=
+r" style=3D"width: 34px; height: 34px; padding: 0 9px;"> <a style=3D"text-d=
+ecoration: none;" href=3D"https://tn-sky.mckx.ru/c/m-YeAAQAAACYCQYL/bJGPBg/=
+5PKQVW0tUjFKyyi1/?u=3Dhttps%3A%2F%2Ft.me%2FOtusjava%3Futm_source%3Demail%26=
+utm_medium%3Demail%26utm_campaign%3Dchain%26utm_content%3Dauto%26utm_term%3=
+Dregol"> <img width=3D"34" style=3D"display: block; width: 34px; max-width:=
+ 34px;" src=3D"https://email-images.mindbox.ru/4f1f0bc1-a3ad-4cea-be56-076e=
+b14b5c93/4.png"> </a> </td> </tr> </table> </td> </tr> </table></td></tr></=
+table> </td> </tr> </table> <!--/record--> <!--record_mail--> <table id=3D"=
+rec862183902" style=3D"width:100%; border-collapse:collapse; border-spacing=
+:0; margin:0; border:0;" cellpadding=3D"0" cellspacing=3D"0" data-record-ty=
+pe=3D"627"> <tr> <td style=3D"padding-left:15px; padding-right:15px; "> <ta=
+ble id=3D"recin862183902" class=3D"r" style=3D"margin: 0 auto;border-spacin=
+g: 0;width:600px;" align=3D"center"><tr><td style=3D"padding-top:15px;paddi=
+ng-bottom:45px;padding-left:30px;padding-right:30px;"> <table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td style=3D"text-=
+align: left;"> <div style=3D"margin-right: auto; font-weight: normal; font-=
+family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#555555;font-si=
+ze:14px;line-height:1.5;max-width:600;">=D0=92=D1=8B&nbsp;=D0=BF=D0=BE=D0=
+=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=
+=8C=D0=BC=D0=BE, =D1=82=D0=B0=D0=BA =D0=BA=D0=B0=D0=BA =D0=B7=D0=B0=D1=80=
+=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BB=D0=
+=B8=D1=81=D1=8C =D0=BD=D0=B0&nbsp;=D1=81=D0=B0=D0=B9=D1=82=D0=B5 otus.ru. =
+=D0=9F=D0=B8=D1=81=D1=8C=D0=BC=D0=BE =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=
+=D0=BB=D0=B5=D0=BD=D0=BE =D0=B2&nbsp;=D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D1=81=D1=82=D0=B2=D0=B8=D0=B8 =D1=81 <a href=3D"https://tn-sky.mckx.=
+ru/c/m-YeAAQAAACYCQYL/bZGPBg/GwMYzr5YYY_eWzlA/?u=3Dhttps%3A%2F%2Fotus.ru%2F=
+legal%2Fterms%2F%3Futm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3=
+Dchain%26utm_content%3Dauto%26utm_term%3Dregol" target=3D"_blank" rel=3D"no=
+referrer noopener" style=3D"color: rgb(85, 85, 85); border-bottom: 1px soli=
+d rgb(85, 85, 85); box-shadow: none; text-decoration: none;">=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D0=BA=D0=
+=B8=D0=BC =D1=81=D0=BE=D0=B3=D0=BB=D0=B0=D1=88=D0=B5=D0=BD=D0=B8=D0=B5=D0=
+=BC</a>.<br /><br />=D0=A7=D1=82=D0=BE-=D1=82=D0=BE =D0=BF=D0=BE=D1=88=D0=
+=BB=D0=BE =D0=BD=D0=B5&nbsp;=D1=82=D0=B0=D0=BA? =D0=92=D1=8B&nbsp;=D0=BC=D0=
+=BE=D0=B6=D0=B5=D1=82=D0=B5 <a href=3D"https://tn-sky.mckx.ru/c/m-YeAAQAAAC=
+YCQYL/bpGPBg/vDmyjjNZK_n4Pu6c/?u=3Dhttps%3A%2F%2Ftn-sky.mckx.ru%2Fu%2Fm-YeA=
+AQAAACYCQYL%2FKT782M7q1QNbqt_5%3Futm_source%3Demail%26utm_medium%3Demail%26=
+utm_campaign%3Dchain%26utm_content%3Dauto%26utm_term%3Dregol" target=3D"_bl=
+ank" rel=3D"noreferrer noopener" style=3D"color: rgb(85, 85, 85); border-bo=
+ttom: 1px solid rgb(85, 85, 85); box-shadow: none; text-decoration: none;">=
+=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F</a> =D0=BE=D1=
+=82&nbsp;=D0=B2=D1=81=D0=B5=D1=85 =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=
+=BE=D0=BA. =D0=9D=D0=B0=D1=88=D0=BB=D0=B8 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=
+=83? <a href=3D"mailto:help@otus.ru?subject=3D%D0%BE%D1%88%D0%B8%D0%B1%D0%B=
+A%D0%B0%20%D0%B2%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5" target=3D"_blank" =
+rel=3D"noreferrer noopener" style=3D"color: rgb(85, 85, 85); border-bottom:=
+ 1px solid rgb(85, 85, 85); box-shadow: none; text-decoration: none;">=D0=
+=9D=D0=B0=D0=BF=D0=B8=D1=88=D0=B8=D1=82=D0=B5 =D0=BD=D0=B0=D0=BC</a>.<br />=
+<br /><a href=3D"https://tn-sky.mckx.ru/c/m-YeAAQAAACYCQYL/b5GPBg/Q51v2xIBW=
+rnWBZKW/?u=3Dhttps%3A%2F%2Fotus.ru%2Fmedia%2F35%2Ff9%2F35f9009106724c8b8376=
+308131f90544.pdf%3Futm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3=
+Dchain%26utm_content%3Dauto%26utm_term%3Dregol" target=3D"_blank" rel=3D"no=
+referrer noopener" style=3D"color: rgb(85, 85, 85); border-bottom: 1px soli=
+d rgb(85, 85, 85); box-shadow: none; text-decoration: none;">=D0=9E=D0=B1=
+=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0=D1=
+=8F =D0=BB=D0=B8=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=8F</a> =D0=B2=D1=8B=D0=B4=
+=D0=B0=D0=BD=D0=B0 =D0=94=D0=B5=D0=BF=D0=B0=D1=80=D1=82=D0=B0=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=BC =D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=
+=D0=BD=D0=B8=D1=8F =D0=B3=D0=BE=D1=80=D0=BE=D0=B4=D0=B0 =D0=9C=D0=BE=D1=81=
+=D0=BA=D0=B2=D1=8B 28&nbsp;=D0=B4=D0=B5=D0=BA=D0=B0=D0=B1=D1=80=D1=8F 2018 =
+=D0=B3=D0=BE=D0=B4=D0=B0.</div> </td> </tr> <tr> <td style=3D"text-align: l=
+eft; padding-top: 25px;"> <div style=3D"margin-right: auto; font-weight: no=
+rmal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#555=
+555;font-size:14px;">=C2=A9 2015-2025&nbsp;&nbsp;OTUS</div> </td> </tr> </t=
+able></td></tr></table> </td> </tr> </table> <!--/record--> </td> </tr> </t=
+able> <!--/allrecords--> <img src=3D"https://tn-sky.mckx.ru/o/m-YeAAQAAACYC=
+QYL/KT782M7q1QNbqt_5" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;"/></body> </html>

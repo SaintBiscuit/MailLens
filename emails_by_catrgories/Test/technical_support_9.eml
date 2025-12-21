@@ -1,0 +1,156 @@
+Content-Type: multipart/alternative;
+ boundary="------------MiOC4eqvWXMYX1L4XXRYXkdw"
+Message-ID: <cc48be2d-a731-422f-a701-d638c1449b4d@test.ru>
+Date: Wed, 19 Nov 2025 10:07:35 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: =?UTF-8?B?UmU6INCd0LUg0LfQsNCz0YDRg9C20LDQtdGC0YHRjyDRgdGC0YDQsNC9?=
+ =?UTF-8?B?0LjRhtCwINC+0YLRh9GR0YLQvtCyINCyINC70LjRh9C90L7QvCDQutCw0LHQuNC9?=
+ =?UTF-8?B?0LXRgtC1?=
+From: Ivanova Ekaterina <test14@test.ru>
+To: test@test.ru
+References: <30c4c0ac-0145-44c2-963a-08b8fe676756@test.ru>
+Content-Language: en-US
+In-Reply-To: <30c4c0ac-0145-44c2-963a-08b8fe676756@test.ru>
+
+This is a multi-part message in MIME format.
+--------------MiOC4eqvWXMYX1L4XXRYXkdw
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте, Андрей,
+
+Благодарим за детали.
+
+Для диагностики нам нужны логи сервиса |report-api| за период с 
+18.11.2025 10:00 по 19.11.2025 14:00 (UTC+3).
+
+*Как получить:*
+
+ 1. Зайдите на сервер |app-server-03| (IP: 10.15.2.17)
+ 2. Выполните команду: grep -E "404.*reports"
+    /var/log/report-api/access.log | grep -A 5 -B 5 "$(date -d
+    '2025-11-18 10:00' +%Y-%m-%d)" > /tmp/report_api_404.log
+ 3. Пришлите файл |/tmp/report_api_404.log| в ответ на это письмо.
+
+Если нет доступа к серверу — сообщите, мы запросим логи с нашей стороны.
+
+Ожидаем файл до конца дня.
+
+С уважением,
+Техническая поддержка
+support@company.ru <mailto:support@company.ru>
+
+
+11/19/25 10:02, Ivanova Ekaterina пишет:
+>
+> Добрый день!
+>
+> При попытке открыть страницу отчётов (https://example.com/reports ) в 
+> браузере Chrome на Windows 11 — страница загружается бесконечно, 
+> ошибка в консоли: |404 Not Found| для |/api/v2/reports/data|.
+>
+> Проблема воспроизводится у трёх сотрудников.
+> До вчерашнего дня работало корректно.
+> Проверяли: кэш браузера, другие устройства, Wi-Fi — не помогло.
+>
+> Просим проверить:
+>
+>  1. Доступность эндпоинта |/api/v2/reports/data|
+>  2. Возможные изменения в маршрутизации или правах доступа
+>
+> Срочность: средняя — влияет на ежедневную отчётность.
+>
+> С уважением,
+> Андрей Петров
+> Отдел аналитики
+> an.petrov@company.ru
+>
+--------------MiOC4eqvWXMYX1L4XXRYXkdw
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p data-spm-anchor-id="a2ty_o01.29997173.0.i8.3154c9214vkPhi">Здравствуйте,
+      Андрей, </p>
+    <div class="my-2"></div>
+    <p>Благодарим за детали. </p>
+    <div class="my-2"></div>
+    <p>Для диагностики нам нужны логи сервиса <code
+        class="codespan cursor-pointer z-[9] relative">report-api</code>
+      за период с 18.11.2025 10:00 по 19.11.2025 14:00 (UTC+3). </p>
+    <div class="my-2"></div>
+    <p><strong>Как получить:</strong> </p>
+    <ol start="1" dir="auto">
+      <li>Зайдите на сервер <code
+          class="codespan cursor-pointer z-[9] relative">app-server-03</code>
+        (IP: 10.15.2.17) </li>
+      <li>Выполните команду: grep -E "404.*reports"
+        /var/log/report-api/access.log | grep -A 5 -B 5 "$(date -d
+        '2025-11-18 10:00' +%Y-%m-%d)" &gt; /tmp/report_api_404.log</li>
+      <li>Пришлите файл <code
+          class="codespan cursor-pointer z-[9] relative">/tmp/report_api_404.log</code>
+        в ответ на это письмо.</li>
+    </ol>
+    <p data-spm-anchor-id="a2ty_o01.29997173.0.i10.3154c9214vkPhi">Если
+      нет доступа к серверу — сообщите, мы запросим логи с нашей
+      стороны. </p>
+    <div class="my-2"></div>
+    <p data-spm-anchor-id="a2ty_o01.29997173.0.i14.3154c9214vkPhi">Ожидаем
+      файл до конца дня. </p>
+    <div class="my-2"></div>
+    <p data-spm-anchor-id="a2ty_o01.29997173.0.i15.3154c9214vkPhi">С
+      уважением,<br>
+      Техническая поддержка<br>
+      <a href="mailto:support@company.ru" target="_blank" rel="nofollow"
+        style="position: relative;">support@company.ru </a></p>
+    <p data-spm-anchor-id="a2ty_o01.29997173.0.i15.3154c9214vkPhi"><br>
+    </p>
+    <p></p>
+    <p></p>
+    <div class="moz-cite-prefix">11/19/25 10:02, Ivanova Ekaterina пишет:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:30c4c0ac-0145-44c2-963a-08b8fe676756@test.ru">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <p>Добрый день!</p>
+      <p data-spm-anchor-id="a2ty_o01.29997173.0.i5.3154c9214vkPhi">При
+        попытке открыть страницу отчётов (<a
+          href="https://example.com/reports" target="_blank"
+          rel="nofollow" style="position: relative;"
+          class="moz-txt-link-freetext" moz-do-not-send="true">https://example.com/reports
+        </a>) в браузере Chrome на Windows 11 — страница загружается
+        бесконечно, ошибка в консоли: <code
+          class="codespan cursor-pointer z-[9] relative">404 Not Found</code>
+        для <code class="codespan cursor-pointer z-[9] relative">/api/v2/reports/data</code>.
+      </p>
+      <p>Проблема воспроизводится у трёх сотрудников.<br>
+        До вчерашнего дня работало корректно.<br>
+        Проверяли: кэш браузера, другие устройства, Wi-Fi — не помогло.
+      </p>
+      <p>Просим проверить: </p>
+      <ol start="1" dir="auto">
+        <li>Доступность эндпоинта <code
+            class="codespan cursor-pointer z-[9] relative">/api/v2/reports/data</code>
+        </li>
+        <li data-spm-anchor-id="a2ty_o01.29997173.0.i4.3154c9214vkPhi">Возможные
+          изменения в маршрутизации или правах доступа</li>
+      </ol>
+      <p>Срочность: средняя — влияет на ежедневную отчётность. </p>
+      <p>С уважением,<br>
+        Андрей Петров<br>
+        Отдел аналитики<br>
+        <a href="mailto:an.petrov@company.ru" target="_blank"
+          rel="nofollow" style="position: relative;"
+          class="moz-txt-link-freetext" moz-do-not-send="true">an.petrov@company.ru
+        </a> </p>
+    </blockquote>
+  </body>
+</html>
+
+--------------MiOC4eqvWXMYX1L4XXRYXkdw--

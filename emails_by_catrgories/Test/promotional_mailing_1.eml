@@ -1,0 +1,1023 @@
+Return-Path: <bounce.8f14250000404602010040c3@mta2.directcrm.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from mta2.directcrm.ru (mta2.directcrm.ru [130.193.65.123])
+	by mail.collectorshash.su (Postfix) with ESMTP id 149DB20975
+	for <v.p.ankevich@collectorshash.su>; Tue, 11 Nov 2025 12:33:46 +0300 (MSK)
+Content-Type: text/html;
+ charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Date: Tue, 11 Nov 2025 09:33:45 +0000
+Message-ID: <8f14250000404602010040c3@mta2.directcrm.ru>
+Subject: =?utf-8?B?MTEuMTE6INC00L4gLTUwJSDQvdCwINC/0L7QtNCx0L7RgNC60YMg0L0=?=
+ =?utf-8?B?0LDQv9C40YLQutC+0LIg0Lgg0LTQviAtNDAlINC90LAg0LLRgdC1IQ==?=
+From: "LUDING" <info@e.luding.ru>
+To: <v.p.ankevich@collectorshash.su>
+Reply-To: "LUDING" <info@e.luding.ru>
+Precedence: bulk
+X-xsMessageId: 8f14250000404602010040c3
+X-xsMailingId: 2430095
+X-Mailru-Msgtype: 2430095
+List-ID: <batch2430095.list-id.e.luding.ru>
+Feedback-ID: 2430095:4398:mindbox
+X-Mailer: mindbox.ru
+List-Unsubscribe: <mailto:lu.8f14250000404602010040c3@list-unsubscribe-stable.mindbox.ru>, <https://tn-gne.mckx.ru/ocu/jxQlAABARgIBAEDD>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=e.luding.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=1lvaUbRIK2VfHnL8mr/AMM2IKYKHYwxj0NfsiLeicag=;
+ b=FV8kuUdeWxXt7br3wfMot9gC2UmrFaepCszWuiHeXEkRCegnh5GWF/rwxAQxL4d2X2Pd06oUy6pWLg4Gw+SEZJuO7O2CVohWi6VAuTVRedzIZoA1Ielnsnf/pe/5RqH61Tbfx+vQso7ntqBFPb1QSOnt1++oxYVnbKh6GntmxOc=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=mta2.directcrm.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=1lvaUbRIK2VfHnL8mr/AMM2IKYKHYwxj0NfsiLeicag=;
+ b=R6FlcNRh41SgvhLMPA5NlrTi8xziefAlfs6X92HBuDEcoBlPsM6R/PG2qL6O4h0wQ/6oseHNvvO/7ZzvHinoz7xKO4hxZxFXJXdaeJcTciV19E4WNIxTyT7ZU0Pjyhwo8Q1pAQYnzQplVPzwRF+B9CaQ7RY2IfQEt5Z8OSgH6h4=
+
+<!DOCTYPE html>=0A<html lang=3D"ru">=0A=0A<head>=0A  <meta charset=3D"UTF-8=
+" />=0A  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-s=
+cale=3D1.0" />=0A  <link rel=3D"preconnect" href=3D"https://fonts.googleapi=
+s.com">=0A  <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com" cro=
+ssorigin>=0A  <link href=3D"https://fonts.googleapis.com/css2?family=3DRobo=
+to:ital,wght@0,100..900;1,100..900&display=3Dswap"=0A    rel=3D"stylesheet"=
+>=0A  <title>=D0=94=D0=BE -50% =D0=BD=D0=B0 =D0=B2=D0=B8=D0=BD=D0=B0 =D0=B8=
+=D0=B7 =D0=B0=D0=B2=D1=82=D0=BE=D1=85=D1=82=D0=BE=D0=BD=D0=BE=D0=B2</title>=
+=0A  <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com">=0A  <l=
+ink rel=3D"preconnect" href=3D"https://fonts.gstatic.com" crossorigin>=0A  =
+<link=0A    href=3D"https://fonts.googleapis.com/css2?family=3DRoboto:ital,=
+wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,90=
+0&display=3Dswap"=0A    rel=3D"stylesheet">=0A  <style>=0A    * .banner img=
++div {=0A      display: none !important;=0A    }=0A=0A    @media only scree=
+n and (min-width: 600px) {=0A      .col {=0A        line-height: 0 !importa=
+nt;=0A      }=0A=0A      .wrapper .container {=0A        display: inline-bl=
+ock !important;=0A        max-width: 600px !important;=0A        width: 100=
+% !important;=0A      }=0A=0A      .header {=0A        padding-left: 30px !=
+important;=0A      }=0A=0A      .header .col--2 {=0A        text-align: rig=
+ht !important;=0A      }=0A=0A      .menu td {=0A        padding-left: 14px=
+ !important;=0A        padding-right: 14px !important;=0A      }=0A=0A     =
+ .menu a {=0A        font-size: 18px !important;=0A      }=0A    }=0A=0A   =
+ @media only screen and (max-width: 600px) {=0A      .mobile-hidden {=0A   =
+     display: none !important;=0A      }=0A=0A      .header {=0A        pad=
+ding-left: 6.5% !important;=0A        padding-right: 6.5% !important;=0A   =
+   }=0A=0A      .header td {=0A        text-align: center !important;=0A   =
+   }=0A=0A      .header .col {=0A        width: 100% !important;=0A        =
+display: inline-block !important;=0A        text-align: center !important;=
+=0A        padding-left: 0px !important;=0A        padding-right: 0px !impo=
+rtant;=0A      }=0A=0A      .header .col a {=0A        font-size: 16px !imp=
+ortant;=0A      }=0A=0A      .items .col {=0A        width: 100% !important=
+;=0A        display: inline-block !important;=0A        padding-left: 0px !=
+important;=0A        padding-right: 0px !important;=0A      }=0A=0A      .i=
+tems .col img {=0A        max-width: 400px !important;=0A      }=0A=0A     =
+ .items br {=0A        display: none !important;=0A      }=0A=0A      .item=
+s span,=0A      .items a {=0A        font-size: 16px !important;=0A      }=
+=0A=0A      .items .price-current {=0A        font-size: 22px !important;=
+=0A      }=0A=0A      .advantages {=0A        padding-left: 20px !important=
+;=0A        padding-right: 20px !important;=0A      }=0A=0A      .advantage=
+s .col {=0A        width: 50% !important;=0A        display: inline-block !=
+important;=0A        padding-left: 0px !important;=0A        padding-right:=
+ 0px !important;=0A      }=0A=0A      .advantages .col-space {=0A        di=
+splay: none !important;=0A      }=0A=0A      .center-m {=0A        text-ali=
+gn: center !important;=0A      }=0A=0A      .center-m td {=0A        text-a=
+lign: center !important;=0A      }=0A=0A      .items-border .col {=0A      =
+  width: 100% !important;=0A        max-width: 100% !important;=0A      }=
+=0A=0A      .items-big {=0A        text-align: center !important;=0A      }=
+=0A=0A      .items-big td {=0A        text-align: center !important;=0A    =
+  }=0A=0A      .items-big .col {=0A        width: 100% !important;=0A      =
+  max-width: 300px !important;=0A        display: inline-block !important;=
+=0A      }=0A=0A      .items-big .col-space {=0A        display: none !impo=
+rtant;=0A      }=0A    }=0A  </style>=0A</head>=0A=0A<body style=3D"margin:=
+ 0; padding: 0">=0A  <div class=3D"preheader preheader--text" style=3D"font=
+-size: 0px; color: transparent; opacity: 0">=0A    <!-- =D0=9C=D0=B5=D1=81=
+=D1=82=D0=BE =D0=B4=D0=BB=D1=8F =D1=82=D0=B0=D0=B9=D1=82=D0=BB=D0=B0. -->=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=0A  </div>=0A  <div class=3D"preheader preheade=
+r--empty" style=3D"font-size: 0px; color: transparent; opacity: 0">=0A    =
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=0A  </div>=0A  <table class=3D"wrapper" width=3D"100%" cellpad=
+ding=3D"0" cellspacing=3D"0" bgcolor=3D"#F3F3F3">=0A    <tr style=3D"text-a=
+lign: center">=0A      <td></td>=0A      <td class=3D"container" width=3D"6=
+00" style=3D"min-width: 410px; max-width: 600px; padding: 0; padding-top: 3=
+0px;">=0A        <div style=3D"width: 100%; min-width: 410px; max-width: 60=
+0px; margin: 0 auto">=0A          <table cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" bgcolor=3D"#ffffff"=0A            style=3D"background-colo=
+r: #ffffff; border-radius: 20px;">=0A            <tr>=0A              <td c=
+lass=3D"header"=0A                style=3D"padding: 0; padding-top: 20px; p=
+adding-bottom: 0px; padding-left: 20px; padding-right: 20px; text-align: ce=
+nter">=0A                <table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=0A                  <tr>=0A                    <td class=3D"col"=
+ valign=3D"bottom"=0A                      style=3D"padding: 0; display: in=
+line-block; padding-bottom: 20px; text-align: center">=0A                  =
+    <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/_SS8Bg/BQtDp6e3vKO=
+cZX6n/?u=3Dhttps%3A%2F%2Fluding.ru%2F%3Futm_source%3Demail%26utm_medium%3Dr=
+egular%26utm_campaign%3D11112025_Luding_promo" style=3D"text-decoration: no=
+ne">=0A                        <img src=3D"https://email-images.mindbox.ru/=
+52632bc2-2d64-4028-b037-6905aa4e448f/15" width=3D"122"=0A                  =
+        style=3D"width: 100%; max-width: 122px; height: auto; vertical-alig=
+n: middle;" alt=3D"Luding" />=0A                      </a>=0A              =
+      </td>=0A                    <td class=3D"col col--2" valign=3D"bottom=
+"=0A                      style=3D"padding: 0; display: inline-block; paddi=
+ng-bottom: 20px; padding-left: 20px; padding-right: 20px; text-align: cente=
+r">=0A                      <table class=3D"menu" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">=0A                        <tr>=0A               =
+           <td=0A                            style=3D"padding: 0; display: =
+inline-block; padding-left: 12px; padding-right: 12px; text-align: left">=
+=0A                            <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABA=
+RgIBAEDD/_iS8Bg/-KXF6pA_Dy-k0v-k/?u=3Dhttps%3A%2F%2Fluding.ru%2Fnews%2Fprom=
+o%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D11112025_=
+Luding_promo"=0A                              style=3D"display: inline-bloc=
+k; width: 100%; font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, s=
+ans-serif; font-size: 16px; line-height: 1.5; color: #B12535; text-decorati=
+on: none;">=0A                              =D0=90=C4=B8=D1=86=D0=B8=D0=B8=
+=0A                            </a>=0A                          </td>=0A   =
+                       <td=0A                            style=3D"padding: =
+0; display: inline-block; padding-left: 12px; padding-right: 12px; text-ali=
+gn: left">=0A                            <a href=3D"https://tn-gne.mckx.ru/=
+c/jxQlAABARgIBAEDD/_yS8Bg/srtZmVYhautx-nl5/?u=3Dhttps%3A%2F%2Fluding.ru%2Fc=
+ollection%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D1=
+1112025_Luding_promo"=0A                              style=3D"display: inl=
+ine-block; width: 100%; font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, =
+Arial, sans-serif; font-size: 16px; line-height: 2; color: #4D4D5B; text-de=
+coration: none;">=0A                              =D0=9A=D0=B0=D1=82=D0=B0=
+=D0=BB=D0=BE=D0=B3=0A                            </a>=0A                   =
+       </td>=0A                          <td=0A                            =
+style=3D"padding: 0; display: inline-block; padding-left: 12px; padding-rig=
+ht: 12px; text-align: left">=0A                            <a href=3D"https=
+://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/ACW8Bg/_FuzxJolcoh0t8Sm/?u=3Dhttps%3A%=
+2F%2Fluding.ru%2Fcocktails%2F%3Futm_source%3Demail%26utm_medium%3Dregular%2=
+6utm_campaign%3D11112025_Luding_promo"=0A                              styl=
+e=3D"display: inline-block; width: 100%; font-family: &#39;Roboto&#39;, &#3=
+9;Segoe UI&#39;, Arial, sans-serif; font-size: 16px; line-height: 2; color:=
+ #4D4D5B; text-decoration: none;">=0A                              =D0=9A=
+=D0=BE=D0=BA=D1=82=D0=B5=D0=B9=D0=BB=D0=B8=0A                            </=
+a>=0A                          </td>=0A                          <td=0A    =
+                        style=3D"padding: 0; display: inline-block; padding=
+-left: 12px; padding-right: 12px; text-align: left">=0A                    =
+        <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/ASW8Bg/g93W4nE=
+pcn-kcEjJ/?u=3Dhttps%3A%2F%2Fluding.ru%2Fbonus-program%2F%3Futm_source%3Dem=
+ail%26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo"=0A      =
+                        style=3D"display: inline-block; width: 100%; font-f=
+amily: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, sans-serif; font-size: =
+16px; line-height: 2; color: #4D4D5B; text-decoration: none;">=0A          =
+                    L-Club=0A                            </a>=0A           =
+               </td>=0A                        </tr>=0A                    =
+  </table>=0A                    </td>=0A                  </tr>=0A        =
+        </table>=0A              </td>=0A            </tr>=0A            <t=
+r>=0A              <td class=3D"banner"=0A                style=3D"padding:=
+ 0; padding-bottom: 40px; font-size: 0; line-height: 0; text-align: center"=
+>=0A                <a=0A                  href=3D"https://tn-gne.mckx.ru/c=
+/jxQlAABARgIBAEDD/AiW8Bg/XJUP1l3JVqtlrscG/?u=3Dhttps%3A%2F%2Fluding.ru%2Fne=
+ws%2Fblack-friday-skidki-do--50--%2F%3Futm_source%3Demail%26utm_medium%3Dre=
+gular%26utm_campaign%3D11112025_Luding_promo">=0A                  <img src=
+=3D"https://email-images.mindbox.ru/d670c105-7c37-424e-a8b5-98e05e5afcda/1.=
+gif" width=3D"600" style=3D"width: 100%; max-width: 600px; height: auto" al=
+t=3D"" />=0A                </a>=0A              </td>=0A            </tr>=
+=0A            <tr>=0A              <td style=3D"padding: 0; padding-bottom=
+: 40px; padding-left: 6.5%; padding-right: 6.5%; text-align: left">=0A     =
+           <span=0A                  style=3D"font-family: &#39;Roboto&#39;=
+, &#39;Segoe UI&#39;, Arial, sans-serif; font-size: 18px; line-height: 1.4;=
+ color: #3D3D3D; font-weight: 300">=0A                  =D0=9E=D1=82=D0=BC=
+=D0=B5=D1=87=D0=B0=D0=B5=D0=BC =D0=92=D1=81=D0=B5=D0=BC=D0=B8=D1=80=D0=BD=
+=D1=8B=D0=B9 =D0=B4=D0=B5=D0=BD=D1=8C =D1=88=D0=BE=D0=BF=D0=B8=D0=BD=D0=B3=
+=D0=B0! <b>=D0=94=D0=BE&nbsp;30&nbsp;=D0=BD=D0=BE=D1=8F=D0=B1=D1=80=D1=8F =
+=D0=B7=D0=B0=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B9=D1=82=D0=B5 =D0=B2=
+=D0=B8=D0=BD=D0=BE =D0=B8&nbsp;=D0=BA=D1=80=D0=B5=D0=BF=D0=BA=D0=B8=D0=B5 =
+=D0=BD=D0=B0=D0=BF=D0=B8=D1=82=D0=BA=D0=B8=0A                    =D0=B8=D0=
+=B7&nbsp;=D1=81=D0=BF=D0=B5=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B9=
+ =D0=BF=D0=BE=D0=B4=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D1=81&nbsp;=D0=BC=D0=B0=
+=D0=BA=D1=81=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=BC=D0=B8 =D1=81=
+=D0=BA=D0=B8=D0=B4=D0=BA=D0=B0=D0=BC=D0=B8 =D0=B4=D0=BE&nbsp;50%. =D0=90&nb=
+sp;=D0=BF=D0=BE&nbsp;=D0=BF=D1=80=D0=BE=D0=BC=D0=BE=D0=BA=D0=BE=D0=B4=D1=83=
+=0A                    BlackFriday =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=
+=B4=D0=BB=D1=8F =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D1=87=D0=B8=D0=BA=D0=
+=BE=D0=B2 =D0=BD=D0=B0=D1=88=D0=B8=D1=85 email-=D1=80=D0=B0=D1=81=D1=81=D1=
+=8B=D0=BB=D0=BE=D0=BA =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=
+=82 =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=B8 =D0=B4=D0=BE&nbsp;40% =D0=BD=D0=B0=
+&nbsp;=D0=B2=D0=B5=D1=81=D1=8C=0A                    =D0=BA=D0=B0=D1=82=D0=
+=B0=D0=BB=D0=BE=D0=B3 luding.ru!</b> <br>=0A                  &nbsp; <br>=
+=0A                  =D0=9F=D0=BE=D0=B1=D1=8B=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=B7=D0=B0&nbsp;=D0=BE=D0=B4=D0=B8=D0=BD =D0=B2=D0=B5=D1=87=D0=B5=D1=80 =D0=
+=B2=D0=BE&nbsp;=D0=A4=D1=80=D0=B0=D0=BD=D1=86=D0=B8=D0=B8, =D0=98=D1=82=D0=
+=B0=D0=BB=D0=B8=D0=B8, =D0=90=D1=80=D0=B3=D0=B5=D0=BD=D1=82=D0=B8=D0=BD=D0=
+=B5 =D0=B8&nbsp;=D0=A7=D0=B8=D0=BB=D0=B8? =D0=9F=D1=80=D0=BE=D1=89=D0=B5 =
+=D0=BF=D1=80=D0=BE=D1=81=D1=82=D0=BE=D0=B3=D0=BE! =D0=9E=D1=82=D0=BA=D1=80=
+=D0=BE=D0=B9=D1=82=D0=B5=0A                  =D0=B4=D0=BB=D1=8F =D1=81=D0=
+=B5=D0=B1=D1=8F =D1=80=D0=B0=D0=B7=D0=BD=D1=8B=D0=B5 =D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B7=D1=86=D1=8B =D0=B8=D0=B7&nbsp;=D0=A1=D1=82=D0=B0=D1=80=D0=BE=D0=
+=B3=D0=BE =D0=B8&nbsp;=D0=9D=D0=BE=D0=B2=D0=BE=D0=B3=D0=BE =D0=A1=D0=B2=D0=
+=B5=D1=82=D0=B0&nbsp;&mdash; =D0=BF=D1=83=D1=82=D0=B5=D1=88=D0=B5=D1=81=D1=
+=82=D0=B2=D0=B8=D0=B5 =D0=B1=D1=83=D0=B4=D0=B5=D1=82=0A                  =
+=D1=83=D0=B2=D0=BB=D0=B5=D0=BA=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=
+=BC. =D0=95=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5=D0=BC=D0=B5=D0=B4=D0=BB=D0=B5=D0=
+=BD=D0=BD=D0=BE =D1=85=D0=BE=D1=87=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D1=80=D0=
+=B0=D0=B7=D0=B4=D0=BD=D0=B8=D0=BA=D0=B0, =D1=81=D0=B0=D0=BC=D0=BE=D0=B5 =D0=
+=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B4=D0=BB=D1=8F =D0=B8=D0=B3=D1=80=D0=B8=D1=
+=81=D1=82=D1=8B=D1=85! =D0=92=D0=B0=D1=81 =D0=B6=D0=B4=D1=83=D1=82 =D0=BF=
+=D1=80=D0=BE=D1=81=D0=B5=D0=BA=D0=BA=D0=BE, =D0=BA=D0=B0=D0=B2=D0=B0,=0A   =
+               =D1=88=D0=B0=D0=BC=D0=BF=D0=B0=D0=BD=D1=81=D0=BA=D0=BE=D0=B5=
+ =D0=B8&nbsp;=D0=BD=D0=B5&nbsp;=D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE. =D0=90=
+&nbsp;=D0=B7=D0=B0&nbsp;=D0=BA=D1=80=D0=B5=D0=BF=D0=BA=D0=BE=D0=B5 =D0=BE=
+=D1=82=D0=B2=D0=B5=D1=87=D0=B0=D1=8E=D1=82 =D0=BA=D0=BE=D0=BD=D1=8C=D1=8F=
+=D0=BA, =D0=B2=D0=B8=D1=81=D0=BA=D0=B8, =D0=BB=D0=B8=D0=BA=D0=B5=D1=80=D1=
+=8B =D0=B8&nbsp;=D0=B4=D1=80=D1=83=D0=B3=D0=B8=D0=B5=0A                  =
+=D0=BD=D0=B0=D0=BF=D0=B8=D1=82=D0=BA=D0=B8. <br>=0A                  &nbsp;=
+<br>=0A                  =D0=9F=D0=BE=D0=BB=D0=BD=D1=8B=D0=B5 =D1=83=D1=81=
+=D0=BB=D0=BE=D0=B2=D0=B8=D1=8F =D0=B0=D0=BA=D1=86=D0=B8=D0=B8 =D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D0=B8=D1=82=D0=B5 <a=0A                    href=3D"https=
+://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/AyW8Bg/c1DgSNpxJz1uvxee/?u=3Dhttps%3A%=
+2F%2Fluding.ru%2Fnews%2Fblack-friday-skidki-do--50--%2F%3Futm_source%3Demai=
+l%26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo"=0A        =
+            style=3D"color: #3D3D3D;">=D0=BF=D0=BE&nbsp;=D1=81=D1=81=D1=8B=
+=D0=BB=D0=BA=D0=B5</a>.=0A                </span>=0A              </td>=0A =
+           </tr>=0A          </table>=0A          <table cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">=0A            <tr>=0A              <td st=
+yle=3D"padding: 0; padding-bottom: 40px; text-align: left">=0A             =
+   &nbsp;=0A              </td>=0A            </tr>=0A          </table>=0A=
+          <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgcolor=
+=3D"#B12535"=0A            style=3D"background-color: #B12535; border-radiu=
+s: 20px;">=0A            <tr>=0A              <td=0A                style=
+=3D"padding: 0; padding-top: 40px; padding-bottom: 25px; padding-left: 6.5%=
+; padding-right: 6.5%; text-align: center">=0A                <span=0A     =
+             style=3D"font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Ar=
+ial, sans-serif; text-transform: uppercase; font-size: 24px; line-height: 1=
+.4; color: #ffffff; font-weight: 500">=0A                  =D0=94=D0=BE &mi=
+nus;50% =D0=BD=D0=B0&nbsp;=D0=BD=D0=B0=D0=BF=D0=B8=D1=82=D0=BA=D0=B8=0A    =
+            </span>=0A              </td>=0A            </tr>=0A           =
+ <tr>=0A              <td style=3D"padding: 0; padding-bottom: 30px; paddin=
+g-left: 6.5%; padding-right: 6.5%; text-align: center">=0A                <=
+span=0A                  style=3D"font-family: &#39;Roboto&#39;, &#39;Segoe=
+ UI&#39;, Arial, sans-serif; text-transform: uppercase; letter-spacing: 4px=
+; font-size: 32px; line-height: 1.4; color: #000000; font-weight: 500">=0A =
+                 BlackFriday=0A                </span>=0A              </td=
+>=0A            </tr>=0A            <tr>=0A              <td class=3D"butto=
+n"=0A                style=3D"padding: 0; padding-bottom: 50px; padding-lef=
+t: 6.5%; padding-right: 6.5%; text-align: center">=0A                <div>=
+=0A                  <!--[if mso]>=0A                    <v:roundrect xmlns=
+:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:o=
+ffice:word" href=3D"https://luding.ru/news/black-friday-skidki-do--50--/" s=
+tyle=3D"height:50px;v-text-anchor:middle;width:100%;" stroke=3D"f" fillcolo=
+r=3D"#000000">=0A                    <w:anchorlock/>=0A                    =
+<center>=0A                    <![endif]-->=0A                  <a href=3D"=
+https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/BCW8Bg/xCVJtFkEX_z1GT2t/?u=3Dhttp=
+s%3A%2F%2Fluding.ru%2Fnews%2Fblack-friday-skidki-do--50--%2F%3Futm_source%3=
+Demail%26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo" targe=
+t=3D"_blank"=0A                    style=3D"background-color: #000000; colo=
+r: #ffffff; display: inline-block; font-family: &#39;Roboto&#39;, &#39;Sego=
+e UI&#39;, &#39;Arial&#39;, sans-serif; font-size: 18px; font-weight: 500; =
+line-height: 50px; text-align: center; text-decoration: none; width: 100%; =
+text-transform: uppercase; border-radius: 8px; -webkit-text-size-adjust: no=
+ne; letter-spacing: 1px">=0A                    =D0=97=D0=B0 =D0=BF=D0=BE=
+=D0=BA=D1=83=D0=BF=D0=BA=D0=B0=D0=BC=D0=B8!=0A                  </a>=0A    =
+              <!--[if mso]>=0A                    </center>=0A             =
+       </v:roundrect>=0A                    <![endif]-->=0A                =
+</div>=0A              </td>=0A            </tr>=0A          </table>=0A   =
+       <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A       =
+     <tr>=0A              <td style=3D"padding: 0; padding-bottom: 40px; te=
+xt-align: left">=0A                &nbsp;=0A              </td>=0A         =
+   </tr>=0A          </table>=0A          <table cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" bgcolor=3D"#ffffff"=0A            style=3D"backgro=
+und-color: #ffffff; border-radius: 20px;">=0A=0A            <tr>=0A        =
+      <td style=3D"padding: 0; text-align: center">=0A                <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A                  <=
+tr style=3D"font-size: 0; text-align: center">=0A                    <td cl=
+ass=3D"col col--1" valign=3D"top" width=3D"280"=0A                      sty=
+le=3D"display: inline-block; width: 280px; padding: 0; padding-bottom: 50px=
+;">=0A                      <table cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%">=0A                        <tr>=0A                          <td =
+class=3D"image"=0A                            style=3D"padding: 0; padding-=
+top: 20px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px; t=
+ext-align: center">=0A                            <a href=3D"https://tn-gne=
+.mckx.ru/c/jxQlAABARgIBAEDD/BSW8Bg/hHdsJg3ycT3zNVpu/?u=3Dhttps%3A%2F%2Fludi=
+ng.ru%2Fcollection%2Fitem%2Fmorize-brut-tradition-champagne-aoc---345135%2F=
+%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D11112025_Ludi=
+ng_promo">=0A                              <img src=3D"https://email-images=
+.mindbox.ru/537cf541-35a7-4302-843f-00229a04642c/6.png" width=3D"260" heigh=
+t=3D"300"=0A                                style=3D"width: 100%; max-width=
+: 260px; height: auto; min-height: 300px; max-height: 300px; object-fit: co=
+ntain"=0A                                alt=3D"" />=0A                    =
+        </a>=0A                          </td>=0A                        </=
+tr>=0A                        <tr>=0A                          <td class=3D=
+"name"=0A                            style=3D"padding: 0; padding-bottom: 2=
+0px; padding-left: 10px; padding-right: 10px; text-align: center">=0A      =
+                      <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/=
+BiW8Bg/j9meybKspUWmT-yq/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2F=
+morize-brut-tradition-champagne-aoc---345135%2F%3Futm_source%3Demail%26utm_=
+medium%3Dregular%26utm_campaign%3D11112025_Luding_promo"=0A                =
+              style=3D"font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, =
+sans-serif; font-size: 16px; line-height: 1.3; color: #272727; text-decorat=
+ion: none; font-weight: 400">=0A                              =D0=98=D0=B3=
+=D1=80=D0=B8=D1=81=D1=82=D0=BE=D0=B5 =D0=B2=D0=B8=D0=BD=D0=BE Morize Brut T=
+radition Champagne AOC 0.75&nbsp;=D0=BB=0A                            </a>=
+=0A                          </td>=0A                        </tr>=0A      =
+                  <tr>=0A                          <td class=3D"price"=0A  =
+                          style=3D"padding: 0; padding-bottom: 0px; padding=
+-left: 10px; padding-right: 10px; text-align: center">=0A                  =
+          <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A    =
+                          <tr>=0A                                <td valign=
+=3D"bottom"=0A                                  style=3D"padding: 0; paddin=
+g-left: 15px; padding-right: 15px; display: inline-block; text-align: cente=
+r">=0A                                  <span class=3D"price__current"=0A  =
+                                  style=3D"display: inline-block; vertical-=
+align: bottom; font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-ser=
+if; font-size: 18px; line-height: 1.6; color: #272727; font-weight: 700; te=
+xt-decoration-line: line-through">=0A                                    10=
+ 125 =E2=82=BD=0A                                  </span>=0A              =
+                  </td>=0A                                <td valign=3D"bot=
+tom"=0A                                  style=3D"padding: 0; padding-left:=
+ 15px; padding-right: 15px; display: inline-block; text-align: center">=0A =
+                                 <span class=3D"price__current"=0A         =
+                           style=3D"display: inline-block; vertical-align: =
+bottom; font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; fon=
+t-size: 18px; line-height: 1.6; color: #b12535; font-weight: 700">=0A      =
+                              6 480 =E2=82=BD=0A                           =
+       </span>=0A                                </td>=0A                  =
+            </tr>=0A                            </table>=0A                =
+          </td>=0A                        </tr>=0A                      </t=
+able>=0A                    </td>=0A                    <td class=3D"col co=
+l--2" valign=3D"top" width=3D"280"=0A                      style=3D"display=
+: inline-block; width: 280px; padding: 0; padding-bottom: 50px;">=0A       =
+               <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0A                        <tr>=0A                          <td class=3D"im=
+age"=0A                            style=3D"padding: 0; padding-top: 20px; =
+padding-bottom: 20px; padding-left: 10px; padding-right: 10px; text-align: =
+center">=0A                            <a=0A                              h=
+ref=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/ByW8Bg/GRfH1Wx1290Zlu8n/?u=
+=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fla-gioiosa-prosecco-doc--3=
+675%2F110477%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%=
+3D11112025_Luding_promo">=0A                              <img src=3D"https=
+://email-images.mindbox.ru/0089a9e6-2001-4804-81d5-9b352330f044/4.png" widt=
+h=3D"260" height=3D"300"=0A                                style=3D"width: =
+100%; max-width: 260px; height: auto; min-height: 300px; max-height: 300px;=
+ object-fit: contain"=0A                                alt=3D"" />=0A     =
+                       </a>=0A                          </td>=0A           =
+             </tr>=0A                        <tr>=0A                       =
+   <td class=3D"name"=0A                            style=3D"padding: 0; pa=
+dding-bottom: 20px; padding-left: 10px; padding-right: 10px; text-align: ce=
+nter">=0A                            <a href=3D"https://tn-gne.mckx.ru/c/jx=
+QlAABARgIBAEDD/CCW8Bg/zNaefGSD20Iw9hoA/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcolle=
+ction%2Fitem%2Fla-gioiosa-prosecco-doc--3675%2F110477%2F%3Futm_source%3Dema=
+il%26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo"=0A       =
+                       style=3D"font-family: &#39;Verdana&#39;, &#39;Segoe =
+UI&#39;, sans-serif; font-size: 16px; line-height: 1.3; color: #272727; tex=
+t-decoration: none; font-weight: 400">=0A                              =D0=
+=98=D0=B3=D1=80=D0=B8=D1=81=D1=82=D0=BE=D0=B5 =D0=B2=D0=B8=D0=BD=D0=BE La G=
+ioiosa Prosecco DOC Treviso - 0.75&nbsp;=D0=BB <br>=0A                     =
+         &nbsp;=0A                            </a>=0A                      =
+    </td>=0A                        </tr>=0A                        <tr>=0A=
+                          <td class=3D"price"=0A                           =
+ style=3D"padding: 0; padding-bottom: 0px; padding-left: 10px; padding-righ=
+t: 10px; text-align: center">=0A                            <table cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%">=0A                             =
+ <tr>=0A                                <td valign=3D"bottom"=0A           =
+                       style=3D"padding: 0; padding-left: 15px; padding-rig=
+ht: 15px; display: inline-block; text-align: center">=0A                   =
+               <span class=3D"price__current"=0A                           =
+         style=3D"display: inline-block; vertical-align: bottom; font-famil=
+y: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line=
+-height: 1.6; color: #272727; font-weight: 700; text-decoration-line: line-=
+through">=0A                                    3 171 =E2=82=BD=0A         =
+                         </span>=0A                                </td>=0A=
+                                <td valign=3D"bottom"=0A                   =
+               style=3D"padding: 0; padding-left: 15px; padding-right: 15px=
+; display: inline-block; text-align: center">=0A                           =
+       <span class=3D"price__current"=0A                                   =
+ style=3D"display: inline-block; vertical-align: bottom; font-family: &#39;=
+Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-height:=
+ 1.6; color: #b12535; font-weight: 700">=0A                                =
+    1 903 =E2=82=BD=0A                                  </span>=0A         =
+                       </td>=0A                              </tr>=0A      =
+                      </table>=0A                          </td>=0A        =
+                </tr>=0A                      </table>=0A                  =
+  </td>=0A                  </tr>=0A                </table>=0A            =
+  </td>=0A            </tr>=0A=0A            <tr>=0A              <td style=
+=3D"padding: 0; text-align: center">=0A                <table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">=0A                  <tr style=3D"f=
+ont-size: 0; text-align: center">=0A                    <td class=3D"col co=
+l--1" valign=3D"top" width=3D"280"=0A                      style=3D"display=
+: inline-block; width: 280px; padding: 0; padding-bottom: 50px;">=0A       =
+               <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0A                        <tr>=0A                          <td class=3D"im=
+age"=0A                            style=3D"padding: 0; padding-bottom: 20p=
+x; padding-left: 10px; padding-right: 10px; text-align: center">=0A        =
+                    <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/CS=
+W8Bg/JSfsAwjsdu8i48s8/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fsa=
+uvignon-blanc-stellenbosch-wo-kaapzicht--273040%2F%3Futm_source%3Demail%26u=
+tm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo">=0A            =
+                  <img src=3D"https://email-images.mindbox.ru/c0639bc4-11f8=
+-44b8-aedd-f523a2a659a1/7.png" width=3D"260" height=3D"300"=0A             =
+                   style=3D"width: 100%; max-width: 260px; height: auto; mi=
+n-height: 300px; max-height: 300px; object-fit: contain"=0A                =
+                alt=3D"" />=0A                            </a>=0A          =
+                </td>=0A                        </tr>=0A                   =
+     <tr>=0A                          <td class=3D"name"=0A                =
+            style=3D"padding: 0; padding-bottom: 20px; padding-left: 10px; =
+padding-right: 10px; text-align: center">=0A                            <a =
+href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/CiW8Bg/6jpIF-c_90wBtnyH/?=
+u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fsauvignon-blanc-stellenbo=
+sch-wo-kaapzicht--273040%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26u=
+tm_campaign%3D11112025_Luding_promo"=0A                              style=
+=3D"font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-si=
+ze: 16px; line-height: 1.3; color: #272727; text-decoration: none; font-wei=
+ght: 400">=0A                              =D0=92=D0=B8=D0=BD=D0=BE Sauvign=
+on Blanc Stellenbosch WO Kaapzicht 2024 0.75&nbsp;=D0=BB=0A                =
+            </a>=0A                          </td>=0A                      =
+  </tr>=0A                        <tr>=0A                          <td clas=
+s=3D"price"=0A                            style=3D"padding: 0; padding-bott=
+om: 0px; padding-left: 10px; padding-right: 10px; text-align: center">=0A  =
+                          <table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=0A                              <tr>=0A                         =
+       <td valign=3D"bottom"=0A                                  style=3D"p=
+adding: 0; padding-left: 15px; padding-right: 15px; display: inline-block; =
+text-align: center">=0A                                  <span class=3D"pri=
+ce__current"=0A                                    style=3D"display: inline=
+-block; vertical-align: bottom; font-family: &#39;Verdana&#39;, &#39;Segoe =
+UI&#39;, sans-serif; font-size: 18px; line-height: 1.6; color: #272727; fon=
+t-weight: 700; text-decoration-line: line-through">=0A                     =
+               3 255 =E2=82=BD=0A                                  </span>=
+=0A                                </td>=0A                                =
+<td valign=3D"bottom"=0A                                  style=3D"padding:=
+ 0; padding-left: 15px; padding-right: 15px; display: inline-block; text-al=
+ign: center">=0A                                  <span class=3D"price__cur=
+rent"=0A                                    style=3D"display: inline-block;=
+ vertical-align: bottom; font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;=
+, sans-serif; font-size: 18px; line-height: 1.6; color: #b12535; font-weigh=
+t: 700">=0A                                    1 953 =E2=82=BD=0A          =
+                        </span>=0A                                </td>=0A =
+                             </tr>=0A                            </table>=
+=0A                          </td>=0A                        </tr>=0A      =
+                </table>=0A                    </td>=0A                    =
+<td class=3D"col col--2" valign=3D"top" width=3D"280"=0A                   =
+   style=3D"display: inline-block; width: 280px; padding: 0; padding-bottom=
+: 50px;">=0A                      <table cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%">=0A                        <tr>=0A                        =
+  <td class=3D"image"=0A                            style=3D"padding: 0; pa=
+dding-bottom: 20px; padding-left: 10px; padding-right: 10px; text-align: ce=
+nter">=0A                            <a=0A                              hre=
+f=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/CyW8Bg/bLca6g4Fjk6lbpNh/?u=
+=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fla-granee-gavi-di-gavi-doc=
+g-batasiolo--406643%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_ca=
+mpaign%3D11112025_Luding_promo">=0A                              <img src=
+=3D"https://email-images.mindbox.ru/08f756b9-d9cc-4015-bf8a-8274c79fa7d1/3.=
+png" width=3D"260" height=3D"300"=0A                                style=
+=3D"width: 100%; max-width: 260px; height: auto; min-height: 300px; max-hei=
+ght: 300px; object-fit: contain"=0A                                alt=3D""=
+ />=0A                            </a>=0A                          </td>=0A=
+                        </tr>=0A                        <tr>=0A            =
+              <td class=3D"name"=0A                            style=3D"pad=
+ding: 0; padding-bottom: 20px; padding-left: 10px; padding-right: 10px; tex=
+t-align: center">=0A                            <a href=3D"https://tn-gne.m=
+ckx.ru/c/jxQlAABARgIBAEDD/DCW8Bg/ixrZsMJ7jx8A5rJW/?u=3Dhttps%3A%2F%2Fluding=
+.ru%2Fcollection%2Fitem%2Fla-granee-gavi-di-gavi-docg-batasiolo--406643%2F%=
+3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D11112025_Ludin=
+g_promo"=0A                              style=3D"font-family: &#39;Verdana=
+&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 16px; line-height: 1.3; c=
+olor: #272727; text-decoration: none; font-weight: 400">=0A                =
+              =D0=92=D0=B8=D0=BD=D0=BE La Granee Gavi di Gavi DOCG Batasiol=
+o 2023 0.375 =D0=BB <br>=0A                              &nbsp;=0A         =
+                   </a>=0A                          </td>=0A               =
+         </tr>=0A                        <tr>=0A                          <=
+td class=3D"price"=0A                            style=3D"padding: 0; paddi=
+ng-bottom: 0px; padding-left: 10px; padding-right: 10px; text-align: center=
+">=0A                            <table cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%">=0A                              <tr>=0A                   =
+             <td valign=3D"bottom"=0A                                  styl=
+e=3D"padding: 0; padding-left: 15px; padding-right: 15px; display: inline-b=
+lock; text-align: center">=0A                                  <span class=
+=3D"price__current"=0A                                    style=3D"display:=
+ inline-block; vertical-align: bottom; font-family: &#39;Verdana&#39;, &#39=
+;Segoe UI&#39;, sans-serif; font-size: 18px; line-height: 1.6; color: #2727=
+27; font-weight: 700; text-decoration-line: line-through">=0A              =
+                      3 221 =E2=82=BD=0A                                  <=
+/span>=0A                                </td>=0A                          =
+      <td valign=3D"bottom"=0A                                  style=3D"pa=
+dding: 0; padding-left: 15px; padding-right: 15px; display: inline-block; t=
+ext-align: center">=0A                                  <span class=3D"pric=
+e__current"=0A                                    style=3D"display: inline-=
+block; vertical-align: bottom; font-family: &#39;Verdana&#39;, &#39;Segoe U=
+I&#39;, sans-serif; font-size: 18px; line-height: 1.6; color: #b12535; font=
+-weight: 700">=0A                                    1 933 =E2=82=BD=0A    =
+                              </span>=0A                                </t=
+d>=0A                              </tr>=0A                            </ta=
+ble>=0A                          </td>=0A                        </tr>=0A  =
+                    </table>=0A                    </td>=0A                =
+  </tr>=0A                </table>=0A              </td>=0A            </tr=
+>=0A=0A            <tr>=0A              <td style=3D"padding: 0; text-align=
+: center">=0A                <table cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%">=0A                  <tr style=3D"font-size: 0; text-align: cen=
+ter">=0A                    <td class=3D"col col--1" valign=3D"top" width=
+=3D"280"=0A                      style=3D"display: inline-block; width: 280=
+px; padding: 0; padding-bottom: 50px;">=0A                      <table cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">=0A                        <=
+tr>=0A                          <td class=3D"image"=0A                     =
+       style=3D"padding: 0; padding-bottom: 20px; padding-left: 10px; paddi=
+ng-right: 10px; text-align: center">=0A                            <a href=
+=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/DSW8Bg/kBphO1UAV7WGLsoJ/?u=3D=
+https%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fpaddleboard-cellars-pinot-noi=
+r-california-kautz-vineyards--255262%2F%3Futm_source%3Demail%26utm_medium%3=
+Dregular%26utm_campaign%3D11112025_Luding_promo">=0A                       =
+       <img src=3D"https://email-images.mindbox.ru/6873f1c8-f161-49a8-972d-=
+463c90ce40ad/9.png" width=3D"260" height=3D"300"=0A                        =
+        style=3D"width: 100%; max-width: 260px; height: auto; min-height: 3=
+00px; max-height: 300px; object-fit: contain"=0A                           =
+     alt=3D"" />=0A                            </a>=0A                     =
+     </td>=0A                        </tr>=0A                        <tr>=
+=0A                          <td class=3D"name"=0A                         =
+   style=3D"padding: 0; padding-bottom: 20px; padding-left: 10px; padding-r=
+ight: 10px; text-align: center">=0A                            <a href=3D"h=
+ttps://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/DiW8Bg/2Byof9Xq-ZByabSG/?u=3Dhttps=
+%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fpaddleboard-cellars-pinot-noir-cal=
+ifornia-kautz-vineyards--255262%2F%3Futm_source%3Demail%26utm_medium%3Dregu=
+lar%26utm_campaign%3D11112025_Luding_promo"=0A                             =
+ style=3D"font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; f=
+ont-size: 16px; line-height: 1.3; color: #272727; text-decoration: none; fo=
+nt-weight: 400">=0A                              =D0=92=D0=B8=D0=BD=D0=BE P=
+addleboard Cellars Pinot Noir California Kautz Vineyards 2020 0.75&nbsp;=D0=
+=BB=0A                            </a>=0A                          </td>=0A=
+                        </tr>=0A                        <tr>=0A            =
+              <td class=3D"price"=0A                            style=3D"pa=
+dding: 0; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; tex=
+t-align: center">=0A                            <table cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%">=0A                              <tr>=0A    =
+                            <td valign=3D"bottom"=0A                       =
+           style=3D"padding: 0; padding-left: 15px; padding-right: 15px; di=
+splay: inline-block; text-align: center">=0A                               =
+   <span class=3D"price__current"=0A                                    sty=
+le=3D"display: inline-block; vertical-align: bottom; font-family: &#39;Verd=
+ana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-height: 1.6=
+; color: #272727; font-weight: 700; text-decoration-line: line-through">=0A=
+                                    2 954 =E2=82=BD=0A                     =
+             </span>=0A                                </td>=0A            =
+                    <td valign=3D"bottom"=0A                               =
+   style=3D"padding: 0; padding-left: 15px; padding-right: 15px; display: i=
+nline-block; text-align: center">=0A                                  <span=
+ class=3D"price__current"=0A                                    style=3D"di=
+splay: inline-block; vertical-align: bottom; font-family: &#39;Verdana&#39;=
+, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-height: 1.6; color:=
+ #b12535; font-weight: 700">=0A                                    1 772 =
+=E2=82=BD=0A                                  </span>=0A                   =
+             </td>=0A                              </tr>=0A                =
+            </table>=0A                          </td>=0A                  =
+      </tr>=0A                      </table>=0A                    </td>=0A=
+                    <td class=3D"col col--2" valign=3D"top" width=3D"280"=
+=0A                      style=3D"display: inline-block; width: 280px; padd=
+ing: 0; padding-bottom: 50px;">=0A                      <table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">=0A                        <tr>=0A =
+                         <td class=3D"image"=0A                            =
+style=3D"padding: 0; padding-bottom: 20px; padding-left: 10px; padding-righ=
+t: 10px; text-align: center">=0A                            <a=0A          =
+                    href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/DyW8B=
+g/bZRk4lX6JeXj_ouM/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fmas-d=
+e-daumas-gassac-saint-guilhem-le-desert-igp--444958%2F%3Futm_source%3Demail=
+%26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo">=0A        =
+                      <img src=3D"https://email-images.mindbox.ru/c617f855-=
+1594-4643-a806-675882be0b5c/5.png" width=3D"260" height=3D"300"=0A         =
+                       style=3D"width: 100%; max-width: 260px; height: auto=
+; min-height: 300px; max-height: 300px; object-fit: contain"=0A            =
+                    alt=3D"" />=0A                            </a>=0A      =
+                    </td>=0A                        </tr>=0A               =
+         <tr>=0A                          <td class=3D"name"=0A            =
+                style=3D"padding: 0; padding-bottom: 20px; padding-left: 10=
+px; padding-right: 10px; text-align: center">=0A                           =
+ <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/ECW8Bg/_-4yDZMhaDXbaU=
+15/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Fmas-de-daumas-gassac-=
+saint-guilhem-le-desert-igp--444958%2F%2F%3Futm_source%3Demail%26utm_medium=
+%3Dregular%26utm_campaign%3D11112025_Luding_promo"=0A                      =
+        style=3D"font-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-s=
+erif; font-size: 16px; line-height: 1.3; color: #272727; text-decoration: n=
+one; font-weight: 400">=0A                              =D0=92=D0=B8=D0=BD=
+=D0=BE Mas de Daumas Gassac Saint-Guilhem-le-Desert IGP 2020 0.75&nbsp;=D0=
+=BB=0A                            </a>=0A                          </td>=0A=
+                        </tr>=0A                        <tr>=0A            =
+              <td class=3D"price"=0A                            style=3D"pa=
+dding: 0; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; tex=
+t-align: center">=0A                            <table cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%">=0A                              <tr>=0A    =
+                            <td valign=3D"bottom"=0A                       =
+           style=3D"padding: 0; padding-left: 15px; padding-right: 15px; di=
+splay: inline-block; text-align: center">=0A                               =
+   <span class=3D"price__current"=0A                                    sty=
+le=3D"display: inline-block; vertical-align: bottom; font-family: &#39;Verd=
+ana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-height: 1.6=
+; color: #272727; font-weight: 700; text-decoration-line: line-through">=0A=
+                                    19 309 =E2=82=BD=0A                    =
+              </span>=0A                                </td>=0A           =
+                     <td valign=3D"bottom"=0A                              =
+    style=3D"padding: 0; padding-left: 15px; padding-right: 15px; display: =
+inline-block; text-align: center">=0A                                  <spa=
+n class=3D"price__current"=0A                                    style=3D"d=
+isplay: inline-block; vertical-align: bottom; font-family: &#39;Verdana&#39=
+;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-height: 1.6; color=
+: #b12535; font-weight: 700">=0A                                    12 358 =
+=E2=82=BD=0A                                  </span>=0A                   =
+             </td>=0A                              </tr>=0A                =
+            </table>=0A                          </td>=0A                  =
+      </tr>=0A                      </table>=0A                    </td>=0A=
+                  </tr>=0A                </table>=0A              </td>=0A=
+            </tr>=0A            =0A            <tr>=0A              <td sty=
+le=3D"padding: 0; text-align: center">=0A                <table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">=0A                  <tr style=3D"f=
+ont-size: 0; text-align: center">=0A                    <td class=3D"col co=
+l--1" valign=3D"top" width=3D"280"=0A                      style=3D"display=
+: inline-block; width: 280px; padding: 0; padding-bottom: 50px;">=0A       =
+               <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0A                        <tr>=0A                          <td class=3D"im=
+age"=0A                            style=3D"padding: 0; padding-bottom: 20p=
+x; padding-left: 10px; padding-right: 10px; text-align: center">=0A        =
+                    <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/ES=
+W8Bg/JiaZivrBqMp1Gmlm/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%2Ftc=
+haikovsky-symphony--477398%2F103533%2F%3Futm_source%3Demail%26utm_medium%3D=
+regular%26utm_campaign%3D11112025_Luding_promo">=0A                        =
+      <img src=3D"https://email-images.mindbox.ru/2b041e89-7259-4ded-bf94-9=
+676737e6a90/2.png" width=3D"260" height=3D"300"=0A                         =
+       style=3D"width: 100%; max-width: 260px; height: auto; min-height: 30=
+0px; max-height: 300px; object-fit: contain"=0A                            =
+    alt=3D"" />=0A                            </a>=0A                      =
+    </td>=0A                        </tr>=0A                        <tr>=0A=
+                          <td class=3D"name"=0A                            =
+style=3D"padding: 0; padding-bottom: 20px; padding-left: 10px; padding-righ=
+t: 10px; text-align: center">=0A                            <a href=3D"http=
+s://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/EiW8Bg/qZnX4wrYenyqonid/?u=3Dhttps%3A=
+%2F%2Fluding.ru%2Fcollection%2Fitem%2Ftchaikovsky-symphony--477398%2F103533=
+%2F%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D1111202=
+5_Luding_promo"=0A                              style=3D"font-family: &#39;=
+Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 16px; line-height:=
+ 1.3; color: #272727; text-decoration: none; font-weight: 400">=0A         =
+                     =D0=92=D0=BE=D0=B4=D0=BA=D0=B0 Tchaikovsky Symphony 0.=
+7&nbsp;=D0=BB=0A                            </a>=0A                        =
+  </td>=0A                        </tr>=0A                        <tr>=0A  =
+                        <td class=3D"price"=0A                            s=
+tyle=3D"padding: 0; padding-bottom: 0px; padding-left: 10px; padding-right:=
+ 10px; text-align: center">=0A                            <table cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%">=0A                              <=
+tr>=0A                                <td valign=3D"bottom"=0A             =
+                     style=3D"padding: 0; padding-left: 15px; padding-right=
+: 15px; display: inline-block; text-align: center">=0A                     =
+             <span class=3D"price__current"=0A                             =
+       style=3D"display: inline-block; vertical-align: bottom; font-family:=
+ &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-h=
+eight: 1.6; color: #272727; font-weight: 700; text-decoration-line: line-th=
+rough">=0A                                    2 069 =E2=82=BD=0A           =
+                       </span>=0A                                </td>=0A  =
+                              <td valign=3D"bottom"=0A                     =
+             style=3D"padding: 0; padding-left: 15px; padding-right: 15px; =
+display: inline-block; text-align: center">=0A                             =
+     <span class=3D"price__current"=0A                                    s=
+tyle=3D"display: inline-block; vertical-align: bottom; font-family: &#39;Ve=
+rdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line-height: 1=
+.6; color: #b12535; font-weight: 700">=0A                                  =
+  1 552 =E2=82=BD=0A                                  </span>=0A           =
+                     </td>=0A                              </tr>=0A        =
+                    </table>=0A                          </td>=0A          =
+              </tr>=0A                      </table>=0A                    =
+</td>=0A                    <td class=3D"col col--2" valign=3D"top" width=
+=3D"280"=0A                      style=3D"display: inline-block; width: 280=
+px; padding: 0; padding-bottom: 50px;">=0A                      <table cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">=0A                        <=
+tr>=0A                          <td class=3D"image"=0A                     =
+       style=3D"padding: 0; padding-bottom: 20px; padding-left: 10px; paddi=
+ng-right: 10px; text-align: center">=0A                            <a=0A   =
+                           href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAED=
+D/EyW8Bg/fqcOgj8s4XRzFxH_/?u=3Dhttps%3A%2F%2Fluding.ru%2Fcollection%2Fitem%=
+2Fgambini-cream--393454%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26ut=
+m_campaign%3D11112025_Luding_promo">=0A                              <img s=
+rc=3D"https://email-images.mindbox.ru/4307de1d-501d-49f5-84d5-faa0820edb02/=
+8.png" width=3D"260" height=3D"300"=0A                                style=
+=3D"width: 100%; max-width: 260px; height: auto; min-height: 300px; max-hei=
+ght: 300px; object-fit: contain"=0A                                alt=3D""=
+ />=0A                            </a>=0A                          </td>=0A=
+                        </tr>=0A                        <tr>=0A            =
+              <td class=3D"name"=0A                            style=3D"pad=
+ding: 0; padding-bottom: 20px; padding-left: 10px; padding-right: 10px; tex=
+t-align: center">=0A                            <a href=3D"https://tn-gne.m=
+ckx.ru/c/jxQlAABARgIBAEDD/FCW8Bg/SXa2hLbVHSNZ2VTu/?u=3Dhttps%3A%2F%2Fluding=
+.ru%2Fcollection%2Fitem%2Fgambini-cream--393454%2F%2F%3Futm_source%3Demail%=
+26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_promo"=0A          =
+                    style=3D"font-family: &#39;Verdana&#39;, &#39;Segoe UI&=
+#39;, sans-serif; font-size: 16px; line-height: 1.3; color: #272727; text-d=
+ecoration: none; font-weight: 400">=0A                              =D0=9B=
+=D0=B8=D0=BA=D1=91=D1=80 Gambini Cream 0.7&nbsp;=D0=BB <br>=0A             =
+                 &nbsp;=0A                            </a>=0A              =
+            </td>=0A                        </tr>=0A                       =
+ <tr>=0A                          <td class=3D"price"=0A                   =
+         style=3D"padding: 0; padding-bottom: 0px; padding-left: 10px; padd=
+ing-right: 10px; text-align: center">=0A                            <table =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A                     =
+         <tr>=0A                                <td valign=3D"bottom"=0A   =
+                               style=3D"padding: 0; padding-left: 15px; pad=
+ding-right: 15px; display: inline-block; text-align: center">=0A           =
+                       <span class=3D"price__current"=0A                   =
+                 style=3D"display: inline-block; vertical-align: bottom; fo=
+nt-family: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18=
+px; line-height: 1.6; color: #272727; font-weight: 700; text-decoration-lin=
+e: line-through">=0A                                    1 843 =E2=82=BD=0A =
+                                 </span>=0A                                =
+</td>=0A                                <td valign=3D"bottom"=0A           =
+                       style=3D"padding: 0; padding-left: 15px; padding-rig=
+ht: 15px; display: inline-block; text-align: center">=0A                   =
+               <span class=3D"price__current"=0A                           =
+         style=3D"display: inline-block; vertical-align: bottom; font-famil=
+y: &#39;Verdana&#39;, &#39;Segoe UI&#39;, sans-serif; font-size: 18px; line=
+-height: 1.6; color: #b12535; font-weight: 700">=0A                        =
+            922 =E2=82=BD=0A                                  </span>=0A   =
+                             </td>=0A                              </tr>=0A=
+                            </table>=0A                          </td>=0A  =
+                      </tr>=0A                      </table>=0A            =
+        </td>=0A                  </tr>=0A                </table>=0A      =
+        </td>=0A            </tr>=0A=0A            =0A            <tr>=0A  =
+            <td class=3D"button"=0A                style=3D"padding: 0; pad=
+ding-bottom: 60px; padding-left: 6.5%; padding-right: 6.5%; text-align: cen=
+ter">=0A                <div>=0A                  <!--[if mso]>=0A         =
+           <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://luding.ru/news/b=
+lack-friday-skidki-do--50--/" style=3D"height:50px;v-text-anchor:middle;wid=
+th:260px;" stroke=3D"f" fillcolor=3D"#B12535">=0A                    <w:anc=
+horlock/>=0A                    <center>=0A                    <![endif]-->=
+=0A                  <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/F=
+SW8Bg/4Iskh_UTcKsEefRW/?u=3Dhttps%3A%2F%2Fluding.ru%2Fnews%2Fblack-friday-s=
+kidki-do--50--%2F%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaig=
+n%3D11112025_Luding_promo"=0A                    target=3D"_blank"=0A      =
+              style=3D"background-color: #b12535; color: #ffffff; display: =
+inline-block; font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, &#39;Arial=
+&#39;, sans-serif; font-size: 18px; font-weight: 500; line-height: 50px; te=
+xt-align: center; text-decoration: none; width: 260px; text-transform: uppe=
+rcase; border-radius: 8px; -webkit-text-size-adjust: none; letter-spacing: =
+1px">=0A                    =D0=95=D1=89=D0=B5!=0A                  </a>=0A=
+                  <!--[if mso]>=0A                    </center>=0A         =
+           </v:roundrect>=0A                    <![endif]-->=0A            =
+    </div>=0A              </td>=0A            </tr>=0A          </table>=
+=0A          <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A =
+           <tr>=0A              <td style=3D"padding: 0; padding-bottom: 40=
+px; text-align: left">=0A                &nbsp;=0A              </td>=0A   =
+         </tr>=0A          </table>=0A          <table cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" bgcolor=3D"#1F1F26"=0A            style=3D"b=
+ackground-color: #1F1F26; background-image: linear-gradient(rgba(3, 15, 15,=
+ 1)); border-radius: 20px;">=0A            <tr>=0A              <td style=
+=3D"padding: 0; padding-top: 50px; padding-bottom: 30px; text-align: center=
+">=0A                <table class=3D"advantages" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%">=0A                  <tr>=0A                    <t=
+d class=3D"col"=0A                      style=3D"padding: 0; display: inlin=
+e-block; padding-left: 10px; padding-right: 10px; width: 126px; padding-bot=
+tom: 20px; text-align: center">=0A                      <table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">=0A                        <tr>=0A =
+                         <td style=3D"padding: 0; padding-bottom: 20px; tex=
+t-align: center">=0A                            <img src=3D"https://email-i=
+mages.mindbox.ru/4275d9f7-d136-43da-90c7-5c4f1d333386/17"=0A               =
+               width=3D"78" style=3D"width: 100%; max-width: 78px; height: =
+auto; vertical-align: middle;"=0A                              alt=3D"">=0A=
+                          </td>=0A                        </tr>=0A         =
+               <tr>=0A                          <td style=3D"padding: 0; pa=
+dding-bottom: 20px; text-align: center">=0A                            <spa=
+n=0A                              style=3D"font-family: &#39;Roboto&#39;, &=
+#39;Segoe UI&#39;, Arial, sans-serif; font-size: 15px; line-height: 1.2; co=
+lor: #E2E7E9; font-weight: 400">=0A                              =D0=91=D0=
+=BE=D0=BB=D1=8C=D1=88=D0=B5 6000 =D0=B2=D0=B8=D0=BD <br>=0A                =
+              =D0=B8&nbsp;=D0=BA=D1=80=D0=B5=D0=BF=D0=BA=D0=BE=D0=B3=D0=BE =
+<br>=0A                              =D0=B0=D0=BB=D0=BA=D0=BE=D0=B3=D0=BE=
+=D0=BB=D1=8F=0A                            </span>=0A                      =
+    </td>=0A                        </tr>=0A                      </table>=
+=0A                    </td>=0A                    <td class=3D"col"=0A    =
+                  style=3D"padding: 0; display: inline-block; padding-left:=
+ 10px; padding-right: 10px; width: 126px; padding-bottom: 20px; text-align:=
+ center">=0A                      <table cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%">=0A                        <tr>=0A                        =
+  <td style=3D"padding: 0; padding-bottom: 20px; text-align: center">=0A   =
+                         <img src=3D"https://email-images.mindbox.ru/89836e=
+e9-caf7-4027-bd7b-0bd5ac587358/14"=0A                              width=3D=
+"78" style=3D"width: 100%; max-width: 78px; height: auto; vertical-align: m=
+iddle;"=0A                              alt=3D"">=0A                       =
+   </td>=0A                        </tr>=0A                        <tr>=0A =
+                         <td style=3D"padding: 0; padding-bottom: 20px; tex=
+t-align: center">=0A                            <span=0A                   =
+           style=3D"font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Aria=
+l, sans-serif; font-size: 15px; line-height: 1.2; color: #E2E7E9; font-weig=
+ht: 400">=0A                              =D0=9E=D0=BD=D0=BB=D0=B0=D0=B9=D0=
+=BD- <br>=0A                              =D0=BA=D0=BE=D0=BD=D1=81=D1=83=D0=
+=BB=D1=8C=D1=82=D0=B0=D1=86=D0=B8=D0=B8 <br>=0A                            =
+  =D1=81=D0=BE=D0=BC=D0=B5=D0=BB=D1=8C=D0=B5=0A                            =
+</span>=0A                          </td>=0A                        </tr>=
+=0A                      </table>=0A                    </td>=0A           =
+         <td class=3D"col"=0A                      style=3D"padding: 0; dis=
+play: inline-block; padding-left: 10px; padding-right: 10px; width: 126px; =
+padding-bottom: 20px; text-align: center">=0A                      <table c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A                      =
+  <tr>=0A                          <td style=3D"padding: 0; padding-bottom:=
+ 20px; text-align: center">=0A                            <img src=3D"https=
+://email-images.mindbox.ru/c7b3df06-133a-4d52-a357-ff358f283c80/11"=0A     =
+                         width=3D"78" style=3D"width: 100%; max-width: 78px=
+; height: auto; vertical-align: middle;"=0A                              al=
+t=3D"">=0A                          </td>=0A                        </tr>=
+=0A                        <tr>=0A                          <td style=3D"pa=
+dding: 0; padding-bottom: 20px; text-align: center">=0A                    =
+        <span=0A                              style=3D"font-family: &#39;Ro=
+boto&#39;, &#39;Segoe UI&#39;, Arial, sans-serif; font-size: 15px; line-hei=
+ght: 1.2; color: #E2E7E9; font-weight: 400">=0A                            =
+  =D0=A1=D0=BA=D0=B8=D0=B4=D0=BA=D0=B8 <br>=0A                             =
+ =D0=B4=D0=BB=D1=8F =D0=BF=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=BD=D1=8B=
+=D1=85 <br>=0A                              =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=
+=D1=82=D0=BE=D0=B2=0A                            </span>=0A                =
+          </td>=0A                        </tr>=0A                      </t=
+able>=0A                    </td>=0A                    <td class=3D"col"=
+=0A                      style=3D"padding: 0; display: inline-block; paddin=
+g-left: 10px; padding-right: 10px; width: 126px; padding-bottom: 20px; text=
+-align: center">=0A                      <table cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%">=0A                        <tr>=0A                 =
+         <td style=3D"padding: 0; padding-bottom: 20px; text-align: center"=
+>=0A                            <img src=3D"https://email-images.mindbox.ru=
+/2b25a239-895c-45db-ace4-54a4def96b3e/9" width=3D"78"=0A                   =
+           style=3D"width: 100%; max-width: 78px; height: auto; vertical-al=
+ign: middle;" alt=3D"">=0A                          </td>=0A               =
+         </tr>=0A                        <tr>=0A                          <=
+td style=3D"padding: 0; padding-bottom: 20px; text-align: center">=0A      =
+                      <span=0A                              style=3D"font-f=
+amily: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, sans-serif; font-size: =
+15px; line-height: 1.2; color: #E2E7E9; font-weight: 400">=0A              =
+                =D0=90=D0=BA=D1=86=D0=B8=D0=B8 <br>=0A                     =
+         =D0=B8 =D1=81=D0=BF=D0=B5=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=
+=8B=D0=B5 <br>=0A                              =D0=BF=D1=80=D0=B5=D0=B4=D0=
+=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F=0A                            </spa=
+n>=0A                          </td>=0A                        </tr>=0A    =
+                  </table>=0A                    </td>=0A                  =
+</tr>=0A                </table>=0A                <table cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%">=0A                  <tr>=0A             =
+       <td=0A                      style=3D"padding: 0; padding-bottom: 40p=
+x; padding-left: 50px; padding-right: 50px; text-align: center">=0A        =
+              <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=
+                        <tr>=0A                          <td style=3D"paddi=
+ng: 0; line-height: 0; border-top: 1px solid #B12535; text-align: center">=
+=0A                            &nbsp;=0A                          </td>=0A =
+                       </tr>=0A                      </table>=0A           =
+         </td>=0A                  </tr>=0A                </table>=0A     =
+           <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A   =
+               <tr style=3D"font-size: 0; text-align: center">=0A          =
+          <td style=3D"padding: 0; font-size: 0; line-height: 0"></td>=0A  =
+                  <td width=3D"400">=0A                      <div style=3D"=
+width: 100%; max-width: 400px; margin: 0 auto">=0A                        <=
+table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A               =
+           <tr style=3D"font-size: 0; text-align: center">=0A              =
+              <td width=3D"20%" valign=3D"top" style=3D"padding: 0; text-al=
+ign: center">=0A                              <a href=3D"https://tn-gne.mck=
+x.ru/c/jxQlAABARgIBAEDD/FiW8Bg/Er8Livj3R_GSmHlx/?u=3Dhttps%3A%2F%2Fvk.com%2=
+Fluding_official%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign=
+%3D11112025_Luding_promo" style=3D"text-decoration: none">=0A              =
+                  <img src=3D"https://email-images.mindbox.ru/28dc5ad2-2951=
+-40ec-b055-a4100787bf52/7"=0A                                  width=3D"60"=
+ height=3D"60"=0A                                  style=3D"font-family: &#=
+39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, sans-serif; font-size: 14px; lin=
+e-height: 1.2; color: #cdcdcd"=0A                                  alt=3D"v=
+k">=0A                              </a>=0A                            </td=
+>=0A                            <td width=3D"20%" valign=3D"top" style=3D"p=
+adding: 0; text-align: center">=0A                              <a href=3D"=
+https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/FyW8Bg/lIJyXeuFReX9sDib/?u=3Dhttp=
+s%3A%2F%2Fwww.youtube.com%2Fc%2FLUDING_official%3Futm_source%3Demail%26utm_=
+medium%3Dregular%26utm_campaign%3D11112025_Luding_promo" style=3D"text-deco=
+ration: none">=0A                                <img src=3D"https://email-=
+images.mindbox.ru/2f004ae9-bcf4-4353-8b30-0d1ba2dfd6c5/5"=0A               =
+                   width=3D"60" height=3D"60"=0A                           =
+       style=3D"font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, s=
+ans-serif; font-size: 14px; line-height: 1.2; color: #cdcdcd"=0A           =
+                       alt=3D"youtube">=0A                              </a=
+>=0A                            </td>=0A                            <td wid=
+th=3D"20%" valign=3D"top" style=3D"padding: 0; text-align: center">=0A     =
+                         <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAE=
+DD/GCW8Bg/qKFYb33U68lwpEbS/?u=3Dhttps%3A%2F%2Ft.me%2Fluding_official%3Futm_=
+source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D11112025_Luding_prom=
+o" style=3D"text-decoration: none">=0A                                <img =
+src=3D"https://email-images.mindbox.ru/04ebdb36-455a-4819-8f76-8a865174c956=
+/3"=0A                                  width=3D"60" height=3D"60"=0A      =
+                            style=3D"font-family: &#39;Roboto&#39;, &#39;Se=
+goe UI&#39;, Arial, sans-serif; font-size: 14px; line-height: 1.2; color: #=
+cdcdcd"=0A                                  alt=3D"telegram">=0A           =
+                   </a>=0A                            </td>=0A             =
+               <td width=3D"20%" valign=3D"top" style=3D"padding: 0; text-a=
+lign: center">=0A                              <a href=3D"https://tn-gne.mc=
+kx.ru/c/jxQlAABARgIBAEDD/GSW8Bg/ErulErGRCeYzs7x7/?u=3Dhttps%3A%2F%2Fzen.yan=
+dex.ru%2Fluding_official%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_=
+campaign%3D11112025_Luding_promo" style=3D"text-decoration: none">=0A      =
+                          <img src=3D"https://email-images.mindbox.ru/abedf=
+954-18b2-48d3-9a87-c3fb2e729659/1"=0A                                  widt=
+h=3D"60" height=3D"60"=0A                                  style=3D"font-fa=
+mily: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, sans-serif; font-size: 1=
+4px; line-height: 1.2; color: #cdcdcd"=0A                                  =
+alt=3D"zen">=0A                              </a>=0A                       =
+     </td>=0A                            <td width=3D"20%" valign=3D"top" s=
+tyle=3D"padding: 0; text-align: center">=0A                              <a=
+ href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/GiW8Bg/TcLjb5ZkDM3rJBT2/=
+?u=3Dhttps%3A%2F%2Ftiktok.com%2F%40luding.ru%3Futm_source%3Demail%26utm_med=
+ium%3Dregular%26utm_campaign%3D11112025_Luding_promo" style=3D"text-decorat=
+ion: none">=0A                                <img src=3D"https://email-ima=
+ges.mindbox.ru/a44c57fd-1962-4c65-a44a-3ab2069926e9/13"=0A                 =
+                 width=3D"60" height=3D"60"=0A                             =
+     style=3D"font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, san=
+s-serif; font-size: 14px; line-height: 1.2; color: #cdcdcd"=0A             =
+                     alt=3D"tiktok">=0A                              </a>=
+=0A                            </td>=0A                          </tr>=0A  =
+                      </table>=0A                      </div>=0A           =
+         </td>=0A                    <td style=3D"padding: 0; font-size: 0;=
+ line-height: 0"></td>=0A                  </tr>=0A                </table>=
+=0A                <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">=0A                  <tr>=0A                    <td style=3D"padding: 0; =
+padding-top: 20px; padding-bottom: 10px; text-align: center">=0A           =
+           <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/GyW8Bg/k3jO=
+PMRtJ2cY4Mpx/?u=3Dhttps%3A%2F%2Fluding.ru%2F%3Futm_source%3Demail%26utm_med=
+ium%3Dregular%26utm_campaign%3D11112025_Luding_promo" style=3D"text-decorat=
+ion: none">=0A                        <img src=3D"https://email-images.mind=
+box.ru/52632bc2-2d64-4028-b037-6905aa4e448f/15" width=3D"122"=0A           =
+               style=3D"width: 100%; max-width: 122px; height: auto; vertic=
+al-align: middle;" alt=3D"Luding" />=0A                      </a>=0A       =
+             </td>=0A                  </tr>=0A                </table>=0A =
+               <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+=0A                  <tr>=0A                    <td style=3D"padding: 0; pa=
+dding-bottom: 40px; text-align: center">=0A                      <span=0A  =
+                      style=3D"font-family: &#39;Roboto&#39;, &#39;Segoe UI=
+&#39;, Arial, sans-serif; font-size: 16px; line-height: 1.8; color: #ffffff=
+; font-weight: 500">=0A                        <a style=3D"text-decoration:=
+ none; color: #ffffff;">=D1=83=D0=BB. =D0=98=D0=B2=D0=B0=D0=BD=D0=B0 =D0=A4=
+=D1=80=D0=B0=D0=BD=D0=BA=D0=BE, 8, =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0</a>=
+ <br>=0A                        <a href=3D"mailto:info@l-wine.ru"=0A       =
+                   style=3D"text-decoration: underline; color: #ffffff;">in=
+fo@l-wine.ru</a>&nbsp;<span=0A                          style=3D"color: #ff=
+ffff">&nbsp;|&nbsp;</span>&nbsp; <a href=3D"tel:+74951203773"=0A           =
+               style=3D"color: #ffffff; text-decoration: none;">+7 (495) 12=
+0-37-73</a>=0A                      </span>=0A                    </td>=0A =
+                 </tr>=0A                </table>=0A                <table =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A                  <tr=
+>=0A                    <td style=3D"padding: 0; padding-bottom: 20px; text=
+-align: center">=0A                      <span=0A                        st=
+yle=3D"font-family: &#39;Roboto&#39;, &#39;Segoe UI&#39;, Arial, sans-serif=
+; font-size: 14px; line-height: 1.2; color: #E2E7E9">=0A                   =
+     =D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=
+=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=82=D0=BE=
+=D0=BC=D1=83&nbsp;=D1=87=D1=82=D0=BE =D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=
+=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0&n=
+bsp;=D0=BD=D0=B0=D1=88=D0=B5=D0=BC&nbsp;=D1=81=D0=B0=D0=B9=D1=82=D0=B5.<br>=
+<br>=0A                        <a href=3D"https://tn-gne.mckx.ru/c/jxQlAABA=
+RgIBAEDD/HCW8Bg/lyDtfFBjFrla1yVv/?u=3Dhttps%3A%2F%2Ftn-gne.mckx.ru%2Fv%2Fjx=
+QlAABARgIBAEDD%2FtzwuGBeugIB1zm9b%3Futm_source%3Demail%26utm_medium%3Dregul=
+ar%26utm_campaign%3D11112025_Luding_promo"=0A                          styl=
+e=3D"color: #E2E7E9; font-weight: 500; text-decoration: underline">=D0=9E=
+=D1=82=D0=BA=D1=80=D1=8B=D1=82=D1=8C=0A                          =D0=B2=D0=
+=B5=D0=B1=E2=80=91=D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8E</a>&nbsp;<span style=
+=3D"color: #E2E7E9">&nbsp;|&nbsp;</span>&nbsp;<a=0A                        =
+  href=3D"https://tn-gne.mckx.ru/c/jxQlAABARgIBAEDD/HSW8Bg/y2fXbNovvAmjDar7=
+/?u=3Dhttps%3A%2F%2Ftn-gne.mckx.ru%2Fu%2FjxQlAABARgIBAEDD%2FtzwuGBeugIB1zm9=
+b%3Futm_source%3Demail%26utm_medium%3Dregular%26utm_campaign%3D11112025_Lud=
+ing_promo"=0A                          style=3D"color: #E2E7E9; font-weight=
+: 500; text-decoration: underline">=D0=9E=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=
+=82=D1=8C=D1=81=D1=8F</a>=0A                      </span>=0A               =
+     </td>=0A                  </tr>=0A                </table>=0A         =
+     </td>=0A            </tr>=0A          </table>=0A          <table cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">=0A            <tr>=0A      =
+        <td class=3D"banner"=0A                style=3D"padding: 0; padding=
+-top: 50px; padding-bottom: 20px; padding-left: 6.5%; padding-right: 6.5%; =
+text-align: center">=0A                <img=0A                  src=3D"http=
+s://email-images.mindbox.ru/Luding/379a1b18-2fa5-449e-bf1c-2039f2a917f0/bdf=
+9deb0-6cd1-4697-a71a-f7b698932e5c.png"=0A                  width=3D"500" st=
+yle=3D"width: 100%; max-width: 500px; height: auto;" alt=3D"" />=0A        =
+      </td>=0A            </tr>=0A          </table>=0A        </div>=0A   =
+   </td>=0A      <td></td>=0A    </tr>=0A  </table>=0A<img src=3D"https://t=
+n-gne.mckx.ru/o/jxQlAABARgIBAEDD/tzwuGBeugIB1zm9b" width=3D"1" height=3D"1"=
+ alt=3D"" border=3D"0" style=3D"display:block;"/></body>=0A=0A</html>

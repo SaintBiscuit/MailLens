@@ -1,0 +1,361 @@
+Delivered-To: testtest@mail.ru
+Return-path: <uslugi@mos.ru>
+Received-SPF: pass (exim-mx-64488746d7-gxwb4: domain of mos.ru designates 94.79.51.66 as permitted sender) client-ip=94.79.51.66; envelope-from=uslugi@mos.ru; helo=EPS-RELAY02.mos.ru;
+Received: from eps-relay02.mos.ru ([94.79.51.66]:40487)
+	by exim-mx-64488746d7-gxwb4 with esmtp (envelope-from <uslugi@mos.ru>)
+	id 1vFcv4-000000004Cq-2qfw
+	for testtest@mail.ru; Sun, 02 Nov 2025 21:35:14 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+  s=mail; d=mos.ru;
+  h=mime-version:date:subject:from:message-id:to:content-type;
+  bh=pjK5TJm6mTxcsyu+BOajCDHFjZI=;
+  b=Sf8I6/01Oo7K4gaAMz7GvvcPF8JVP2zJvrFl5h6bHJ/dDKfJnc9BQULv3mjcXtkWcMNfolub
+    1dI/J0kjR+R280/vfSWpf0uLkdUMldEtuJcds7R+Pffm2wy+lnHyYt4TkdrlXTd7dYPpFSxE
+    H2UtkRy6kYOm2cMk9fyKgijTWyzImctNOg/oodYsu0VUjV8IVNIGMALOOG0NVhuE5rbwQzRF
+    250yNq2LeDN8xrmPOr5keLv49KPdhGaOPEdmbjfnWFqx83vgrXslin6jo1KT1FVmb+YZN8oc
+    2PV5TBt5SJV4fphS2oPtQK/9sHC56rkNHJ2aAt8B2DeTr6HvZH9++w==
+Received: from pcs.mos.ru (10.206.176.204) by eps-relay02.mos.ru
+ (10.206.167.103) with Microsoft SMTP Server id 15.2.1544.9; Sun, 2 Nov 2025
+ 21:35:07 +0300
+MIME-Version: 1.0
+Date: Sun, 2 Nov 2025 21:35:07 +0300
+Subject: =?UTF-8?q?=D0=92=D0=B0=D0=BC_=D0=BF=D1=80=D0=B8=D1=88=D0=B5=D0=BB_=D0=BD?= =?UTF-8?q?=D0=BE=D0=B2=D1=8B=D0=B9_=D1=81=D1=87=D0=B5=D1=82?=
+Reply-To: <uslugi@mos.ru>
+List-Unsubscribe: https://robot.mos.ru/r/?muid=673f83f2-7b8d-4360-896a-c10595e83a40&category=0429a93a-4609-467d-aca5-6b953a6a021d&url=https%3A%2F%2Frobot.mos.ru%2Fl%2Funsubscribe%2F
+From: =?UTF-8?q?=D0=93=D0=BE=D1=81=D1=83=D1=81=D0=BB=D1=83=D0=B3=D0=B8_=D0=9C?=
+ =?UTF-8?q?=D0=BE=D1=81=D0=BA=D0=B2=D1=8B?= <uslugi@mos.ru>
+Message-ID: <1762108507.673f83f2-7b8d-4360-896a-c10595e83a40@mos.ru>
+Content-Disposition: inline
+To: testtest@mail.ru
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-KSE-ServerInfo: eps-relay204p.mos.ru, 9
+X-KSE-AntiSpam-Interceptor-Info: protection disabled
+X-KSE-Antivirus-Interceptor-Info: protection disabled
+X-KSE-AttachmentFiltering-Interceptor-Info: protection disabled
+X-KSE-BulkMessagesFiltering-Scan-Result: protection disabled
+X-Mailru-Src: mx
+X-4EC0790: 10
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499A3E54F99AC0577D180DBF3F5468CF1E5DE4B7A56100F0404E0BBDAAE39103F3638701F0628C4B95CBAD4456F174008C9ECBE58C8525EBE770D2BD7F8E774E812ADFCF23B8BF72E19D074A40F52AF1438D
+X-7FA49CB5: FF5795518A3D127A4AD6D5ED66289B5278DA827A17800CE70D278D70F8433719EA1F7E6F0F101C67BD4B6F7A4D31EC0BCC500DACC3FED6E28638F802B75D45FF8AA50765F79006375ADD22AB810815BC8638F802B75D45FF914D58D5BE9E6BC1A93B80C6DEB9DEE97C6FB206A91F05B23E9292622B5157A32E070BE324C7D3C44022C97967F44496CB5012B2E24CD356
+X-C1DE0DAB: 0D63561A33F958A5B20652357B021D615002B1117B3ED6962DC6C20DE00A006C30E4A65F242F5898277AA237ED671D4372AF3B35EA4094CC2D01283D1ACF37BA9C5DF10A05D560A97C2FCC2414B0771EAE9AA65D09B166D8C19FC882D309F21DC79554A2A72441324ECABB3E3C951CC822D2CEDE4E95CF1B1E618B5D5F965AFD98EAA0EED4DE4A60B2D1C9E48B6DC60AE2A7E19323554B12787CBDA4B9FA07AC0540E98F460C1F684EAF44D9B582CE87C8A4C02DF684249C0D859BC32D74B8B5F47370ED49A4725AF6228F3B180FA51DD0283EA430FA964B3031222003C43473FB820E9FE7BD014C17C1E67C4FCC32AC4AC6F0C3BBD4C0F458C12E6D310A6D536E123DEED5FA6D73
+X-C8649E89: 1C3962B70DF3F0AD6CA83DDAEED84B1277DD89D51EBB77425549AD62737CC1891004E42C50DC4CA955A7F0CF078B5EC49A30900B95165D34324A9840C798D500EC90A4D23B44680E9A45FD6879C794DB5C347BEC3421DB73EA737F3C2A52B7661D7E09C32AA3244CB813046CAB05ADEF77DD89D51EBB7742E0C32D42EDECE645EA455F16B58544A2C99F59F2F009F096A77869C8948D001D64B282A925114C7890831788F967CC77
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OfQ224tzWB8nfOQpxYwmE7vQD3UB9D76Zz+as/Gjtpo0yc4xxguKIL1bswd831VAbRDXmem+Wr9X5wgRN+CVA5FnTOkMRPhmuTeKCKSt0eVYYBzOlM5QT4i0RbiDsOUNYg==
+X-F696D7D5: wqa8rLxGXuCIlFphNMH54x+6Ez9P/8IUYnR4kmTHk7Ie+OhAb3R0zw==
+X-Mailru-BIMI-Organization: TW9zLlJ1
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=uslugi@mos.ru
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mx-64488746d7-gxwb4: domain of mos.ru designates 94.79.51.66 as permitted sender) smtp.mailfrom=uslugi@mos.ru smtp.helo=EPS-RELAY02.mos.ru;
+	 dkim=pass header.d=mos.ru; dmarc=pass header.from=uslugi@mos.ru
+X-Mailru-Intl-Transport: d,2affdb9
+
+<!doctype html><html xmlns=3Dhttp://www.w3.org/1999/xhtml><head><meta chars=
+et=3Dutf-8><meta name=3Dviewport content=3D"width=3Ddevice-width"><title></=
+title><style type=3Dtext/css> @media only screen and (max-width: 600px) { .=
+nobr { display: none !important; } .padding-top { padding-top: 0 !important=
+; } } </style></head><body style=3D"width:100% !important;min-width:100%;-w=
+ebkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin-top:0;margin-b=
+ottom:0;margin-right:0;margin-left:0;Margin:0;padding-top:0;padding-bottom:=
+0;padding-right:0;padding-left:0;font-family:sans-serif;"><div style=3Ddisp=
+lay:none!important;font-size:1px;color:#333333;line-height:1px;max-height:0=
+px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;>=D0=9F=D0=BE =D0=
+=92=D0=B0=D1=88=D0=B5=D0=B9 =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=BA=D0=
+=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD =D0=BD=D0=BE=D0=B2=D1=8B=D0=B9 =D1=
+=81=D1=87=D0=B5=D1=82</div><table border=3D0 cellpadding=3D0 cellspacing=3D=
+0 align=3Dcenter width=3D100% bgcolor=3D#f3f3f3 style=3Dmargin-top:0;margin=
+-bottom:0;margin-right:0;margin-left:0;width:100%;background-color:#f3f3f3;=
+border-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rs=
+pace:0pt;font-family:sans-serif;><tbody><tr><td class=3Dpadding-top align=
+=3Dcenter valign=3Dtop width=3D100% style=3D"width:100%;padding-top:30px;pa=
+dding-bottom:30px;padding-right:0;padding-left:0;border-collapse:collapse !=
+important;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-te=
+xt-size-adjust:100%;"><!--[if (gte mso 9)|(IE)]><table align=3Dcenter borde=
+r=3D0 cellpadding=3D0 cellspacing=3D0 width=3D600 style=3Dmargin-top:0;marg=
+in-bottom:0;margin-right:auto;margin-left:auto;width:600px;border-spacing:0=
+;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-fa=
+mily:sans-serif;><tbody><tr><td align=3Dcenter valign=3Dtop width=3D600 sty=
+le=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-=
+collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-size-adj=
+ust:100%;-webkit-text-size-adjust:100%;"><![endif]--><table border=3D0 cell=
+padding=3D0 cellspacing=3D0 align=3Dcenter width=3D100% bgcolor=3D#ffffff s=
+tyle=3Dmargin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;widt=
+h:100%;max-width:600px;min-width:375px;background-color:#ffffff;border-spac=
+ing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;fo=
+nt-family:sans-serif;><tbody><tr><td align=3Dcenter valign=3Dtop width=3D10=
+0% style=3D"width:100%;max-width:600px;padding-top:0;padding-bottom:0;paddi=
+ng-right:0;padding-left:0;border-collapse:collapse !important;mso-line-heig=
+ht-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"><=
+table border=3D0 cellpadding=3D0 cellspacing=3D0 align=3Dcenter width=3D92%=
+ style=3Dmargin-top:0;margin-bottom:0;margin-right:0;margin-left:0;width:92=
+%;border-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-=
+rspace:0pt;font-family:sans-serif;><tbody><tr><td align=3Dcenter valign=3Dt=
+op style=3D"padding-top:0;padding-bottom:25px;padding-right:0;padding-left:=
+0;border-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text=
+-size-adjust:100%;-webkit-text-size-adjust:100%;"><table border=3D0 cellpad=
+ding=3D0 cellspacing=3D0 align=3Dcenter width=3D100% style=3Dmargin-top:0;m=
+argin-bottom:0;margin-right:0;margin-left:0;width:100%;border-spacing:0;bor=
+der-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family=
+:sans-serif;><tbody><tr><td align=3Dleft valign=3Dtop style=3D"padding-top:=
+18px;padding-bottom:0;padding-right:20px;padding-left:0;border-collapse:col=
+lapse !important;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-we=
+bkit-text-size-adjust:100%;"><a href=3D"https://robot.mos.ru/r/?muid=3D673f=
+83f2-7b8d-4360-896a-c10595e83a40&amp;category=3D4bd2ab6d-286b-4cec-84c4-897=
+28dedb630&amp;url=3Dhttps%3A%2F%2Fwww.mos.ru%2Fservices%2Fcatalog%2Fpopular=
+%2F" target=3D_blank style=3Dtext-decoration:none;><img src=3Dhttps://pic.m=
+os.ru/srv/images/987404d0dedf9e7f22fd6c41626fd20f.png alt=3D"=D0=93=D0=BE=
+=D1=80=D0=BE=D0=B4=D1=81=D0=BA=D0=B8=D0=B5 =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=
+=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=B5 =D1=83=D1=81=D0=BB=D1=83=D0=B3=D0=B8" =
+width=3D177 style=3Dwidth:177px;height:36px;padding-top:0;padding-bottom:0;=
+padding-right:0;padding-left:0;text-align:left;vertical-align:top;font-size=
+:14px;color:#ff0515;font-weight:bold;outline-style:none;border-style:none;t=
+ext-decoration:none;-ms-interpolation-mode:bicubic;></a></td></tr></tbody><=
+/table></td></tr></tbody></table><table border=3D0 cellpadding=3D0 cellspac=
+ing=3D0 align=3Dcenter width=3D100% style=3Dmargin-top:0;margin-bottom:0;ma=
+rgin-right:0;margin-left:0;width:100%;border-top-width:1px;border-top-style=
+:solid;border-top-color:#ececec;border-bottom-width:1px;border-bottom-style=
+:solid;border-bottom-color:#ececec;border-spacing:0;border-collapse:collaps=
+e;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:sans-serif;><tbody>=
+<tr><td align=3Dcenter valign=3Dtop style=3D"padding-top:27px;padding-botto=
+m:27px;padding-right:0;padding-left:0;border-collapse:collapse !important;m=
+so-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adj=
+ust:100%;"><table border=3D0 cellpadding=3D0 cellspacing=3D0 align=3Dcenter=
+ width=3D92% style=3Dmargin-top:0;margin-bottom:0;margin-right:0;margin-lef=
+t:0;width:92%;border-spacing:0;border-collapse:collapse;mso-table-lspace:0p=
+t;mso-table-rspace:0pt;font-family:sans-serif;><tbody><tr><td align=3Dcente=
+r valign=3Dtop style=3D"padding-top:0;padding-bottom:0;padding-right:0;padd=
+ing-left:0;font-family:Arial, sans-serif;font-size:24px;line-height:24px;co=
+lor:#000000;text-align:center;vertical-align:top;border-collapse:collapse !=
+important;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-te=
+xt-size-adjust:100%;">=D0=A3 =D0=92=D0=B0=D1=81 =D0=BD=D0=BE=D0=B2=D1=8B=D0=
+=B9 =D1=81=D1=87=D0=B5=D1=82 =D0=BD=D0=B0 =D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D1=
+=83</td></tr></tbody></table></td></tr></tbody></table><table border=3D0 ce=
+llpadding=3D0 cellspacing=3D0 align=3Dcenter width=3D92% style=3Dmargin-top=
+:0;margin-bottom:0;margin-right:0;margin-left:0;width:92%;border-spacing:0;=
+border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-fam=
+ily:sans-serif;><tbody><tr><td align=3Dleft valign=3Dtop style=3D"padding-t=
+op:27px;padding-bottom:0;padding-right:0;padding-left:0;font-family:Arial, =
+sans-serif;font-size:20px;line-height:24px;color:#010101;font-weight:bold;t=
+ext-align:left;vertical-align:top;border-collapse:collapse !important;mso-l=
+ine-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:=
+100%;">=D0=97=D0=B4=D1=80=D0=B0=D0=B2=D1=81=D1=82=D0=B2=D1=83=D0=B9=D1=82=
+=D0=B5!</td></tr><tr><td align=3Dleft valign=3Dtop style=3D"padding-top:18p=
+x;padding-bottom:0;padding-right:0;padding-left:0;font-family:Arial, sans-s=
+erif;font-size:16px;line-height:24px;color:#010101;text-align:left;vertical=
+-align:top;border-collapse:collapse !important;mso-line-height-rule:exactly=
+;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">=D0=9F=D0=BE=C2=
+=A0=D0=BD=D0=BE=D0=BC=D0=B5=D1=80=D1=83 =D1=81=D1=82=D0=B0=D1=86=D0=B8=D0=
+=BE=D0=BD=D0=B0=D1=80=D0=BD=D0=BE=D0=B3=D0=BE =D1=82=D0=B5=D0=BB=D0=B5=D1=
+=84=D0=BE=D0=BD=D0=B0, =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=
+=BC=D1=83 =D0=B2=C2=A0=D0=92=D0=B0=D1=88=D0=B5=D0=BC =D0=BB=D0=B8=D1=87=D0=
+=BD=D0=BE=D0=BC =D0=BA=D0=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5, =D0=BD=D0=
+=B0=D0=B9=D0=B4=D0=B5=D0=BD =D0=BD=D0=BE=D0=B2=D1=8B=D0=B9 =D1=81=D1=87=D0=
+=B5=D1=82 =D0=BD=D0=B0=C2=A0=D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D1=83.</td></tr>=
+<tr><td align=3Dleft valign=3Dtop style=3D"padding-top:22px;padding-bottom:=
+0;padding-right:0;padding-left:0;border-collapse:collapse !important;mso-li=
+ne-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1=
+00%;"><table border=3D0 cellpadding=3D0 cellspacing=3D0 align=3Dcenter widt=
+h=3D100% style=3Dmargin-top:0;margin-bottom:0;margin-right:0;margin-left:0;=
+width:100%;border-top-width:1px;border-top-style:solid;border-top-color:#ec=
+ecec;border-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-tab=
+le-rspace:0pt;font-family:sans-serif;><tbody><tr><td style=3D"line-height:0=
+;border-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-=
+size-adjust:100%;-webkit-text-size-adjust:100%;"><span style=3Dmso-line-hei=
+ght-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;><=
+/span></td></tr></tbody></table></td></tr><tr><td align=3Dcenter valign=3Dt=
+op style=3D"padding-top:8px;padding-bottom:0;padding-right:0;padding-left:0=
+;border-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-=
+size-adjust:100%;-webkit-text-size-adjust:100%;"><table border=3D0 cellpadd=
+ing=3D0 cellspacing=3D0 align=3Dcenter width=3D100% style=3Dmargin-top:0;ma=
+rgin-bottom:0;margin-right:0;margin-left:0;width:100%;border-spacing:0;bord=
+er-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:=
+sans-serif;><tbody><tr><td align=3Dleft valign=3Dtop width=3D51% style=3D"p=
+adding-top:16px;padding-bottom:0;padding-right:0;padding-left:0;font-family=
+:Arial, sans-serif;font-size:16px;line-height:24px;color:#010101;font-weigh=
+t:bold;text-align:left;vertical-align:top;border-collapse:collapse !importa=
+nt;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size=
+-adjust:100%;">=D0=A3=D0=98=D0=9D:</td><td align=3Dleft valign=3Dtop width=
+=3D49% style=3D"padding-top:16px;padding-bottom:0;padding-right:0;padding-l=
+eft:0;font-family:Arial, sans-serif;font-size:16px;line-height:24px;color:#=
+010101;text-align:left;vertical-align:top;border-collapse:collapse !importa=
+nt;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size=
+-adjust:100%;">1004034249532146600211251</td></tr><tr><td align=3Dleft vali=
+gn=3Dtop width=3D51% style=3D"padding-top:16px;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;font-family:Arial, sans-serif;font-size:16px;line-heigh=
+t:24px;color:#010101;font-weight:bold;text-align:left;vertical-align:top;bo=
+rder-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-siz=
+e-adjust:100%;-webkit-text-size-adjust:100%;">=D0=94=D0=B0=D1=82=D0=B0 =D0=
+=B2=D1=8B=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D1=
+=87=D0=B5=D1=82=D0=B0:</td><td align=3Dleft valign=3Dtop width=3D49% style=
+=3D"padding-top:16px;padding-bottom:0;padding-right:0;padding-left:0;font-f=
+amily:Arial, sans-serif;font-size:16px;line-height:24px;color:#010101;text-=
+align:left;vertical-align:top;border-collapse:collapse !important;mso-line-=
+height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%=
+;">02.11.2025</td></tr><tr><td align=3Dleft valign=3Dtop width=3D51% style=
+=3D"padding-top:16px;padding-bottom:0;padding-right:0;padding-left:0;font-f=
+amily:Arial, sans-serif;font-size:16px;line-height:24px;color:#010101;font-=
+weight:bold;text-align:left;vertical-align:top;border-collapse:collapse !im=
+portant;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text=
+-size-adjust:100%;">=D0=A1=D1=83=D0=BC=D0=BC=D0=B0 =D0=BA =D0=BE=D0=BF=D0=
+=BB=D0=B0=D1=82=D0=B5:</td><td align=3Dleft valign=3Dtop width=3D49% style=
+=3D"padding-top:16px;padding-bottom:0;padding-right:0;padding-left:0;font-f=
+amily:Arial, sans-serif;font-size:16px;line-height:24px;color:#010101;text-=
+align:left;vertical-align:top;border-collapse:collapse !important;mso-line-=
+height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%=
+;">1459,00 =D1=80=D1=83=D0=B1.</td></tr><tr><td align=3Dleft valign=3Dtop w=
+idth=3D51% style=3D"padding-top:16px;padding-bottom:0;padding-right:0;paddi=
+ng-left:0;font-family:Arial, sans-serif;font-size:16px;line-height:24px;col=
+or:#010101;font-weight:bold;text-align:left;vertical-align:top;border-colla=
+pse:collapse !important;mso-line-height-rule:exactly;-ms-text-size-adjust:1=
+00%;-webkit-text-size-adjust:100%;">=D0=9D=D0=B0=D0=B7=D0=BD=D0=B0=D1=87=D0=
+=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=BB=D0=B0=D1=82=D0=B5=D0=B6=D0=B0:</td><td a=
+lign=3Dleft valign=3Dtop width=3D49% style=3D"padding-top:16px;padding-bott=
+om:0;padding-right:0;padding-left:0;font-family:Arial, sans-serif;font-size=
+:16px;line-height:24px;color:#010101;text-align:left;vertical-align:top;bor=
+der-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-size=
+-adjust:100%;-webkit-text-size-adjust:100%;">=D0=9E=D0=BF=D0=BB=D0=B0=D1=82=
+=D0=B0 =D1=83=D1=81=D0=BB=D1=83=D0=B3 =D1=81=D0=B2=D1=8F=D0=B7=D0=B8 =D0=9C=
+=D0=93=D0=A2=D0=A1. =D0=9D=D0=BE=D0=BC=D0=B5=D1=80 =D1=82=D0=B5=D0=BB=D0=B5=
+=D1=84=D0=BE=D0=BD=D0=B0: (495)3214660</td></tr></tbody></table></td></tr><=
+tr><td align=3Dcenter valign=3Dtop style=3D"padding-top:28px;padding-bottom=
+:40px;padding-right:0;padding-left:0;border-collapse:collapse !important;ms=
+o-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adju=
+st:100%;"><table border=3D0 cellpadding=3D0 cellspacing=3D0 align=3Dcenter =
+bgcolor=3D#ff1c15 style=3Dmargin-top:0;margin-bottom:0;margin-right:0;margi=
+n-left:0;background-color:#ff1c15;border-spacing:0;border-collapse:collapse=
+;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:sans-serif;><tbody><=
+tr><td align=3Dcenter valign=3Dtop style=3D"padding-top:14px;padding-bottom=
+:14px;padding-right:42px;padding-left:42px;font-family:Arial, sans-serif;fo=
+nt-size:16px;line-height:18px;color:#ffffff;font-weight:bold;text-align:cen=
+ter;vertical-align:top;border-collapse:collapse !important;mso-line-height-=
+rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"><a h=
+ref=3D"https://robot.mos.ru/r/?muid=3D673f83f2-7b8d-4360-896a-c10595e83a40&=
+amp;category=3D04a6660a-c3fe-4fc3-84a6-60afd7dc9422&amp;url=3Dhttps%3A%2F%2=
+Fpay.mos.ru%2Fmospaynew%2Fnewportal%2F%3Futm_source%3Dspk%26utm_medium%3Dem=
+ail%26utm_campaign%3Dsubscribe_notifications_city_phone%26utm_content%3Dlin=
+k%26utm_term%3Dnotifications" target=3D_blank style=3Dcolor:#ffffff;text-de=
+coration:none;>=D0=9E=D0=BF=D0=BB=D0=B0=D1=82=D0=B8=D1=82=D1=8C</a></td></t=
+r></tbody></table></td></tr></tbody></table><table border=3D0 cellpadding=
+=3D0 cellspacing=3D0 align=3Dcenter width=3D100% style=3Dmargin-top:0;margi=
+n-bottom:0;margin-right:0;margin-left:0;width:100%;border-top-width:1px;bor=
+der-top-style:dashed;border-top-color:#ececec;border-spacing:0;border-colla=
+pse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:sans-ser=
+if;><tbody><tr><td style=3D"line-height:0;border-collapse:collapse !importa=
+nt;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size=
+-adjust:100%;"><span style=3Dmso-line-height-rule:exactly;-ms-text-size-adj=
+ust:100%;-webkit-text-size-adjust:100%;></span></td></tr></tbody></table><t=
+able border=3D0 cellpadding=3D0 cellspacing=3D0 align=3Dcenter width=3D100%=
+ style=3D"margin: 0;width: 100%;border-spacing: 0;border-collapse: collapse=
+;mso-table-lspace: 0pt;mso-table-rspace: 0pt;font-family: sans-serif;"><tbo=
+dy><tr><td align=3Dcenter valign=3Dtop style=3D"padding: 0;mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;bor=
+der-collapse: collapse !important;"><a href=3D"https://robot.mos.ru/r/?muid=
+=3D673f83f2-7b8d-4360-896a-c10595e83a40&amp;category=3Da61bea1f-6afa-4db0-b=
+d9a-de0b6d7036eb&amp;url=3Dhttps%3A%2F%2Fwww.mos.ru%2Fotvet-dengi%2Fkak-pol=
+zovatsya-servisom-moi-platezhi%2F%234" target=3D_blank style=3D"text-decora=
+tion: none;"><img src=3Dhttps://pic.mos.ru/srv/images/sbp_311223.png alt=3D=
+picture width=3D100% style=3D"width: 100%;height: auto;max-width: 600px;pad=
+ding: 0;text-align: center;vertical-align: top;font-size: 18px;color: #0101=
+01;outline: none;border: none;text-decoration: none;-ms-interpolation-mode:=
+ bicubic;"></a></td></tr></tbody></table><table border=3D0 cellpadding=3D0 =
+cellspacing=3D0 align=3Dcenter width=3D100% style=3Dmargin-top:0;margin-bot=
+tom:0;margin-right:0;margin-left:0;width:100%;border-top-width:1px;border-t=
+op-style:dashed;border-top-color:#ececec;border-spacing:0;border-collapse:c=
+ollapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:sans-serif;><=
+tbody><tr><td style=3D"line-height:0;border-collapse:collapse !important;ms=
+o-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adju=
+st:100%;"><span style=3Dmso-line-height-rule:exactly;-ms-text-size-adjust:1=
+00%;-webkit-text-size-adjust:100%;></span></td></tr></tbody></table><table =
+border=3D0 cellpadding=3D0 cellspacing=3D0 align=3Dcenter width=3D92% style=
+=3Dmargin-top:0;margin-bottom:0;margin-right:0;margin-left:0;width:92%;bord=
+er-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace=
+:0pt;font-family:sans-serif;><tbody><tr><td align=3Dcenter valign=3Dtop sty=
+le=3D"padding-top:30px;padding-bottom:30px;padding-right:0;padding-left:0;b=
+order-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-si=
+ze-adjust:100%;-webkit-text-size-adjust:100%;"><table border=3D0 cellpaddin=
+g=3D0 cellspacing=3D0 align=3Dcenter width=3D100% style=3Dmargin-top:0;marg=
+in-bottom:0;margin-right:0;margin-left:0;width:100%;border-spacing:0;border=
+-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:sa=
+ns-serif;><tbody><tr><td align=3Dcenter valign=3Dmiddle style=3D"padding-to=
+p:0;padding-bottom:0;padding-right:0;padding-left:0;font-family:Arial, sans=
+-serif;font-size:12px;line-height:14px;color:#8d8d8d;font-weight:bold;text-=
+transform:uppercase;text-align:center;vertical-align:middle;border-collapse=
+:collapse !important;mso-line-height-rule:exactly;-ms-text-size-adjust:100%=
+;-webkit-text-size-adjust:100%;"><a href=3D"https://robot.mos.ru/r/?muid=3D=
+673f83f2-7b8d-4360-896a-c10595e83a40&amp;category=3D4bd2ab6d-286b-4cec-84c4=
+-89728dedb630&amp;url=3Dhttps%3A%2F%2Fpay.mos.ru%2Fmospaynew%2Fnewportal%2F=
+charges" target=3D_blank style=3Dcolor:#8d8d8d;text-decoration:none;>=D0=9C=
+=D0=BE=D0=B8 =D0=BF=D0=BB=D0=B0=D1=82=D0=B5=D0=B6=D0=B8</a></td><td align=
+=3Dcenter valign=3Dmiddle style=3D"padding-top:0;padding-bottom:0;padding-r=
+ight:15px;padding-left:15px;border-collapse:collapse !important;mso-line-he=
+ight-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"=
+><img src=3Dhttps://pic.mos.ru/srv/images/5554cc02834604a48a15607ebdfa1ece.=
+png alt=3Dpicture width=3D1 style=3Dwidth:1px;height:20px;padding-top:0;pad=
+ding-bottom:0;padding-right:0;padding-left:0;text-align:center;vertical-ali=
+gn:middle;outline-style:none;border-style:none;text-decoration:none;-ms-int=
+erpolation-mode:bicubic;></td><td align=3Dcenter valign=3Dmiddle style=3D"p=
+adding-top:0;padding-bottom:0;padding-right:0;padding-left:0;font-family:Ar=
+ial, sans-serif;font-size:12px;line-height:14px;color:#8d8d8d;font-weight:b=
+old;text-transform:uppercase;text-align:center;vertical-align:middle;border=
+-collapse:collapse !important;mso-line-height-rule:exactly;-ms-text-size-ad=
+just:100%;-webkit-text-size-adjust:100%;"><a href=3D"https://robot.mos.ru/r=
+/?muid=3D673f83f2-7b8d-4360-896a-c10595e83a40&amp;category=3D4bd2ab6d-286b-=
+4cec-84c4-89728dedb630&amp;url=3Dhttps%3A%2F%2Fmy.mos.ru%2Fmy%2F%23%2Fsetti=
+ngs%2Fcharges" target=3D_blank style=3Dcolor:#8d8d8d;text-decoration:none;>=
+=D0=98=D1=81=D1=82=D0=BE=D1=80=D0=B8=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D0=B5=
+=D0=B6=D0=B5=D0=B9</a></td><td align=3Dcenter valign=3Dmiddle style=3D"padd=
+ing-top:0;padding-bottom:0;padding-right:15px;padding-left:15px;border-coll=
+apse:collapse !important;mso-line-height-rule:exactly;-ms-text-size-adjust:=
+100%;-webkit-text-size-adjust:100%;"><img src=3Dhttps://pic.mos.ru/srv/imag=
+es/5554cc02834604a48a15607ebdfa1ece.png alt=3Dpicture width=3D1 style=3Dwid=
+th:1px;height:20px;padding-top:0;padding-bottom:0;padding-right:0;padding-l=
+eft:0;text-align:center;vertical-align:middle;outline-style:none;border-sty=
+le:none;text-decoration:none;-ms-interpolation-mode:bicubic;></td><td align=
+=3Dcenter valign=3Dmiddle style=3D"padding-top:0;padding-bottom:0;padding-r=
+ight:0;padding-left:0;font-family:Arial, sans-serif;font-size:12px;line-hei=
+ght:14px;color:#8d8d8d;font-weight:bold;text-transform:uppercase;text-align=
+:center;vertical-align:middle;border-collapse:collapse !important;mso-line-=
+height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%=
+;"><a href=3D"https://robot.mos.ru/r/?muid=3D673f83f2-7b8d-4360-896a-c10595=
+e83a40&amp;category=3D4bd2ab6d-286b-4cec-84c4-89728dedb630&amp;url=3Dhttps%=
+3A%2F%2Fpay.mos.ru%2Fmospaynew%2Fnewportal%2Fcatalog%3FopenCatalog%3Dtrue" =
+target=3D_blank style=3Dcolor:#8d8d8d;text-decoration:none;>=D0=9E=D0=9F=D0=
+=9B=D0=90=D0=A2=D0=90 =D1=83=D1=81=D0=BB=D1=83=D0=B3</a></td></tr></tbody><=
+/table></td></tr></tbody></table><table border=3D0 cellpadding=3D0 cellspac=
+ing=3D0 align=3Dcenter width=3D100% bgcolor=3D#f3f3f3 style=3Dmargin-top:0;=
+margin-bottom:0;margin-right:0;margin-left:0;width:100%;background-color:#f=
+3f3f3;border-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-ta=
+ble-rspace:0pt;font-family:sans-serif;><tbody><tr><td align=3Dcenter valign=
+=3Dtop style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left=
+:0;border-collapse:collapse !important;mso-line-height-rule:exactly;-ms-tex=
+t-size-adjust:100%;-webkit-text-size-adjust:100%;"><table border=3D0 cellpa=
+dding=3D0 cellspacing=3D0 align=3Dcenter width=3D92% style=3Dmargin-top:0;m=
+argin-bottom:0;margin-right:0;margin-left:0;width:92%;border-spacing:0;bord=
+er-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;font-family:=
+sans-serif;><tbody><tr><td align=3Dleft valign=3Dtop style=3D"padding-top:2=
+6px;padding-bottom:0;padding-right:0;padding-left:0;font-family:Arial, sans=
+-serif;font-size:12px;line-height:14px;color:#8d8d8d;text-align:left;vertic=
+al-align:top;border-collapse:collapse !important;mso-line-height-rule:exact=
+ly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">=D0=92=D1=8B =
+=D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=
+=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =D1=87=
+=D1=82=D0=BE =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D0=B5=D1=81=
+=D1=8C =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=BC=
+=D0=B8 =D1=83=D1=81=D0=BB=D1=83=D0=B3=D0=B0=D0=BC=D0=B8 =D0=B8 =D1=81=D0=B5=
+=D1=80=D0=B2=D0=B8=D1=81=D0=B0=D0=BC=D0=B8 =D0=9F=D1=80=D0=B0=D0=B2=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D1=82=D0=B2=D0=B0 =D0=9C=D0=BE=D1=81=D0=BA=
+=D0=B2=D1=8B. =D0=95=D1=81=D0=BB=D0=B8 =D0=92=D1=8B=C2=A0=D0=BD=D0=B5=C2=A0=
+=D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=
+=D1=82=D1=8C =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=BE=C2=A0=D0=BD=D0=B0=D1=87=D0=B8=D1=81=D0=BB=D0=B5=D0=BD=D0=B8=
+=D1=8F=D1=85, <a href=3D"https://robot.mos.ru/r/?muid=3D673f83f2-7b8d-4360-=
+896a-c10595e83a40&amp;category=3D0429a93a-4609-467d-aca5-6b953a6a021d&amp;u=
+rl=3Dhttps%3A%2F%2Frobot.mos.ru%2Fl%2Funsubscribe%2F" target=3D_blank style=
+=3D"color: #8d8d8d; text-decoration: underline;">=D0=BE=D1=82=D0=BA=D0=B0=
+=D0=B6=D0=B8=D1=82=D0=B5=D1=81=D1=8C=C2=A0=D0=BE=D1=82=C2=A0=D1=80=D0=B0=D1=
+=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8</a>.</td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]></td></t=
+r><tbody></table><![endif]--></td></tr></tbody></table><img src=3Dhttps://r=
+obot.mos.ru/v/673f83f2-7b8d-4360-896a-c10595e83a40/pixel.gif id=3Dpixel></b=
+ody></html>

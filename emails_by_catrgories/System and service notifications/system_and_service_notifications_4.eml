@@ -1,0 +1,83 @@
+Content-Type: multipart/alternative;
+ boundary="------------hBgT0xx07vuRGWIroZEewEGQ"
+Message-ID: <25ab128b-a48f-4068-b20f-a06bf58df37e@mail.ru>
+Date: Tue, 18 Nov 2025 10:04:10 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: en-US
+To: testavsw@mail.ru
+From: =?UTF-8?B?0JvRg9C90LXQstCw?= <test@mail.ru>
+Subject: =?UTF-8?B?0JDQstGC0L7QvNCw0YLQuNGH0LXRgdC60L7QtSDRgdC/0LjRgdCw0L0=?=
+ =?UTF-8?B?0LjQtSDQt9CwINGF0L7RgdGC0LjQvdCzIFZQUy03ODQ1MTI=?=
+
+This is a multi-part message in MIME format.
+--------------hBgT0xx07vuRGWIroZEewEGQ
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+|Уважаемый клиент!|
+
+  *
+
+    *Услуга:*VPS-784512 (Тариф "Базовый")
+
+  *
+
+    *Сумма к списанию:*450.00 руб.
+
+  *
+
+    *Дата списания:*15.03.2024
+
+  *
+
+    *Способ оплаты:*Привязанная карта *1234
+
+Средства будут автоматически списаны с вашей карты. Убедитесь, что на 
+счете достаточно средств.
+
+В случае вопросов обращайтесь в поддержку: https://firstvds.ru/support 
+<https://firstvds.ru/support>
+
+--------------hBgT0xx07vuRGWIroZEewEGQ
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p class="ds-markdown-paragraph"><code><font size="4">Уважаемый
+          клиент!</font></code></p>
+    <ul>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Услуга:</span></strong><span>
+            VPS-784512 (Тариф "Базовый")</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Сумма к списанию:</span></strong><span>
+            450.00 руб.</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Дата списания:</span></strong><span>
+            15.03.2024</span></p>
+      </li>
+      <li>
+        <p class="ds-markdown-paragraph"><strong><span>Способ оплаты:</span></strong><span>
+            Привязанная карта *1234</span></p>
+      </li>
+    </ul>
+    <p class="ds-markdown-paragraph"><span>Средства будут автоматически
+        списаны с вашей карты. Убедитесь, что на счете достаточно
+        средств.</span></p>
+    <p class="ds-markdown-paragraph"><span>В случае вопросов обращайтесь
+        в поддержку: </span><a href="https://firstvds.ru/support"
+        target="_blank" rel="noreferrer"><span>https://firstvds.ru/support</span></a></p>
+    <p></p>
+  </body>
+</html>
+
+--------------hBgT0xx07vuRGWIroZEewEGQ--

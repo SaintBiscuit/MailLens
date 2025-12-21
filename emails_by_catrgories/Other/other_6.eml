@@ -1,0 +1,191 @@
+Delivered-To: test@mail.ru
+Return-path: <noreply@mirapolismailer.ru>
+Received-SPF: pass (exim-mx-6565fdd8c8-z8hmf: domain of mirapolismailer.ru designates 185.130.250.229 as permitted sender) client-ip=185.130.250.229; envelope-from=noreply@mirapolismailer.ru; helo=mx10.mirapolismailer.ru;
+Received: from mx10.mirapolismailer.ru ([185.130.250.229]:63129)
+	by exim-mx-6565fdd8c8-z8hmf with esmtp (envelope-from <noreply@mirapolismailer.ru>)
+	id 1vBThP-00000000B9D-3iKK
+	for test@mail.ru; Wed, 22 Oct 2025 10:56:00 +0300
+dkim-signature: v=1; a=rsa-sha256; d=mirapolismailer.ru; s=mail;
+	c=relaxed/relaxed; q=dns/txt; h=From:Reply-To:Subject:Date:Message-ID:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=4SWARfgffxGmmMRLoFJXDNUgk7VLsQN5qC47hYiInWI=;
+	b=y+EenwfY1rBajgWlJ24bOmgFC9g6Vn/Q0EEx01Gg5UEMlLZ0Me7hFUIEFK+iVThajWC5Y+b1weZo45ZBuWn9Atbuj/kLdyEWPeqXkRtntbzGsywuNUCFPcURB1LrgaZuktXHkalbwk5kIaPDUcUhV+OWY2kL8WO5EeMu9v+pXJQ=
+Received: from v13106.vr.mirapolis.ru (Unknown [185.130.250.250])
+	by mx10.mirapolismailer.ru with ESMTPA
+	; Wed, 22 Oct 2025 10:56:16 +0300
+Message-ID: <82D8A9AD-3E1B-4B19-96E2-8AAE4E0F9711@mx10.mirapolismailer.ru>
+Date: Wed, 22 Oct 2025 10:55:58 +0300
+From: beeline cloud <noreply@mirapolismailer.ru>
+Reply-To: beeline cloud <noreply@mirapolismailer.ru>
+To:  <test@mail.ru>
+Subject: =?UTF-8?B?0J3QsNC/0L7QvNC40L3QsNC10Lwg0LLQsNC8LA==?= =?UTF-8?B?INGH0YLQviDQtNC+INC90LDRh9Cw0LvQsCA=?= =?UTF-8?B?0LLQtdCx0LjQvdCw0YDQsCDQvtGB0YLQsNC70L4=?= =?UTF-8?B?0YHRjCDQvNC10L3QtdC1ICAxINC00L3Rjw==?=
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-URL: https://v13106.vr.mirapolis.ru/mira
+X-Mailru-Src: mx
+X-6b629377: 1
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499AFCCC32447FDBB8919BFAFA6249436C44D9EBF2E2DBE4878D0BBDAAE39103F3638701F0628C4B95CB7BB03E1501FC0B7D7FE7CCFE050252EFA9727D6002FCD5B4EDD94EEA8595ECB5DDDE7B70B5F5C79F
+X-7FA49CB5: A9FCD207E66530D8A18204E546F3947C984408B2DBDFE4C01288C9E4A12A65B8C8A9BA7A39EFB7662668BECDD4E80C2709758206774B3CD2D5E8D9A59859A8B6522FB5582372868971492C2D3FF63AF69449624AB7ADAF372F5C44B12681712E277E793F4B08E88404FA5F2B2686746DAFB8EE5BB20AF148BD9CCCA9EDD067B1343E0231A08E1AF34E1E7243831EC1F578DA827A17800CE76E34D1EE1F169AC96320D30F47244B792668BECDD4E80C2782BFA309970D60C2B287FD4696A6DC2F5F5C1EE8F4F765FC6F8235414F7F731CBFD28B28ED4578732EF20D2F80756B5F40A5AABA2AD37119BCF491FFA38154B6D5E8D9A59859A8B68CBC8437FAACAB22BFD28B28ED457873F004C90652538430E3301CADCF4A332738D433D53B71734559CC434672EE637138D433D53B717345BA69B7DF0B3EA92AC6CDE5D1141D2B1C3731E4E060AC1841F48A1691E00F05B679083B3C081D6DC4611399AA3A85457ACACD7DF95DA8FC8BD5E8D9A59859A8B68424CA1AAF98A6958941B15DA834481FA18204E546F3947CEDCF5861DED71B2F389733CBF5DBD5E9C8A9BA7A39EFB766F5D81C698A659EA7CC7F00164DA146DA9985D098DBDEAEC8EDCF5861DED71B2F389733CBF5DBD5E9B5C8C57E37DE458BEDDA962BC3F61961
+X-B7AD71C0: BCAA75B3C340DBBE2543621581D40AD6F398474377D4BCE879311020FFC8D4ADD969CA398C87396FC5783DB93F6F4A26
+X-C1DE0DAB: 0D63561A33F958A591CCC5ACA517C7C65002B1117B3ED6960BC886C621B966ECAD0703CEB2EF9A27277AA237ED671D4372AF3B35EA4094CC62B3BD3CC35DA5889C5DF10A05D560A9D2B5782620B851B7C8C84E951CD0BE2F58C12E6D310A6D5303629746D5FF94AEA71A35648BE338CEED902CAAD3CD6B00BA7CCD254A1CF5E8CB0DA3CC73416A85638A446BE3E5C627BF0CFE790FC11A72BA7CCD254A1CF5E87FAA218D07B16ED87CDA689C54079AF113D920A87098A3ED2E763F503762DF50F9B15EA09876ED18088AEFE095676FE0111F93E371B791A05E36EC0954C3E50C7D185D93E5352C86
+X-C8649E89: 1C3962B70DF3F0AD4993FDA6674A528170B88A919F28965809E8BB001188613B0776B5B2C279835F17BCBE6708A5A68D02015372BE9702A27BAE734BB23F28332C9FEBDBCE9947FF8799F5BE810CAA6B491C7330BA73847C6AC55823087F3C8E38177F7FC89B4AD8246C24E951663E4686355EC4D9EFC6DEDE5226792412F3C2CAACD699CDC6F98202C26D483E81D6BEB8C68C277980EC2BAC5F2CB9B98D9F2B783AF1C24DD9E405261D221F5C7751EC
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OURs3E5O9HgLbe1f6qYhvLutKFiSd6Yd7yPpbiiZ/d5BsxIjK0jGQgCHUM3Ry2Lt2G3MDkMauH3h0dBdQGj+BB/iPzQYh7XS3ysCEUJX3xZOUZijNxfeekqntmunFVGusQ==
+X-F696D7D5: LwDnx7U7JB1KD2oU+mBvrIFqgwAqeo+zPkw1t9ewF71s3JGtRDNK2RVjKz9M/meG
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=noreply@mirapolismailer.ru
+X-Mailru-Noreply: yes
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mx-6565fdd8c8-z8hmf: domain of mirapolismailer.ru designates 185.130.250.229 as permitted sender) smtp.mailfrom=noreply@mirapolismailer.ru smtp.helo=mx10.mirapolismailer.ru;
+	 dkim=pass header.d=mirapolismailer.ru; dmarc=pass header.from=noreply@mirapolismailer.ru
+X-Mailru-Intl-Transport: d,2affdb9
+
+<!--[if (mso 16)]><style type="text/css"> a {text-decoration: none;}  </style><![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--><!--[if gte mso 9]><noscript> <xml> <o:OfficeDocumentSettings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml>	
+ </noscript><![endif]--><!--[if mso]><xml> <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"> <w:DontUseAdvancedTypographyReadingMail></w:DontUseAdvancedTypographyReadingMail> </w:WordDocument> </xml>	
+<![endif]--><html><head>	
+</head><body><div class="es-wrapper-color" dir="ltr" lang="ru" style="background-color:#EFEFEF"><!--[if gte mso 9]><v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t"> <v:fill type="tile" color="#efefef"></v:fill> </v:background><![endif]--><table cellpadding="0" cellspacing="0" class="es-wrapper" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top;background-color:#EFEFEF" width="100%">	
+<tbody>	
+	<tr>	
+		<td style="padding:0;Margin:0" valign="top"><table align="center" cellpadding="0" cellspacing="0" class="cd" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">	
+		<tbody>	
+			<tr>	
+				<td align="center" style="padding:0;Margin:0"><table align="center" bgcolor="#00000000" cellpadding="0" cellspacing="0" class="cn" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">	
+				<tbody>	
+					<tr>	
+						<td align="left" style="padding:0;Margin:0;padding-top:15px"><table cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+						<tbody>	
+							<tr>	
+								<td align="center" style="padding:0;Margin:0;width:600px" valign="top"><table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+								<tbody>	
+									<tr class="bs">	
+										<td align="left" style="padding:0;Margin:0;padding-bottom:5px;padding-left:5px;padding-right:5px;font-size:0px"><a href="https://cloud.beeline.ru/?utm_medium=email" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032FA;font-size:16px" target="_blank"><img alt="beeline cloud" class="adapt-img" height="29" src="https://jinvie.stripocdn.email/content/guids/CABINET_bc1535e1a65e869b8956b09d9f9ba4d798c96fd62cdbb87918cd2920d3c1bdb5/images/logolite2600.png" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" title="beeline cloud" width="132"></a></td>	
+									</tr>	
+									<!--[if !mso]><!-- -->	
+									<tr class="a" style="max-height:0;overflow:hidden;display:none;mso-hide:all;width:0;line-height:0;float:left;">	
+										<td align="left" style="padding:0;Margin:0;padding-bottom:5px;padding-left:10px;font-size:0px"><a href="https://cloud.beeline.ru/?utm_medium=email" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032FA;font-size:16px" target="_blank"><img alt="beeline cloud" height="33" src="https://jinvie.stripocdn.email/content/guids/CABINET_bc1535e1a65e869b8956b09d9f9ba4d798c96fd62cdbb87918cd2920d3c1bdb5/images/logolite2600.png" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" title="beeline cloud" width="150"></a></td>	
+									</tr>	
+									<!--<![endif]-->	
+								</tbody>	
+								</table></td>	
+							</tr>	
+						</tbody>	
+						</table></td>	
+					</tr>	
+				</tbody>	
+				</table></td>	
+			</tr>	
+		</tbody>	
+		</table><table align="center" cellpadding="0" cellspacing="0" class="cb" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">	
+		<tbody>	
+			<tr>	
+				<td align="center" style="padding:0;Margin:0"><table align="center" cellpadding="0" cellspacing="0" class="co" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">	
+				<tbody>	
+					<tr>	
+						<td align="left" bgcolor="#ffffff" style="Margin:0;padding-top:20px;padding-left:20px;padding-right:20px;padding-bottom:25px;background-color:#ffffff;border-radius:16px 16px 0px 0px"><table cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+						<tbody>	
+							<tr>	
+								<td align="center" style="padding:0;Margin:0;width:560px" valign="top"><table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+								<tbody>	
+									<tr>	
+										<td align="left" class="x by bx" style="Margin:0;padding-bottom:10px;padding-left:15px;padding-right:15px;padding-top:40px"><p color:="" font-size:="" helvetica="" line-height:="" style="margin: 0px 0px 15px; text-size-adjust: none; font-family: helvetica, ">Добрый день, Анна.</p><p color:="" font-size:="" helvetica="" line-height:="" style="margin: 0px 0px 15px; text-size-adjust: none; font-family: helvetica, "><span style="font-weight: 700;">Напоминаем, до начала вебинара осталось менее 1 дня.</span>.</p><p color:="" font-size:="" helvetica="" line-height:="" style="margin: 0px 0px 15px; text-size-adjust: none; font-family: helvetica, ">В 23.10.2025 11:00  по Москове состоится вебинар «Вся правда о пентестах».</p><p color:="" font-size:="" helvetica="" line-height:="" style="margin: 0px 0px 15px; text-size-adjust: none; font-family: helvetica, ">Вход на вебинар откроется за&nbsp;<strong><span style="background-color: rgb(255, 255, 255);">15</span></strong><span style="font-weight: 700;"> минут</span>&nbsp;до начала.</p><p color:="" font-size:="" helvetica="" line-height:="" style="margin: 0px 0px 15px; text-size-adjust: none; font-family: helvetica, ">Для входа на вебинар перейдите по ссылке: https://v13106.vr.mirapolis.ru/mira/miravr/0611743039.</p><p color:="" font-size:="" helvetica="" line-height:="" style="margin: 0px 0px 15px; text-size-adjust: none; font-family: helvetica, ">Будем рады видеть вас в числе участников!</p></td>	
+									</tr>	
+								</tbody>	
+								</table></td>	
+							</tr>	
+						</tbody>	
+						</table></td>	
+					</tr>	
+				</tbody>	
+				</table></td>	
+			</tr>	
+		</tbody>	
+		</table><table align="center" cellpadding="0" cellspacing="0" class="cb" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">	
+		<tbody>	
+			<tr>	
+				<td align="center" style="padding:0;Margin:0"><table align="center" cellpadding="0" cellspacing="0" class="co" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">	
+				<tbody>	
+					<tr>	
+						<td align="left" bgcolor="#fefbf0" style="padding:0;Margin:0;border-radius:0px 0px 20px 20px;background-color:#fefbf0"><table cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+						<tbody>	
+							<tr>	
+								<td align="center" style="padding:0;Margin:0;width:600px" valign="top"><table bgcolor="#e2e2e2" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:separate;border-spacing:0px;background-color:#e2e2e2;border-radius:16px" width="100%">	
+								<tbody>	
+									<tr>	
+										<td align="left" class="r q" style="Margin:0;padding-bottom:15px;padding-top:25px;padding-left:35px;padding-right:35px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:24px;margin-bottom:15px;color:#000000;font-size:16px">С уважением, beeline cloud</p></td>	
+									</tr>	
+								</tbody>	
+								</table></td>	
+							</tr>	
+						</tbody>	
+						</table></td>	
+					</tr>	
+				</tbody>	
+				</table></td>	
+			</tr>	
+		</tbody>	
+		</table><table align="center" cellpadding="0" cellspacing="0" class="cc" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:transparent;background-repeat:repeat;background-position:center top">	
+		<tbody>	
+			<tr>	
+				<td align="center" style="padding:0;Margin:0"><table align="center" cellpadding="0" cellspacing="0" class="cp" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">	
+				<tbody>	
+					<tr>	
+						<td align="left" class="bw" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px"><!--[if mso]><table style="width:560px" cellpadding="0" cellspacing="0"><tr><td style="width:381px" valign="top"><![endif]--><table align="left" cellpadding="0" cellspacing="0" class="cf" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">	
+						<tbody>	
+							<tr>	
+								<td align="left" style="padding:0;Margin:0;width:381px"><table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+								<tbody>	
+									<tr>	
+										<td align="left" class="bc" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:21px;margin-bottom:11px;color:#858585;font-size:14px">Подпишитесь на Habr, Telegram, vc и вАЙТИ</p></td>	
+									</tr>	
+								</tbody>	
+								</table></td>	
+							</tr>	
+						</tbody>	
+						</table><!--[if mso]></td><td style="width:20px"></td><td style="width:159px" valign="top"><![endif]--><table align="right" cellpadding="0" cellspacing="0" class="cg" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">	
+						<tbody>	
+							<tr>	
+								<td align="left" style="padding:0;Margin:0;width:159px"><table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+								<tbody>	
+									<tr>	
+										<td align="right" class="cl" style="padding:0;Margin:0;font-size:0"><table cellpadding="0" cellspacing="0" class="bp bo" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">	
+										<tbody>	
+											<tr>	
+												<td align="center" style="padding:0;Margin:0;padding-right:10px" valign="top"><a href="https://habr.com/ru/companies/beeline_cloud/profile/?utm_medium=email" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032FA;font-size:14px" target="_blank"><img alt="Habr" height="24" src="https://jinvie.stripocdn.email/content/guids/CABINET_231aa51f40dfd3307c81994ad21605930659039014274a03ef58ad637d717caa/images/habr.png" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" title="Habr" width="24"></a></td>	
+												<td align="center" style="padding:0;Margin:0;padding-right:10px" valign="top"><a href="https://t.me/datafort_live?utm_medium=email" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032FA;font-size:14px" target="_blank"><img alt="Tg" height="24" src="https://jinvie.stripocdn.email/content/guids/CABINET_231aa51f40dfd3307c81994ad21605930659039014274a03ef58ad637d717caa/images/telegram_1.png" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" title="Telegram" width="24"></a></td>	
+												<td align="center" style="padding:0;Margin:0;padding-right:10px" valign="top"><a href="https://vc.ru/beeline-cloud?utm_medium=email" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032FA;font-size:14px" target="_blank"><img alt="vc" height="24" src="https://jinvie.stripocdn.email/content/guids/CABINET_231aa51f40dfd3307c81994ad21605930659039014274a03ef58ad637d717caa/images/vc.png" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" title="vc" width="24"></a></td>	
+												<td align="center" style="padding:0;Margin:0" valign="top"><a href="https://vaiti.io/?utm_medium=email" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032FA;font-size:14px" target="_blank"><img alt="вАЙТИ" height="24" src="https://jinvie.stripocdn.email/content/guids/CABINET_ca443c16b05d2dd64e457464b6413e4bd6483b5a637d4fc5e023abbc28717600/images/vaiti.png" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" title="вАЙТИ" width="24"></a></td>	
+											</tr>	
+										</tbody>	
+										</table></td>	
+									</tr>	
+								</tbody>	
+								</table></td>	
+							</tr>	
+						</tbody>	
+						</table><!--[if mso]></td></tr></table><![endif]--></td>	
+					</tr>	
+					<tr>	
+						<td align="left" style="Margin:0;padding-bottom:10px;padding-top:20px;padding-left:20px;padding-right:20px"><table cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+						<tbody>	
+							<tr>	
+								<td align="center" style="padding:0;Margin:0;width:560px" valign="top"><table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">	
+								<tbody>	
+									<tr>	
+										<td align="left" style="padding:0;Margin:0"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:21px;margin-bottom:11px;color:#858585;font-size:14px">По техническим вопросам обращайтесь в <a href="https://support.mirapolis.ru/mira-support/?utm_medium=email#&doaction=Go&type=MVR" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032fa;font-size:14px" target="_blank">службу поддержки</a>.</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:helvetica, 'helvetica neue', arial, verdana, sans-serif;line-height:21px;margin-bottom:11px;color:#858585;font-size:14px">Данное письмо отправлено автоматически системой проведения онлайн мероприятий Virtual Room и не требует ответа. Если вы хотите отписаться от получения уведомлений, перейдите <a href="https://v13106.vr.mirapolis.ru/mira/#&s=Xwgwp0r0d7QsQ9fms5v9&inlineFrame=false&doaction=DisableNotificationAction&personid=2562&id=0&type=DisableNotificationInfoFrame" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;color:#0032fa;font-size:14px" target="_blank">по ссылке</a>.</p></td>	
+									</tr>	
+								</tbody>	
+								</table></td>	
+							</tr>	
+						</tbody>	
+						</table></td>	
+					</tr>	
+				</tbody>	
+				</table></td>	
+			</tr>	
+		</tbody>	
+		</table></td>	
+	</tr>	
+</tbody>	
+</table></div><div itemscope itemtype="http://schema.org/Organization">&nbsp;</div><div itemscope itemtype="http://schema.org/EmailMessage">&nbsp;</div></body></html>
+
+

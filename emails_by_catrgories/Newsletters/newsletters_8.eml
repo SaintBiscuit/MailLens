@@ -1,0 +1,2159 @@
+Return-Path: <www-data@securitylab.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from mail.securitylab.ru (mail.securitylab.ru [51.250.52.115])
+	by mail.collectorshash.su (Postfix) with ESMTP id 631C220975
+	for <v.p.ankevich@collectorshash.su>; Mon, 17 Nov 2025 06:31:05 +0300 (MSK)
+Received: by mail.securitylab.ru (Postfix, from userid 33)
+	id BF44B3EE35; Mon, 17 Nov 2025 06:31:03 +0300 (MSK)
+To: v.p.ankevich@collectorshash.su
+Subject: =?UTF-8?B?0JXQttC10LTQvdC10LLQvdGL0Lkg0LLRi9C/0YPRgdC6INC+0YIgU2VjdXJpdHlMYWIuUnU=?=
+From: SecurityLab.Ru <MailingList@mail.SecurityLab.ru>
+X-Bitrix-Posting: 5875
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Message-Id: <20251117033104.BF44B3EE35@mail.securitylab.ru>
+Date: Mon, 17 Nov 2025 06:31:03 +0300 (MSK)
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title></title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+/* Mobile-specific Styles */
+@media only screen and (max-device-width: 480px) { 
+table[class=w0], td[class=w0] { width: 0 !important; }
+table[class=w10], td[class=w10], img[class=w10] { width:10px !important; }
+table[class=w15], td[class=w15], img[class=w15] { width:5px !important; }
+table[class=w30], td[class=w30], img[class=w30] { width:10px !important; }
+table[class=w60], td[class=w60], img[class=w60] { width:10px !important; }
+table[class=w125], td[class=w125], img[class=w125] { width:80px !important; }
+table[class=w130], td[class=w130], img[class=w130] { width:55px !important; }
+table[class=w140], td[class=w140], img[class=w140] { width:90px !important; }
+table[class=w160], td[class=w160], img[class=w160] { width:180px !important; }
+table[class=w170], td[class=w170], img[class=w170] { width:100px !important; }
+table[class=w180], td[class=w180], img[class=w180] { width:80px !important; }
+table[class=w195], td[class=w195], img[class=w195] { width:80px !important; }
+table[class=w220], td[class=w220], img[class=w220] { width:80px !important; }
+table[class=w240], td[class=w240], img[class=w240] { width:180px !important; }
+table[class=w255], td[class=w255], img[class=w255] { width:185px !important; }
+table[class=w275], td[class=w275], img[class=w275] { width:135px !important; }
+table[class=w280], td[class=w280], img[class=w280] { width:135px !important; }
+table[class=w300], td[class=w300], img[class=w300] { width:140px !important; }
+table[class=w325], td[class=w325], img[class=w325] { width:95px !important; }
+table[class=w360], td[class=w360], img[class=w360] { width:140px !important; }
+table[class=w410], td[class=w410], img[class=w410] { width:180px !important; }
+table[class=w470], td[class=w470], img[class=w470] { width:200px !important; }
+table[class=w580], td[class=w580], img[class=w580] { width:280px !important; }
+/*table[class=w640], td[class=w640], img[class=w640] { width:300px !important; }*/
+table[class=w640], td[class=w640], img[class=w640] { width:500px !important; }
+table[class*=hide], td[class*=hide], img[class*=hide], p[class*=hide], span[class*=hide] { display:none !important; }
+table[class=h0], td[class=h0] { height: 0 !important; }
+p[class=footer-content-left] { text-align: center !important; }
+#headline p { font-size: 30px !important; }
+.article-content, #left-sidebar{ -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; }
+.header-content, .footer-content-left {-webkit-text-size-adjust: 80% !important; -ms-text-size-adjust: 80% !important;}
+img { height: auto; line-height: 100%;}
+ } 
+/* Client-specific Styles */
+#outlook a { padding: 0; }	/* Force Outlook to provide a "view in browser" button. */
+body { width: 100% !important; }
+.ReadMsgBody { width: 100%; }
+.ExternalClass { width: 100%; display:block !important; } /* Force Hotmail to display emails at full width */
+/* Reset Styles */
+/* Add 100px so mobile switch bar doesn't cover street address. */
+body { background-color: #ffffff; margin: 0; padding: 0; }
+img { outline: none; text-decoration: none; display: block;}
+br, strong br, b br, em br, i br { line-height:100%; }
+h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antialiased; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }
+h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {	color: red !important; }
+/* Preferably not the same color as the normal header link color.  There is limited support for psuedo classes in email clients, this was added just for good measure. */
+h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color: purple !important; }
+/* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */  
+table td, table tr { border-collapse: collapse; }
+.yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {
+color: black; text-decoration: none !important; border-bottom: none !important; background: none !important;
+}	/* Body text color for the New Yahoo.  This example sets the font of Yahoo's Shortcuts to black. */
+/* This most probably won't work in all email clients. Don't include <code _tmplitem="50" > blocks in email. */
+code {
+  white-space: normal;
+  word-break: break-all;
+}
+#background-table { background-color: #ffffff; }
+/* Webkit Elements */
+#top-bar { border-radius:6px 6px 0px 0px; -moz-border-radius: 6px 6px 0px 0px; -webkit-border-radius:6px 6px 0px 0px; -webkit-font-smoothing: antialiased; background-color: #A0BDDB; color: #000000; }
+#top-bar a { font-weight: bold; color: #ffffff; text-decoration: none;}
+#footer { border-radius:0px 0px 6px 6px; -moz-border-radius: 0px 0px 6px 6px; -webkit-border-radius:0px 0px 6px 6px; -webkit-font-smoothing: antialiased; }
+/* Fonts and Content */
+body, td { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; }
+.header-content, .footer-content-left, .footer-content-right { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+/* Prevent Webkit and Windows Mobile platforms from changing default font sizes on header and footer. */
+.header-content { font-size: 12px; color: #000000; }
+.header-content a { font-weight: bold; color: #ffffff; text-decoration: none; }
+#headline p { color: #d9fffd; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 36px; text-align: center; margin-top:0px; margin-bottom:30px; }
+#headline p a { color: #d9fffd; text-decoration: none; }
+#left-sidebar .toc-item { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 12px; line-height: 16px; color: #0054A6; margin-top: 0px; margin-bottom: 6px; }
+#left-sidebar .toc-item a { color: #0054A6; text-decoration: none; }
+#left-sidebar .toc-heading { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 11px; line-height: 15px; color:#000000; font-weight:bold; }
+#left-sidebar .toc-heading a { color: #000000; text-decoration: none; }
+#left-sidebar .left-column-heading { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 11px; line-height:15px; color: #000000; font-weight:bold; }
+#left-sidebar .left-column-heading a { color: #000000; text-decoration:none; }
+#left-sidebar .left-column-subhead { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 13px; line-height: 16px; color: #F78E56; font-weight: bold; margin-top: 0px; margin-bottom: 16px; }
+#left-sidebar .left-column-subhead a { color: #F78E56; text-decoration:none; }
+#left-sidebar .left-column-content { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 12px; line-height: 16px; color: #555555; margin-top: 0px; margin-bottom: 16px; }
+#left-sidebar .left-column-content a { color: #0054A6; text-decoration: none; }
+.article-title { font-size: 18px; line-height:24px; color: #F78E56; font-weight:bold; margin-top:0px; margin-bottom:18px; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; }
+.article-title a { color: #F78E56; text-decoration: none; }
+.article-title.with-meta {margin-bottom: 0;}
+.article-meta { font-size: 13px; line-height: 20px; color: #ccc; font-weight: bold; margin-top: 0;}
+.article-content { font-size: 13px; line-height: 18px; color: #555555; margin-top: 0px; margin-bottom: 18px; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; }
+.article-content a { color: #0054A6; font-weight:bold; text-decoration:none; }
+.article-content img { max-width: 100% }
+.article-content ol, .article-content ul { margin-top:0px; margin-bottom:18px; margin-left:19px; padding:0; }
+.article-content li { font-size: 13px; line-height: 18px; color: #555555; }
+.article-content li a { color: #0054A6; text-decoration:underline; }
+.article-content p {margin-bottom: 15px;}
+.footer-content-left { font-size: 12px; line-height: 15px; color: #555555; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-left a { color: #0054A6; font-weight: bold; text-decoration: none; }
+.footer-content-right { font-size: 11px; line-height: 16px; color: #555555; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-right a { color: #0054A6; font-weight: bold; text-decoration: none; }
+#footer { background-color: #A0BDDB; color: #555555; }
+#footer a { color: #0054A6; text-decoration: none; font-weight: bold; }
+#permission-reminder { white-space: normal; }
+#street-address { color: #000000; white-space: normal; }
+p a { text-decoration: none; }
+p a:hover { text-decoration: underline; }
+</style>
+<!--[if gte mso 9]>
+<style _tmplitem="50" >
+.article-content ol, .article-content ul {
+   margin: 0 0 0 24px;
+   padding: 0;
+   list-style-position: inside;
+}
+</style>
+<![endif]--></head><body>
+
+<table id="background-table" border="0" cellpadding="0" cellspacing="0" width="740">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+	        		<table class="w640" style="margin:0 10px;" border="0" cellpadding="0" cellspacing="0" width="100%">
+			            	<tbody>
+						<tr id="twocolumn-content-row">
+							<td class="w640" width="100%">
+								<table class="w640" border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td class="w15" bgcolor="#ffffff" width="15"></td>
+											<td id="left-sidebar" class="w140" align="left" bgcolor="#ffffff" valign="top" width="140">
+
+
+	
+			<table class="w140" border="0" cellpadding="0" cellspacing="0" width="140">
+			<tbody>
+				<tr>
+					<td class="w140" height="15" width="140"></td>
+				</tr>
+				<tr>
+					<td class="w140" width="140">
+						<div class="left-column-heading" align="left"style="color: #000000;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 11px;font-weight: bold;line-height: 15px;"><singleline label="Title">Популярные статьи</singleline></div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	
+	<table class="w140" border="0" cellpadding="0" cellspacing="0" width="140">
+		<tbody>
+			<tr><td class="w140" height="15" width="140"></td></tr>
+			<tr>
+				<td class="w140" width="140"><p class="left-column-subhead" align="left"><a href="http://www.securitylab.ru/analytics/566021.php" style="text-decoration: none;color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;font-weight: bold;line-height: 16px;">Как использование протекторов влияет на безопасность Android-приложений</a></p></td>
+			</tr>
+			<tr>
+				<td class="w140" width="140"><img src="http://www.securitylab.ru/upload/resize_cache/iblock/d35/150_150_1/sw4l2oode1g4j7piyw0mdbgoqtxxw2ll.jpg" label="Image" class="w140" border="0" width="90"/></td>
+			</tr>
+			<tr><td class="w140" height="15" width="140"></td></tr>
+		</tbody>
+	</table>
+
+	
+	
+	<table class="w140" border="0" cellpadding="0" cellspacing="0" width="140">
+		<tbody>
+			<tr><td class="w140" height="15" width="140"></td></tr>
+			<tr>
+				<td class="w140" width="140"><p class="left-column-subhead" align="left"><a href="http://www.securitylab.ru/analytics/564757.php" style="text-decoration: none;color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;font-weight: bold;line-height: 16px;">Уязвимость нулевого дня: как работает 0-day-атака и что делать, чтобы не стать жертвой</a></p></td>
+			</tr>
+			<tr>
+				<td class="w140" width="140"><img src="http://www.securitylab.ru/upload/resize_cache/iblock/9ea/150_150_1/2yqzkpeo4n0po66fu309n8vt9ku05nx1.jpg" label="Image" class="w140" border="0" width="90"/></td>
+			</tr>
+			<tr><td class="w140" height="15" width="140"></td></tr>
+		</tbody>
+	</table>
+
+	
+	
+	<table class="w140" border="0" cellpadding="0" cellspacing="0" width="140">
+		<tbody>
+			<tr><td class="w140" height="15" width="140"></td></tr>
+			<tr>
+				<td class="w140" width="140"><p class="left-column-subhead" align="left"><a href="http://www.securitylab.ru/analytics/564802.php" style="text-decoration: none;color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;font-weight: bold;line-height: 16px;">Один СМС-код — и вы без денег: новая волна разводов и как на них не купиться</a></p></td>
+			</tr>
+			<tr>
+				<td class="w140" width="140"><img src="http://www.securitylab.ru/upload/resize_cache/iblock/322/150_150_1/0ni10ik5ms3jp6cvflkfx4pewkozg81u.jpg" label="Image" class="w140" border="0" width="90"/></td>
+			</tr>
+			<tr><td class="w140" height="15" width="140"></td></tr>
+		</tbody>
+	</table>
+
+
+
+								<table class="w140" border="0" cellpadding="0" cellspacing="0" width="140">
+				<tbody>
+					<tr>
+						<td class="w140" height="15" width="140"></td>
+					</tr>
+					<tr>
+						<td class="w140" width="140">
+							<div class="left-column-heading" align="left"style="color: #000000;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 11px;font-weight: bold;line-height: 15px;"><singleline label="Title">Популярные блоги</singleline></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+				<table class="w140" border="0" cellpadding="0" cellspacing="0" width="140">
+			<tbody>
+				<tr><td class="w140" height="15" width="140"></td></tr>
+				<tr>
+					<td class="w140" width="140"><p class="left-column-subhead" align="left"><a href="http://www.securitylab.ru/blog/personal/securitylab/356728.php" style="text-decoration: none;color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;font-weight: bold;line-height: 16px;">"FATAL ERROR". Как мозг «переписывает реальность», когда ваша версия о себе не совпадает с фактами</a></p></td>
+				</tr>
+				<tr>
+					<td class="w140" width="140"><img src="http://www.securitylab.ru/upload/blogs/antipov.gif" label="Image" class="w140" border="0" width="90"/></td>
+				</tr>
+				<tr><td class="w140" height="15" width="140">Александр Антипов</td></tr>
+				<tr><td class="w140" height="15" width="140"></td></tr>
+			</tbody>
+		</table>
+	
+		
+											</td>
+											<td class="w15" bgcolor="#ffffff" width="15"></td>
+											<td class="w470" bgcolor="#ffffff" valign="top" width="470">
+												<table class="w470" border="0" cellpadding="0" cellspacing="0" width="100%">
+													<tbody>
+														<tr>
+															<td class="w30" width="30"></td>
+															<td class="w410" width="100%">
+
+																<table class="w410" border="0" cellpadding="0" cellspacing="0" width="410">
+																	<tbody>
+																		<tr><td class="w410" height="10" width="410"></td></tr>
+																		<tr>
+																			<td class="w410" width="410">
+																				<p class="article-title" align="left" style="color: #000000;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 18px;font-weight: bold;line-height: 24px;"><singleline repeatertitle="true" label="Article Title">Ежедневный выпуск от SecurityLab.Ru</singleline></p>
+																			</td>
+																		</tr>
+																		<tr><td class="w410" height="10" width="410"></td></tr>
+																	</tbody>
+																</table>
+
+
+
+
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566106.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Усильте свою кибербезопасность: Security Vision представит новейшие разработки на SOC Forum </a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/495/150_150_1/7m1qyz41pnbjt3spyopcgu7c0yi49437.png" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">С 18 по 20 ноября эксперты Security Vision поделятся практическим опытом построения SOC и автоматизации процессов.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566166.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">В 220 000 раз горячее Солнца. 25 лет назад на коллайдере RHIC получили «первозданный космический огонь»</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/98f/150_150_1/csvv0hd35wm2jvk6ff6p23jzmy2oz4k0.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Рассказываем, как&nbsp;&nbsp;физики 25 лет впервые воссоздали первые секунды зарождения вселенной.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566169.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">ИИ прорвался на Международную математическую олимпиаду: AlphaProof получила серебро — впервые в истории</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/bd8/150_150_1/1cfvqhd6o2memnci6g7y30472e5dwd5e.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Машина, которая сама ищет и правит свои ошибки.<br />
+</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566157.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Магнитный щит Земли трескается: аномалия над Атлантикой уже достигла половины Европы и бьёт по спутникам повышенной радиацией</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/a3b/150_150_1/mj954zpjnl4os5w1xi43mksnc9ur9k9z.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;"> 22 100 нТл — это самый низкий показатель за весь период наблюдений Swarm.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566148.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Linux научился запечатывать память сургучом. Glibc 2.43 принесёт mseal в каждую программу </a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/f0f/150_150_1/qr26z3ehleckt5z3vtkewhs1u3srptmn.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;"></div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566141.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;"> «Дверь» в Kubernetes захлопывается навсегда: сообщество отключает Ingress NGINX — тысячи сервисов останутся без обновлений </a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/ebc/150_150_1/dxc3f4epwxsiqd0ngo8qyngxp6b4q68e.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Проект уходит в архив после серии опасных уязвимостей.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566168.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Спутники готовятся к космическому нокауту? Мощная солнечная вспышка X4.0 выбросила плазменное облако в сторону нашей планеты</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/428/150_150_1/kbatfjulsjhzkhlp5f4vakrgtu934dk1.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Она угрожает обрушить GPS и мобильную связь. Но долетит ли? Неизвестно.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566159.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Плутоний подарил нам Вояджеры, но его эпоха заканчивается — на смену приходит америций, который сможет питать зонды столетиями</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/5d3/150_150_1/ol08q1l1mbupn8mxejokqk04o9ib3hny.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Радиоизотоп, которого ждали 50 лет. Топливо, которое переживёт цивилизации.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566134.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Искусственный интеллект проголодался. Ему нужны вся энергия и вода планеты</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/c82/150_150_1/lhloycfa74z1flzi1wz8p6s8wa34mfbz.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Пока мы играем с чат-ботами, за кулисами разворачивается настоящая экологическая драма.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566145.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Тайная кухня Windows 95: компания 30 лет тайно хакала свою систему ради совместимости. Но уже завтра миллионы ПК останутся без поддержки</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/b0d/150_150_1/r2ud25b3p92l730gbucndoujmxsnfh72.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">История механизма, о котором никто не знал.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566167.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Самая древняя РНК в истории. Учёные изучили мамонта Юку возрастом 40 тыс. лет и прочли хронику его последних часов жизни</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/498/150_150_1/naswlz29rfacyom9x90xj8ly6mma522o.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Какой была активность генов в организме малыша перед его смертью?</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566092.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Программирование и «гниение мозга» в одном окне. Стартап из YC запустил IDE со встроенными роликами для удержания внимания.</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/1ef/150_150_1/zbnadip230hlacb3jupkvo2y683qfbuk.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Создатели уверяют: это не шутка, а попытка переосмыслить фокус и продуктивность.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566172.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Новый сосед «Мона Лизы». Пранкеры повесили в Лувре собственную картину. Охрана не заметила</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/49d/150_150_1/c0tt7ldq7h24wf7m4mifu1i6r0jk2eal.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Музей усиливает проверки и досмотры, но настоящая уязвимость оказывается не в технике, а в предсказуемости правил.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566165.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">GPS не работает, камера в грязи. Ученые предложили «животную» навигацию для роботов. Она опирается на «мозг муравья» и «компас 
+птицы»</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/509/150_150_1/xtni037207d55nkjtjk6dhibe0crgheh.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Будущее автономных машин будет больше похоже на живую природу, чем на классическую электронику</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566164.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Фотоны побеждают GPU без единого ватта. Оптические процессоры превратят свет в мгновенную вычислительную машину для ИИ</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/89b/150_150_1/f1gak19wdlk2z89rnr5n9ipyzebvqjsf.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Физики обещают революцию в машинном обучении через 3-5 лет.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566109.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Государство строит интернет, где нет Signal и чужих мемов. Цензура теперь — это не фильтр, а модель управления</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/e86/150_150_1/32e78mxfdn1pi783tq18gcqq16exwqgx.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Как утечки раскрыли, что архитектура цензуры служит инструментом внутренней стабильности, а не просто блокировок.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566136.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Рабы, которые «разделывают свиней». США создали Strike Force против $10-миллиардной индустрии обмана.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/85d/150_150_1/9tar3pv4cmewm27f4raftsr5uo83gvyl.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Первые рейды принесли $401 млн изъятых активов. Дальше - больше?</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566110.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Украинская сеть ворует зарплаты по всему миру. Payroll Pirates обходят двухфакторку через Telegram-ботов </a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/26d/150_150_1/qtxn1oen2crmphyhc8wgxp2sg5xkk79f.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Ошибка одного из четырёх администраторов раскрыла самую неуловимую схему киберграбежа.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566163.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Как сломать защиту ИИ за секунду? Добавьте &quot;oz&quot; к любому промпту и смотрите, как система сходит с ума</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/fb7/150_150_1/ix2ggtp7ejeaa48osdsg0jqnj7ir8zzc.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Новая атака EchoGram пробивает защиту LLM одним бессмысленными буквами.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566147.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Ещё один провальный тикток — и конец». Каждый десятый блогер признаётся в суицидальных мыслях. И это уже не шутки</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/e43/150_150_1/s6463a4ojfj35sb091q0xzunz8rl5ld6.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Как индустрия, которая обещала людям свободу, истощает нашу психику.<br />
+</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566156.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">15-летняя монополия WhatsApp рухнула. Правда, только в Европе, только добровольно и только для двух мессенджеров, которыми никто 
+не пользуется</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/8a6/150_150_1/yweypcit6y5muwpkdzmymaz2m9swmixx.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Пользователи смогут общаться с BirdyChat и Haiket, сохраняя сквозное шифрование.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566144.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">30 целей взломаны почти без людей — ИИ Claude впервые провёл автономную атаку с мастерством спецслужб</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/d2e/150_150_1/mcdewzam642a6iguvyl78o6yvzy1ka7j.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Машины уже способны штурмовать инфраструктуру на уровне полноценных APT-группировок. Что дальше?<br />
+</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566140.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Сверхдержава чистой энергии». Как Британия (с помощью Rolls-Royce) пытается исправить провалы в атомной отрасли.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/cf9/150_150_1/8dy2qjqsp1gpf46267vop3eulpnuucmd.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">470 мегаватт из трёх модулей против гигаватта из одного монстра.<br />
+</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566125.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Упс, я проговорилась». Sora 2 научилась держать секреты в тексте, но «слила» свой системный промпт через аудио</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/808/150_150_1/pi9kwblhh3u2kwzjrlkd08ndkgj0u81u.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Внутренняя конфигурация, которую считали закрытой, перестала быть тайной.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566170.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Скучно, зато работает. (И за это много платят). Языку Go — 16 лет</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/5b7/150_150_1/7t2akam72wfd4r0xukqiuy1oagqbux28.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Анализируем, сможет ли Go сохранить свои позиции в мире, где от каждого сервиса требуют работать быстрее, дешевле и стабильнее, чем вчера.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566149.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Вечная» лицензия отменяется. Microsoft прикрыла лазейку KMS38 для офлайн-активации Windows</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/2d2/150_150_1/41g4eanfcu55zgw7vfzlhezmnpym9w38.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Компания удалила всего один файл и «убила» миллионы пиратских установок.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566126.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Android стал неуязвимым? Google утверждает, что Rust снизил число ошибок в тысячи раз</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/4b7/150_150_1/moyw6eqk5x3uwhu893fo9ey876kpmtkw.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Похоже, C&#43;&#43; окончательно уступает своё место в системном коде.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566095.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Главная «священная война» в Linux. В новом MX 25 «Infinity» придется выбирать между systemd и sysvinit до установки.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/0ad/150_150_1/y6z4kc5pjrtwjq3fqbl3tj2tyfkel2t3.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Разработчики вернули контроль там, где индустрия решила, что он больше не нужен.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566171.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Датчик кислорода в Apple Watch украден? Cуд считает, что да. На $634 млн</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/da9/150_150_1/zccefrt9e1tny4rmf043gjbbwrq8nynj.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Победа Masimo в суде может стать лишь первой серией в длинной саге о правах на цифровое здоровье.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566138.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Android для двуногих машин»: молодой инженер запускает RoboParty — открытую платформу, вокруг которой может вырасти новая робототехника</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/092/150_150_1/117mlvhws4hmfuyj21ksfu2yuokgl801.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Из комнаты в общежитии — в миллиарды инвестиций.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566152.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Сначала печень, потом — сердце и легкие. Создан ИИ, который точнее врачей предсказывает время смерти донора.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/89d/150_150_1/u66flmbpg5oobbf2iafj28ajve4uwa6s.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Компьютерные алгоритмы оказались точнее врачебной интуиции.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566097.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Сначала — кассир из Манилы. Потом — роботы. Удаленные работники прямо сейчас обучают ИИ, который их же и заменит</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/70f/150_150_1/cwd5zius7rvgbnzisg9fbcp1xgjhk9d7.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Пока филиппинцы пашут за $3 в час — местные просто теряют рабочие места.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566146.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Хакеры вскрыли архив и хотят миллионы? Сделайте как Checkout.com: отправьте “выкуп” учёным, чтобы в следующий раз взломали уже 
+их</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/670/150_150_1/vdfp8w8p2ko1jvs5etcic55rio1tp3sn.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Заброшенное облако стоило дорого. Но они приняли умное решение.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566161.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Реестр npm накрыла волна из 150 000 мусорных пакетов — крупнейшая кампания по выкачиванию крипто-токенов в истории открытого 
+ПО</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/995/150_150_1/p8wmlrt6wi63f9dnprqt1pz3erbdcxl1.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Каждый пакет содержал tea.yaml для вывода наград злоумышленникам.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566150.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Хакеры перестали доверять хакерам. Как раздробленность рынка шифровальщиков ударила по «бизнесу» вымогателей (и почему 
+им перестали платить).</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/60c/150_150_1/yf60wweiauyfiau188o3qadee1rgl8k6.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Смена власти на криминальной сцене обернулась глобальной непредсказуемостью.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566099.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Массовый удар по хакерам: Европол «выключил» 1000+ серверов и конфисковал 100 000 криптокошельков</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/5e0/150_150_1/7sp1h5j0emb86840cf6uw1mtq5h2qo2w.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Международная спецоперация лишила хакеров площадки, которые годами питали схемы вымогателей и шпионов.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566174.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Теория всего (которая ничего не предсказывает). Что случилось с теорией струн — она умерла или просто ждет своего часа?</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/9e9/150_150_1/aj6fhwvqv1qlzj5g9zd6acysddi6vk21.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Теория струн не рухнула, но потеряла ореол непогрешимости.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566151.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">$149 ➝ $239. Samsung взвинтила цены на серверную память DDR5 на 60%. Во всем виноват бум ИИ.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/eb1/150_150_1/1jyrxmmdqgv9h1inhyuq5w0a7998mhag.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Прибыль поставщиков микросхем взлетит вслед за новым прайс-листом.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566162.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">У вас роутер ASUS и используете VPN? Обновите прошивку 1.1.2.3_1010 — 3 модели пускают хакеров без пароля</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/575/150_150_1/3v6x5e6659wpe8b3urtvqb6qtqi8c8k0.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Компания залатала дыру после массовой волны атак. Обновиться - обязательно.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566091.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Минная угроза и ложный КриптоПро. Аналитики F6 рассказали о новой фишинг-атаке CapFIX, использующей страх перед терактами.</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/6ec/150_150_1/5vh0yax57fq728nq3k1i6cia7gjhjow0.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">В F6 раскрыли новую кибератаку CapFIX. Она нацелена на банки, страховщиков и ритейлеров.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566155.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Эпоха C++17 подходит к концу. В GCC предлагают сделать C++20 режимом по умолчанию</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/158/150_150_1/6y1nhn1ypcfgvvclixwbmdajj6yck35t.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Сообщество спорит, не слишком ли рано делать новый стандарт языком «по умолчанию» для миллионов проектов.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566154.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Риск шизофрении — 99%. В Британии вышел фильм о ДНК Гитлера. Ученые (и мы) в недоумении</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/09c/150_150_1/ah8ud3wlaksvk4bbjv86yg8w0003xp2e.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">ДНК диктатора превращают в кейс о границах науки, медиа и ответственности за интерпретации.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566139.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Мы не соцсеть!». Как Telegram пытается оспорить в суде штраф на $958 тысяч</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/229/150_150_1/2cietjohdgszi9wlstegunimzjc7j2z6.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Платформа настаивает, что австралийский закон не распространяется на её сервис.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566112.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Самый умный вымогатель в истории. Kraken тестирует вашу систему, выбирает режим атаки и уничтожает все бэкапы</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/bae/150_150_1/54lhuwewnb9kedb9ivj3plpb4r9wdwh3.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Группа Kraken всего за несколько месяцев зашифровала компании в 6 странах.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566114.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Ваша фоторамка — троянский конь. 500 тысяч устройств Uhale отправляют данные в Китай, имеют root-доступ и заражены с завода</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/1ef/150_150_1/tv04ero13n2jt0p9m5jtal96lkgyv4w7.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">17 дыр, root по умолчанию и отключённый SELinux.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566123.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">&quot;Я думаю быстрее, чем ты кликаешь&quot;: OpenAI представила GPT-5.1. Новый ИИ-движок вдвое экономнее по токенам и быстрее в 3 раза</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/714/150_150_1/bdm3516bg5ga9eigewh3n31tt5r07cjw.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Прощайте, дорогие токены. Здравствуй, &quot;no reasoning&quot;.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566090.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Психоз, суицид и 560 тысяч пользователей. Новая модель GPT-5.1 научилась эмпатии. Но не стала безопаснее.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/960/150_150_1/o4amdvvi3sfl88vuou425i1sdhjpkfx6.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">OpenAI делает ИИ «дружелюбнее», но эксперты напоминают: тепло исходит лишь от серверов</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566153.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">ИИ-игрушки безопасны первые 5 минут. Потом начинают учить про спички и секс</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/d1d/150_150_1/9w0smr4wf715fer7hmojgzlin6hk7fg9.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Родители даже не подозревают, что игрушка способна открыть ребёнку мир взрослых и опасных желаний.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566142.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Что будет работать, когда мобильный интернет отключат? Минцифры опубликовало вторую часть «белого списка»</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/03c/150_150_1/80xuotoyzcwhm72jvh7mb3vch57d1zgr.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Список сайтов пополнился госорганами, СМИ и банками.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566122.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Thunderbird больше не «стучит» в Mozilla. Что нового в Tails 7.2 — главном дистрибутиве для анонимности</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/c4c/150_150_1/j2hn8m4xvtu2p9ufvbpviqsifls0woxw.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Почта больше не доносит на вас в Mozilla.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566129.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">«Кстати, ты уволен»: ИИ пришёл за специалистами по кибербезопасности</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/fc8/150_150_1/l22eijscz6gxvsk1b9ors4d9ygc8j3dd.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Пересмотр структуры в пользу автоматизации становится главным трендом в IT-отрасли.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566118.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">ИИ-бабушка читает сказки прапраправнуку и не стареет никогда — стартап 2Wai научился воскрешать мёртвых, и это плохая новость 
+</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/e57/150_150_1/2tpb7j31bfb6yipdluw9o408wrgdytgp.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Этический спор о цифровых призраках разгорается с новой силой.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566132.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">У Дурова кончилось терпение. Telegram снёс полмиллиона каналов за сутки</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/75c/150_150_1/skbqqly1icoja1drpzhd8vd28xphbxci.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Мессенджер установил абсолютный рекорд по блокировке каналов.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566119.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Третья мировая идет прямо сейчас. Она в YouTube. Google назвала самые масштабные сети влияния 2025 года</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/d64/150_150_1/dilvx11nfu7lrpa1cg1up91h9ocrhrp1.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Google провела беспрецедентную чистку тысяч каналов.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566137.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Google-аккаунт, уходи. Госдуме предложили штрафовать до 700 тысяч рублей за авторизацию через зарубежные сервисы</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/dd2/150_150_1/uuh9g8t4yugq142lboik04vvi39mfe40.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Для интернет-площадок хотят ввести жесткие санкции за нарушение правил идентификации.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566102.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Пароли уходят в прошлое: Windows расширяет поддержку сторонних passkey-менеджеров</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/458/150_150_1/klnvt1yraqb6qgu6so9qj3s2qssnm2oa.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Ваш палец и лицо теперь решают, кто имеет право на ваши учетные данные в Windows 11.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566135.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Omen — дрон, который запускается с рук и работает как самолёт. Заказ на 50 аппаратов превращает его из эксперимента в реальную 
+угрозу противникам</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/598/150_150_1/y1rhc9c9ukm1i3iewxvzutb8pbc2lf5m.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Армия гибридных дронов, которые взлетают вертикально, летят как планеры и работают роем.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566117.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Пентестеров можно увольнять. Claude Code показал, как всего за 10 дней стать самым эффективным хакером в мире</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/3bf/150_150_1/7cs5r5bp04x11plcn6xg218e1r9c1r9k.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;"></div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566127.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">&quot;Цифровая репутация&quot; —  ваш новый паспорт: Банки начнут формировать профили клиентов на основе налоговой дисциплины 
+и потребительского поведения</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/c46/150_150_1/td0euatff5w77otzp0p41tip3sa5txk6.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Перевел 200 тысяч незнакомцу? Ты подозрителен.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566104.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Провал Linux-антивируса. В ImunifyAV нашли RCE, угрожавшую 56 млн сайтов.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/882/150_150_1/pjkrv3mx47ejwl73zh1s8ek0sp8vgu0u.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Добрый доктор AI-Bolit, мне кажется, мой сайт лежит.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566131.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Биткоин почти собственность. Госдума во втором чтении утвердила порядок ареста и изъятия криптовалюты.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/5b9/150_150_1/kwbidald8d29omqci4qjyloyp3903unk.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Депутаты во втором чтении одобрили порядок ареста и хранения цифровой валюты.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566124.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">С вас 500 тысяч за фейк. Госдума вводит налог на сокрытие ИИ-происхождения видео</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/587/150_150_1/fdnr9utjygbhl084odj4tn3ivor0mwel.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Власти внесут закон об обязательной маркировке видео, созданных с помощью ИИ.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566120.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Твоя карта слишком долго думает. И это уже подозрительно. Банк России утвердил новые признаки мошеннических переводов</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/077/150_150_1/7iwv0mwmi0mai6te0g0yk4n11uowyqdn.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Банки с 1 января 2026 года будут блокировать операции по новым признакам мошенничества.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566133.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Утилита уже на GitHub. Хакеры создают админов в FortiWeb из-за «дыры» в обработке путей.</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/12e/150_150_1/8kdkguvyi0kr6h1k0b49522emwsdv9nd.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Цена его услуг — конфиденциальность вашей компании.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566100.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Одной атакой — в тишину: хакеры &quot;обнулили&quot; вещание радио</a></p>
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/74d/150_150_1/t1cbo162dp18rk772j34bi0uk29u5if0.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Станция показала, как выглядит тотальное уничтожение аппаратуры.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<table class="w410" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td class="w410" width="100%">
+
+					<p class="article-title" align="left"><a href="http://www.securitylab.ru/news/566107.php" style="color: #F78E56;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 14px;font-weight: bold;line-height: 24px;margin-bottom: 18px;margin-top: 0;text-decoration: none;">Ким Чен Ын готовится к войне. КНДР объединила кибервойска, спутники-шпионы и тайных агентов под прямым контролем диктатора</a></p>
+											<table 
+align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+
+									<td><img src="http://www.securitylab.ru/upload/resize_cache/iblock/516/150_150_1/et1giksjrwut5blvxv33d96bz6jccdwg.jpg" label="Image" class="w220" border="0" width="80"/></td>
+									<td class="w410" height="10" width="15"></td>
+									<td><div class="article-content" align="left" style="color: #555555;font-family: 'Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;font-size: 13px;line-height: 18px;margin-bottom: 18px;margin-top: 0;">Северная Корея поняла, что лучше &quot;плохой&quot; спутник, чем &quot;слепой&quot; генерал.</div></td>
+
+								</tr>
+
+							</tbody>
+						</table>
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="w410" height="10" width="15"></td>
+			</tr>
+
+		</tbody>
+	</table>
+															</td>
+															<td class="w30" width="30"></td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td class="w640" width="100%">
+								<table class="w640" border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td class="w170" bgcolor="#ffffff" height="15" width="170"></td>
+											<td class="w470" bgcolor="#ffffff" height="15" width="470"></td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					
+						<tr>
+							<td class="w640" width="100%">
+								<table id="footer" class="w640" bgcolor="#A0BDDB" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #A0BDDB;color: #555555;border-radius: 0 0 6px 6px;">
+									<tbody>
+										<tr>
+											<td class="w30" width="30"></td>
+											<td class="w580 h0" height="30" width="360"></td>
+											<td class="w0" width="60"></td>
+											<td class="w0" width="160"></td>
+											<td class="w30" width="30"></td>
+										</tr>
+										<tr>
+											<td class="w30" width="30"></td>
+											<td class="w580" valign="top" width="360">
+												<span class="hide"><p id="permission-reminder" class="footer-content-left" align="left"><span>Вы получили эту рассылку, потому что вы подписаны на новости сайта SecurityLab.ru.</span></p></span>
+												<p class="footer-content-left" align="left"><a href="http://www.securitylab.ru/subscribe/">Изменить параметры рассылки</a> | <a href="http://www.securitylab.ru/subscribe/unsubscribe.php?mid=93909&mhash=a2048b5f7e35181caffa2cfdb6801fcf">Отписаться</a></p>
+											</td>
+											<td class="hide w0" width="60"></td>
+											<td class="hide w0" valign="top" width="160">
+												<p id="street-address" class="footer-content-right" align="right"></p>
+											</td>
+											<td class="w30" width="30"></td>
+										</tr>
+										<tr>
+											<td class="w30" width="30"></td>
+											<td class="w580 h0" height="15" width="360"></td>
+											<td class="w0" width="60"></td>
+											<td class="w0" width="160"></td>
+											<td class="w30" width="30"></td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td class="w640" height="60" width="100%"></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+ 

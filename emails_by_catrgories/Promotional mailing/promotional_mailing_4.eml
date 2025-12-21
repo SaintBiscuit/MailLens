@@ -1,0 +1,640 @@
+Return-Path: <bounce.4813250004000020c148488b@mta2.directcrm.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from mta2.directcrm.ru (mta2.directcrm.ru [130.193.65.123])
+	by mail.collectorshash.su (Postfix) with ESMTP id 4E0C520975
+	for <v.p.ankevich@collectorshash.su>; Tue, 11 Nov 2025 09:17:08 +0300 (MSK)
+Content-Type: text/html;
+ charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Date: Tue, 11 Nov 2025 06:17:07 +0000
+Message-ID: <4813250004000020c148488b@mta2.directcrm.ru>
+Subject: =?utf-8?B?0J3QsNGH0LDQu9C+0YHRjC4uLiDQlNC+IOKAkzcwJSDRg9C20LUg0YE=?=
+ =?utf-8?B?0LXQs9C+0LTQvdGPIQ==?=
+From: =?utf-8?B?0JvQuNGC0YDQtdGB?= <info@nsl.litres.ru>
+To: <v.p.ankevich@collectorshash.su>
+Reply-To: =?utf-8?B?0JvQuNGC0YDQtdGB?= <info@nsl.litres.ru>
+Precedence: bulk
+X-xsMessageId: 4813250004000020c148488b
+X-xsMailingId: 2429768
+X-Mailru-Msgtype: 2429768
+List-ID: <batch2429768.list-id.nsl.litres.ru>
+Feedback-ID: 2429768:4012:mindbox
+X-Mailer: mindbox.ru
+List-Unsubscribe: <mailto:lu.4813250004000020c148488b@list-unsubscribe-stable.mindbox.ru>, <https://tn-fyi.mckx.ru/ocu/SBMlAAQAACDBSEiL>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=nsl.litres.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=gMmecWCqJwSVDCRDZgJsY7oep1DZkGacXIU0LRnn85o=;
+ b=P3taTVxfVB7JBr3lBIx75YssvQtIW0NnrJempIeWc35Rzsa3MDWN8x2095DiPUnJLHL6a46d0NIqtTrcEW8E7lgwdKyne+Xtp5x+bbjiEhT9oUwbCdUXYjQfgHOrUy7qDUrcmP1N86Sq87Z5H1+vYjkrZXpsEC9Xn2lQa/lYmmw=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=mta2.directcrm.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=gMmecWCqJwSVDCRDZgJsY7oep1DZkGacXIU0LRnn85o=;
+ b=RLFPE+Ea7kg8nJu2SXLagNOSM3ts4jTYn9q0596gWeb0asliIVSY0+lRBt8gyZzMjf4lZxwZ1QrwR0BcCYP2aNS/L0fExTXldJI5iaQRMMogoxZsi+khFGb3MLPDAozDROEzmoaJQ8PBd2P700n3wAX+pd1O/LHATytvI5wissQ=
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">=0A<html>=0A<head>=0A	<meta http-equiv=3D"Conten=
+t-Type" content=3D"text/html; charset=3Dutf-8">=0A	<meta name=3D"x-apple-di=
+sable-message-reformatting">=0A	<meta name=3D"viewport" content=3D"width=3D=
+device-width, initial-scale=3D1">=0A	<title>=D0=A7=D1=91=D1=80=D0=BD=D0=B0=
+=D1=8F =D0=BF=D1=8F=D1=82=D0=BD=D0=B8=D1=86=D0=B0 =D1=83=D0=B6=D0=B5 =D0=B7=
+=D0=B4=D0=B5=D1=81=D1=8C</title>=0A	<style type=3D"text/css">=0A		html {=0A=
+			-webkit-text-size-adjust: none;=0A			-ms-text-size-adjust: none;=0A		}=
+=0A	</style>=0A	<style em=3D"styles">=0A@media only screen and (max-device-=
+width:600px),only screen and (max-width:600px) {=0A    .em-narrow-table {=
+=0A        width: 100%!important;=0A        max-width: 660px!important;=0A =
+       min-width: 320px!important;=0A    }=0A    .em-mob-table_align-center=
+ {=0A        margin: 0 auto!important;=0A    }=0A    .em-mob-line_height-11=
+px {=0A        line-height: 11px!important;=0A    }=0A    .em-mob-width-150=
+px {=0A        width: 150px!important;=0A        max-width: 150px!important=
+;=0A        min-width: 150px!important;=0A    }=0A    .em-mob-height-32px {=
+=0A        height: 32px!important;=0A    }=0A    .em-mob-font_size-16px {=
+=0A        font-size: 16px!important;=0A    }=0A    .em-mob-line_height-16p=
+x {=0A        line-height: 16px!important;=0A    }=0A    .em-mob-wrap.em-mo=
+b-wrap-cancel,.noresp-em-mob-wrap.em-mob-wrap-cancel {=0A        display: t=
+able-cell!important;=0A    }=0A    .em-mob-width-100perc {=0A        min-wi=
+dth: 100%!important;=0A    }=0A    .em-mob-width-23perc {=0A        width: =
+23%!important;=0A    }=0A    .em-mob-height-0px {=0A        height: 0!impor=
+tant;=0A    }=0A    .em-mob-width-100perc {=0A        width: 100%!important=
+;=0A        max-width: 100%!important;=0A    }=0A    .em-mob-wrap {=0A     =
+   display: block!important;=0A    }=0A    .em-mob-font_size-9px {=0A      =
+  font-size: 9px!important;=0A    }=0A    .em-mob-padding_top-0 {=0A       =
+ padding-top: 0!important;=0A    }=0A    .em-mob-padding_bottom-0 {=0A     =
+   padding-bottom: 0!important;=0A    }=0A    .em-mob-padding_top-10 {=0A  =
+      padding-top: 10px!important;=0A    }=0A    .em-mob-padding_bottom-10 =
+{=0A        padding-bottom: 10px!important;=0A    }=0A    .em-mob-padding_l=
+eft-5 {=0A        padding-left: 5px!important;=0A    }=0A    .em-mob-paddin=
+g_right-5 {=0A        padding-right: 5px!important;=0A    }=0A    .em-mob-p=
+adding_right-0 {=0A        padding-right: 0!important;=0A    }=0A    .em-mo=
+b-padding_left-0 {=0A        padding-left: 0!important;=0A    }=0A    .em-m=
+ob-border_radius_all-10 {=0A        border-radius: 10px!important;=0A    }=
+=0A    .em-mob-text_align-center {=0A        text-align: center!important;=
+=0A    }=0A    .em-mob-line_height-14px {=0A        line-height: 14px!impor=
+tant;=0A    }=0A    .em-mob-width-24px {=0A        width: 24px!important;=
+=0A        max-width: 24px!important;=0A        min-width: 24px!important;=
+=0A    }=0A    .em-mob-font_size-10px {=0A        font-size: 10px!important=
+;=0A    }=0A    .em-mob-padding_right-10 {=0A        padding-right: 10px!im=
+portant;=0A    }=0A    .em-mob-padding_left-10 {=0A        padding-left: 10=
+px!important;=0A    }=0A    .em-mob-height-10px {=0A        height: 10px!im=
+portant;=0A    }=0A}=0A@media only screen and (max-device-width:660px),only=
+ screen and (max-width:660px) {=0A    .em-mob-wrap {=0A        display: blo=
+ck!important;=0A    }=0A    .em-mob-width-100perc {=0A        width: 100%!i=
+mportant;=0A        max-width: 100%!important;=0A    }=0A}=0A</style>=0A	<!=
+--[if gte mso 9]>=0A	<xml>=0A		<o:OfficeDocumentSettings>=0A		<o:AllowPNG><=
+/o:AllowPNG>=0A		<o:PixelsPerInch>96</o:PixelsPerInch>=0A		</o:OfficeDocume=
+ntSettings>=0A	</xml>=0A	<![endif]-->=0A</head>=0A<body style=3D"margin: 0p=
+x; padding: 0px;"><!--[if !mso]><!-->=0A<div style=3D"display:none; visibil=
+ity:hidden; opacity:0; height:0; width:0; overflow:hidden; mso-hides:all;">=
+=0A	11.11 =D0=B8 =D0=A7=D1=91=D1=80=D0=BD=D0=B0=D1=8F =D0=BF=D1=8F=D1=82=D0=
+=BD=D0=B8=D1=86=D0=B0 =D0=B2 =D0=9B=D0=B8=D1=82=D1=80=D0=B5=D1=81=0A	&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;<vk-sn=
+ippet-end/>=0A</div>=0A<!--<![endif]--><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"100%" style=3D"font-size: 1px; line-height: 21=
+px;">=0A		<tr em=3D"group">=0A			<td align=3D"center" style=3D"box-shadow: =
+#000000 0px 5px 10px -5px; background-color: #ffffff; border-radius: 15px;"=
+ bgcolor=3D"#ffffff">=0A				<!--[if (gte mso 9)|(IE)]>=0A				<table cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600"><tr><td>=0A				<![e=
+ndif]-->=0A				<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"max-width: 600px; min-width: 600px;" class=3D"em-narrow-table em-mob-t=
+able_align-center"><!-- =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 - =D0=BD=D0=B0=
+=D1=87=D0=B0=D0=BB=D0=BE --><!-- =D0=B1=D0=B0=D0=BD=D0=BD=D0=B5=D1=80 - =D0=
+=BA=D0=BE=D0=BD=D0=B5=D1=86 --><tr em=3D"block">=0A  <td align=3D"center" s=
+tyle=3D"padding: 0px; border-radius: 14px;" class=3D"em-mob-padding_top-0 e=
+m-mob-padding_right-0 em-mob-padding_bottom-0 em-mob-padding_left-0">=0A   =
+ <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob-wi=
+dth-100perc">=0A      <tr>=0A        <td width=3D"290" valign=3D"top" class=
+=3D"em-mob-wrap em-mob-width-100perc"></td>=0A        <td width=3D"20" clas=
+s=3D"em-mob-wrap em-mob-height-0px"></td>=0A        <td width=3D"290" valig=
+n=3D"top" class=3D"em-mob-wrap em-mob-width-100perc"></td>=0A      </tr>=0A=
+    </table>=0A  </td>=0A</tr><tr em=3D"block">=0A  <td align=3D"center" st=
+yle=3D"padding: 10px 20px 0px; background-color: #ffffff;" class=3D"em-mob-=
+padding_top-10 em-mob-padding_right-10 em-mob-padding_bottom-0 em-mob-paddi=
+ng_left-10" bgcolor=3D"#FFFFFF">=0A    <table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" class=3D"em-mob-width-100perc">=0A      <tr>=0A        =
+<td width=3D"560" valign=3D"top" class=3D"em-mob-wrap em-mob-width-100perc"=
+>=0A<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" =
+class=3D"em-mob-width-100perc" em=3D"atom"><tr><td align=3D"center">=0A  <a=
+ href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/puu7Bg/e-TK44B6U9Fnxrfk/=
+?u=3Dhttps%3A%2F%2Fwww.litres.ru%2F%3Futm_source%3DMindbox%26utm_medium%3De=
+mail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank"><im=
+g src=3D"https://email-images.mindbox.ru/b4990af4-f129-4bc0-bd91-9d3f7465ad=
+c2/14.png" width=3D"150" border=3D"0" alt=3D"=D0=9B=D0=B8=D1=82=D1=80=D0=B5=
+=D1=81" style=3D"display: block; width: 100%; max-width: 150px;" height=3D"=
+32" class=3D"em-mob-width-150px em-mob-height-32px"></a>=0A</td></tr></tabl=
+e>=0A</td>=0A      </tr>=0A    </table>=0A  </td>=0A</tr><tr em=3D"block">=
+=0A                                        <td align=3D"center" style=3D"pa=
+dding: 10px 20px 16px;" class=3D"em-mob-padding_top-10 em-mob-padding_right=
+-5 em-mob-padding_bottom-10 em-mob-padding_left-5">=0A                     =
+                       <table align=3D"center" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" class=3D"em-mob-width-100perc">=0A                    =
+                            <tr>=0A                                    <td =
+width=3D"192" valign=3D"top" class=3D"em-mob-wrap em-mob-wrap-cancel em-mob=
+-width-23perc"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><td style=3D"padd=
+ing-bottom: 0px;" class=3D"em-mob-padding_bottom-0">=0A  <div style=3D"font=
+-family:  Arial, sans-serif; font-size: 14px; line-height: 16px; color: #76=
+7579" align=3D"right" class=3D"em-mob-text_align-center em-mob-font_size-9p=
+x"><a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/p-u7Bg/FaGw3NbSWoZV=
+6uv0/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fnew%2F%3Futm_source%3DMindbox%26utm=
+_medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"=
+_blank" style=3D"text-decoration: none; color: #767579;">=D0=9D=D0=BE=D0=B2=
+=D0=B8=D0=BD=D0=BA=D0=B8</a>&nbsp;</div>=0A</td></tr></table></td><td width=
+=3D"12" class=3D"em-mob-wrap em-mob-wrap-cancel em-mob-height-0px"></td>=0A=
+                                    <td width=3D"71" valign=3D"top" class=
+=3D"em-mob-wrap em-mob-wrap-cancel em-mob-width-23perc"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"em-mob-width-=
+100perc" em=3D"atom"><tr><td style=3D"padding-bottom: 0px;" class=3D"em-mob=
+-padding_bottom-0">=0A  <div style=3D"font-family: Arial, sans-serif; font-=
+size: 14px; line-height: 16px; color: #767579" align=3D"center" class=3D"em=
+-mob-font_size-9px"><a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/qO=
+u7Bg/F-dkBD_AZBmCi33k/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fpopular%2F%3Futm_s=
+ource%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025=
+_Skidki_2" target=3D"_blank" style=3D"text-decoration: none; color: #767579=
+;">=D0=9F=D0=BE=D0=BF=D1=83=D0=BB=D1=8F=D1=80=D0=BD=D0=BE=D0=B5&nbsp;</a></=
+div>=0A</td></tr></table></td><td width=3D"12" class=3D"em-mob-wrap em-mob-=
+wrap-cancel em-mob-height-0px"></td>=0A                                    =
+<td width=3D"71" valign=3D"top" class=3D"em-mob-wrap em-mob-wrap-cancel em-=
+mob-width-23perc"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" w=
+idth=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><td style=3D"p=
+adding-bottom: 0px;" class=3D"em-mob-padding_bottom-0">=0A  <div style=3D"f=
+ont-family:  Arial, sans-serif; font-size: 14px; line-height: 16px; color: =
+#767579" align=3D"center" class=3D"em-mob-font_size-9px"><a href=3D"https:/=
+/tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/qeu7Bg/yVIDBce0kH7D2GgG/?u=3Dhttps%3A%2F=
+%2Fwww.litres.ru%2Faudiobooks%2F%3Futm_source%3DMindbox%26utm_medium%3Demai=
+l_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=
+=3D"text-decoration: none; color: #767579;">=D0=90=D1=83=D0=B4=D0=B8=D0=BE=
+=D0=BA=D0=BD=D0=B8=D0=B3=D0=B8</a>&nbsp;</div>=0A</td></tr></table></td><td=
+ width=3D"12" class=3D"em-mob-wrap em-mob-wrap-cancel em-mob-height-0px"></=
+td>=0A                                    <td width=3D"191" valign=3D"top" =
+class=3D"em-mob-wrap em-mob-wrap-cancel em-mob-width-23perc"><table cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"em-mob-wi=
+dth-100perc" em=3D"atom"><tr><td style=3D"padding-bottom: 0px;" class=3D"em=
+-mob-padding_bottom-0">=0A  <div style=3D"font-family: Arial, sans-serif; f=
+ont-size: 14px; line-height: 16px; color: #767579" align=3D"left" class=3D"=
+em-mob-text_align-center em-mob-font_size-9px"><a href=3D"https://tn-fyi.mc=
+kx.ru/c/SBMlAAQAACDBSEiL/quu7Bg/lSEuDiy3w7AJLPy3/?u=3Dhttps%3A%2F%2Fwww.lit=
+res.ru%2Fcollections%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_pr=
+omo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"text-d=
+ecoration: none; color: #767579;">=D0=A7=D1=82=D0=BE =D0=BF=D0=BE=D1=87=D0=
+=B8=D1=82=D0=B0=D1=82=D1=8C?&nbsp;</a></div>=0A</td></tr></table></td>=0A  =
+                                              </tr>=0A																					=
+			</table>=0A                                        </td>=0A             =
+                       </tr><tr em=3D"block" class=3D"em-structure">=0A    =
+                                    <td align=3D"center" style=3D"padding: =
+0px; background-color: #050505; border-radius: 15px;" class=3D"em-mob-paddi=
+ng_top-0 em-mob-padding_bottom-0 em-mob-padding_right-0 em-mob-padding_left=
+-0" bgcolor=3D"#050505">=0A                                            <tab=
+le align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"em-mob-width-100perc">=0A                                              =
+  <tr><td width=3D"600" valign=3D"top" class=3D"em-mob-wrap em-mob-width-10=
+0perc">=0A                                                        <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"em-m=
+ob-width-100perc" em=3D"atom"><tr><td style=3D"background-size: cover; bord=
+er-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-righ=
+t-radius: 0px;">=0A  <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/q=
+-u7Bg/gbcB50Acz21LYdMy/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fcollections%2Fche=
+rnaya-pyatnica-uzhe-zdes-skidki-do-70-na-podborku-knig%2F%3Futm_source%3DMi=
+ndbox%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2"=
+ target=3D"_blank"><img src=3D"https://email-images.mindbox.ru/5e61675c-35c=
+9-4faf-a9ef-4bc2cef77d1c/8.png" width=3D"600" border=3D"0" alt=3D"=D0=A1=D0=
+=BA=D0=B8=D0=B4=D0=BA=D0=B8 =D0=B4=D0=BE 70% =D0=BD=D0=B0 =D0=A7=D1=91=D1=
+=80=D0=BD=D1=83=D1=8E =D0=BF=D1=8F=D1=82=D0=BD=D0=B8=D1=86=D1=83" style=3D"=
+display: block; width: 100%; max-width: 600px;"></a>=0A</td></tr></table><t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=
+=3D"em-mob-width-100perc" em=3D"atom"><tr><td>=0A  <a href=3D"https://tn-fy=
+i.mckx.ru/c/SBMlAAQAACDBSEiL/rOu7Bg/ue8tOHm7AEozOios/?u=3Dhttps%3A%2F%2Fwww=
+.litres.ru%2Fbook%2Ftatyana-serganova%2Fbrachnaya-afera-ili-celitelnica-v-b=
+egah-72512326%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26u=
+tm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank"><img src=3D"https://em=
+ail-images.mindbox.ru/4a6da848-5627-4977-95a4-5befca836383/4.png" width=3D"=
+600" border=3D"0" alt=3D"=D0=91=D1=80=D0=B0=D1=87=D0=BD=D0=B0=D1=8F =D0=B0=
+=D1=84=D0=B5=D1=80=D0=B0" style=3D"display: block; width: 100%; max-width: =
+600px;"></a>=0A</td></tr></table><table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr=
+><td style=3D"background-size: cover;">=0A  <a href=3D"https://tn-fyi.mckx.=
+ru/c/SBMlAAQAACDBSEiL/reu7Bg/3dNYDAYXs6mcNMo1/?u=3Dhttps%3A%2F%2Fwww.litres=
+.ru%2Fbook%2Ffredrik-bakman%2Fbabushka-velela-klanyatsya-i-peredat-chto-pro=
+sit-proscheniy-27351958%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass=
+_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank"><img src=3D"=
+https://email-images.mindbox.ru/4472e558-a728-4f39-ab03-acda961496fb/2.png"=
+ width=3D"600" border=3D"0" alt=3D"=D0=91=D0=B0=D0=B1=D1=83=D1=88=D0=BA=D0=
+=B0 =D0=B2=D0=B5=D0=BB=D0=B5=D0=BB=D0=B0 =D0=BA=D0=BB=D0=B0=D0=BD=D1=8F=D1=
+=82=D1=8C=D1=81=D1=8F" style=3D"display: block; width: 100%; max-width: 600=
+px;"></a>=0A</td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><t=
+d style=3D"background-size: cover;">=0A  <a href=3D"https://tn-fyi.mckx.ru/=
+c/SBMlAAQAACDBSEiL/ruu7Bg/tPQjfRv0i1kQrRU_/?u=3Dhttps%3A%2F%2Fwww.litres.ru=
+%2Fbook%2Fbrendon-sanderson%2Fput-koroley-21162101%2F%3Futm_source%3DMindbo=
+x%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" tar=
+get=3D"_blank"><img src=3D"https://email-images.mindbox.ru/943991ae-76ef-4d=
+3d-bb0b-6b59ba336ef5/1.png" width=3D"600" border=3D"0" alt=3D"=D0=AD=D0=B3=
+=D0=BE =E2=80=93=C2=A0=D1=8D=D1=82=D0=BE =D0=B2=D1=80=D0=B0=D0=B3" style=3D=
+"display: block; width: 100%; max-width: 600px;"></a>=0A</td></tr></table><=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=
+=3D"em-mob-width-100perc" em=3D"atom"><tr><td>=0A  <a href=3D"https://tn-fy=
+i.mckx.ru/c/SBMlAAQAACDBSEiL/r-u7Bg/raLBsU9Dumv-Vn-o/?u=3Dhttps%3A%2F%2Fwww=
+.litres.ru%2Faudiobook%2Frobert-grin%2F48-zakonov-vlasti-zakony-1-16-833792=
+4%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaign%=
+3D11-11-2025_Skidki_2" target=3D"_blank"><img src=3D"https://email-images.m=
+indbox.ru/19bcad2e-54c7-4e72-82b4-bddd5906f968/11.png" width=3D"600" border=
+=3D"0" alt=3D"48 =D0=B7=D0=B0=D0=BA=D0=BE=D0=BD=D0=BE=D0=B2 =D0=B2=D0=BB=D0=
+=B0=D1=81=D1=82=D0=B8" style=3D"display: block; width: 100%; max-width: 600=
+px;"></a>=0A</td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><t=
+d style=3D"background-size: cover;">=0A  <a href=3D"https://tn-fyi.mckx.ru/=
+c/SBMlAAQAACDBSEiL/sOu7Bg/DfNYsUXU9cB0THZt/?u=3Dhttps%3A%2F%2Fwww.litres.ru=
+%2Fbook%2Ftatyana-ustinova%2Fbolshoe-zlo-i-melkie-pakosti-121021%2F%3Futm_s=
+ource%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025=
+_Skidki_2" target=3D"_blank"><img src=3D"https://email-images.mindbox.ru/ab=
+2e5a12-709c-4fd4-a9b6-ba7bdfa09712/3.png" width=3D"600" border=3D"0" alt=3D=
+"=D0=91=D0=BE=D0=BB=D1=8C=D1=88=D0=BE=D0=B5 =D0=B7=D0=BB=D0=BE =D0=B8 =D0=
+=BC=D0=B5=D0=BB=D0=BA=D0=B8=D0=B5 =D0=BF=D0=B0=D0=BA=D0=BE=D1=81=D1=82=D0=
+=B8" style=3D"display: block; width: 100%; max-width: 600px;"></a>=0A</td><=
+/tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><td style=3D"backg=
+round-size: cover;">=0A  <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSE=
+iL/seu7Bg/FdCMTRmnUpKeqdrN/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fbook%2Foleg-s=
+apfir-32864530%2Fpovelitel-dronov-72241813%2F%3Futm_source%3DMindbox%26utm_=
+medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_=
+blank"><img src=3D"https://email-images.mindbox.ru/9ef47e52-70af-4e47-bcaa-=
+bbaeca97bb16/6.png" width=3D"600" border=3D"0" alt=3D"=D0=9F=D0=BE=D0=B2=D0=
+=B5=D0=BB=D0=B8=D1=82=D0=B5=D0=BB=D1=8C =D0=B4=D1=80=D0=BE=D0=BD=D0=BE=D0=
+=B2" style=3D"display: block; width: 100%; max-width: 600px;"></a>=0A</td><=
+/tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><td style=3D"backg=
+round-size: cover;">=0A  <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSE=
+iL/suu7Bg/wV_itOEAB2FhsIZh/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fbook%2Fali-ha=
+zelwood-32192277%2Fgipoteza-lubvi-69008581%2F%3Futm_source%3DMindbox%26utm_=
+medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_=
+blank"><img src=3D"https://email-images.mindbox.ru/f4a652c0-88d4-4960-9691-=
+f0924e583e63/13.png" width=3D"600" border=3D"0" alt=3D"=D0=93=D0=B8=D0=BF=
+=D0=BE=D1=82=D0=B5=D0=B7=D0=B0 =D0=BB=D1=8E=D0=B1=D0=B2=D0=B8" style=3D"dis=
+play: block; width: 100%; max-width: 600px;"></a>=0A</td></tr></table><tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"=
+em-mob-width-100perc" em=3D"atom"><tr><td style=3D"background-size: cover;"=
+>=0A  <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/s-u7Bg/Oo0rF-Mc-=
+gKyslp7/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fbook%2Fkip-torn%2Finterstellar-n=
+auka-za-kadrom-11294147%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass=
+_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank"><img src=3D"=
+https://email-images.mindbox.ru/b4d45877-b332-4a8e-90be-809b44e6de08/10.png=
+" width=3D"600" border=3D"0" alt=3D"=D0=98=D0=BD=D1=82=D0=B5=D1=80=D1=81=D1=
+=82=D0=B5=D0=BB=D0=BB=D0=B0=D1=80: =D0=BD=D0=B0=D1=83=D0=BA=D0=B0 =D0=B7=D0=
+=B0 =D0=BA=D0=B0=D0=B4=D1=80=D0=BE=D0=BC" style=3D"display: block; width: 1=
+00%; max-width: 600px;"></a>=0A</td></tr></table><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"em-mob-width-100perc"=
+ em=3D"atom"><tr><td style=3D"background-size: cover;">=0A  <a href=3D"http=
+s://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/tOu7Bg/2H3IeQRwf8_LWCk8/?u=3Dhttps%3A=
+%2F%2Fwww.litres.ru%2Faudiobook%2Flev-tolstoy%2Fvoyna-i-mir-63745537%2F%3Fu=
+tm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-=
+2025_Skidki_2" target=3D"_blank"><img src=3D"https://email-images.mindbox.r=
+u/0d02c5f0-674c-4422-9317-953c671d3d85/7.png" width=3D"600" border=3D"0" al=
+t=3D"=D0=92=D0=BE=D0=B9=D0=BD=D0=B0 =D0=B8 =D0=BC=D0=B8=D1=80" style=3D"dis=
+play: block; width: 100%; max-width: 600px;"></a>=0A</td></tr></table><tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"=
+em-mob-width-100perc" em=3D"atom"><tr><td style=3D"background-size: cover;"=
+>=0A  <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/teu7Bg/DUPXszl0s=
+nZNfSuv/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fbook%2Fedvard-radzinskiy%2Fbabe-=
+carstvo-russkiy-paradoks-39417965%2F%3Futm_source%3DMindbox%26utm_medium%3D=
+email_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank"><i=
+mg src=3D"https://email-images.mindbox.ru/ec576d3d-1e1e-4e5d-b956-3e5bf55a3=
+457/5.png" width=3D"600" border=3D"0" alt=3D"=D0=91=D0=B0=D0=B1=D1=8C=D0=B5=
+ =D1=86=D0=B0=D1=80=D1=81=D1=82=D0=B2=D0=BE" style=3D"display: block; width=
+: 100%; max-width: 600px;"></a>=0A</td></tr></table><table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"em-mob-width-100pe=
+rc" em=3D"atom"><tr><td style=3D"background-size: cover; border-bottom-righ=
+t-radius: 10px; border-bottom-left-radius: 10px; border-top-left-radius: 0p=
+x;">=0A  <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/tuu7Bg/z2twLS=
+vzjPypV0_M/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fcollections%2Fchernaya-pyatni=
+ca-uzhe-zdes-skidki-do-70-na-podborku-knig%2F%3Futm_source%3DMindbox%26utm_=
+medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_=
+blank"><img src=3D"https://email-images.mindbox.ru/b591fd68-ebbf-476c-b5dc-=
+6ba8e2ad9447/12.png" width=3D"600" border=3D"0" alt=3D"=D0=92=D1=81=D0=B5 =
+=D0=BA=D0=BD=D0=B8=D0=B3=D0=B8 =D1=81=D0=BE =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=
+=D0=B0=D0=BC=D0=B8 =D0=B4=D0=BE 70%" style=3D"display: block; width: 100%; =
+max-width: 600px;"></a>=0A</td></tr></table>=0A                            =
+                        </td></tr></table>=0A                              =
+          </td>=0A</tr><tr em=3D"block" class=3D"em-structure">=0A         =
+                               <td align=3D"center" style=3D"padding: 10px;=
+" class=3D"em-mob-padding_top-10 em-mob-padding_right-10 em-mob-padding_bot=
+tom-10 em-mob-padding_left-10">=0A                                         =
+   <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"em-mob-width-100perc">=0A                                        =
+        <tr>=0A                                                    <td widt=
+h=3D"580" valign=3D"top" class=3D"em-mob-wrap em-mob-width-100perc">=0A    =
+                                                    <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" width=3D"100%" class=3D"em-mob-width-100pe=
+rc" em=3D"atom"><tr><td style=3D"padding: 10px 0px;">=0A  <div style=3D"fon=
+t-family: Helvetica, &#39;Helvetica Neue&#39;, Roboto, Arial, sans-serif; f=
+ont-size: 20px; line-height: 20px; color: #333333;" align=3D"center" class=
+=3D"em-mob-font_size-16px em-mob-line_height-16px"><strong>=D0=9F=D1=80=D0=
+=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=
+=82=D0=BD=D1=91=D1=80=D0=B0</strong></div>=0A</td></tr></table>=0A         =
+                                           </td>=0A                        =
+                        </tr></table>=0A                                   =
+     </td>=0A</tr><tr em=3D"block" class=3D"em-structure">=0A  <td align=3D=
+"center" style=3D"padding: 0px;" class=3D"em-mob-padding_top-0 em-mob-paddi=
+ng_bottom-0 em-mob-padding_right-0 em-mob-padding_left-0">=0A    <table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"em-mob-width-100perc=
+">=0A      <tr>=0A        <td width=3D"600" valign=3D"top" class=3D"em-mob-=
+wrap em-mob-width-100perc"><table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"100%" class=3D"em-mob-width-100perc" em=3D"atom"><tr><td s=
+tyle=3D"padding: 0px;" class=3D"em-mob-padding_top-10 em-mob-padding_right-=
+0 em-mob-padding_bottom-0 em-mob-padding_left-0">=0A  <a href=3D"https://tn=
+-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/t-u7Bg/idqCrm8bmidpj6QH/?u=3Dhttps%3A%2F%2F=
+t2.ru%2Fpromo%2Fpartner-all%3Futm_source%3Dpartner%26utm_medium%3Demail%26u=
+tm_campaign%3Dlitres_email" target=3D"_blank"><img src=3D"https://email-ima=
+ges.mindbox.ru/Litres/a5e2cf8b-142e-4214-950f-97acc7c5bafa/4d288f23-561b-4a=
+7c-ac92-5bc2c8a48c12.png" width=3D"600" border=3D"0" alt=3D"=D0=9F=D1=80=D0=
+=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=
+=82=D0=BD=D1=91=D1=80=D0=B0" style=3D"display: block; width: 100%; max-widt=
+h: 600px; border-radius: 15px;" class=3D"em-mob-border_radius_all-10"></a>=
+=0A</td></tr></table></td>=0A      </tr>=0A    </table>=0A  </td>=0A</tr><t=
+r em=3D"block"><td align=3D"center" style=3D"padding-left: 20px; padding-ri=
+ght: 20px;" class=3D"em-mob-padding_right-10 em-mob-padding_left-10"><div s=
+tyle=3D"height: 10px; line-height: 10px; font-size: 18px;" class=3D"em-mob-=
+height-10px">&nbsp;</div>=0A                                        <div st=
+yle=3D"font-family: Helvetica, &#39;Helvetica Neue&#39;, Roboto, Arial, san=
+s-serif; color: #000000; font-size: 20px; line-height: 23px; font-weight: b=
+old;" class=3D"em-mob-text_align-center em-mob-font_size-10px em-mob-line_h=
+eight-14px" align=3D"center">=0A                                           =
+ =D0=9B=D0=B8=D1=82=D1=80=D0=B5=D1=81&nbsp;=E2=80=94 =D1=86=D0=B8=D1=84=D1=
+=80=D0=BE=D0=B2=D0=BE=D0=B9 =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D1=8D=D0=
+=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D1=85&nbsp;=D0=B8&nbsp;=
+=D0=B0=D1=83=D0=B4=D0=B8=D0=BE=D0=BA=D0=BD=D0=B8=D0=B3, =D0=B0&nbsp;=D1=82=
+=D0=B0=D0=BA=D0=B6=D0=B5 =D0=B4=D1=80=D1=83=D0=B3=D0=BE=D0=B3=D0=BE =D0=BA=
+=D0=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=82=D0=B0: =D0=BF=D0=BE=D0=B4=D0=BA=D0=B0=
+=D1=81=D1=82=D1=8B, =D1=81=D0=BF=D0=B5=D0=BA=D1=82=D0=B0=D0=BA=D0=BB=D0=B8,=
+ =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D0=B2=D1=8C=D1=8E</div>=0A                 =
+                       <div style=3D"height: 20px; line-height: 20px; font-=
+size: 8px;" class=3D"em-mob-height-10px">&nbsp;</div>=0A                   =
+                     <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">=0A                                            <tr>=0A                   =
+                             <td align=3D"center" valign=3D"top" width=3D"1=
+18">=0A                                                    <a href=3D"https=
+://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/uOu7Bg/4Gwn5lFEtMN2VcyT/?u=3Dhttps%3A%=
+2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dru.litres.android%26hl=
+%3Dru%26gl%3DUS%26utm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26ut=
+m_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"display: block=
+; max-width: 118px;">=0A                                                   =
+     <img src=3D"https://email-images.mindbox.ru/Litres/5b52bc9b-fc14-4878-=
+891b-c8b80e21d13a/843fa1c3-2254-465b-8c8f-7d297bcfef45.png" width=3D"118" b=
+order=3D"0" alt=3D"Google Play" style=3D"display: block; width: 100%; max-w=
+idth: 118px;">=0A                                                    </a>=
+=0A                                                </td>=0A                =
+                                <td width=3D"10" style=3D"width: 10px; min-=
+width: 10px;">&nbsp;</td>=0A                                               =
+ <td align=3D"center" valign=3D"top" width=3D"118">=0A                     =
+                               <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQA=
+ACDBSEiL/ueu7Bg/DDU99CD1FgVy7psr/?u=3Dhttps%3A%2F%2Fapps.apple.com%2Fru%2Fa=
+pp%2F%25D0%25BA%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B8-%25D0%25B8-%25D0%25=
+B0%25D1%2583%25D0%25B4%25D0%25B8%25D0%25BE%25D0%25BA%25D0%25BD%25D0%25B8%25=
+D0%25B3%25D0%25B8%2Fid438441429%3Futm_source%3DMindbox%26utm_medium%3Demail=
+_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=
+=3D"display: block; max-width: 118px;">=0A                                 =
+                       <img src=3D"https://email-images.mindbox.ru/Litres/5=
+b52bc9b-fc14-4878-891b-c8b80e21d13a/33daa63d-5b96-4b6c-848e-b03ae63f6523.pn=
+g" width=3D"118" border=3D"0" alt=3D"AppStore" style=3D"display: block; wid=
+th: 100%; max-width: 118px;">=0A                                           =
+         </a>=0A                                                </td>=0A   =
+                                             <td width=3D"10" style=3D"widt=
+h: 10px; min-width: 10px;">&nbsp;</td>=0A                                  =
+              <td align=3D"center" valign=3D"top" width=3D"118">=0A        =
+                                            <a href=3D"https://tn-fyi.mckx.=
+ru/c/SBMlAAQAACDBSEiL/uuu7Bg/7Ruj51lkWnLvd0Tz/?u=3Dhttps%3A%2F%2Fappgallery=
+.huawei.com%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm=
+_campaign%3D11-11-2025_Skidki_2%23%2Fapp%2FC100513513" target=3D"_blank" st=
+yle=3D"display: block; max-width: 118px;">=0A                              =
+                          <img src=3D"https://email-images.mindbox.ru/Litre=
+s/5b52bc9b-fc14-4878-891b-c8b80e21d13a/561eb65b-adc1-4e33-a8ac-6dc104a5ba0b=
+.png" width=3D"118" border=3D"0" alt=3D"AppGallery" style=3D"display: block=
+; width: 100%; max-width: 118px;">=0A                                      =
+              </a>=0A                                                </td>=
+=0A                                                 <td width=3D"10" style=
+=3D"width: 10px; min-width: 10px;">&nbsp;</td>=0A                          =
+                      <td align=3D"center" valign=3D"top" width=3D"114">=0A=
+                                                    <a href=3D"https://tn-f=
+yi.mckx.ru/c/SBMlAAQAACDBSEiL/u-u7Bg/ybeyN-Ejrj27waYd/?u=3Dhttps%3A%2F%2Fap=
+ps.rustore.ru%2Fapp%2Fru.litres.android%3Frsm%3D1%26mt_link_id%3Dqdstn0%26u=
+tm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-=
+2025_Skidki_2" target=3D"_blank" style=3D"display: block; max-width: 118px;=
+">=0A                                                        <img src=3D"ht=
+tps://email-images.mindbox.ru/Litres/5b52bc9b-fc14-4878-891b-c8b80e21d13a/a=
+34d9bc6-70d9-4bae-b14f-3615a3dfd70d.png" width=3D"114" border=3D"0" alt=3D"=
+Rustore" style=3D"display: block; width: 100%; max-width: 114px;">=0A      =
+                                              </a>=0A                      =
+                          </td>=0A                                         =
+   </tr></table>=0A                                        <div style=3D"he=
+ight: 20px; line-height: 20px; font-size: 8px;" class=3D"em-mob-height-10px=
+">&nbsp;</div>=0A                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">=0A                                  =
+          <tr>=0A                                                <td align=
+=3D"center" valign=3D"top" width=3D"60" style=3D"width: 60px;">=0A         =
+                                           <a href=3D"https://tn-fyi.mckx.r=
+u/c/SBMlAAQAACDBSEiL/vOu7Bg/oJvQX1w7ruNSq37_/?u=3Dhttps%3A%2F%2Fvk.com%2Fmy=
+litres%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaig=
+n%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"display: block; max-wid=
+th: 32px;">=0A                                                        <img =
+src=3D"https://email-images.mindbox.ru/Litres/2243/15bb61b1-5d11-4976-89c9-=
+bbcac82f59f7.png" width=3D"32" border=3D"0" alt=3D"VK" style=3D"display: bl=
+ock; width: 100%; max-width: 32px;" class=3D"em-mob-width-24px">=0A        =
+                                            </a>=0A                        =
+                        </td>=0A                                           =
+     <td align=3D"center" valign=3D"top" width=3D"60" style=3D"width: 60px;=
+">=0A                                                    <a href=3D"https:/=
+/tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/veu7Bg/lZDDd8LxWgWsCUF6/?u=3Dhttps%3A%2F=
+%2Ft.me%2FLitRes_ebooks%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_pr=
+omo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"displa=
+y: block; max-width: 32px;">=0A                                            =
+            <img src=3D"https://email-images.mindbox.ru/Litres/2243/d2a0e7f=
+d-e46e-4ddd-960c-0249ee4f1c64.png" width=3D"32" border=3D"0" alt=3D"Telegra=
+m" style=3D"display: block; width: 100%; max-width: 32px;" class=3D"em-mob-=
+width-24px">=0A                                                    </a>=0A =
+                                               </td>=0A                    =
+                            <td align=3D"center" valign=3D"top" width=3D"60=
+" style=3D"width: 60px;">=0A                                               =
+     <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/vuu7Bg/6XEHCEIg-Y=
+LAEmNm/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fjournal%2F%3Futm_source%3DMindbox=
+%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" targ=
+et=3D"_blank" style=3D"display: block; max-width: 32px;">=0A               =
+                                         <img src=3D"https://email-images.m=
+indbox.ru/Litres/2243/b67ff852-75da-422d-b4b5-f13adfbdd5b1.png" width=3D"32=
+" border=3D"0" alt=3D"Journal" style=3D"display: block; width: 100%; max-wi=
+dth: 32px;" class=3D"em-mob-width-24px">=0A                                =
+                    </a>=0A                                                =
+</td>=0A                                                  <td align=3D"cent=
+er" valign=3D"top" width=3D"60" style=3D"width: 60px;">=0A                 =
+                                   <a href=3D"https://tn-fyi.mckx.ru/c/SBMl=
+AAQAACDBSEiL/v-u7Bg/cScewE_q_SOYk1MZ/?u=3Dhttps%3A%2F%2Fwww.youtube.com%2F%=
+40LitresBooks%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_=
+campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"display: block; =
+max-width: 32px;">=0A                                                      =
+  <img src=3D"https://email-images.mindbox.ru/Litres/5b52bc9b-fc14-4878-891=
+b-c8b80e21d13a/f24ea444-2f0b-4b94-b820-be190ea0484d.png" width=3D"32" borde=
+r=3D"0" alt=3D"YouTube" style=3D"display: block; width: 100%; max-width: 32=
+px;" class=3D"em-mob-width-24px">=0A                                       =
+             </a>=0A                                                </td>=
+=0A                                            </tr></table>=0A            =
+                            <div style=3D"height: 20px; line-height: 20px; =
+font-size: 18px;" class=3D"em-mob-height-10px">&nbsp;</div></td></tr><tr em=
+=3D"block"><td align=3D"center" style=3D"background: #e5e5e5; padding: 0px =
+20px; border-radius: 10px;" class=3D"em-mob-border_radius_all-10 em-mob-pad=
+ding_top-0 em-mob-padding_right-10 em-mob-padding_bottom-10 em-mob-padding_=
+left-10" bgcolor=3D"#e5e5e5">=0A                                        <ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=
+=3D"max-width: 620px;">=0A                                            <tr><=
+td align=3D"center" class=3D"em-mob-padding_top-10 em-mob-padding_right-10 =
+em-mob-padding_left-10" style=3D"padding: 20px; border-radius: 10px;"><div =
+style=3D"font-family: Arial, sans-serif; color: #3B393F; font-size: 14px; l=
+ine-height: 22px;" align=3D"center" class=3D"em-mob-text_align-center em-mo=
+b-line_height-11px em-mob-font_size-10px">=D0=92=D1=8B&nbsp;=D0=BF=D0=BE=D0=
+=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=
+=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =D1=87=D1=82=D0=BE =
+=D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=
+=D0=B0&nbsp;=D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83 =D0=BD=D0=B0&n=
+bsp;=D0=BD=D0=B0=D1=88=D0=B5=D0=BC =D1=81=D0=B0=D0=B9=D1=82=D0=B5 <a href=
+=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/wOu7Bg/31AtmoxbY8Qs7HFt/?u=3D=
+https%3A%2F%2Flitres.ru%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass=
+_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"tex=
+t-decoration: underline; color: #3b393f;">www.litres.ru</a> =D0=B8=D0=BB=D0=
+=B8 =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=
+=BD=D1=8B=D0=B5 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=
+=8F =D0=9B=D0=B8=D1=82=D1=80=D0=B5=D1=81. =D0=95=D1=81=D0=BB=D0=B8 =D0=B2=
+=D1=8B&nbsp;=D0=BD=D0=B5&nbsp;=D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5 =D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D1=8C =D0=BD=D0=B0=D1=88=D0=B8 =D0=BF=
+=D0=B8=D1=81=D1=8C=D0=BC=D0=B0, =D0=BD=D0=B0=D0=B6=D0=BC=D0=B8=D1=82=D0=B5&=
+nbsp;<u><a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/weu7Bg/ObG4_29=
+gp_HgyGV-/?u=3Dhttps%3A%2F%2Ftn-fyi.mckx.ru%2Fu%2FSBMlAAQAACDBSEiL%2FMrGcvF=
+18LhDfZkg0%2Ftrue%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26=
+utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"text-decorat=
+ion: underline; color: #3b393f;">=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=
+=D1=8C=D1=81=D1=8F</a></u>. =D0=A3=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D1=82=D0=B5=D0=BC=D0=B0=D1=82=D0=B8=D0=BA=D0=B0=D0=BC=D0=
+=B8 =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BE=D0=BA =D0=B4=D0=BE=D1=81=D1=
+=82=D1=83=D0=BF=D0=BD=D0=BE =D0=B2&nbsp;<a href=3D"https://tn-fyi.mckx.ru/c=
+/SBMlAAQAACDBSEiL/wuu7Bg/xUv-PgZhmVCEGKmk/?u=3Dhttps%3A%2F%2Fwww.litres.ru%=
+2Fme%2Fnotifications%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_pr=
+omo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"text-d=
+ecoration: underline; color: #3b393f;"><u>=D0=BB=D0=B8=D1=87=D0=BD=D0=BE=D0=
+=BC =D0=BA=D0=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5</u></a>&nbsp;.</div><d=
+iv style=3D"height: 20px; line-height: 20px; font-size: 8px;" class=3D"em-m=
+ob-height-10px">&nbsp;=0A                                                  =
+  </div><div style=3D"font-family: Arial, sans-serif; color: #3B393F; font-=
+size: 14px; line-height: 22px;" class=3D"em-mob-text_align-center em-mob-fo=
+nt_size-10px em-mob-line_height-11px">=D0=9E=D0=9E=D0=9E =C2=AB=D0=9B=D0=B8=
+=D1=82=D0=A0=D0=B5=D1=81=C2=BB, =D0=98=D0=9D=D0=9D <a href=3D"https://tn-fy=
+i.mckx.ru/c/SBMlAAQAACDBSEiL/w-u7Bg/Ik4e_w2yY62Dx7nR/?u=3Dhttps%3A%2F%2Fwww=
+.litres.ru%2Fcompany%2Fcontacts%2F%3Futm_source%3DMindbox%26utm_medium%3Dem=
+ail_mass_promo%26utm_campaign%3D11-11-2025_Skidki_2" target=3D"_blank" styl=
+e=3D"text-decoration: none; color: #3b393f;">7719571260</a>, =D0=9E=D0=93=
+=D0=A0=D0=9D <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAACDBSEiL/xOu7Bg/7c=
+zVy54nZtEmCMdw/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fcompany%2Fcontacts%2F%3Fu=
+tm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_campaign%3D11-11-=
+2025_Skidki_2" target=3D"_blank" style=3D"text-decoration: none; color: #3b=
+393f;">1057748936398</a>, <br><a href=3D"tel:88003332737" target=3D"_blank"=
+ style=3D"text-decoration: underline; color: #3b393f;">8 (800) 333-27-37</a=
+><br>=D0=AE=D1=80=D0=B8=D0=B4=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B9 =D0=
+=B0=D0=B4=D1=80=D0=B5=D1=81: <a href=3D"https://tn-fyi.mckx.ru/c/SBMlAAQAAC=
+DBSEiL/xeu7Bg/aeyTVp7Z_aV62C9t/?u=3Dhttps%3A%2F%2Fwww.litres.ru%2Fcompany%2=
+Fcontacts%2F%3Futm_source%3DMindbox%26utm_medium%3Demail_mass_promo%26utm_c=
+ampaign%3D11-11-2025_Skidki_2" target=3D"_blank" style=3D"text-decoration: =
+underline; color: #3b393f;">12=E2=80=8C31=E2=80=8C12, =D0=A0=D0=BE=E2=80=8C=
+=D1=81=D1=81=E2=80=8C=D0=B8=D1=8F, =D0=B3. =D0=9C=D0=BE=E2=80=8C=D1=81=D0=
+=BA=E2=80=8C=D0=B2=D0=B0, 1-=D0=B9 =D0=9A=D1=80=D0=B0=D1=81=D0=BD=D0=BE=E2=
+=80=8C=D0=B3=D0=B2=D0=B0=E2=80=8C=D1=80=D0=B4=D0=B5=E2=80=8C=D0=B9=D1=81=E2=
+=80=8C=D0=BA=D0=B8=D0=B9 =D0=BF=D1=80=E2=80=8C=D0=BE=D0=B5=E2=80=8C=D0=B7=
+=D0=B4, 15</a></div></td></tr>=0A                                        </=
+table>=0A                                    </td></tr></table>=0A				<!--[=
+if (gte mso 9)|(IE)]>=0A				</td></tr></table>=0A				<![endif]-->=0A			</td=
+>=0A		</tr>=0A	</table>=0A<img src=3D"https://tn-fyi.mckx.ru/o/SBMlAAQAACDB=
+SEiL/MrGcvF18LhDfZkg0" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;"/></body>=0A</html>

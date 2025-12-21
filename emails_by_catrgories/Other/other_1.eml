@@ -1,0 +1,637 @@
+Delivered-To: test@mail.ru
+Return-path: <bounce-51_HTML-52164976-137595-536001475-26002@bounce.e.miro.com>
+Received-SPF: pass (mx202.i.mail.ru: domain of bounce.e.miro.com designates 159.92.157.116 as permitted sender) client-ip=159.92.157.116; envelope-from=bounce-51_HTML-52164976-137595-536001475-26002@bounce.e.miro.com; helo=mta.e.miro.com;
+Received: from mta.e.miro.com ([159.92.157.116]:48774)
+	by mx202.i.mail.ru with esmtp (envelope-from <bounce-51_HTML-52164976-137595-536001475-26002@bounce.e.miro.com>)
+	id 1seG4V-0000000Deor-1bjo
+	for test@mail.ru; Wed, 14 Aug 2024 18:38:00 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=51dkim1; d=e.miro.com;
+ h=From:To:Subject:Date:List-Help:MIME-Version:Reply-To:List-ID:Message-ID:
+ Content-Type; i=no-reply@e.miro.com;
+ bh=ckxcMGmpKAigDeF7XY6Ya3/5iG5aGwxYWJASYeEZeY0=;
+ b=6lsoNyTm5ldWMdvvCFHcxvOHjPyVGPo9uoiuekUiIzg1IvfHBzVn/npk2zR4tJLNVRMlYJD27+tD
+   IS4jdFYLVDWtCtbwuDFOTBjexbXSGI93UQD7+uXQKOJSaOgOdpuDqBXBxDvQ1aUhXHZZbqpPvBqq
+   D4a+e0fRhb8YDS0V1a7GTm6CWLBMIB8+DznPcEwI/JXbOiBmlMfTLgnhWOLiapbIVqvOLyMkLgec
+   sVsnhpbTfIYvdHiHbVjV1v4ttMg6052BAHJvrAR7t0cA7P+sqQpOUDasPRePSjlM0QoUnspcdMnq
+   Ao67YOHcjq+CxPsymMzUtuuFiWAUAI3XbIOr6g==
+Received: by mta.e.miro.com id hnj7le2fmd4r for <test@mail.ru>; Wed, 14 Aug 2024 15:37:19 +0000 (envelope-from <bounce-51_HTML-52164976-137595-536001475-26002@bounce.e.miro.com>)
+From: "The Miro Team" <no-reply@e.miro.com>
+To: <test@mail.ru>
+Subject: Information regarding your Miro account
+Date: Wed, 14 Aug 2024 09:37:19 -0600
+List-Help: <https://click.e.miro.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MzYwMDE0NzUiLCJzIjoiNTIxNjQ5NzYiLCJsaWQiOiI1MSIsImoiOiIxMzc1OTUiLCJqYiI6IjI2MDAyIiwiZCI6IjUxMDAwMyJ9.B-AYJQ0wqYbN43Yecrj2urnBLEcrxErGQDk04vDSRzQ>
+MIME-Version: 1.0
+Reply-To: "The Miro Team" <reply-fec1157372610d78-51_HTML-52164976-536001475-26002@e.miro.com>
+List-ID: <536001385.xt.local>
+X-SFMC-Stack: 51
+x-job: 536001475_137595
+Message-ID: <1f6fd5a6-5e5c-4c50-b6b6-f3e229aca5aa@cdg3s51mta21.xt.local>
+Content-Type: multipart/alternative;
+	boundary="RjQ4PQ7tLk4t=_?:"
+X-Mailru-Src: mx
+X-6b629377: 1
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499AF94BC29E10CAA320D99664EBBA3C945853B3E7879B02DF990BBDAAE39103F3638701F0628C4B95CBFCBD4B941FCB0152654600AD630D7FA1BDC66B35B081527AB0540241E45A8179DDDE7B70B5F5C79F
+X-7FA49CB5: A9FCD207E66530D8A18204E546F3947C989EA0AA2AA30B2ED7494F64F9BEE8B42EF20D2F80756B5FE54073EF2182DF8DD7494F64F9BEE8B427C277FBC8AE2E8B16BD2701BF7951D05136D004FC00FE29DDBB499554229631CECAE33012FEF075462275124DF8B9C9C93C85ADF67B7D4AC740FB2AB57E6C6C00306258E7E6ABB444B1C7D5C32B58FE6D793A5E9D846D327680F9384605B903954E53A6B6C98559DDF3F29597555B9C5839FB879E2F2D90C2A783ECEC0211AD4AD6D5ED66289B5278DA827A17800CE75263010198C72082EA1F7E6F0F101C67BD4B6F7A4D31EC0BCC500DACC3FED6E28638F802B75D45FF8AA50765F7900637AC83A81C8FD4AD23D82A6BABE6F325AC2E85FA5F3EDFCBAAE760C03E9B25649BD5E8D9A59859A8B6E323A604FE95ED09D8AC5874FC5B34B36355398AEDF52F167C6FB206A91F05B2627A11A02CF81BBC46F20FEE803C3BA9B2B9586192CD8659BB0A4F435E46E6718B35066C979671628AA50765F7900637F6B57BC7E64490618DEB871D839B73339E8FC8737B5C2249AE6B62100CB10EE2CC7F00164DA146DAFE8445B8C89999729449624AB7ADAF37F6B57BC7E64490611E7FA7ABCAF51C921661749BA6B9773586DB53B01D1D7C7B8941B15DA834481F9449624AB7ADAF37CB5012B2E24CD356
+X-C1DE0DAB: 0D63561A33F958A5F529F55AADCD7F1C5002B1117B3ED696EFE6DAC396F02CE49E040399BDE4761E277AA237ED671D4372AF3B35EA4094CC0D6B911571DEE2BA9C5DF10A05D560A97C2FCC2414B0771EAE9AA65D09B166D8A333A05395E4745BC79554A2A72441324ECABB3E3C951CC822D2CEDE4E95CF1B1E618B5D5F965AFDA359038F01FFAF82B2D1C9E48B6DC60AE2A7E19323554B122E763F503762DF501F79A4D5F15CA04A4EAF44D9B582CE87C8A4C02DF684249C2E763F503762DF50CBDB9E86D3B0545BF6228F3B180FA51DD0283EA430FA964BEEBF092486A2C6B28A6F03AC25FB4B01
+X-C8649E89: 1C3962B70DF3F0AD26C0D434D75DEB27D4C855283441C06D09E8BB001188613B0776B5B2C279835F17BCBE6708A5A68D02015372BE9702A26C803F44C2C25A813AD377D1CE82B10C522D351843BC97C6E6947289093E5D56DF441753F0BB5CE5406BD9281BAFFD7FAB2833DA361CDD02BE80A0B84B1E3B5B9C345166A4F8D548CAACD699CDC6F98202C26D483E81D6BE2A18DED8997ECA5ED67C93CB35FE033858DD0039124ACA9943082AE146A756F3
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu530nj6fImhcD4MUrOEAnl0W826KZ9Q+tr59cQFxbtK52nlS5dXYHM/vGJPPyhnCcOsWxjvstlFwfLDmG3SyZat9L/UbVf+SZbS53lpSoTHJY9G3u5IWT004KbDXfzo+fWyYN1jiACoayQpLntl56Ee0hbayC+J86Psg==
+X-F696D7D5: biiuUxM+SjgFkN7lPM2KgovlCm7l2aiJF/AwAQcu0vJLX1+a1L8YNQ==
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=no-reply@e.miro.com
+X-Mailru-Noreply: yes
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (mx202.i.mail.ru: domain of bounce.e.miro.com designates 159.92.157.116 as permitted sender) smtp.mailfrom=bounce-51_HTML-52164976-137595-536001475-26002@bounce.e.miro.com smtp.helo=mta.e.miro.com;
+	 dkim=pass header.d=e.miro.com;
+	 dkim=pass header.i=no-reply@e.miro.com; dmarc=pass header.from=no-reply@e.miro.com
+X-Mailru-Intl-Transport: d,050b446
+
+This is a multi-part message in MIME format.
+
+--RjQ4PQ7tLk4t=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Miro is no longer able to serve users registered from Russia or
+Belarus, effective September 12, 2024.
+
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌
+[
+ [Miro]
+](https://miro.com/app/dashboard?link=logo-header)
+
+Здравствуйте,
+
+У Miro есть важная информация, касающаяся вашего бесплатного
+аккаунта.
+
+Недавно были введены дополнительные санкции, запрещающие
+предоставление услуг пользователям, зарегистрированным в России и
+Беларуси. Компания Miro базируется в ЕС и США и должна следовать
+всем нормативным актам ЕС и США, включая санкции и другие
+требования по соблюдению торговых норм.
+
+Ваш аккаунт был классифицирован как зарегистрированный в России /
+Беларуси на основе данных вашего IP-адреса. Для определения места
+регистрации мы смотрим с какого IP адреса аккаунт был
+зарегистрирован, а также с каких IP-адресов вы выполняли вход в
+аккаунт в последнее время. В соответствии с нашими юридическими
+обязательствами, мы больше не можем обслуживать клиентов,
+зарегистрированных в запрещенном регионе, начиная с 12 сентября
+2024 года.
+Как долго сохранится доступ к Miro
+Полный доступ к Miro сохранится до 11 сентября 2024 года. После этого у вас сохранится доступ к аккаунту еще на 30 дней. В этот период вы сможете открывать и скачивать свои доски, но не сможете их редактировать и создавать новые. Информацию о том, как выгрузить свои доски, можно найти в [Базе Знаний Miro](https://help.miro.com/hc/en-us/articles/360017572754-How-to-export-your-board).
+
+Доступ к вашему аккаунту в Miro будет полностью отключен 11
+октября 2024 года в 18:00 по московскому времени. После этого вы
+больше не сможете получить доступ к своей учетной записи Miro и
+доскам в вашем аккаунте.
+
+Если у вас возникнут дополнительные вопросы, вы можете обратиться в нашу [службу поддержки](https://help.miro.com/hc/en-us/signin?return_to=https://realtimeboardhelp.zendesk.com/hc/en-us/requests/new).
+
+Команда сервиса Miro
+Dear customer,
+
+We’re reaching out to you today regarding your Miro account.
+
+As you may know, Miro is a EU/US-based company and required to
+follow all EU and US regulations, including sanctions and other
+trade compliance requirements. Recently, additional sanctions
+have been issued to prohibit the provision of services to
+registered users in Russia and Belarus (each, a “Prohibited
+Region”).
+
+Your account has been classified as being registered in a
+Prohibited Region. We identified your account registration
+location by your IP address at registration and recent login IP
+addresses. Unfortunately, due to our legal obligations, we are no
+longer able to serve customers registered from a Prohibited
+Region, effective September 12, 2024. в
+You will have full access to your account in Miro until September 11, 2024. After that time we will provide you with 30 days view-only access so you can download your boards. For information on how to download your boards please visit the [Miro Help Center](https://help.miro.com/hc/en-us/articles/360017572754-How-to-export-your-board).
+
+View only access will be available until October 11, 2024 6:00PM
+Moscow Time. After this deadline you will no longer be able to
+access your Miro account or boards until the sanctions are
+lifted.
+
+If you have any follow-up questions, feel free to [contact our support team](https://help.miro.com/hc/en-us/signin?return_to=https://realtimeboardhelp.zendesk.com/hc/en-us/requests/new).
+The Miro Team
+
+
+
+You have received this email because you are the owner of the
+impacted Miro account.
+
+This email was sent to [test@mail.ru](mailto:https://click.e.miro.com/?qs=a5e5046690d59aeb43ccc9ce5089831236ab85cf0680c937ae9d387d7323087f16398c978fc4e8d7518aaa842a14619eb974f27710e47504306a4e2e30e2c102).
+
+[
+ [Miro]
+](https://miro.com/app/dashboard?link=logo-footer)
+
+Miro, 201 Spear St., Suite 1100
+San Francisco, CA 94105, United States
+
+[Help Center](https://help.miro.com/hc/) | [Privacy Policy](https://miro.com/legal/privacy-policy/)
+
+--RjQ4PQ7tLk4t=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head><title>Miro</title>
+	<meta property="og:title" content="">
+	<meta name="twitter:title" content="">
+	<meta property="og:url" content="https://go.miro.com/7dea362b-3fac-3e00-956a-4952a3d4f474">
+
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0">
+	<meta name="x-apple-disable-message-reformatting">
+	<meta name="robots" content="noindex,follow">
+
+	<!--[if mso]>  <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <![endif]-->
+
+	<style type="text/css">
+
+		@font-face {
+		    font-family: 'RoobertPRO';
+		    src: url(https://mirostatic.com/email/RoobertPRO-Regular.woff2) format("woff2");
+		    font-weight: normal;
+		    font-style: normal;
+		}
+
+		@font-face {
+		    font-family: 'RoobertPRO';
+		    src: url(https://mirostatic.com/email/RoobertPRO-SemiBold.woff2) format("woff2");
+		    font-weight: bold;
+		    font-style: normal;
+		}
+
+		@font-face {
+		    font-family: 'RoobertPRO';
+		    src: url(https://mirostatic.com/email/RoobertPRO-RegularItalic.woff2) format("woff2");
+		    font-weight: normal;
+		    font-style: italic;
+		}
+
+		@font-face {
+		    font-family: 'RoobertPRO';
+		    src: url(https://mirostatic.com/email/RoobertPRO-SemiBoldItalic.woff2) format("woff2");
+		    font-weight: bold;
+		    font-style:  italic;
+		}
+
+		body {width:100% !important; height:100% !important; min-width:100%; margin:0 !important; padding:0; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; -moz-hyphens:auto; -webkit-hyphens:auto;  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
+		/* Maintains height and width */
+
+
+		div[style*="margin: 16px 0"] { margin:0 !important; }
+		body, table, td, p, a, li, blockquote { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } /* Force HM to display normal line spacing */
+
+		p {display:block; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; padding:0 0 0 0; margin-top:0; margin-right:0; margin-bottom:1em; margin-left:0; -moz-hyphens:auto; -webkit-hyphens:auto; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
+
+		/* ==== Client Resets ==== */
+
+		a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
+		#outlook a {padding:0;}
+		.ReadMsgBody {width:100%;} /* Force Outlook.com to display at full width */
+		.ExternalClass {width:100%;} /* Force Outlook.com to display at full width */
+		.ExternalClass * {line-height:100%;} /* Outlook.com line-height fix */
+		.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%; mso-line-height-rule: exactly;} /* Outlook.com line-height fix */
+		table, td {mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse;}
+		img {-ms-interpolation-mode:bicubic; border:0; outline:none; display:inline-block;}
+		a img {text-decoration:none;}
+
+		a:visited, a:active, a:link, a:hover {text-decoration:none !important; color:#4262FF;}
+		a.ctaBtn:hover {background-color:#1c1c1e !important; color: #ffffff !important;}
+
+		h1, .h1, h2, .h2, h3, .h3, h6, .h6 {display:inline-block; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-weight:bold; margin:0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
+
+		h4, .h4 {display:inline-block; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; color:#9B99AF; margin:0px; font-weight:bold;}
+		h5, .h5 {display:inline-block; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; color:#838383; margin:0px; font-weight:normal !important;}
+
+
+		h1, .h1 { font-size: 40px; line-height:48px; }
+		h2, .h2 { font-size: 32px; line-height:40px; }
+		h3, .h3 { font-size: 24px; line-height:30px; }
+		h4, .h4 { font-size: 16px; line-height:24px; }
+		h5, .h5 { font-size: 14px; line-height:20px; }
+		h6, .h6 { font-size: 10px; line-height:150%; }
+
+		.content_previewText {display:none !important; width:0px !important; max-width:0px !important; max-height:0px !important; font-size:0px !important; line-height:0px !important; padding:0 !important; mso-hide:all !important;}
+
+		.content_bodyCopy {display:block; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1c1e; -moz-hyphens:auto; -webkit-hyphens:auto; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+
+		.content__mobile_display_show {display:none !important; max-height:0px !important; line-height:0px !important; padding:0 !important; mso-hide:all !important;}
+
+		@media only screen and (max-width: 599px) {
+			.content__tablet_fullWidth {width:100% !important; max-width:none !important;}
+			.headerBlock__borderRadius_mobile {border-radius:0px !important;}
+			.content__tablet_display_none {display:none !important; width:0px !important; max-height:0px !important; line-height:0px !important; padding:0 !important; mso-hide:all !important;}
+			.button__tablet_stack {display:block !important; width:100% !important; height:auto !important;}
+			.content__tabletPad_0px_20px {padding:0px 20px !important;}
+			.content__tabletPad_0px_20px_8px_20px {padding:0px 20px 8px 20px !important;}
+			.content__tabletPad_0px_20px_20px_20px {padding:0px 20px 20px 20px !important;}
+			.content__tabletPad_0px_20px_40px_20px {padding:0px 20px 40px 20px !important;}
+			.content__tablet_center {align:center !important; text-align:center !important;}
+			.content__tablet_align_left {align:left !important; text-align:left !important; float:left !important;}
+			.content__tablet_align_right {align:right !important; text-align:right !important; float: right !important;}
+		}
+
+		@media only screen and (max-width: 480px) {
+
+			/* ==== Client-Specific Mobile Styles ==== */
+
+			body, table, td, p, a, li, blockquote { -webkit-text-size-adjust: none !important; }
+			/* Prevent Webkit platforms from changing default text sizes */
+			body { width: 100% !important; min-width: 100% !important; }
+
+			.header__logoSize_110px {width:110px !important; max-width:110px !important;}
+			.header__textLinkSize {font-size:14px !important; line-height:20px !important;}
+
+			.content_mobile_BodyWrap {border:0px !important; border-radius: 0px !important;}
+			.content__mobile_fullWidth {width:100% !important; max-width:none !important;}
+			.content__mobile_display_none {display:none !important; max-height:0px !important; line-height:0px !important; padding:0 !important; mso-hide:all !important;}
+			.content__mobile_display_show {display:inline-block !important;}
+			.content__mobile_button_show {display:inline-block !important; font-size:16px !important; line-height:24px !important; padding:11px 16px 13px 16px !important; border-radius:8px !important;}
+			.content__mobile_link_show {display:inline-block !important; font-size:16px !important; line-height:24px !important;}
+			.content__mobile_image_show {display: block !important; width:100% !important; max-width: none !important;}
+			.content__mobile_center {align:center !important; text-align:center !important;}
+			.content__mobile_align_left {align:left !important; text-align:left !important; float: left !important;}
+			.content__mobile_align_right {align:right !important; text-align:right !important; float: right !important;}
+			.content__mobile_social_icons {width:32px !important; max-width:32px !important;}
+
+			.content__mobilePad_none {padding:0px !important;}
+			.content__mobilePad_20px {padding:20px !important;}
+			.content__mobilePad_0px_20px {padding:0px 20px !important;}
+			.content__mobilePad_0px_40px {padding:0px 40px !important;}
+			.content__mobilePad_40px_20px {padding:40px 20px !important;}
+			.content__mobilePad_0px_0px_0px_16px {padding:0px 0px 0px 16px !important;}
+			.content__mobilePad_0px_0px_4px_16px {padding:0px 0px 4px 16px !important;}
+			.content__mobilePad_0px_0px_20px_0px {padding:0px 0px 20px 0px !important;}
+			.content__mobilePad_0px_0px_40px_0px {padding:0px 0px 40px 0px !important;}
+			.content__mobilePad_0px_16px_0px_0px {padding:0px 16px 0px 0px !important;}
+			.content__mobilePad_0px_20px_4px_20px {padding:0px 20px 4px 20px !important;}
+			.content__mobilePad_0px_20px_8px_20px {padding:0px 20px 8px 20px !important;}
+			.content__mobilePad_0px_20px_12px_20px {padding:0px 20px 12px 20px !important;}
+			.content__mobilePad_0px_20px_16px_20px {padding:0px 20px 16px 20px !important;}
+			.content__mobilePad_0px_20px_20px_20px {padding:0px 20px 20px 20px !important;}
+			.content__mobilePad_0px_20px_24px_20px {padding:0px 20px 24px 20px !important;}
+			.content__mobilePad_0px_20px_24px_26px {padding:0px 20px 24px 26px !important;}
+			.content__mobilePad_0px_20px_28px_20px {padding:0px 20px 28px 20px !important;}
+			.content__mobilePad_0px_20px_40px_14px {padding:0px 20px 40px 14px !important;}
+			.content__mobilePad_0px_20px_40px_20px {padding:0px 20px 40px 20px !important;}
+			.content__mobilePad_0px_40px_12px_40px {padding:0px 40px 12px 40px !important;}
+			.content__mobilePad_0px_40px_20px_40px {padding:0px 40px 20px 40px !important;}
+			.content__mobilePad_0px_40px_24px_40px {padding:0px 40px 24px 40px !important;}
+			.content__mobilePad_4px_20px_0px_20px {padding:4px 20px 0px 20px !important;}
+			.content__mobilePad_10px_20px_20px_20px {padding:10px 20px 20px 20px !important;}
+			.content__mobilePad_10px_20px_40px_20px {padding:10px 20px 40px 20px !important;}
+			.content__mobilePad_12px_0px_8px_0px {padding:12px 0px 8px 0px !important;}
+			.content__mobilePad_12px_20px_0px_20px {padding:12px 20px 0px 20px !important;}
+			.content__mobilePad_16px_0px_0px_0px {padding:16px 0px 0px 0px !important;}
+			.content__mobilePad_16px_20px_0px_20px {padding:16px 20px 0px 20px !important;}
+            .content__mobilePad_16px_20px_40px_20px {padding:16px 20px 40px 20px !important;}
+			.content__mobilePad_20px_0px_0px_0px {padding:20px 0px 0px 0px !important;}
+			.content__mobilePad_20px_20px_0px_20px {padding:20px 20px 0px 20px !important;}
+			.content__mobilePad_20px_20px_24px_20px {padding:20px 20px 24px 20px !important;}
+			.content__mobilePad_20px_20px_40px_20px {padding:20px 20px 40px 20px !important;}
+			.content__mobilePad_24px_0px_0px_0px {padding:24px 0px 0px 0px !important;}
+			.content__mobilePad_24px_20px_20px_20px {padding:24px 20px 20px 20px !important;}
+			.content__mobilePad_32px_20px_0px_20px {padding:32px 20px 0px 20px !important;}
+			.content__mobilePad_40px_0px_0px_0px {padding:40px 0px 0px 0px !important;}
+			.content__mobilePad_40px_20px_0px_20px {padding:40px 20px 0px 20px !important;}
+			.content__mobilePad_40px_20px_20px_20px {padding:40px 20px 20px 20px !important;}
+			.content__mobilePad_40px_20px_24px_20px {padding:40px 20px 24px 20px !important;}
+
+			.image__borderRadius_4px {border-radius:4px !important;}
+			.image__borderRadius_2px {border-radius:2px !important;}
+
+			.button__primary_font-size {font-size:16px !important; line-height:150% !important;}
+
+			.footer__mobile_links {padding:0px 8px !important;}
+			.footer__mobile_img {width:100% !important; max-width:44px !important;}
+
+			/* ==== Image Alignment Styles ==== */
+
+			h1, .h1 { font-size: 32px !important; line-height: 40px !important; }
+			h2, .h2 { font-size: 26px !important; line-height: 32px !important; }
+			h3, .h3 { font-size: 22px !important; line-height: 28px !important; }
+
+			.hide { display: none !important; }
+
+		}
+
+	</style>
+
+	
+
+	<style type="text/css">
+		/* link fixes */
+		@media screen {
+		a[href^="tel"], a[href^="sms"] {
+			color: inherit;
+			text-decoration: none!important;
+			font-size: inherit;
+			font-family: inherit;
+			font-weight: inherit;
+			line-height: inherit;
+		}
+		}
+		a[x-apple-data-detectors] {
+			color: inherit!important;
+			text-decoration: none!important;
+			font-size: inherit;
+			font-family: inherit;
+			font-weight: inherit;
+			line-height: inherit;
+		}
+		u + #body a, #MessageViewBody a {
+			color: inherit;
+			text-decoration: none !important;
+			font-size: inherit;
+			font-family: inherit;
+			font-weight: inherit;
+			line-height: inherit;
+		}
+		</style>
+
+	<base target="_blank">
+
+	<!--[if gte mso 9]>  <xml>    <o:OfficeDocumentSettings>      <o:AllowPNG/>      <o:PixelsPerInch>96</o:PixelsPerInch>   </o:OfficeDocumentSettings>  </xml>  <![endif]-->
+
+	<!--[if mso]>  <style type="text/css">   {    h1, .h1, h2, .h2, h3, .h3, h4, .h4, h6, .h6 {display:block; font-family:Helvetica, Arial, sans-serif !important; font-weight:bold; margin:0px;}    h5, .h5 {display:block; font-family:Helvetica, Arial, sans-serif !important; margin:0px; font-weight:normal !important;}    p {font-family:Arial, sans-serif !important;}    body, table, td {font-family: Arial, sans-serif !important;}    a:visited, a:active, a:link, a:hover {font-family: Arial, sans-serif !important; text-decoration:none !important;}   }  </style>  <![endif]-->
+
+</head>
+
+<body class="" bgcolor="#FBF7EE" style="width:100%; height:100%; margin:0 !important; padding:0 !important; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+<center>
+
+
+	
+		<!--[if !mso]><!-->
+	<div class="content_previewText" style="display:none; max-height: 0px; overflow:hidden; mso-hide:all;">
+		Miro is no longer able to serve users registered from Russia or Belarus, effective September 12, 2024.
+	</div>
+	<!--<![endif]-->
+
+	
+		<!--[if !mso]><!-->
+	<div class="content_previewText" style="display:none !important; width:0px !important; max-width:0px !important; max-height:0px !important; font-size:0px !important; line-height:0px !important; padding:0 !important; mso-hide:all !important; overflow: hidden;">
+	&#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847;
+ &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847;
+ &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847;
+ &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp; &#847; &#8204; &nbsp;
+	</div>
+	<!--<![endif]-->
+
+
+	
+		<div style="margin: 0 !important; background-color:#FBF7EE;">
+
+<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" height="100%" style="width:100%; min-width:100%; height:100%; min-height:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; padding:0; text-align:center; table-layout:fixed;" role="presentation">
+	<tr>
+		<td class="content__mobilePad_none" align="center" valign="top" bgcolor="#FBF7EE" style="padding:0px 0px 0px 0px;">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%" style="width:100%; min-width:100%; height:100%; min-height:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; padding:0; text-align:center; table-layout:fixed;" role="presentation">
+			<tr>
+				<td align="center" valign="bottom" bgcolor="#FBF7EE" style="padding:0px 0px 0px 0px;">
+				
+					
+						<!--[if (gte mso 9)|(IE)]>      <table align="center" border="0" cellspacing="0" cellpadding="0" width="602" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">      <tr>      <td align="center" valign="top" width="602">      <![endif]-->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+						<tr>
+							<td align="center" valign="top" style="padding:24px 0px 16px 0px; direction:ltr;" dir="ltr">
+                                
+                                
+                                    <a href="https://click.e.miro.com/?qs=a5e5046690d59aebd184ff226ce8f024a519fb8cfef9cdba50d20a21b8958b161f2816da65dd386917849d5074be4ffd8ad1b3477a5b1b57ead3575ea0a5733d" target="_blank">
+                                        <img src="https://mirostatic.com/email/logo-cream-138x56.png" hspace="0" vspace="0" border="0" style="display:block; width:138px; max-width:138px;" width="138" alt="Miro">
+                                    </a>
+                                
+							</td>
+						</tr>
+						
+						
+					</table>
+					<!--[if (gte mso 9)|(IE)]>      </td>      </tr>      </table>      <![endif]-->
+				</td>
+			</tr>
+			<tr>
+				<td align="center" valign="top" bgcolor="#FBF7EE" style="padding:0px 0px 0px 0px;">
+				<!--[if (gte mso 9)|(IE)]>     <table align="center" border="0" cellspacing="0" cellpadding="0" width="602" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">     <tr>     <td align="center" valign="top" width="602">     <![endif]-->
+				<table class="content__tablet_fullWidth" border="0" cellpadding="0" cellspacing="0" align="center" style="width:100%; max-width:602px; border-collapse:separate; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="602" role="presentation">
+					<tr>
+						<td class="content_mobile_BodyWrap" align="center" valign="top" bgcolor="#ffffff" style="direction:ltr; padding:40px 0px 40px 0px; border-radius: 16px; border:1px solid #D6D2BF;" dir="ltr">
+							
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										<tr>
+											<td class="" align="center" valign="top" bgcolor="#ffffff" style="padding:20px 0px 0px 0px;" dir="ltr"> </td>
+										</tr>
+										<tr>
+											<td class="content__mobilePad_0px_20px" align="left" valign="top" bgcolor="#ffffff" style="padding:0px 40px; direction:ltr;" dir="ltr">
+												<p style="font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1c1e !important; margin-top:0 !important; margin-right:0 !important; margin-bottom:1em !important; margin-left:0 !important;">&#1047;&#1076;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1091;&#1081;&#1090;&#1077;,<br><br>&#1059; Miro &#1077;&#1089;&#1090;&#1100; &#1074;&#1072;&#1078;&#1085;&#1072;&#1103; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103;, &#1082;&#1072;&#1089;&#1072;&#1102;&#1097;&#1072;&#1103;&#1089;&#1103; &#1074;&#1072;&#1096;&#1077;&#1075;&#1086; &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1086;&#1075;&#1086; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090;&#1072;.<br>
+<br>&#1053;&#1077;&#1076;&#1072;&#1074;&#1085;&#1086; &#1073;&#1099;&#1083;&#1080; &#1074;&#1074;&#1077;&#1076;&#1077;&#1085;&#1099; &#1076;&#1086;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1077; &#1089;&#1072;&#1085;&#1082;&#1094;&#1080;&#1080;, &#1079;&#1072;&#1087;&#1088;&#1077;&#1097;&#1072;&#1102;&#1097;&#1080;&#1077; &#1087;&#1088;&#1077;&#1076;&#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1091;&#1089;&#1083;&#1091;&#1075; &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1077;&#1083;&#1103;&#1084;, &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1084; &#1074; &#1056;&#1086;&#1089;&#1089;&#1080;&#1080; &#1080;
+ &#1041;&#1077;&#1083;&#1072;&#1088;&#1091;&#1089;&#1080;. &#1050;&#1086;&#1084;&#1087;&#1072;&#1085;&#1080;&#1103; Miro &#1073;&#1072;&#1079;&#1080;&#1088;&#1091;&#1077;&#1090;&#1089;&#1103; &#1074; &#1045;&#1057; &#1080; &#1057;&#1064;&#1040; &#1080; &#1076;&#1086;&#1083;&#1078;&#1085;&#1072; &#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1090;&#1100; &#1074;&#1089;&#1077;&#1084; &#1085;&#1086;&#1088;&#1084;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1084; &#1072;&#1082;&#1090;&#1072;&#1084; &#1045;&#1057; &#1080; &#1057;&#1064;&#1040;, &#1074;&#1082;&#1083;&#1102;&#1095;&#1072;&#1103; &#1089;&#1072;&#1085;&#1082;&#1094;&#1080;&#1080; &#1080; &#1076;&#1088;&#1091;&#1075;&#1080;&#1077; &#1090;&#1088;&#1077;&#1073;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1087;&#1086;
+ &#1089;&#1086;&#1073;&#1083;&#1102;&#1076;&#1077;&#1085;&#1080;&#1102; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1093; &#1085;&#1086;&#1088;&#1084;. <br>
+<br>&#1042;&#1072;&#1096; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090; &#1073;&#1099;&#1083; &#1082;&#1083;&#1072;&#1089;&#1089;&#1080;&#1092;&#1080;&#1094;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085; &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1081; &#1074; &#1056;&#1086;&#1089;&#1089;&#1080;&#1080; / &#1041;&#1077;&#1083;&#1072;&#1088;&#1091;&#1089;&#1080; &#1085;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1077; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093; &#1074;&#1072;&#1096;&#1077;&#1075;&#1086; IP-&#1072;&#1076;&#1088;&#1077;&#1089;&#1072;. &#1044;&#1083;&#1103; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103; &#1084;&#1077;&#1089;&#1090;&#1072;
+ &#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1080; &#1084;&#1099; &#1089;&#1084;&#1086;&#1090;&#1088;&#1080;&#1084; &#1089; &#1082;&#1072;&#1082;&#1086;&#1075;&#1086; IP &#1072;&#1076;&#1088;&#1077;&#1089;&#1072; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090; &#1073;&#1099;&#1083; &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;, &#1072; &#1090;&#1072;&#1082;&#1078;&#1077; &#1089; &#1082;&#1072;&#1082;&#1080;&#1093; IP-&#1072;&#1076;&#1088;&#1077;&#1089;&#1086;&#1074; &#1074;&#1099; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1103;&#1083;&#1080; &#1074;&#1093;&#1086;&#1076; &#1074; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090; &#1074; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1077;&#1077;
+ &#1074;&#1088;&#1077;&#1084;&#1103;. 
+<strong style="">&#1042; &#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1080;&#1080; &#1089; &#1085;&#1072;&#1096;&#1080;&#1084;&#1080; &#1102;&#1088;&#1080;&#1076;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1084;&#1080; &#1086;&#1073;&#1103;&#1079;&#1072;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1072;&#1084;&#1080;, &#1084;&#1099; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077; &#1085;&#1077; &#1084;&#1086;&#1078;&#1077;&#1084; &#1086;&#1073;&#1089;&#1083;&#1091;&#1078;&#1080;&#1074;&#1072;&#1090;&#1100; &#1082;&#1083;&#1080;&#1077;&#1085;&#1090;&#1086;&#1074;, &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1093; &#1074;
+ &#1079;&#1072;&#1087;&#1088;&#1077;&#1097;&#1077;&#1085;&#1085;&#1086;&#1084; &#1088;&#1077;&#1075;&#1080;&#1086;&#1085;&#1077;, &#1085;&#1072;&#1095;&#1080;&#1085;&#1072;&#1103; &#1089; 12 &#1089;&#1077;&#1085;&#1090;&#1103;&#1073;&#1088;&#1103; 2024 &#1075;&#1086;&#1076;&#1072;. </strong></p>
+											</td>
+										</tr>
+										
+										<tr>
+											<td class="content__mobilePad_20px_0px_0px_0px" align="center" valign="top" bgcolor="#ffffff" style="padding:20px 0px 0px 0px;" dir="ltr"> </td>
+										</tr>
+									</table>
+								
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										
+										
+										
+										<tr>
+											<td class="content__mobilePad_0px_20px_12px_20px" align="left" valign="top" bgcolor="#ffffff" style="padding:0px 40px 12px 40px; direction:ltr;" dir="ltr">
+												<h3 style="font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size: 24px; line-height:30px; font-weight:normal; color:#1c1c1e !important; margin:0px;">&#1050;&#1072;&#1082; &#1076;&#1086;&#1083;&#1075;&#1086; &#1089;&#1086;&#1093;&#1088;&#1072;&#1085;&#1080;&#1090;&#1089;&#1103; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; Miro</h3>
+											</td>
+										</tr>
+									</table>
+								
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										
+										<tr>
+											<td class="content__mobilePad_0px_20px" align="left" valign="top" bgcolor="#ffffff" style="padding:0px 40px; direction:ltr;" dir="ltr">
+												
+<p style="font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1c1e !important; margin-top:0 !important; margin-right:0 !important; margin-bottom:1em !important; margin-left:0 !important;">&#1055;&#1086;&#1083;&#1085;&#1099;&#1081; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; Miro &#1089;&#1086;&#1093;&#1088;&#1072;&#1085;&#1080;&#1090;&#1089;&#1103; &#1076;&#1086; 11 &#1089;&#1077;&#1085;&#1090;&#1103;&#1073;&#1088;&#1103; 2024 &#1075;&#1086;&#1076;&#1072;. &#1055;&#1086;&#1089;&#1083;&#1077; &#1101;&#1090;&#1086;&#1075;&#1086; &#1091; &#1074;&#1072;&#1089; &#1089;&#1086;&#1093;&#1088;&#1072;&#1085;&#1080;&#1090;&#1089;&#1103; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090;&#1091;
+ &#1077;&#1097;&#1077; &#1085;&#1072; 30 &#1076;&#1085;&#1077;&#1081;. &#1042; &#1101;&#1090;&#1086;&#1090; &#1087;&#1077;&#1088;&#1080;&#1086;&#1076; &#1074;&#1099; &#1089;&#1084;&#1086;&#1078;&#1077;&#1090;&#1077; &#1086;&#1090;&#1082;&#1088;&#1099;&#1074;&#1072;&#1090;&#1100; &#1080; &#1089;&#1082;&#1072;&#1095;&#1080;&#1074;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080; &#1076;&#1086;&#1089;&#1082;&#1080;, &#1085;&#1086; &#1085;&#1077; &#1089;&#1084;&#1086;&#1078;&#1077;&#1090;&#1077; &#1080;&#1093; &#1088;&#1077;&#1076;&#1072;&#1082;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100; &#1080; &#1089;&#1086;&#1079;&#1076;&#1072;&#1074;&#1072;&#1090;&#1100; &#1085;&#1086;&#1074;&#1099;&#1077;. &#1048;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1102; &#1086;
+ &#1090;&#1086;&#1084;, &#1082;&#1072;&#1082; &#1074;&#1099;&#1075;&#1088;&#1091;&#1079;&#1080;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080; &#1076;&#1086;&#1089;&#1082;&#1080;, &#1084;&#1086;&#1078;&#1085;&#1086; &#1085;&#1072;&#1081;&#1090;&#1080; &#1074; <a style="display:inline-block; color:#4262FF; text-decoration:none;" target="_blank" href="https://click.e.miro.com/?qs=a5e5046690d59aeb7c3fd4b59718e180167a6c592f3c50d3c47dac1d2d7b99a4c8de0a7db7df0ed4f9a6c9c9f5d514f33b4e62735ff7a516c34bcf3a44d352b1">&#1041;&#1072;&#1079;&#1077; &#1047;&#1085;&#1072;&#1085;&#1080;&#1081; Miro</a>.<br><br>
+<strong style="">&#1044;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; &#1074;&#1072;&#1096;&#1077;&#1084;&#1091; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090;&#1091; &#1074; Miro &#1073;&#1091;&#1076;&#1077;&#1090; &#1087;&#1086;&#1083;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102; &#1086;&#1090;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085; 11 &#1086;&#1082;&#1090;&#1103;&#1073;&#1088;&#1103; 2024 &#1075;&#1086;&#1076;&#1072; &#1074; 18:00 &#1087;&#1086; &#1084;&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1086;&#1084;&#1091; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080;. 
+</strong>&#1055;&#1086;&#1089;&#1083;&#1077; &#1101;&#1090;&#1086;&#1075;&#1086; &#1074;&#1099; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077; &#1085;&#1077; &#1089;&#1084;&#1086;&#1078;&#1077;&#1090;&#1077; &#1087;&#1086;&#1083;&#1091;&#1095;&#1080;&#1090;&#1100; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; &#1089;&#1074;&#1086;&#1077;&#1081; &#1091;&#1095;&#1077;&#1090;&#1085;&#1086;&#1081; &#1079;&#1072;&#1087;&#1080;&#1089;&#1080; Miro &#1080; &#1076;&#1086;&#1089;&#1082;&#1072;&#1084; &#1074; &#1074;&#1072;&#1096;&#1077;&#1084; &#1072;&#1082;&#1082;&#1072;&#1091;&#1085;&#1090;&#1077;. <br>
+<br>&#1045;&#1089;&#1083;&#1080; &#1091; &#1074;&#1072;&#1089; &#1074;&#1086;&#1079;&#1085;&#1080;&#1082;&#1085;&#1091;&#1090; &#1076;&#1086;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1077; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1099;, &#1074;&#1099; &#1084;&#1086;&#1078;&#1077;&#1090;&#1077; &#1086;&#1073;&#1088;&#1072;&#1090;&#1080;&#1090;&#1100;&#1089;&#1103; &#1074; &#1085;&#1072;&#1096;&#1091; <a style="display:inline-block; color:#4262FF; text-decoration:none;" target="_blank" href="https://click.e.miro.com/?qs=a5e5046690d59aeba180f84684d4c0a45e92d8f00f4133d199cc28393a347f4499674de9222de132ac7e2962a33ee55daa97dc8b26c831846bb74fa1c656b408">&#1089;&#1083;&#1091;&#1078;&#1073;&#1091; &#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1082;&#1080;</a>.<br><br>
+<br>&#1050;&#1086;&#1084;&#1072;&#1085;&#1076;&#1072; &#1089;&#1077;&#1088;&#1074;&#1080;&#1089;&#1072; Miro<br></p>
+											</td>
+										</tr>
+										
+										<tr>
+											<td class="content__mobilePad_20px_0px_0px_0px" align="center" valign="top" bgcolor="#ffffff" style="padding:20px 0px 0px 0px;" dir="ltr"> </td>
+										</tr>
+									</table>
+								
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										
+										<tr>
+											<td class="content__mobilePad_0px_0px_40px_0px" align="center" valign="top" bgcolor="#ffffff" style="padding:0px 0px 40px 0px; border-top:1px solid #ebebef;"> </td>
+										</tr>
+									</table>
+								
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										
+										<tr>
+											<td class="content__mobilePad_0px_20px" align="left" valign="top" bgcolor="#ffffff" style="padding:0px 40px; direction:ltr;" dir="ltr">
+												<p style="font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1c1e !important; margin-top:0 !important; margin-right:0 !important; margin-bottom:1em !important; margin-left:0 !important;">Dear customer,<br><br>We&#8217;re reaching out to you today regarding your Miro account. <br><br>As you may know, Miro is a EU/US-based company and required to follow all EU and US regulations, including sanctions and other trade compliance requirements. Recently, additional sanctions have been issued to prohibit the provision of services to registered users in Russia and Belarus (each, a &#8220;Prohibited Region&#8221;).   <br>
+<br>Your account has been classified as being registered in a Prohibited Region. We identified your account registration location by your IP address at registration and recent login IP addresses. <strong style="">Unfortunately, due to our legal obligations, we are no longer able to serve customers registered from a Prohibited Region, effective September 12, 2024.  &#1074;</strong></p>
+											</td>
+										</tr>
+										
+										<tr>
+											<td class="content__mobilePad_4px_20px_0px_20px" align="center" valign="top" bgcolor="#ffffff" style="padding:4px 0px 0px 0px;" dir="ltr"> </td>
+										</tr>
+									</table>
+								
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										
+										<tr>
+											<td class="content__mobilePad_0px_20px" align="left" valign="top" bgcolor="#ffffff" style="padding:0px 40px; direction:ltr;" dir="ltr">
+												<p style="font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1c1e !important; margin-top:0 !important; margin-right:0 !important; margin-bottom:1em !important; margin-left:0 !important;"><strong style="">You will have full access to your account in Miro until September 11, 2024</strong>. After that time we will provide you with 30 days view-only access so you can download your boards. For information on how to download your boards please visit the <a style="display:inline-block; color:#4262FF; text-decoration:none;" target="_blank" href="https://click.e.miro.com/?qs=a5e5046690d59aeb7c3fd4b59718e180167a6c592f3c50d3c47dac1d2d7b99a4c8de0a7db7df0ed4f9a6c9c9f5d514f33b4e62735ff7a516c34bcf3a44d352b1">Miro Help Center</a>.<br>
+<br>View only access will be available until October 11, 2024 6:00PM Moscow Time. After this deadline you will no longer be able to access your Miro account or boards until the sanctions are lifted. <br><br>If you have any follow-up questions, feel free to <a style="display:inline-block; color:#4262FF; text-decoration:none;" target="_blank" href="https://click.e.miro.com/?qs=a5e5046690d59aeba180f84684d4c0a45e92d8f00f4133d199cc28393a347f4499674de9222de132ac7e2962a33ee55daa97dc8b26c831846bb74fa1c656b408">contact our support team</a>.<br></p>
+											</td>
+										</tr>
+										
+										<tr>
+											<td class="content__mobilePad_4px_20px_0px_20px" align="center" valign="top" bgcolor="#ffffff" style="padding:4px 0px 0px 0px;" dir="ltr"> </td>
+										</tr>
+									</table>
+								
+									
+										<table class="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" role="presentation">
+										
+										<tr>
+											<td class="content__mobilePad_0px_20px" align="left" valign="top" bgcolor="#ffffff" style="padding:0px 40px; direction:ltr;" dir="ltr">
+												<p style="font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1c1e !important; margin-top:0 !important; margin-right:0 !important; margin-bottom:1em !important; margin-left:0 !important;">The Miro Team<br></p>
+											</td>
+										</tr>
+									</table>
+								</td>
+						</tr>
+					</table>
+<!-- tail -->
+				<!-- footer -->
+					
+						
+							<div style="display:none !important;">
+							
+						</div>
+						
+							
+							
+							
+							
+							
+							<div style="display:none !important;">
+								
+							</div>
+						
+						<table class="content__tablet_fullWidth" border="0" cellpadding="0" cellspacing="0" align="center" style="width:100%; max-width:600px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="600" role="presentation">
+							<tr>
+								<td align="center" valign="top" style="padding:60px 0px 0px 0px;"> </td>
+							</tr>
+							
+							
+							<tr>
+								<td class="content__mobilePad_0px_20px_24px_20px" align="center" valign="top" style="padding:0px 40px 24px 40px; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:14px; line-height:20px; direction:ltr;" dir="ltr">
+									<span style="color:#1c1c1e !important; text-decoration:none !important;">You have received this email because you are the owner of the impacted Miro account.</span>
+								</td>
+							</tr>
+							<tr>
+								<td class="content__mobilePad_0px_20px_40px_20px" align="center" valign="top" style="padding:0px 40px 40px 40px; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:14px; line-height:20px; direction:ltr;" dir="ltr">
+									<span style="color:#1c1c1e !important; text-decoration:none !important;">
+										
+										
+											This email was sent to <a href="mailto:test@mail.ru" target="_blank" style="color:#4262FF !important; font-weight:bold; text-decoration:none;">test@mail.ru</a>.
+										
+										
+										
+										
+										
+										
+										
+										
+                                        <!-- sfmc -->
+											
+										
+										
+									</span>
+								</td>
+							</tr>
+							<tr>
+								<td class="content__mobilePad_0px_20px_24px_20px" align="center" valign="top" style="padding:0px 40px 24px 40px; direction:ltr;" dir="ltr">
+									<a href="https://click.e.miro.com/?qs=a5e5046690d59aeb63ba8b06006ee03dcca8947bc26d453ca0eff225c9a65416d2ce6ec254f27965c69c39f883e01d7508dfdf8ce7c5d474b7f54c635660799b" target="_blank">
+										<img src="https://mirostatic.com/email/logo-cream-138x56.png" hspace="0" vspace="0" border="0" style="display:block; width:138px; max-width:138px;" width="138" alt="Miro">
+									</a>
+								</td>
+							</tr>
+							
+							
+							
+							<tr>
+								<td class="content__mobilePad_0px_20px" align="center" valign="top" style="padding:0px 40px 0px 40px; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:14px; line-height:20px; color:#1c1c1e; direction:ltr;" dir="ltr">
+                                <!-- sfmc address -->
+									<span style="color:#1c1c1e !important; text-decoration:none !important;">Miro, 201 Spear St., Suite 1100<br>San Francisco, CA&nbsp;94105, United States</span>
+								</td>
+							</tr>
+							<!-- help center / privacy policy -->
+							<tr>
+								<td class="content__mobilePad_20px_20px_0px_20px" align="center" valign="top" style="padding:16px 40px 0px 40px; font-family:'RoobertPRO', Helvetica, Arial, sans-serif; font-size:14px; line-height:20px; direction:ltr; color:#1c1c1e !important;" dir="ltr">
+									<a href="https://click.e.miro.com/?qs=a5e5046690d59aebe033dcf64cd493883fc5141aa08233683d804f404d8b0fc3339c3e4ebbb17a5f2c5b13122ce4602c343540d406fa1784e0ee0a5223deddaa" style="display:inline-block; text-decoration:none !important; -webkit-text-size-adjust:none; font-weight:bold; color:#4262FF !important;" target="_blank">Help Center</a> &nbsp;|&nbsp; <a href="https://click.e.miro.com/?qs=a5e5046690d59aeb89fd5bd61eb6be7fac8c59f8af32c70f7d8efa5db2cb0f84499e73301c99008899b4210857f3460374b33b101289bcbe7a0825a020147e99" style="display:inline-block; text-decoration:none !important; -webkit-text-size-adjust:none; font-weight:bold; color:#4262FF !important;" target="_blank">Privacy Policy</a>
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top" style="padding:60px 0px 0px 0px;"> </td>
+							</tr>
+						</table>
+					<!--[if (gte mso 9)|(IE)]>       </td>       </tr>       </table>       <![endif]-->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</div>
+
+
+
+<img src="https://click.e.miro.com/open.aspx?ffcb10-fec1157372610d78-fe5a17767d650c7c7011-fe3011737364047c711375-ff991171-fe571172746200747212-ff051676756406&d=510003&bmt=0" width="1" height="1" alt="">
+</custom></center>
+</body>
+</html>
+
+
+--RjQ4PQ7tLk4t=_?:--
+

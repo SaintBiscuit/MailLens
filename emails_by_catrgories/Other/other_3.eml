@@ -1,0 +1,68 @@
+Content-Type: multipart/alternative;
+ boundary="------------9EpvWpg0HToVpW5vwozJLyqg"
+Message-ID: <609472b5-e59d-4abd-a10e-3fcbc5617ce1@zoom.us>
+Date: Thu, 20 Nov 2025 16:47:15 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+From: Zoom <no-reply@zoom.us>
+Subject: =?UTF-8?B?0JLQsNGI0LAg0LrQvtC90YTQtdGA0LXQvdGG0LjRjyAtINCc0L7RjyA=?=
+ =?UTF-8?B?0LrQvtC90YTQtdGA0LXQvdGG0LjRjyDRg9C00LDQu9C10L3QsA==?=
+Reply-To: Zoom <no-reply@zoom.us>
+References: <lsWgkoR-RQCuNE2SJD7HYw@geopod-ismtpd-30>
+Content-Language: en-US
+To: test@mail.ru
+In-Reply-To: <lsWgkoR-RQCuNE2SJD7HYw@geopod-ismtpd-30>
+
+This is a multi-part message in MIME format.
+--------------9EpvWpg0HToVpW5vwozJLyqg
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+Здравствуйте, Иван Иванов!
+
+Вы удалили указанную ниже конференцию Zoom.
+
+Идентификатор конференции:776 9889 2459
+Тема: Моя конференция
+Время:15 июл. 2025 02:00 PM Москва
+
+Если вы хотите восстановить эту конференцию, перейдите на страницу 
+Недавно удаленные <https://us04web.zoom.us/meeting/trashcan/list>. 
+Недавно удаленные конференции будут удалены навсегда через 7 дней.
+
+Спасибо, что выбрали Zoom!
+- Команда Zoom
+--------------9EpvWpg0HToVpW5vwozJLyqg
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p><br>
+    </p>
+    Здравствуйте, Иван Иванов!<br>
+    <br>
+    Вы удалили указанную ниже конференцию Zoom.<br>
+    <br>
+    Идентификатор конференции:776 9889 2459<br>
+    Тема: Моя конференция<br>
+    Время:15 июл. 2025 02:00 PM Москва<br>
+    <br>
+    Если вы хотите восстановить эту конференцию, перейдите на страницу <a
+      href="https://us04web.zoom.us/meeting/trashcan/list"
+      target="_blank" style="color: #2d8cff;">Недавно удаленные</a>.
+    Недавно удаленные конференции будут удалены навсегда через 7 дней.
+    <br>
+    <br>
+    Спасибо, что выбрали Zoom!<br>
+    - Команда Zoom
+  </body>
+</html>
+
+--------------9EpvWpg0HToVpW5vwozJLyqg--

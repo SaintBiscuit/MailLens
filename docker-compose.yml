@@ -1,0 +1,16 @@
+version: '3.9'
+services:
+  maillens:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    # Если у жюри есть NVIDIA GPU — раскомментируй блок ниже:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]

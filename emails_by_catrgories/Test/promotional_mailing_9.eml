@@ -1,0 +1,544 @@
+Return-Path: <bounce.2b12250000c00c3500008858@s3.mail.mbx-sender-04.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from s3.mail.mbx-sender-04.ru (s3.mail.mbx-sender-04.ru [193.148.62.48])
+	by mail.collectorshash.su (Postfix) with ESMTP id B3AFB20975
+	for <v.p.ankevich@collectorshash.su>; Wed, 12 Nov 2025 13:04:14 +0300 (MSK)
+Content-Type: text/html;
+ charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Date: Wed, 12 Nov 2025 10:04:14 +0000
+Message-ID: <2b12250000c00c3500008858@s3.mail.mbx-sender-04.ru>
+Subject: =?utf-8?B?4pqh77iPINCn0LXRgNC90LDRjyDQv9GP0YLQvdC40YbQsCDQvdCwINCg?=
+ =?utf-8?B?0JHQmg==?=
+From: =?utf-8?B?0KDQkdCa?= <mail@newsletter.rbc.ru>
+To: <v.p.ankevich@collectorshash.su>
+Reply-To: =?utf-8?B?0KDQkdCa?= <mail@newsletter.rbc.ru>
+Precedence: bulk
+X-xsMessageId: 2b12250000c00c3500008858
+X-xsMailingId: 2429483
+X-Mailru-Msgtype: 2429483
+List-ID: <batch2429483.list-id.newsletter.rbc.ru>
+Feedback-ID: 2429483:4537:mindbox
+X-Mailer: mindbox.ru
+List-Unsubscribe: <mailto:lu.2b12250000c00c3500008858@list-unsubscribe-stable.mindbox.ru>, <https://tn-gsn.mck1.ru/ocu/KxIlAADADDUAAIhY>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=newsletter.rbc.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=8L2MN4fQMeetR0/Ycb/IQ1lpiwxKkoDOkbysJDc8F3U=;
+ b=YwqddaB01y3fKoxMQmELsaWR4q0JJemzuohFhh6wmqCK7XX7QbfIR6akk1btobAxuAqrRmqwOhak3QIzKWG4PE+V97bIqlDsJ4mYfN+4Oekc1chaJdC9uTPesgbLX0VfDIrpbkw5exeBVY0sf5V+fx+HezpgPkvOh4KKpnu37Kc=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=s3.mail.mbx-sender-04.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=8L2MN4fQMeetR0/Ycb/IQ1lpiwxKkoDOkbysJDc8F3U=;
+ b=Oo54UdjKvvcgB4FzbQ7SmYpdH3opF3HPYgOcViLdFXU6NJ032F83DWFQ9HSy+lDl1crKhIN+nyOCadq8Hs+BtlJO5ii9pfNt+2fbKoKxIT//2Y+Ak5DYjyBn5xWO2mGXGCLdtOgpmgOqEG/+zVkLIffl3d5Z96md5ebTg50ChN8=
+
+<!DOCTYPE html=0A  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://=
+www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://=
+www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D=
+"urn:schemas-microsoft-com:office:office">=0A=0A<head>=0A  <meta charset=3D=
+"UTF-8">=0A  <meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge">=0A=
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=0A  <meta name=3D"color-scheme" content=3D"light only">=0A  <title>=E2=
+=9A=A1=EF=B8=8F =D0=A7=D0=B5=D1=80=D0=BD=D0=B0=D1=8F =D0=BF=D1=8F=D1=82=D0=
+=BD=D0=B8=D1=86=D0=B0 =D0=BD=D0=B0 =D0=A0=D0=91=D0=9A</title>=0A=0A  =0A<st=
+yle type=3D"text/css">=0A    table{=0A      mso-table-lspace:0;=0A      mso=
+-table-rspace:0;=0A    }=0A    img{=0A      max-width:100% !important;=0A  =
+  }=0A    img,a img{=0A      border:0;=0A      height:auto;=0A      outline=
+:none;=0A      text-decoration:none;=0A      -ms-interpolation-mode:bicubic=
+;=0A    }=0A    a[href^=3Dtel],a[href^=3Dsms]{=0A      color:inherit;=0A   =
+   cursor:default;=0A      text-decoration:none;=0A    }=0A    p,a,li,td,bo=
+dy,table,blockquote{=0A      -ms-text-size-adjust:100%;=0A      -webkit-tex=
+t-size-adjust:100%;=0A    }=0A    a[x-apple-data-detectors]{=0A      color:=
+inherit !important;=0A      text-decoration:none !important;=0A      font-s=
+ize:inherit !important;=0A      font-family:inherit !important;=0A      fon=
+t-weight:inherit !important;=0A      line-height:inherit !important;=0A    =
+}=0A    a{=0A      text-decoration:none;=0A    }=0A  @media (min-width: 640=
+px){=0A    .button-two{=0A      width:48% !important;=0A      float:left;=
+=0A    }=0A=0A} @media (min-width: 640px){=0A    .gift-block-padding-top{=
+=0A      padding-top:40px !important;=0A    }=0A=0A} @media (min-width: 640=
+px){=0A    .hidden-table{=0A      width:4% !important;=0A      float:left;=
+=0A    }=0A=0A} @media (min-width: 768px){=0A    #templateContainer{=0A    =
+  width:640px !important;=0A    }=0A=0A} @media (max-width: 640px){=0A    .=
+button-blue,.button-border{=0A      width:100% !important;=0A    }=0A=0A} @=
+media (max-width: 640px){=0A    .button-inner{=0A      padding-left:10px !i=
+mportant;=0A      padding-right:10px !important;=0A    }=0A=0A} @media (max=
+-width: 640px){=0A    .gift-block-image,.gift-block-button{=0A      width:1=
+00% !important;=0A    }=0A=0A} @media (min-width: 640px){=0A    .gift-block=
+-image,.gift-block-button{=0A      width:50% !important;=0A      float:left=
+;=0A    }=0A=0A} @media (prefers-color-scheme: dark){=0A    .dark__bg-yello=
+w{=0A      background-color:#1C634D;=0A    }=0A=0A}=0A</style></head>=0A=0A=
+<body style=3D"width:100%;height:100%;background-image:none;background-repe=
+at:repeat;background-position:top left;background-attachment:scroll;margin:=
+0;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;background:#fffff=
+f;">=0A  <center>=0A    <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" id=3D"bodyTable" bgcolor=3D"#ffffff" s=
+tyle=3D"border-collapse: collapse;height: 100%;background-color: #ffffff;wi=
+dth: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-tab=
+le-lspace: 0;mso-table-rspace: 0;">=0A      <tr>=0A        <td align=3D"cen=
+ter" valign=3D"top" style=3D"margin:0;padding:0;width:100%;height:100%;-ms-=
+text-size-adjust:100%;-webkit-text-size-adjust:100%;">=0A          <!-- BEG=
+IN TEMPLATE // -->=0A          <!--[if (gte mso 9)|(IE)]>=0A            <ta=
+ble align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"640" style=3D"width:640px;">=0A              <tr>=0A                <td=
+ align=3D"center" valign=3D"top" width=3D"640" style=3D"width:640px;">=0A  =
+                <![endif]-->=0A          <table id=3D"templateContainer" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-width: 640px !i=
+mportant;margin-top: 0;margin-bottom: 0;margin-right: 0;margin-left: 0;padd=
+ing-top: 0;padding-bottom: 0;padding-right: 0;padding-left: 0;width: 100%;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: =
+0;mso-table-rspace: 0;">=0A            <tr style=3D"display:none;font-size:=
+1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;=
+color:#000000;mso-hide:all;visibility:hidden;">=0A              <td colspan=
+=3D"3" style=3D"display:none;font-size:1px;line-height:1px;max-height:0px;m=
+ax-width:0px;opacity:0;overflow:hidden;color:#000000;mso-hide:all;visibilit=
+y:hidden;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">=0A     =
+           <div style=3D"display:none;font-size:1px;line-height:1px;max-hei=
+ght:0px;max-width:0px;opacity:0;overflow:hidden;color:#000000;mso-hide:all;=
+visibility:hidden;">=0A                 =D0=A1=D0=BA=D0=B8=D0=B4=D0=BA=D0=
+=B8 =D0=B4=D0=BE 70% =D0=BD=D0=B0 =D0=B3=D0=BE=D1=82=D0=BE=D0=B2=D1=8B=D0=
+=B5 =D1=80=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D0=B1=D0=
+=B8=D0=B7=D0=BD=D0=B5=D1=81=D0=B0=0A                    &zwnj;&#10240;&zwnj=
+;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10=
+240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&=
+zwnj;&#10240;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#1024=
+0;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zw=
+nj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&#10240;&zwnj;&#10240;=
+&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj=
+;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10=
+240;&zwnj;&#10240;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&=
+#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#1024=
+0;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zw=
+nj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#=
+10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240=
+;&zwnj;&#10240;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10=
+240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&=
+zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&#10240;&zwnj;&#1024=
+0;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zw=
+nj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#=
+10240;&zwnj;&#10240;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj=
+;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10=
+240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&=
+zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;=
+&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#102=
+40;&zwnj;&#10240;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#=
+10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240=
+;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&#10240;&zwnj;&#10=
+240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&=
+zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;=
+&#10240;&zwnj;&#10240;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zw=
+nj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#=
+10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;&zwnj;&#10240;=0A          =
+      </div>=0A              </td>=0A            </tr>=0A            <tr>=
+=0A                      <td colspan=3D"3" style=3D"padding-bottom:20px;-ms=
+-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></td>=0A            =
+        </tr>=0A<tr>=0A  <td style=3D"width:20px;"></td>=0A  <td>=0A    <ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A    =
+  <tr>=0A        <!-- =D0=9B=D0=BE=D0=B3=D0=BE=D1=82=D0=B8=D0=BF -->=0A    =
+    <td valign=3D"middle" width=3D"83" style=3D"padding-right:12px;">=0A   =
+       <a href=3D"https://tn-gsn.mck1.ru/c/KxIlAADADDUAAIhY/ybC8Bg/KNVinRtv=
+3q4oYGJr/?u=3Dhttps%3A%2F%2Fcompanies.rbc.ru%2Fblackfriday25-request%2F%3Fu=
+tm_source%3Drbc%26utm_medium%3Demail%26utm_campaign%3Dc_anons_bf25_111125" =
+target=3D"_blank">=0A            <img src=3D"https://email-images.mindbox.r=
+u/Rbc/815/0d6f4662-6b12-4ba9-ad07-e24d55841db7.png" alt=3D"=D0=A0=D0=91=D0=
+=9A" width=3D"83" height=3D"24" style=3D"display:block;border:0;line-height=
+:0;">=0A          </a>=0A        </td>=0A=0A        <!-- =D0=A0=D0=B0=D0=B7=
+=D0=B4=D0=B5=D0=BB=D0=B8=D1=82=D0=B5=D0=BB=D1=8C =D1=87=D0=B5=D1=80=D0=B5=
+=D0=B7 border -->=0A        <td valign=3D"middle" style=3D"border-left:1px =
+solid #5E5E5E; padding-left:12px;">=0A          <a href=3D"https://tn-gsn.m=
+ck1.ru/c/KxIlAADADDUAAIhY/yrC8Bg/Y-XlikAoTJUOPWIB/?u=3Dhttps%3A%2F%2Fcompan=
+ies.rbc.ru%2Fblackfriday25-request%2F%3Futm_source%3Drbc%26utm_medium%3Dema=
+il%26utm_campaign%3Dc_anons_bf25_111125" target=3D"_blank" style=3D"font-fa=
+mily:Helvetica,Arial,sans-serif;font-size:13px;line-height:16px;color:#1C1C=
+1C;font-weight:600;text-decoration:none;">=0A            =D0=A7=D0=B5=D1=80=
+=D0=BD=D0=B0=D1=8F<br>=D0=BF=D1=8F=D1=82=D0=BD=D0=B8=D1=86=D0=B0=0A        =
+  </a>=0A        </td>=0A=0A        <!-- =D0=9F=D1=80=D0=B0=D0=B2=D1=8B=D0=
+=B9 =D0=BE=D1=82=D1=81=D1=82=D1=83=D0=BF -->=0A        <td width=3D"20">&nb=
+sp;</td>=0A      </tr>=0A    </table>=0A  </td>=0A  <td style=3D"width:20px=
+;"></td>=0A</tr>=0A=0A            <tr>=0A              <td colspan=3D"3" st=
+yle=3D"padding-bottom:24px;-ms-text-size-adjust:100%;-webkit-text-size-adju=
+st:100%;"></td>=0A            </tr>=0A=0A          =0A            <tr>=0A  =
+            <td style=3D"width:20px;"></td>=0A              <td>=0A        =
+        <a href=3D"https://tn-gsn.mck1.ru/c/KxIlAADADDUAAIhY/y7C8Bg/VCsKL6z=
+d5jBScsbq/?u=3Dhttps%3A%2F%2Fcompanies.rbc.ru%2Fblackfriday25%2F%3Futm_sour=
+ce%3Drbc%26utm_medium%3Demail%26utm_campaign%3Dc_anons_bf25_111125" target=
+=3D"_blank">=0A                <img align=3D"center" padding=3D"0" src=3D"h=
+ttps://email-images.mindbox.ru/Rbc/7d49800c-ef7f-4955-9d5a-e21ac65754e4/5c0=
+38764-6f09-49f2-9d8d-4d3f86a653ec.jpg" alt=3D"=D0=A7=D0=B5=D1=80=D0=BD=D0=
+=B0=D1=8F =D0=BF=D1=8F=D1=82=D0=BD=D0=B8=D1=86=D0=B0 =D0=A0=D0=91=D0=9A" st=
+yle=3D"border-radius: 12px;max-width: 600px;" width=3D"600">=0A            =
+    </a>=0A              </td>=0A              <td style=3D"width:20px;"></=
+td>=0A            </tr>=0A            <tr>=0A                <td colspan=3D=
+"3" style=3D"padding-bottom:16px;-ms-text-size-adjust:100%;-webkit-text-siz=
+e-adjust:100%;"></td>=0A              </tr>=0A  =0A              <tr>=0A   =
+             <td style=3D"width:20px;-ms-text-size-adjust:100%;-webkit-text=
+-size-adjust:100%;"></td>=0A                <td style=3D"-ms-text-size-adju=
+st:100%;-webkit-text-size-adjust:100%;">=0A                  <div style=3D"=
+font-family:Helvetica;font-size:16px;line-height:24px;color:#1C1C1C;text-al=
+ign:left;font-weight: 400;">=0A=D0=A7=D0=B5=D1=80=D0=BD=D0=B0=D1=8F =D0=BF=
+=D1=8F=D1=82=D0=BD=D0=B8=D1=86=D0=B0 =D0=BD=D0=B0&nbsp;=D0=A0=D0=91=D0=9A =
+=D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=B0=D1=81=D1=8C!=0A=0A=D0=9C=D1=8B&nbsp;=
+=D1=81=D0=BE=D0=B1=D1=80=D0=B0=D0=BB=D0=B8 =D0=B2=D1=81=D0=B5 =D0=BD=D0=B5=
+=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D0=B5 =D0=B1=D0=B8=D0=B7=
+=D0=BD=D0=B5=D1=81-=D0=B8=D0=BD=D1=81=D1=82=D1=80=D1=83=D0=BC=D0=B5=D0=BD=
+=D1=82=D1=8B =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D0=B7=D0=B2=D0=B8=D1=82=D0=B8=
+=D1=8F =D0=BC=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE =D0=B8&nbsp;=D1=81=D1=80=D0=B5=
+=D0=B4=D0=BD=D0=B5=D0=B3=D0=BE =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81=D0=B0*&=
+nbsp;&mdash; =D0=B2=D1=81=D1=91, =D1=87=D1=82=D0=BE =D1=80=D0=B5=D0=B0=D0=
+=BB=D1=8C=D0=BD=D0=BE =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=B5=D1=82 =D0=
+=B8&nbsp;=D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B5=D0=BD=D0=BE =D0=BF=D1=
+=80=D0=B5=D0=B4=D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D1=82=D0=B5=D0=BB=
+=D1=8F=D0=BC=D0=B8&nbsp;&mdash; =D0=B8&nbsp;=D1=81=D0=BD=D0=B8=D0=B7=D0=B8=
+=D0=BB=D0=B8 =D0=BD=D0=B0&nbsp;=D0=BD=D0=B8=D1=85 =D1=86=D0=B5=D0=BD=D1=83.=
+ =D0=A1=D0=B5=D0=B9=D1=87=D0=B0=D1=81 =D0=B8=D1=85&nbsp;=D0=BC=D0=BE=D0=B6=
+=D0=BD=D0=BE =D0=BF=D1=80=D0=B8=D0=BE=D0=B1=D1=80=D0=B5=D1=81=D1=82=D0=B8 =
+=D0=B2=D1=81=D0=B5 =D1=81=D1=80=D0=B0=D0=B7=D1=83 <strong> =D1=81=D0=BE&nbs=
+p;=D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=BE=D0=B9 =D0=B4=D0=BE&nbsp;70%</strong>=
+, =D0=BE=D1=82&nbsp;200&nbsp;=D1=82=D1=8B=D1=81. =D1=80=D1=83=D0=B1=D0=BB=
+=D0=B5=D0=B9.=0A=0A                      =0A                  =0A          =
+        </div>=0A                </td>=0A                <td style=3D"width=
+:20px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></td>=0A   =
+           </tr>=0A          =0A              <tr>=0A                <td co=
+lspan=3D"3" style=3D"padding-bottom:24px;-ms-text-size-adjust:100%;-webkit-=
+text-size-adjust:100%;"></td>=0A              </tr>=0A              <tr>=0A=
+                <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;"></td>=0A            <td style=3D"-ms-text-size-ad=
+just:100%;-webkit-text-size-adjust:100%;padding-bottom: 20px;">=0A         =
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"btn b=
+tn-primary" style=3D"border-collapse:=0A                separate; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;=
+=0A                min-width: 100% !important;" width=3D"100%">=0A         =
+       <tr>=0A                  <td align=3D"left" style=3D"font-family: sa=
+ns-serif; font-size: 14px; vertical-align: top;=0A                    " val=
+ign=3D"top">=0A                    <table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"border-collapse: separate;=0A                     =
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">=0A           =
+           <tr>=0A                        <td class=3D"dark__bg-yellow" sty=
+le=3D"font-family: Helvetica; font-size: 14px; vertical-align: top;=0A     =
+                     background-color: #1C634D; border-radius: 8px; text-al=
+ign: center;" valign=3D"top" bgcolor=3D"#1C634D" align=3D"center">=0A      =
+                    <a href=3D"https://tn-gsn.mck1.ru/c/KxIlAADADDUAAIhY/zL=
+C8Bg/H8uzo0ZP-Y0OArBa/?u=3Dhttps%3A%2F%2Fcompanies.rbc.ru%2Fblackfriday25%2=
+F%3Futm_source%3Drbc%26utm_medium%3Demail%26utm_campaign%3Dc_anons_bf25_111=
+125" target=3D"_blank" style=3D"display:=0A                            inli=
+ne-block; color: #ffffff; background-color: #1C634D; border: solid 1px #1C6=
+34D;=0A                            border-radius: 8px; box-sizing: border-b=
+ox; cursor: pointer; text-decoration: none;=0A                            f=
+ont-size: 14px; margin: 0; padding: 12px 16px;border-color: #1C634D !import=
+ant;">=0A                            <b>=D0=A3=D0=B7=D0=BD=D0=B0=D1=82=D1=
+=8C =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B5</b>=0A                          </=
+a>=0A                        </td>=0A                      </tr>=0A        =
+            </table>=0A                  </td>=0A                </tr>=0A  =
+            </table>=0A            </td>=0A          </tr> =0A		  =0A		  <t=
+r>=0A            <td style=3D"width:20px;-ms-text-size-adjust:100%;-webkit-=
+text-size-adjust:100%;"></td>=0A            <td style=3D"-ms-text-size-adju=
+st:100%;-webkit-text-size-adjust:100%;">=0A              <div style=3D"font=
+-family:Helvetica;font-size:14px;line-height:24px;color:#1C1C1C;text-align:=
+left;font-weight: 400;font-style: italic;">=0A               =D0=A1=D0=BA=
+=D0=B8=D0=B4=D0=BA=D0=B0 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D1=83=D0=B5=
+=D1=82 =D0=BF=D1=80=D0=B8 =D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D0=B5 =D1=81=D0=BE=
+&nbsp;=D1=81=D1=87=D0=B5=D1=82=D0=B0 =D1=8E=D1=80=D0=B8=D0=B4=D0=B8=D1=87=
+=D0=B5=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D0=BB=D0=B8=D1=86=D0=B0=0A           =
+    =0A              </div>=0A            </td>=0A            <td style=3D"=
+width:20px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></td>=
+=0A          </tr>=0A		  =0A              <tr>=0A                <td colspa=
+n=3D"3" style=3D"padding-bottom:16px;-ms-text-size-adjust:100%;-webkit-text=
+-size-adjust:100%;"></td>=0A              </tr>=0A              <tr>=0A    =
+                  <td style=3D"width:20px;"></td>=0A                      <=
+td>=0A                      <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff;border-radius:12px;width:100%;bo=
+rder: solid 1px #1C634D;">=0A                        =0A                   =
+       <tr>=0A                          <td style=3D"width: 20px;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A                 =
+         <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;padding-bottom: 8px;padding-top: 20px;">=0A                           =
+ <span style=3D"color:#1C634D;font-size:20px;line-height:24px;font-weight:7=
+00;font-family:Helvetica;">=0A                                =D0=92=D1=81=
+=D1=91 =D0=B8&nbsp;=D1=81=D1=80=D0=B0=D0=B7=D1=83&nbsp;&mdash; =D0=B2&nbsp;=
+=D0=BA=D0=BE=D0=BC=D0=BF=D0=BB=D0=B5=D0=BA=D1=81=D0=B5 =D1=80=D0=B5=D1=88=
+=D0=B5=D0=BD=D0=B8=D0=B9 =D0=A0=D0=91=D0=9A </span>=0A                     =
+       </td>=0A                          <td style=3D"width: 20px;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A                =
+        </tr>=0A                        <tr>=0A                            =
+<td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;"></td>=0A                            <td style=3D"-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;padding-bottom: 16px;">=0A       =
+                       <span style=3D"color:#1C1C1C;font-size:16px;line-hei=
+ght:24px;font-weight:400;font-family:Helvetica;">=0A                       =
+         =D0=A1=D0=BE=D0=B1=D1=80=D0=B0=D0=BB=D0=B8 =D1=80=D0=B0=D0=B1=D0=
+=BE=D1=87=D0=B8=D0=B5 =D0=B8=D0=BD=D1=81=D1=82=D1=80=D1=83=D0=BC=D0=B5=D0=
+=BD=D1=82=D1=8B, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=BE=D0=
+=BC=D0=BE=D0=B3=D1=83=D1=82 =D0=B2=D1=8B=D0=B2=D0=B5=D1=81=D1=82=D0=B8 =D0=
+=B2=D0=B0=D1=88 =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81 =D0=BD=D0=B0&nbsp;=D0=
+=BD=D0=BE=D0=B2=D1=8B=D0=B9 =D1=83=D1=80=D0=BE=D0=B2=D0=B5=D0=BD=D1=8C. </s=
+pan>=0A                              </td>=0A                            <t=
+d style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;"></td>=0A                          </tr>=0A                        <=
+tr>=0A                          <td style=3D"width: 20px;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;"></td>=0A                         =
+ <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">=
+=0A                            <span style=3D"color:#1C1C1C;font-size:16px;=
+line-height:24px;font-weight:700;font-family:Helvetica;">=0A               =
+                 =D0=9F=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=BA=D0=B0 =D0=A0=D0=
+=91=D0=9A&nbsp;=D0=9A=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B8 </span>=0A =
+                           </td>=0A                          <td style=3D"w=
+idth: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td=
+>=0A                        </tr>=0A                        <tr>=0A        =
+                  <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;"></td>=0A                          <td style=3D"=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-bottom: 1=
+6px;">=0A                            <span style=3D"color:#1C1C1C;font-size=
+:16px;line-height:24px;font-weight:400;font-family:Helvetica;">=0A         =
+                     <ul style=3D"margin: 0px 0px 0px 0px;padding: 0;color:=
+ #ffffff;">=0A                                <li style=3D"-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;margin-bottom: 4px;margin-left: 2=
+0px;color: #1C634D;margin-top: 8px;"><span style=3D"font-family:Helvetica;f=
+ont-size:16px;line-height:24px;color:#000000;">=D1=80=D0=B0=D1=81=D1=81=D0=
+=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B9=D1=82=D0=B5 =D0=BE&nbsp;=D0=B4=D0=
+=BE=D1=81=D1=82=D0=B8=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F=D1=85 =D0=B1=D0=B8=D0=
+=B7=D0=BD=D0=B5=D1=81=D0=B0, =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D0=
+=B9=D1=82=D0=B5 =D0=B5=D0=B3=D0=BE =D1=80=D0=B5=D0=BF=D1=83=D1=82=D0=B0=D1=
+=86=D0=B8=D0=B5=D0=B9, =D1=84=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D1=83=D0=B9=D1=
+=82=D0=B5 =D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=B9 =D0=B1=D1=80=D0=B5=D0=BD=D0=
+=B4 =D1=80=D1=83=D0=BA=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D1=82=D0=B5=D0=BB=D1=
+=8F =D0=B8&nbsp;=D1=8D=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=D0=BE=D0=B2 =D0=
+=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B8;</span></li>=0A              =
+                  <li style=3D"-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;margin-bottom: 4px;margin-left: 20px;color: #1C634D;"><span s=
+tyle=3D"font-family:Helvetica;font-size:16px;line-height:24px;color:#000000=
+;">=D1=83=D0=B2=D0=B5=D0=BB=D0=B8=D1=87=D0=B8=D0=B2=D0=B0=D0=B9=D1=82=D0=B5=
+ =D0=B8=D0=BD=D0=B4=D0=B5=D0=BA=D1=81 =D1=86=D0=B8=D1=82=D0=B8=D1=80=D1=83=
+=D0=B5=D0=BC=D0=BE=D1=81=D1=82=D0=B8 =D0=B8&nbsp;=D1=83=D0=BB=D1=83=D1=87=
+=D1=88=D0=B0=D0=B9=D1=82=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B8=D1=86=D0=B8=D0=B8 =
+=D0=B2&nbsp;=D0=BF=D0=BE=D0=B8=D1=81=D0=BA=D0=BE=D0=B2=D0=BE=D0=B9 =D0=B2=
+=D1=8B=D0=B4=D0=B0=D1=87=D0=B5.</span></li>=0A                            <=
+/ul></span>=0A                            </td>=0A                         =
+ <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;"></td>=0A                        </tr>=0A                        =
+<tr>=0A                            <td style=3D"width: 20px;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A                      =
+      <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;">=0A                              <span style=3D"color:#1C1C1C;font-size=
+:16px;line-height:24px;font-weight:700;font-family:Helvetica;">=0A         =
+                       =D0=9A=D0=BE=D1=80=D0=BF=D0=BE=D1=80=D0=B0=D1=82=D0=
+=B8=D0=B2=D0=BD=D0=B0=D1=8F =D0=9F=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=BA=D0=
+=B0 =D0=BD=D0=B0&nbsp;=D0=A0=D0=91=D0=9A </span>=0A                        =
+      </td>=0A                            <td style=3D"width: 20px;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A               =
+           </tr>=0A                          <tr>=0A                       =
+     <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;"></td>=0A                            <td style=3D"-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;padding-bottom: 16px;">=0A  =
+                            <span style=3D"color:#1C1C1C;font-size:16px;lin=
+e-height:24px;font-weight:400;font-family:Helvetica;">=0A                  =
+              <ul style=3D"margin: 0px 0px 0px 0px;padding: 0;color: #fffff=
+f;">=0A                                  <li style=3D"-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;margin-bottom: 4px;margin-left: 20px;c=
+olor: #1C634D;margin-top: 8px;"><span style=3D"font-family:Helvetica;font-s=
+ize:16px;line-height:24px;color:#000000;">=D0=BE=D1=82=D0=BA=D1=80=D0=BE=D0=
+=B9=D1=82=D0=B5 =D0=B4=D0=BB=D1=8F =D1=81=D0=B5=D0=B1=D1=8F =D0=B8&nbsp;=D0=
+=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=
+=BF =D0=BA&nbsp;=D1=8D=D0=BA=D1=81=D0=BA=D0=BB=D1=8E=D0=B7=D0=B8=D0=B2=D0=
+=BD=D1=8B=D0=BC =D0=BC=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D0=B0=D0=
+=BC =D0=A0=D0=91=D0=9A;</span></li>=0A                                  <li=
+ style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-=
+bottom: 4px;margin-left: 20px;color: #1C634D;"><span style=3D"font-family:H=
+elvetica;font-size:16px;line-height:24px;color:#000000;">=D1=81=D0=BB=D0=B5=
+=D0=B4=D0=B8=D1=82=D0=B5 =D0=B7=D0=B0&nbsp;=D0=BE=D0=B1=D0=B7=D0=BE=D1=80=
+=D0=B0=D0=BC=D0=B8 =D0=B0=D0=BA=D1=86=D0=B8=D0=B9, =D1=80=D1=8B=D0=BD=D0=BA=
+=D0=BE=D0=B2 =D0=B8&nbsp;=D1=82=D1=80=D0=B5=D0=BD=D0=B4=D0=BE=D0=B2;</span>=
+</li>=0A                                <li style=3D"-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;margin-bottom: 4px;margin-left: 20px;co=
+lor: #1C634D;"><span style=3D"font-family:Helvetica;font-size:16px;line-hei=
+ght:24px;color:#000000;">=D0=BF=D0=B5=D1=80=D0=B5=D0=BD=D0=B8=D0=BC=D0=B0=
+=D0=B9=D1=82=D0=B5 =D0=BB=D1=83=D1=87=D1=88=D0=B8=D0=B5 =D0=BC=D0=B8=D1=80=
+=D0=BE=D0=B2=D1=8B=D0=B5 =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81-=D0=BF=D1=80=
+=D0=B0=D0=BA=D1=82=D0=B8=D0=BA=D0=B8 =D0=BE=D1=82&nbsp;=D0=BF=D1=80=D0=BE=
+=D1=84=D0=B5=D1=81=D1=81=D0=BE=D1=80=D0=BE=D0=B2 MBA.</span></li>=0A       =
+                       </ul></span>=0A                              </td>=
+=0A                            <td style=3D"width: 20px;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;"></td>=0A                          =
+</tr>=0A                          <tr>=0A                            <td st=
+yle=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;"></td>=0A                            <td style=3D"-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;">=0A                              <spa=
+n style=3D"color:#1C1C1C;font-size:16px;line-height:24px;font-weight:700;fo=
+nt-family:Helvetica;">=0A                                =D0=91=D0=B8=D0=BB=
+=D0=B5=D1=82=D1=8B =D0=BD=D0=B0&nbsp;&laquo;=D0=9F=D1=80=D0=B5=D0=B4=D0=BF=
+=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D0=BA=D0=
+=B8=D0=B9 =D0=BA=D0=BB=D0=B0=D1=81=D1=81&raquo; </span>=0A                 =
+             </td>=0A                            <td style=3D"width: 20px;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A        =
+                  </tr>=0A                          <tr>=0A                =
+            <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;"></td>=0A                            <td style=3D"-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-bottom: 16px;=
+">=0A                              <span style=3D"color:#1C1C1C;font-size:1=
+6px;line-height:24px;font-weight:400;font-family:Helvetica;">=0A           =
+                     <ul style=3D"margin: 0px 0px 0px 0px;padding: 0;color:=
+ #ffffff;">=0A                                  <li style=3D"-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;margin-bottom: 4px;margin-left:=
+ 20px;color: #1C634D;margin-top: 8px;"><span style=3D"font-family:Helvetica=
+;font-size:16px;line-height:24px;color:#000000;">=D0=BE=D0=B1=D0=BC=D0=B5=
+=D0=BD=D0=B8=D0=B2=D0=B0=D0=B9=D1=82=D0=B5=D1=81=D1=8C =D0=BE=D0=BF=D1=8B=
+=D1=82=D0=BE=D0=BC =D0=B2&nbsp;=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=
+=D1=82=D0=B2=D0=B5 =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D0=B5=
+=D0=B2 =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81=D0=B0;</span></li>=0A          =
+                        <li style=3D"-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;margin-bottom: 4px;margin-left: 20px;color: #1C634D;"><=
+span style=3D"font-family:Helvetica;font-size:16px;line-height:24px;color:#=
+000000;">=D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=D0=BE=D0=
+=B2=D1=8B=D1=85 =D0=BF=D0=B0=D1=80=D1=82=D0=BD=D0=B5=D1=80=D0=BE=D0=B2 =D0=
+=B8&nbsp;=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=B8=
+ =D1=80=D0=BE=D1=81=D1=82=D0=B0.</span></li>=0A                            =
+  </ul></span>=0A                              </td>=0A                    =
+        <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;"></td>=0A                          </tr>=0A               =
+           <tr>=0A                            <td style=3D"width: 20px;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A           =
+                 <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;">=0A                              <span style=3D"color:#1C1C1=
+C;font-size:16px;line-height:24px;font-weight:700;font-family:Helvetica;">=
+=0A                                =D0=A1=D0=BA=D0=B8=D0=B4=D0=BA=D0=B0 =D0=
+=BD=D0=B0&nbsp;=D0=9C=D0=B0=D0=B3=D0=B0=D0=B7=D0=B8=D0=BD =D0=B8=D1=81=D1=
+=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B9 =D0=A0=D0=91=D0=
+=9A </span>=0A                              </td>=0A                       =
+     <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;"></td>=0A                          </tr>=0A                  =
+        <tr>=0A                            <td style=3D"width: 20px;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>=0A              =
+              <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;padding-bottom: 16px;">=0A                              <span sty=
+le=3D"color:#1C1C1C;font-size:16px;line-height:24px;font-weight:400;font-fa=
+mily:Helvetica;">=0A                                <ul style=3D"margin: 0p=
+x 0px 0px 0px;padding: 0;color: #ffffff;">=0A                              =
+    <li style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+margin-bottom: 4px;margin-left: 20px;color: #1C634D;margin-top: 8px;"><span=
+ style=3D"font-family:Helvetica;font-size:16px;line-height:24px;color:#0000=
+00;">=D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D0=B5 =D0=B4=D0=BE=D1=81=D1=
+=82=D1=83=D0=BF =D0=BA&nbsp;=D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3=D1=
+=83 =D0=BC=D0=B0=D1=80=D0=BA=D0=B5=D1=82=D0=B8=D0=BD=D0=B3=D0=BE=D0=B2=D1=
+=8B=D1=85 =D0=B8=D1=81=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D0=B9;</span></li>=0A                                  <li style=3D"-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-bottom: 4px;m=
+argin-left: 20px;color: #1C634D;"><span style=3D"font-family:Helvetica;font=
+-size:16px;line-height:24px;color:#000000;">=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D0=B9=D1=82=D0=B5 =D0=B3=D0=BE=D1=82=D0=BE=D0=B2=D1=8B=
+=D0=B5 =D0=B2=D1=8B=D0=B2=D0=BE=D0=B4=D1=8B =D0=B8&nbsp;=D0=B0=D0=BD=D0=B0=
+=D0=BB=D0=B8=D1=82=D0=B8=D0=BA=D1=83 =D0=B4=D0=BB=D1=8F =D1=80=D0=BE=D1=81=
+=D1=82=D0=B0 =D0=BF=D1=80=D0=BE=D0=B4=D0=B0=D0=B6 =D0=B8&nbsp;=D0=B7=D0=B0=
+=D0=BF=D1=83=D1=81=D0=BA=D0=B0 =D0=BD=D0=BE=D0=B2=D1=8B=D1=85 =D0=BF=D1=80=
+=D0=BE=D0=B4=D1=83=D0=BA=D1=82=D0=BE=D0=B2</span>.</li>=0A                 =
+             </ul></span>=0A                              </td>=0A         =
+                   <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;"></td>=0A                          </tr>=0A    =
+                      </table>=0A                        </td>=0A          =
+              <td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;"></td>=0A                        </tr>=0A           =
+    <tr>=0A                <td colspan=3D"3" style=3D"padding-bottom:24px;-=
+ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></td>=0A          =
+    </tr>=0A            =0A              <tr>=0A                <td style=
+=3D"width:20px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></=
+td>=0A                <td style=3D"-ms-text-size-adjust:100%;-webkit-text-s=
+ize-adjust:100%;">=0A                  <div style=3D"font-family:Helvetica;=
+font-size:16px;line-height:24px;color:#1C1C1C;text-align:left;font-weight: =
+400;">=0A                    =D0=A0=D0=B0=D0=B7=D0=B2=D0=B8=D0=B2=D0=B0=D0=
+=B9=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=83 =D0=B8&nbsp;=D0=
+=BC=D0=B0=D1=81=D1=88=D1=82=D0=B0=D0=B1=D0=B8=D1=80=D1=83=D0=B9=D1=82=D0=B5=
+ =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81 =D1=81&nbsp;=D0=BF=D1=80=D0=BE=D0=B4=
+=D1=83=D0=BA=D1=82=D0=B0=D0=BC=D0=B8 =D0=A0=D0=91=D0=9A!=0A                =
+  </div>=0A                </td>=0A                <td style=3D"width:20px;=
+-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></td>=0A         =
+     </tr>=0A              <tr>=0A                <td colspan=3D"3" style=
+=3D"padding-bottom:16px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:=
+100%;"></td>=0A              </tr>=0A              <tr>=0A                <=
+td style=3D"width: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;"></td>=0A            <td style=3D"-ms-text-size-adjust:100%;-webkit=
+-text-size-adjust:100%;padding-bottom: 20px;">=0A              <table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"btn btn-primary" style=
+=3D"border-collapse:=0A                separate; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt; width: 100%; box-sizing: border-box;=0A                =
+min-width: 100% !important;" width=3D"100%">=0A                <tr>=0A     =
+             <td align=3D"left" style=3D"font-family: sans-serif; font-size=
+: 14px; vertical-align: top;=0A                    " valign=3D"top">=0A    =
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"border-collapse: separate;=0A                      mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; width: auto;">=0A                      <tr>=0A =
+                       <td class=3D"dark__bg-yellow" style=3D"font-family: =
+Helvetica; font-size: 14px; vertical-align: top;=0A                        =
+  background-color: #1C634D; border-radius: 8px; text-align: center;" valig=
+n=3D"top" bgcolor=3D"#1C634D" align=3D"center">=0A                         =
+ <a href=3D"https://tn-gsn.mck1.ru/c/KxIlAADADDUAAIhY/zbC8Bg/O7IDL423tTiUsS=
+nG/?u=3Dhttps%3A%2F%2Fcompanies.rbc.ru%2Fblackfriday25%2F%3Futm_source%3Drb=
+c%26utm_medium%3Demail%26utm_campaign%3Dc_anons_bf25_111125" target=3D"_bla=
+nk" style=3D"display:=0A                            inline-block; color: #f=
+fffff; background-color: #1C634D; border: solid 1px #1C634D;=0A            =
+                border-radius: 8px; box-sizing: border-box; cursor: pointer=
+; text-decoration: none;=0A                            font-size: 14px; mar=
+gin: 0; padding: 12px 16px;border-color: #1C634D !important;">=0A          =
+                  <b>=D0=9E=D1=81=D1=82=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=
+=B7=D0=B0=D1=8F=D0=B2=D0=BA=D1=83</b>=0A                          </a>=0A  =
+                      </td>=0A                      </tr>=0A               =
+     </table>=0A                  </td>=0A                </tr>=0A         =
+     </table>=0A            </td>=0A          </tr> =0A          <tr>=0A   =
+         <td colspan=3D"3" style=3D"padding-bottom:8px;-ms-text-size-adjust=
+:100%;-webkit-text-size-adjust:100%;"></td>=0A          </tr>=0A        =0A=
+          <tr>=0A            <td style=3D"width:20px;-ms-text-size-adjust:1=
+00%;-webkit-text-size-adjust:100%;"></td>=0A            <td style=3D"-ms-te=
+xt-size-adjust:100%;-webkit-text-size-adjust:100%;">=0A              <div s=
+tyle=3D"font-family:Helvetica;font-size:14px;line-height:24px;color:#1C1C1C=
+;text-align:left;font-weight: 400;font-style: italic;">=0A                *=
+ =D0=A1=D0=BF=D0=B5=D1=86=D0=BF=D1=80=D0=B5=D0=B4=D0=BB=D0=BE=D0=B6=D0=B5=
+=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=BE =D0=B4=
+=D0=BB=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D0=BD=D0=B8=D0=B9 =D1=81&nbsp;=
+=D0=BE=D0=B1=D0=BE=D1=80=D0=BE=D1=82=D0=BE=D0=BC =D0=B4=D0=BE&nbsp;1&nbsp;=
+=D0=BC=D0=BB=D1=80=D0=B4 =D1=80=D1=83=D0=B1=D0=BB=D0=B5=D0=B9 =D0=B2&nbsp;=
+=D0=B3=D0=BE=D0=B4=0A               =0A              </div>=0A            <=
+/td>=0A            <td style=3D"width:20px;-ms-text-size-adjust:100%;-webki=
+t-text-size-adjust:100%;"></td>=0A          </tr>=0A          <tr>=0A      =
+      <td colspan=3D"3" style=3D"padding-bottom:16px;-ms-text-size-adjust:1=
+00%;-webkit-text-size-adjust:100%;"></td>=0A          </tr>=0A =0A         =
+   <tr>=0A              <td style=3D"width:20px;-ms-text-size-adjust:100%;-=
+webkit-text-size-adjust:100%;"></td>=0A              <td style=3D"padding-b=
+ottom:13px;border-top:1px solid #3D3D3D;-ms-text-size-adjust:100%;-webkit-t=
+ext-size-adjust:100%;">=0A              </td>=0A              <td style=3D"=
+width:20px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></td>=
+=0A            </tr>=0A           =0A              <tr>=0A      <tr>=0A    =
+              <td style=3D"width:20px;-ms-text-size-adjust:100%;-webkit-tex=
+t-size-adjust:100%;"></td>=0A                  <td style=3D"-ms-text-size-a=
+djust:100%;-webkit-text-size-adjust:100%;">=0A                    <table st=
+yle=3D"border: 0;font-family: Helvetica;font-size: 13px;line-height: 20px;c=
+olor: #5F5F5F;mso-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">=0A                      <tr>=0A    =
+                   <td style=3D"-ms-text-size-adjust:100%;-webkit-text-size=
+-adjust:100%;">  <div style=3D"-ms-text-size-adjust:100%;-webkit-text-size-=
+adjust:100%;">=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B&nbsp;=D0=B1=D0=BE=D0=BB=
+=D1=8C=D1=88=D0=B5 =D0=BD=D0=B5&nbsp;=D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5 =
+=D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D1=8C =D0=BD=D0=B0=D1=88=D0=B8 =
+=D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=B0, =D1=82=D0=BE&nbsp;=D0=BC=D0=BE=D0=B6=
+=D0=B5=D1=82=D0=B5 <a href=3D"https://tn-gsn.mck1.ru/c/KxIlAADADDUAAIhY/zrC=
+8Bg/HG3UDgJMaH0OB0md/?u=3Dhttps%3A%2F%2Ftn-gsn.mck1.ru%2Fu%2FKxIlAADADDUAAI=
+hY%2Fr3UjUBXWPtBOyKSy%2Ftrue%3Futm_source%3Drbc%26utm_medium%3Demail%26utm_=
+campaign%3Dc_anons_bf25_111125" target=3D"_blank" style=3D"font-family:Helv=
+etica;font-size:14px;line-height:24px;color:#000000;text-decoration:underli=
+ne;">=D0=BE=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F</a> =D0=
+=B2&nbsp;=D0=BB=D1=8E=D0=B1=D0=BE=D0=B5 =D0=B2=D1=80=D0=B5=D0=BC=D1=8F.</di=
+v></td>=0A                      </tr>=0A                    </table>=0A    =
+              </td>=0A                  <td style=3D"width:20px;-ms-text-si=
+ze-adjust:100%;-webkit-text-size-adjust:100%;"></td>=0A                </tr=
+>=0A				=0A            <tr>=0A        <tr>=0A              <td colspan=3D"3=
+" style=3D"padding-bottom:40px;"></td>=0A            </tr>=0A          </ta=
+ble>=0A        </td>=0A      </tr>=0A    </table>=0A  </center>=0A<img src=
+=3D"https://tn-gsn.mck1.ru/o/KxIlAADADDUAAIhY/r3UjUBXWPtBOyKSy" width=3D"1"=
+ height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;"/></body>=0A=0A=
+</html>

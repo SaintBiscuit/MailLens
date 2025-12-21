@@ -1,0 +1,1232 @@
+Delivered-To: testtest@mail.ru
+Return-path: <mailer@sender.ozon.ru>
+Received-SPF: pass (exim-mx-75c74cf5d-76sb9: domain of sender.ozon.ru designates 185.73.195.52 as permitted sender) client-ip=185.73.195.52; envelope-from=mailer@sender.ozon.ru; helo=smtpcomms25.ozon.com;
+Received: from smtpcomms25.ozon.com ([185.73.195.52]:60529)
+	by exim-mx-75c74cf5d-76sb9 with esmtp (envelope-from <mailer@sender.ozon.ru>)
+	id 1vAUjh-00000000CFl-2ce5
+	for testtest@mail.ru; Sun, 19 Oct 2025 17:50:18 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sender.ozon.ru;
+	s=20211110; t=1760885417;
+	bh=epIcdkAx/pV38zUGSNkYjf0oQs9MGRS+dRKPUU83dU8=;
+	h=Reply-To:To:Subject:Date:List-Unsubscribe:From:From;
+	b=rwl8bohmZKL585XOwzXyAgOrHhy3BOAZe7YWeXDQ6MDEI8yhUzE0tMFBxEXgwyleF
+	 1A5vu/xvkmqdVIMo4aMQjuTk/b2D/MfNdjDulNmuMi05LZA5VK2MYT0srxK6YCE8wQ
+	 KpS9pkdjVwRDGxHBINE9/kVCeplNplQSgHBV3ffc=
+Received: from localhost (unknown [10.201.125.28])
+	by smtpcomms25z503.h.o3.ru (Postfix) with ESMTPSA id 74919141F17
+	for <testtest@mail.ru>; Sun, 19 Oct 2025 14:50:17 +0000 (UTC)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: Z7pSyIxDmjgAAAAAANejZgAAAAAAAAcC
+Reply-To: <noreply@ozon.ru>
+To: <testtest@mail.ru>
+Subject: =?UTF-8?q?=D0=92=D0=B5=D1=80=D0=BD=D1=83=D0=BB=D0=B8_=D0=B4=D0=B5=D0=BD?= =?UTF-8?q?=D1=8C=D0=B3=D0=B8_=D0=BF=D0=BE_=D0=B7=D0=B0=D0=BA=D0=B0=D0=B7?= =?UTF-8?q?=D1=83?=
+Date: Sun, 19 Oct 2025 14:50:17 +0000
+Mime-Version: 1.0
+List-Unsubscribe: <https://www.ozon.ru/email-unsubscription?id=J1op8qwEmQT5jYLQHZIu7iNQA4YO8CieDumVtbnhiEkQ75Kx-bMKM76EYecTKM2OWbL8YZujjm03FFWCySaPX5voVSVylMKBdoVVS5vMwhxfCo8yNQG0szYwMvW6IpmAL8QiQGm_xLh029b0FatJjETj2vF0hely8Dn2snbiHEoC4myny7Q52lEANn-Ph3wFDahjL29dENOQqyX8Bx7LQgUwkltMh-85rnAWn0myj_rf>, <mailto:unsubscription@ozon.ru?subject=unsubscribe:J1op8qwEmQT5jYLQHZIu7iNQA4YO8CieDumVtbnhiEkQ75Kx-bMKM76EYecTKM2OWbL8YZujjm03FFWCySaPX5voVSVylMKBdoVVS5vMwhxfCo8yNQG0szYwMvW6IpmAL8QiQGm_xLh029b0FatJjETj2vF0hely8Dn2snbiHEoC4myny7Q52lEANn-Ph3wFDahjL29dENOQqyX8Bx7LQgUwkltMh-85rnAWn0myj_rf>
+Mid: Z7pSyIxDmjgAAAAAANejZgAAAAAAAAcC
+From: "Ozon" <mailer@sender.ozon.ru>
+X-Postmaster-Msgtype: cwvn4f69jhad0q0942d0
+X-Mailru-Src: mx
+X-4EC0790: 10
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499A8C57FD6B8CC3B42468169EC856888B2FD9F20E75064844150BBDAAE39103F3638701F0628C4B95CBBB2DC2E6AE7747163571F2AE7AD5160163FACD861814CEA56D6CE4A3DCF3D0DB660823B2EEFD31DC
+X-7FA49CB5: FF5795518A3D127A4AD6D5ED66289B5278DA827A17800CE7CA8E915ACC910FBDEA1F7E6F0F101C67BD4B6F7A4D31EC0BCC500DACC3FED6E28638F802B75D45FF8AA50765F790063725D748B084CAA27D8638F802B75D45FF914D58D5BE9E6BC1A93B80C6DEB9DEE97C6FB206A91F05B245A3D89CDEB65F3F2E070BE324C7D3C41E49531CD76E742ECB5012B2E24CD356
+X-C1DE0DAB: 0D63561A33F958A56FA5F6F9CC1DC6915002B1117B3ED6962A5170461B76EC1BFB820E9FE7BD014C277AA237ED671D4372AF3B35EA4094CCD23BF7408B3F90229C5DF10A05D560A9D2B5782620B851B7C8C84E951CD0BE2F58C12E6D310A6D536FC43C45D3E35E8FA71A35648BE338CEB953B9A00ACCD4E5787CBDA4B9FA07ACF6AAE36F1AF2432BF87CCE6106E1FC07E67D4AC08A07B9B06C4815CBA05FAE739C5DF10A05D560A950611B66E3DA6D700B0A020F03D25A095513FF501376F0F4C79554A2A72441321D95598F8B11C588794DB285CF8A07CEEC0BC6DB5D5D7B8BF36E2E0160E5C5532966DD7394382853BC2DECC990695A2AA0D681C3DB17998A4487A0A103D37D3CA1CCA473A088F2E6E17F0F6D6FCACA6797E3FB2386030E77
+X-C8649E89: 1C3962B70DF3F0ADF1D6EEF281FABCF077DD89D51EBB7742D6588B099FBF2D591004E42C50DC4CA955A7F0CF078B5EC49A30900B95165D3442AF01057B6BF99789105F3312FF0A78FDB9D6E5926A0A812D14DB8E8E046F6A7CCAFEEE8FFD01FE1D7E09C32AA3244C2CDDC9BFC0F21CCF77DD89D51EBB7742D7010A7647195400EA455F16B58544A2C99F59F2F009F096965026E5D17F673943EDF6AEF151B95BEB4C17A6629857373F69C041AD79CA82
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OfQ224tzWB8nfOQpxYwmE7vQD3UB9D76Zz+as/Gjtpo0yc4xxguKIL1bswd831VAbRDXmem+Wr9X5wgRN+CVA5FnTOkMRPhmuTeKCKSt0eVYn/BLKME1/3MA/6peo38vrQ==
+X-F696D7D5: wqa8rLxGXuCIlFphNMH54x+6Ez9P/8IUfop8Sg1q5IYAa8mLvGlyoA==
+X-Mailru-BIMI-Organization: T1pPTg==
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=mailer@sender.ozon.ru
+X-Mailru-ThreadID: order-sender.ozon.ru-141320700266
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mx-75c74cf5d-76sb9: domain of sender.ozon.ru designates 185.73.195.52 as permitted sender) smtp.mailfrom=mailer@sender.ozon.ru smtp.helo=smtpcomms25.ozon.com;
+	 dkim=pass header.d=sender.ozon.ru; dmarc=pass header.from=mailer@sender.ozon.ru
+X-Mailru-Intl-Transport: d,2affdb9
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta http-equiv=3D"=
+Content-Type" content=3D"text/html; charset=3Dutf-8" /> <meta name=3D"color=
+-scheme" content=3D"light dark"> <meta name=3D"supported-color-schemes" con=
+tent=3D"light dark"> <meta name=3D"viewport" content=3D"width=3Ddevice-widt=
+h, initial-scale=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno" /> <meta n=
+ame=3D"x-apple-disable-message-reformatting" /> <meta name=3D"HandheldFrien=
+dly" content=3D"True" /> <meta name=3D"format-detection" content=3D"telepho=
+ne=3Dno" /> <meta name=3D"format-detection" content=3D"address=3Dno" /> <me=
+ta http-equiv=3D"imagetoolbar" content=3D"no" /> <meta http-equiv=3D"cleart=
+ype" content=3D"on" /> <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge" /></head> <body leftmargin=3D"0" rightmargin=3D"0" topmargin=3D"0"=
+ bottommargin=3D"0">
+   =20
+<style type=3D"text/css">
+    @viewport {width: device-width; zoom: auto;}
+   =20
+    :root {
+        color-scheme: light dark;
+    }
+    body {
+        background-color: #ffffff;
+    }
+   =20
+    @media (prefers-color-scheme: dark) {
+        .light-text {
+            color: white !important;
+        }
+        body {
+            background-color: #1D2024 !important;
+        }
+        .light-grey-bg {
+            background-color: #000000 !important;
+        }
+        .dark-yellow-bg {
+            background-color: #FBE34C !important;
+        }
+        .light-blue-bg {
+            background-color: #005BFF !important;
+        }
+        .light-border {
+            border-color: white !important;
+        }
+        .dark-theme {
+            background-color: #1D2024 !important;
+        }
+        .display-block-dark-theme {
+            display: block !important;
+        }
+        .display-td-dark-theme,
+        [data-ogsc] .hidden-dark-theme,
+        [data-ogsb] .hidden-dark-theme {
+            display: table-cell !important;
+        }
+
+        .hidden-dark-theme,
+        [data-ogsc] .hidden-dark-theme,
+        [data-ogsb] .hidden-dark-theme {
+            display: none !important;
+            width: 0 !important;
+            max-width: 0 !important;
+            max-height: 0 !important;
+            overflow: hidden !important;
+            float: left !important;
+            opacity: 0 !important;
+        }
+    }
+    @media (max-width: 420px) {
+       =20
+    .mob-text-0 {
+        font-size: 0px !important;
+        line-height: 0px !important;
+    }
+       =20
+    .mob-text-22 {
+        font-size: 22px !important;
+        line-height: 25px !important;
+    }
+       =20
+    .mob-text-16 {
+        font-size: 16px !important;
+        line-height: 19px !important;
+    }
+       =20
+    .mob-text-15 {
+        font-size: 15px !important;
+        line-height: 18px !important;
+    }
+       =20
+    .mob-text-14 {
+        font-size: 14px !important;
+        line-height: 17px !important;
+    }
+       =20
+    .mob-text-13 {
+        font-size: 13px !important;
+        line-height: 16px !important;
+    }
+       =20
+    .mob-text-12 {
+        font-size: 12px !important;
+        line-height: 15px !important;
+    }
+       =20
+    .mob-text-11 {
+        font-size: 11px !important;
+        line-height: 13px !important;
+    }
+       =20
+    .mob-text-10 {
+        font-size: 10px !important;
+        line-height: 13px !important;
+    }
+        .button-padding-16 {
+            padding: 9px 22px 9px !important;
+        }
+        .padding-top-16 {
+            padding-top: 16px !important;
+        }
+    }
+    @media (max-width: 375px) {
+       =20
+    .mob-text-22 {
+        font-size: 21px !important;
+        line-height: 24px !important;
+    }
+       =20
+    .mob-text-16 {
+        font-size: 15px !important;
+        line-height: 18px !important;
+    }
+       =20
+    .mob-text-15 {
+        font-size: 14px !important;
+        line-height: 17px !important;
+    }
+       =20
+    .mob-text-14 {
+        font-size: 13px !important;
+        line-height: 16px !important;
+    }
+       =20
+    .mob-text-13 {
+        font-size: 12px !important;
+        line-height: 15px !important;
+    }
+       =20
+    .mob-text-12 {
+        font-size: 11px !important;
+        line-height: 14px !important;
+    }
+       =20
+    .mob-text-11 {
+        font-size: 10px !important;
+        line-height: 12px !important;
+    }
+       =20
+    .mob-text-10 {
+        font-size: 9px !important;
+        line-height: 12px !important;
+    }
+        .button-padding-16 {
+            padding: 8px 21px 8px !important;
+        }
+    }
+    .white-text {
+        color: white !important;
+    }
+    .displayBlockDarkTheme {
+        display: block !important;
+    }
+    .displayTdDarkTheme {
+        display: table-cell !important;
+    }
+    .hiddenDarkTheme {
+        display:none !important;
+        width: 0 !important;
+        max-width: 0 !important;
+        max-height: 0 !important;
+        overflow: hidden !important;
+        float: left !important;
+        opacity: 0 !important;
+    }
+    .white-border {
+        border-color: white !important;
+    }
+    .dark-grey-bg {
+        background-color: #000000 !important;
+    }
+    .dark-blue-bg {
+        background-color: #005BFF !important;
+    }
+    .mcp-ui-dark-theme {
+        background-color: #1D2024 !important;
+    }
+    .mcp-ui-light-theme {
+        background-color: #FFFFFF !important;
+    }
+
+    .preheaderPatch {
+        display: none !important;
+        visibility: hidden;
+        opacity: 0;
+        height: 0;
+        width: 0;
+    }
+
+   =20
+    @font-face {
+        font-family: OnestBold;
+        font-style: normal;
+        font-weight: 700;
+        src: local('OnestBold'), url('https://cdn2.ozone.ru/s3/ozon-fonts/o=
+nest.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: OnestMedium;
+        font-style: normal;
+        font-weight: 500;
+        src: local('OnestMedium'), url('https://cdn2.ozone.ru/s3/ozon-fonts=
+/onest.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: OnestRegular;
+        font-style: normal;
+        font-weight: 400;
+        src: local('OnestRegular'), url('https://cdn2.ozone.ru/s3/ozon-font=
+s/onest.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: OnestLight;
+        font-style: normal;
+        font-weight: 300;
+        src: local('OnestLight'), url('https://cdn2.ozone.ru/s3/ozon-fonts/=
+onest.woff2') format('woff2');
+    }
+
+</style>
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse: collapse; font-family: 'GTText', Arial, sans-seri=
+f; font-size: 14px;">
+      <tr valign=3D"top">
+        <td>
+          <!--[if mso]><table width=3D"600" align=3D"center" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0"><tr valign=3D"top"><td><![endif]-->
+          <table id=3D"content" width=3D"100%" align=3D"center" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-collapse: collapse; m=
+ax-width: 600px;">
+            <tr valign=3D"top">
+              <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"100%" data-block-id=3D"d3akjsxf8jf1gkdswy60" style=3D"border-collap=
+se:collapse;padding:0;max-width:600px;Margin:0 auto;"><tr><td style=3D"padd=
+ing:6px 0 0 0;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%" style=3D"border-collapse:collapse;padding:0;max-width:600px;Mar=
+gin:0 auto;"><tr valign=3D"top"><td colspan=3D"2"><table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-collapse:coll=
+apse;padding:0;max-width:600px;"><tr valign=3D"top"><td style=3D"padding:4p=
+x 6px 24px 12px;"><span class=3D"light-text" style=3D"font-family:OnestRegu=
+lar, -apple-system, BlincMacSystemFont, 'Helvetica Neue', roboto, Helvetica=
+, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:#707F8D;word-br=
+eak:break-word;font-size:12px;line-height:16px;letter-spacing:0.4px;text-al=
+ign:left;font-weight:400;"><!--[if mso]><span style=3D"font-family: sans-se=
+rif, Arial; font-weight: 400; text-align: left; font-size: 12px; line-heigh=
+t: 16px"><![endif]-->=D0=9E=D0=BD=D0=B8 =D1=83=D0=B6=D0=B5 =D0=BD=D0=B0 =D0=
+=B2=D0=B0=D1=88=D0=B5=D0=B9 Ozon =D0=9A=D0=B0=D1=80=D1=82=D0=B5<!--[if mso]=
+></span><![endif]--></span></td></tr> <tr valign=3D"top"><td style=3D"max-h=
+eight:0;color:transparent;mso-hide:all;opacity:0;visibility:hidden;max-widt=
+h:0;overflow:hidden;line-height:0;">&nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; =
+&nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwn=
+j; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&=
+zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbs=
+p;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &=
+nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj=
+; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&z=
+wnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp=
+;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &n=
+bsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj;=
+ &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zw=
+nj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;=
+&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nb=
+sp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; =
+&nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwn=
+j; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&=
+zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbs=
+p;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &=
+nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj=
+; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&z=
+wnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp=
+;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &n=
+bsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj;=
+ &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zw=
+nj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;=
+&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nb=
+sp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; =
+&nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwn=
+j; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&=
+zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbs=
+p;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &=
+nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj=
+; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&z=
+wnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp=
+;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &n=
+bsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj;=
+ &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zw=
+nj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;=
+&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nb=
+sp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; =
+&nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwnj; &nbsp;&zwn=
+j; &nbsp;&zwnj; </td></tr> <tr valign=3D"top"><td><div class=3D"preheaderPa=
+tch" style=3D"font-size:0px;color:transparent;opacity:0;"> =E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80<wbr>=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80<wbr>=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80<wbr>=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80<wbr>=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=
+=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=
+=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=
+=E2=A0=80<wbr>=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80=E2=A0=80</div><=
+/td></tr> <tr valign=3D"top"><vk-snippet-end></vk-snippet-end></tr></table>=
+</td></tr> <tr valign=3D"top" align=3D"right"><td align=3D"left" style=3D"p=
+adding:0 0 28px 0;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"border-collapse:collapse;padding:0;"><tr valign=3D=
+"middle"><td class=3D"hidden-dark-theme" style=3D"padding:4px 0 4px 12px;">=
+<a href=3D"https://www.ozon.ru/?t_usr=3D14132070&userid=3D14132070&utm_mcp_=
+vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhead=
+er-v2&utm_mcp_el_name=3Dlogo&utm_mcp_block_id=3Dd3akjsxf8jf1gkdswy60" targe=
+t=3D"_blank" style=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone=
+.ru/s3/plashkodel-images/ca4734c4-3f38-48d3-abbb-51ca10605ec8.png" width=3D=
+"110" height=3D"auto" alt=3D"ozon.ru" border=3D"0" style=3D"width:100%;max-=
+width:110px;display:block;Margin:0;"></a></td><td class=3D"display-td-dark-=
+theme" style=3D"display:none;padding:4px 0 4px 12px;"><a href=3D"https://ww=
+w.ozon.ru/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0=
+942d0&utm_mid=3D7474377552874936888&utm_content=3Dheader-v2&utm_mcp_el_name=
+=3Dlogo-dark&utm_mcp_block_id=3Dd3akjsxf8jf1gkdswy60" target=3D"_blank" sty=
+le=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkode=
+l-images/76a04cbd-50f2-4e36-a37a-f47ad49e5f9d.png" width=3D"110" height=3D"=
+auto" alt=3D"ozon.ru" border=3D"0" style=3D"width:100%;max-width:110px;disp=
+lay:block;Margin:0;"></a></td></tr> </table></td>  <td align=3D"right" styl=
+e=3D"padding:0 12px 18px 12px;"><table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"right" valign=3D"top" style=3D"border-collapse:collap=
+se;padding:0;"><tr valign=3D"middle"><td bgcolor=3D"#F2F5F9" class=3D"light=
+-grey-bg" style=3D"padding:9px 10px 7px;border-radius:12px;"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collaps=
+e;padding:0;"><tr valign=3D"middle"><td valign=3D"middle"><table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" valign=3D"middle" style=3D"border-co=
+llapse:collapse;padding:0;Margin:0;"><tr valign=3D"middle"><td valign=3D"mi=
+ddle" width=3D"16" style=3D"padding-right:4px;"><a href=3D"https://www.ozon=
+.ru/my/points/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jha=
+d0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dheader-v2&utm_mcp_el_=
+name=3DpointImage&utm_mcp_block_id=3Dd3akjsxf8jf1gkdswy60" target=3D"_blank=
+" style=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plas=
+hkodel-images/21ab2052-68cc-4d6a-9c13-6040c7151489.png" width=3D"16" height=
+=3D"16" alt=3D"Ozon =D0=B1=D0=B0=D0=BB=D0=BB=D1=8B" border=3D"0" style=3D"w=
+idth:16px;max-width:16px;display:block;Margin:0 auto;"></a></td> <td height=
+=3D"16" valign=3D"middle" style=3D"line-height:16px;"><a href=3D"https://ww=
+w.ozon.ru/my/points/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4=
+f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dheader-v2&utm_m=
+cp_el_name=3Dbalance&utm_mcp_block_id=3Dd3akjsxf8jf1gkdswy60" target=3D"_bl=
+ank" style=3D"text-decoration:none;height:16px;white-space:nowrap;vertical-=
+align:middle;"><span class=3D"light-text" style=3D"font-family:OnestRegular=
+, -apple-system, BlincMacSystemFont, 'Helvetica Neue', roboto, Helvetica, '=
+Lucida Grande', tahoma, verdana, arial, sans-serif;color:#001a34;word-break=
+:break-word;font-size:12px;line-height:16px;letter-spacing:0.4px;text-align=
+:left;font-weight:400;vertical-align:middle;">=D0=9C=D0=BE=D0=B8 =D0=B1=D0=
+=B0=D0=BB=D0=BB=D1=8B</span></a></td>  </tr></table></td></tr></table></td>=
+</tr></table></td> </tr></table></td></tr></table>    <style type=3D"text/c=
+ss">
+  @media (prefers-color-scheme: dark) {
+    .banner-bg-grey-dark-theme {
+      background-color: #303439 !important;
+    }
+  }
+</style>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"border-collapse:collapse;padding:0;max-width:600px;font-size:0;">
+  <tr valign=3D"top">
+    <td align=3D"center" class=3D"hidden-dark-theme">
+      <a style=3D"text-decoration: none; color: #005BFF;" href=3D"https://s=
+.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69j=
+had0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_block_=
+id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration:none;=
+">
+        <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/8cfb7b0c-c4d=
+d-4bd0-8390-5355db637027.png" width=3D"600" height=3D"auto" alt=3D"Ozon" bo=
+rder=3D"0" style=3D"width:100%;max-width:600px;display:block;Margin:0;">
+      </a>
+    </td>
+    <td align=3D"center" style=3D"display:none;" class=3D"display-td-dark-t=
+heme">
+      <a style=3D"text-decoration: none; color: #005BFF;" href=3D"https://s=
+.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69j=
+had0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_block_=
+id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration:none;=
+">
+        <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/b33a0aa0-704=
+1-41e2-a8f1-2dbf9a1f60f2.png" width=3D"600" height=3D"auto" alt=3D"Ozon" bo=
+rder=3D"0" style=3D"width:100%;max-width:600px;display:block;Margin:0;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#f5f5f5" align=3D"center" class=3D"banner-bg-grey-dark-t=
+heme">
+      <table bgcolor=3D"#f5f5f5" class=3D"banner-bg-grey-dark-theme" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-c=
+ollapse:collapse;padding:0;max-width:600px;font-size:0;">
+        <tr valign=3D"top">
+          <td width=3D"40%" align=3D"center" class=3D"hidden-dark-theme">
+            <a style=3D"text-decoration: none; color: #005BFF;" href=3D"htt=
+ps://s.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwv=
+n4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_=
+block_id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration=
+:none;">
+              <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/d8c45b=
+fd-2a51-4f79-8e8c-55be8dabad75.png" width=3D"240" height=3D"auto" alt=3D"Oz=
+on" border=3D"0" style=3D"width:100%;max-width:240px;display:block;Margin:0=
+;">
+            </a>
+          </td>
+          <td width=3D"40%" align=3D"center" style=3D"display:none;" class=
+=3D"display-td-dark-theme">
+            <a style=3D"text-decoration: none; color: #005BFF;" href=3D"htt=
+ps://s.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwv=
+n4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_=
+block_id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration=
+:none;">
+              <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/cd1d9d=
+bd-6211-42df-9948-ddcbf7b9c370.png" width=3D"240" height=3D"auto" alt=3D"Oz=
+on" border=3D"0" style=3D"width:100%;max-width:240px;display:block;Margin:0=
+;">
+            </a>
+          </td>
+          <td width=3D"8%" align=3D"center" class=3D"hidden-dark-theme">
+            <a style=3D"text-decoration: none; color: #005BFF;" href=3D"htt=
+ps://s.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwv=
+n4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_=
+block_id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration=
+:none;">
+              <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/2a0c53=
+93-82fc-4671-bda9-b87387925acd.gif" width=3D"48" height=3D"auto" alt=3D"Ozo=
+n" border=3D"0" style=3D"width:100%;max-width:48px;display:block;Margin:0;"=
+/>
+            </a>
+          </td>
+          <td width=3D"8%" align=3D"center" style=3D"display:none;" class=
+=3D"display-td-dark-theme">=20
+            <a style=3D"text-decoration: none; color: #005BFF;" href=3D"htt=
+ps://s.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwv=
+n4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_=
+block_id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration=
+:none;">
+              <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/c4da90=
+e3-d4b1-4080-8e55-6af2ef5cfc39.gif" width=3D"48" height=3D"auto" alt=3D"Ozo=
+n" border=3D"0" style=3D"width:100%;max-width:48px;display:block;Margin:0;"=
+/>
+            </a>
+          </td>
+          <td width=3D"52%" align=3D"center" class=3D"hidden-dark-theme">
+            <a style=3D"text-decoration: none; color: #005BFF;" href=3D"htt=
+ps://s.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwv=
+n4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_=
+block_id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration=
+:none;">
+             <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/28dcc3f=
+0-16bf-44ce-a13c-1b1a526353c3.png" width=3D"312" height=3D"auto" alt=3D"Ozo=
+n" border=3D"0" style=3D"width:100%;max-width:312px;display:block;Margin:0;=
+" />
+            </a>
+          </td>
+          <td width=3D"52%" align=3D"center" style=3D"display:none;" class=
+=3D"display-td-dark-theme">
+            <a style=3D"text-decoration: none; color: #005BFF;" href=3D"htt=
+ps://s.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwv=
+n4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_=
+block_id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration=
+:none;">
+             <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/b0d5eef=
+d-953c-4ac2-8bef-d1ab12ed011d.png" width=3D"312" height=3D"auto" alt=3D"Ozo=
+n" border=3D"0" style=3D"width:100%;max-width:312px;display:block;Margin:0;=
+" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align=3D"center" class=3D"hidden-dark-theme">
+      <a style=3D"text-decoration: none; color: #005BFF;" href=3D"https://s=
+.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69j=
+had0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_block_=
+id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration:none;=
+">
+        <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/df593e10-daf=
+7-4b63-867c-c23b13218c6d.png" width=3D"600" height=3D"auto" alt=3D"Ozon" bo=
+rder=3D"0" style=3D"width:100%;max-width:600px;display:block;Margin:0;">
+      </a>
+    </td>
+    <td align=3D"center" style=3D"display:none;" class=3D"display-td-dark-t=
+heme">
+      <a style=3D"text-decoration: none; color: #005BFF;" href=3D"https://s=
+.ozon.ru/vIo3Ujo?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69j=
+had0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dhtml&utm_mcp_block_=
+id=3Dd2hestftm4ff2eqa46s0" target=3D"_blank" style=3D"text-decoration:none;=
+">
+        <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/9791c195-044=
+c-4095-9075-7152f184c0f7.png" width=3D"600" height=3D"auto" alt=3D"Ozon" bo=
+rder=3D"0" style=3D"width:100%;max-width:600px;display:block;Margin:0;">
+      </a>
+    </td>
+  </tr>
+</table>        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%" data-block-id=3D"cwrxnjbyd7vx76pbc7wg" style=3D"border-collapse=
+:collapse;padding:0;max-width:600px;Margin:0 auto;"><tr><td style=3D"paddin=
+g:12px 12px 12px 12px;text-align:left;"><h2 name=3D"cwrxnjbyd7vx76pbc7wg" c=
+lass=3D"light-text" style=3D"font-family:OnestBold, -apple-system, BlincMac=
+SystemFont, 'Helvetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, v=
+erdana, arial, sans-serif;color:#001a34;word-break:break-word;font-size:18p=
+x;line-height:22px;letter-spacing:0.4px;text-align:left;font-weight:700;Mar=
+gin:0;"><!--[if mso]><span style=3D"font-family: sans-serif, Arial; font-we=
+ight: 700; text-align: left; font-size: 18px; line-height: 22px"><![endif]-=
+-><p style=3D"Margin:0"></p><p style=3D"Margin:0"></p><p style=3D"Margin:0"=
+>=D0=92=D0=B5=D1=80=D0=BD=D1=83=D0=BB=D0=B8 =D0=B4=D0=B5=D0=BD=D1=8C=D0=B3=
+=D0=B8 =D0=BF=D0=BE =D0=B7=D0=B0=D0=BA=D0=B0=D0=B7=D1=83</p><p style=3D"Mar=
+gin:0"></p><p style=3D"Margin:0"></p><!--[if mso]></span><![endif]--></h2><=
+/td></tr></table>  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" data-block-id=3D"cwzf74vyd7vrk9491vn0" style=3D"border-colla=
+pse:collapse;padding:0;max-width:600px;Margin:0 auto;"><tr><td style=3D"pad=
+ding:12px 12px 12px 12px;"><span class=3D"light-text" style=3D"font-family:=
+OnestRegular, -apple-system, BlincMacSystemFont, 'Helvetica Neue', roboto, =
+Helvetica, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:#001a3=
+4;word-break:break-word;font-size:16px;line-height:20px;letter-spacing:0.4p=
+x;text-align:left;font-weight:400;"><!--[if mso]><span style=3D"font-family=
+: sans-serif, Arial; font-weight: 400; text-align: left; font-size: 16px; l=
+ine-height: 20px"><![endif]--><p style=3D"Margin:0">=D0=97=D0=B4=D1=80=D0=
+=B0=D0=B2=D1=81=D1=82=D0=B2=D1=83=D0=B9=D1=82=D0=B5!</p><!--[if mso]></span=
+><![endif]--></span></td></tr></table>  <table border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" data-block-id=3D"cw77rmfzz2eggz23512g" =
+style=3D"border-collapse:collapse;padding:0;max-width:600px;Margin:0 auto;"=
+><tr><td style=3D"padding:12px 12px 12px 12px;"><span class=3D"light-text" =
+style=3D"font-family:OnestRegular, -apple-system, BlincMacSystemFont, 'Helv=
+etica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sa=
+ns-serif;color:#001a34;word-break:break-word;font-size:16px;line-height:20p=
+x;letter-spacing:0.4px;text-align:left;font-weight:400;"><!--[if mso]><span=
+ style=3D"font-family: sans-serif, Arial; font-weight: 400; text-align: lef=
+t; font-size: 16px; line-height: 20px"><![endif]--><p style=3D"Margin:0">=
+=D0=94=D0=B5=D0=BD=D1=8C=D0=B3=D0=B8 =D1=83=D0=B6=D0=B5 =D0=BD=D0=B0 =D0=B2=
+=D0=B0=D1=88=D0=B5=D0=B9 Ozon =D0=9A=D0=B0=D1=80=D1=82=D0=B5 =E2=80=94 =D0=
+=BE=D0=BD=D0=B8 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D1=8B =D0=B4=D0=
+=BB=D1=8F =D0=BD=D0=BE=D0=B2=D1=8B=D1=85 =D0=BF=D0=BE=D0=BA=D1=83=D0=BF=D0=
+=BE=D0=BA.=D0=9E=D1=82=D1=81=D0=BB=D0=B5=D0=B4=D0=B8=D1=82=D1=8C =D0=BF=D0=
+=BE=D1=81=D1=82=D1=83=D0=BF=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D1=80=D0=
+=B5=D0=B4=D1=81=D1=82=D0=B2 =D0=B8 =D0=BF=D0=BE=D1=81=D0=BC=D0=BE=D1=82=D1=
+=80=D0=B5=D1=82=D1=8C =D0=B1=D0=B0=D0=BB=D0=B0=D0=BD=D1=81 =D0=BC=D0=BE=D0=
+=B6=D0=BD=D0=BE =D0=B2 =D1=80=D0=B0=D0=B7=D0=B4=D0=B5=D0=BB=D0=B5 =C2=ABOzo=
+n =D0=9A=D0=B0=D1=80=D1=82=D0=B0=C2=BB.</p><p style=3D"Margin:0"></p><!--[i=
+f mso]></span><![endif]--></span></td></tr></table>  <table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"100%" data-block-id=3D"cw43sn7zz=
+2en8k2deedg" style=3D"border-collapse:collapse;padding:0;max-width:600px;Ma=
+rgin:0 auto;"><tr><td style=3D"padding:12px 12px 12px 12px;"><span class=3D=
+"light-text" style=3D"font-family:OnestRegular, -apple-system, BlincMacSyst=
+emFont, 'Helvetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verda=
+na, arial, sans-serif;color:#001a34;word-break:break-word;font-size:16px;li=
+ne-height:20px;letter-spacing:0.4px;text-align:left;font-weight:400;"><!--[=
+if mso]><span style=3D"font-family: sans-serif, Arial; font-weight: 400; te=
+xt-align: left; font-size: 16px; line-height: 20px"><![endif]--><p style=3D=
+"Margin:0">=D0=9A=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D0=B0 Ozon</p><!--[if mso]>=
+</span><![endif]--></span></td></tr></table>  <table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100%" data-block-id=3D"cwrxm1kyd7vx76pb=
+c78g" style=3D"border-collapse:collapse;padding:0;max-width:600px;Margin:0 =
+auto;"><tr valign=3D"top"><td align=3D"center" style=3D"padding:12px 12px 1=
+2px 12px;text-align:center;"><table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"auto" align=3D"center" style=3D"border-collapse:separate=
+;padding:0;background-color:#005BFF;border-radius:8px;font-size:0;"><tr val=
+ign=3D"top"><td style=3D"text-align:center;vertical-align:middle;white-spac=
+e:nowrap;border-collapse:collapse;border-radius:8px;background-color:#005BF=
+F;padding:11px 16px 10px 16px;border:2px solid #005BFF;"><a href=3D"https:/=
+/www.ozon.ru/my/orderdetails/?order=3D14132070-0266&t_usr=3D14132070&userid=
+=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D747437755287493688=
+8&utm_content=3Dblock-button&utm_mcp_el_name=3Dbutton&utm_mcp_pos=3D1&utm_m=
+cp_block_id=3Dcwrxm1kyd7vx76pbc78g" target=3D"_blank" style=3D"text-decorat=
+ion:none;display:inline-block;width:100%;vertical-align:middle;white-space:=
+nowrap;">  <span style=3D"font-family:OnestMedium, -apple-system, BlincMacS=
+ystemFont, 'Helvetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, ve=
+rdana, arial, sans-serif;color:#FFFFFF;word-break:break-word;font-size:16px=
+;line-height:18px;letter-spacing:0.4px;text-align:center;font-weight:500;ve=
+rtical-align:middle;border:none;"><!--[if mso]><span style=3D"font-family: =
+sans-serif, Arial; font-weight: 500; text-align: center; font-size: 16px; l=
+ine-height: 18px"><![endif]-->=D0=9F=D0=B5=D1=80=D0=B5=D0=B9=D1=82=D0=B8 =
+=D0=B2 =D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=B9 =D0=BA=D0=B0=D0=B1=D0=B8=D0=BD=
+=D0=B5=D1=82<!--[if mso]></span><![endif]--></span> </a></td></tr></table><=
+/td></tr></table>   <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" data-block-id=3D"cw39y8qzz2eg2wzvs5cg" style=3D"border-coll=
+apse:collapse;padding:0;max-width:600px;Margin:0 auto;"><tr valign=3D"top">=
+<td style=3D"line-height:22px;"><table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0;"><=
+tr valign=3D"top"><td style=3D"padding:12px 12px 12px;text-align:center;"><=
+a href=3D"https://s.ozon.ru/r/0tCsI-h6TgmbAnzLAK10dWctRU-IuB66CCuc1-7Akhglg=
+m4Qmifdnfo_DpH4h-9tzabRe1VtB3jSdwpi6kwQG8S32M_BDvqpQikcW3ZzSw28oIqGFANi7K54=
+xSsuyvd9qzk5?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTNr4Wg=
+zLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvyemTlj=
+jM=3D" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"https:=
+//cdn1.ozone.ru/s3/my-account-api-img/email_footer_mcp.png" width=3D"576" h=
+eight=3D"auto" alt=3D"ozon.ru" border=3D"0" style=3D"width:100%;max-width:5=
+76px;display:block;Margin:0 auto;"></a></td></tr></table></td></tr></table>=
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" da=
+ta-block-id=3D"d00kxzsy7hkmdyx2aj90" style=3D"border-collapse:collapse;padd=
+ing:0;max-width:600px;Margin:0 auto;"><tr valign=3D"top"><td valign=3D"top"=
+ style=3D"padding:12px 0 0 0;"><table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0;max-=
+width:600px;Margin:0 auto;"><tr valign=3D"top"><td valign=3D"top" bgcolor=
+=3D"#F2F5F9" class=3D"light-grey-bg" style=3D"border-radius:12px 12px 0 0;v=
+ertical-align:middle;text-align:center;"><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padd=
+ing:0;"><tr valign=3D"top"><td valign=3D"top"><table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse;padding:0;"><t=
+r valign=3D"top"><td style=3D"padding:16px 12px 12px;"><span class=3D"light=
+-text" style=3D"font-family:OnestBold, -apple-system, BlincMacSystemFont, '=
+Helvetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, arial=
+, sans-serif;color:#001a34;word-break:break-word;font-size:16px;line-height=
+:20px;letter-spacing:0.4px;text-align:left;font-weight:700;"><!--[if mso]><=
+span style=3D"font-family: sans-serif, Arial; font-weight: 700; text-align:=
+ left; font-size: 16px; line-height: 20px"><![endif]-->=D0=94=D1=80=D1=83=
+=D0=B3=D0=B8=D0=B5 =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D1=8B Ozon<!--[if m=
+so]></span><![endif]--></span></td></tr></table></td></tr></table> <table b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"bor=
+der-collapse:collapse;padding:0;"><tr valign=3D"top"><td valign=3D"top" sty=
+le=3D"padding:6px 12px;vertical-align:middle;"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-collapse:collaps=
+e;padding:0;"><tr valign=3D"top"><td width=3D"31.5%" style=3D"padding:0px;"=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"19%" valign=3D"=
+top" style=3D"vertical-align:middle;text-align:left;padding:0 5px 0 0;"><a =
+href=3D"https://ozon.ru/fintech/?landing&t_usr=3D14132070&userid=3D14132070=
+&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_conte=
+nt=3Dfooter-v3&utm_mcp_el_name=3Dimg&utm_mcp_pos=3D1&utm_mcp_block_id=3Dd00=
+kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration:none;"><img s=
+rc=3D"https://cdn1.ozone.ru/s3/plashkodel-images/dd4d9a12-605b-4d77-832d-c9=
+35a4631159.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=3D"0" style=
+=3D"width:30px;max-width:30px;display:block;Margin:0 auto;min-width:30px;">=
+</a></td> <td width=3D"81%" valign=3D"top" style=3D"vertical-align:middle;t=
+ext-align:left;"><a href=3D"https://ozon.ru/fintech/?landing&t_usr=3D141320=
+70&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D747437755=
+2874936888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dtext&utm_mcp_pos=3D1&u=
+tm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-dec=
+oration:none;text-align:left;"><span class=3D"light-text" style=3D"font-fam=
+ily:OnestRegular, -apple-system, BlincMacSystemFont, 'Helvetica Neue', robo=
+to, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:#0=
+01a34;word-break:break-word;font-size:11px;line-height:14px;letter-spacing:=
+0.4px;text-align:left;font-weight:400;"><!--[if mso]><span style=3D"font-fa=
+mily: sans-serif, Arial; font-weight: 400; text-align: left; font-size: 11p=
+x; line-height: 14px"><![endif]-->Ozon =D0=91=D0=B0=D0=BD=D0=BA<!--[if mso]=
+></span><![endif]--></span></a></td></tr></table></td><td width=3D"36.5%" s=
+tyle=3D"padding:0px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"border-collapse:collapse;padding:0;"><tr valign=3D"top"><td wid=
+th=3D"19%" valign=3D"top" style=3D"vertical-align:middle;text-align:left;pa=
+dding:0 5px 0 0;"><a href=3D"https://www.ozon.ru/highlight/tovary-v-rassroc=
+hku-20023/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0=
+942d0&utm_mid=3D7474377552874936888&utm_content=3Dfooter-v3&utm_mcp_el_name=
+=3Dimg&utm_mcp_pos=3D2&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_=
+blank" style=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone.ru/s3=
+/plashkodel-images/eb788bab-6473-41c3-a653-2b48ba5ee7b9.png" width=3D"30" h=
+eight=3D"30" alt=3D"Ozon" border=3D"0" style=3D"width:30px;max-width:30px;d=
+isplay:block;Margin:0 auto;min-width:30px;"></a></td> <td width=3D"81%" val=
+ign=3D"top" style=3D"vertical-align:middle;text-align:left;"><a href=3D"htt=
+ps://www.ozon.ru/highlight/tovary-v-rassrochku-20023/?t_usr=3D14132070&user=
+id=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936=
+888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dtext&utm_mcp_pos=3D2&utm_mcp_=
+block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration=
+:none;text-align:left;"><span class=3D"light-text" style=3D"font-family:One=
+stRegular, -apple-system, BlincMacSystemFont, 'Helvetica Neue', roboto, Hel=
+vetica, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:#001a34;w=
+ord-break:break-word;font-size:11px;line-height:13px;letter-spacing:0.4px;t=
+ext-align:left;font-weight:400;"><!--[if mso]><span style=3D"font-family: s=
+ans-serif, Arial; font-weight: 400; text-align: left; font-size: 11px; line=
+-height: 13px"><![endif]-->=D0=A2=D0=BE=D0=B2=D0=B0=D1=80=D1=8B =D0=B2 =D0=
+=A0=D0=B0=D1=81=D1=81=D1=80=D0=BE=D1=87=D0=BA=D1=83<!--[if mso]></span><![e=
+ndif]--></span></a></td></tr></table></td><td width=3D"32%" style=3D"paddin=
+g:0px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"19%" val=
+ign=3D"top" style=3D"vertical-align:middle;text-align:left;padding:0 5px 0 =
+0;"><a href=3D"https://www.ozon.ru/premium/?t_usr=3D14132070&userid=3D14132=
+070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_co=
+ntent=3Dfooter-v3&utm_mcp_el_name=3Dimg&utm_mcp_pos=3D3&utm_mcp_block_id=3D=
+d00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration:none;"><im=
+g src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/796bda30-42b0-4f08-9fd1=
+-58222b0111b5.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=3D"0" sty=
+le=3D"width:30px;max-width:30px;display:block;Margin:0 auto;min-width:30px;=
+"></a></td> <td width=3D"81%" valign=3D"top" style=3D"vertical-align:middle=
+;text-align:left;"><a href=3D"https://www.ozon.ru/premium/?t_usr=3D14132070=
+&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D74743775528=
+74936888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dtext&utm_mcp_pos=3D3&utm=
+_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decor=
+ation:none;text-align:left;"><span class=3D"light-text" style=3D"font-famil=
+y:OnestRegular, -apple-system, BlincMacSystemFont, 'Helvetica Neue', roboto=
+, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:#001=
+a34;word-break:break-word;font-size:11px;line-height:14px;letter-spacing:0.=
+4px;text-align:left;font-weight:400;"><!--[if mso]><span style=3D"font-fami=
+ly: sans-serif, Arial; font-weight: 400; text-align: left; font-size: 11px;=
+ line-height: 14px"><![endif]-->Ozon Premium<!--[if mso]></span><![endif]--=
+></span></a></td></tr></table></td></tr></table></td></tr><tr valign=3D"top=
+"><td valign=3D"top" style=3D"padding:6px 12px;vertical-align:middle;"><tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D=
+"border-collapse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"31.5%=
+" style=3D"padding:0px;"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse;padding:0;"><tr valign=3D"top"><td=
+ width=3D"19%" valign=3D"top" style=3D"vertical-align:middle;text-align:lef=
+t;padding:0 5px 0 0;"><a href=3D"https://www.ozon.ru/business/?t_usr=3D1413=
+2070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377=
+552874936888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dimg&utm_mcp_pos=3D4&=
+utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-de=
+coration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/b459=
+4b15-8982-4116-8e71-46915ef0faf3.png" width=3D"30" height=3D"30" alt=3D"Ozo=
+n" border=3D"0" style=3D"width:30px;max-width:30px;display:block;Margin:0 a=
+uto;min-width:30px;"></a></td> <td width=3D"81%" valign=3D"top" style=3D"ve=
+rtical-align:middle;text-align:left;"><a href=3D"https://www.ozon.ru/busine=
+ss/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&u=
+tm_mid=3D7474377552874936888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dtext=
+&utm_mcp_pos=3D4&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank"=
+ style=3D"text-decoration:none;text-align:left;"><span class=3D"light-text"=
+ style=3D"font-family:OnestRegular, -apple-system, BlincMacSystemFont, 'Hel=
+vetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, arial, s=
+ans-serif;color:#001a34;word-break:break-word;font-size:11px;line-height:14=
+px;letter-spacing:0.4px;text-align:left;font-weight:400;"><!--[if mso]><spa=
+n style=3D"font-family: sans-serif, Arial; font-weight: 400; text-align: le=
+ft; font-size: 11px; line-height: 14px"><![endif]-->Ozon =D0=B4=D0=BB=D1=8F=
+ =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81=D0=B0<!--[if mso]></span><![endif]-->=
+</span></a></td></tr></table></td><td width=3D"36.5%" style=3D"padding:0px;=
+"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-c=
+ollapse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"19%" valign=3D=
+"top" style=3D"vertical-align:middle;text-align:left;padding:0 5px 0 0;"><a=
+ href=3D"https://www.ozon.ru/product/elektronnyy-podarochnyy-sertifikat-mil=
+lion-podarkov-135382627/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dc=
+wvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dfooter-v3&u=
+tm_mcp_el_name=3Dimg&utm_mcp_pos=3D5&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj9=
+0" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"https://cd=
+n1.ozone.ru/s3/plashkodel-images/20ed3203-ae4a-4b5d-b67d-2f18ead73623.png" =
+width=3D"30" height=3D"30" alt=3D"Ozon" border=3D"0" style=3D"width:30px;ma=
+x-width:30px;display:block;Margin:0 auto;min-width:30px;"></a></td> <td wid=
+th=3D"81%" valign=3D"top" style=3D"vertical-align:middle;text-align:left;">=
+<a href=3D"https://www.ozon.ru/product/elektronnyy-podarochnyy-sertifikat-m=
+illion-podarkov-135382627/?t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=
+=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_content=3Dfooter-=
+v3&utm_mcp_el_name=3Dtext&utm_mcp_pos=3D5&utm_mcp_block_id=3Dd00kxzsy7hkmdy=
+x2aj90" target=3D"_blank" style=3D"text-decoration:none;text-align:left;"><=
+span class=3D"light-text" style=3D"font-family:OnestRegular, -apple-system,=
+ BlincMacSystemFont, 'Helvetica Neue', roboto, Helvetica, 'Lucida Grande', =
+tahoma, verdana, arial, sans-serif;color:#001a34;word-break:break-word;font=
+-size:11px;line-height:13px;letter-spacing:0.4px;text-align:left;font-weigh=
+t:400;"><!--[if mso]><span style=3D"font-family: sans-serif, Arial; font-we=
+ight: 400; text-align: left; font-size: 11px; line-height: 13px"><![endif]-=
+->=D0=9F=D0=BE=D0=B4=D0=B0=D1=80=D0=BE=D1=87=D0=BD=D1=8B=D0=B5<br>=D1=81=D0=
+=B5=D1=80=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D1=8B<!--[if mso]></spa=
+n><![endif]--></span></a></td></tr></table></td><td width=3D"32%" style=3D"=
+padding:0px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border-collapse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"19=
+%" valign=3D"top" style=3D"vertical-align:middle;text-align:left;padding:0 =
+5px 0 0;"><a href=3D"https://www.ozon.ru/special/care/?t_usr=3D14132070&use=
+rid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D747437755287493=
+6888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dimg&utm_mcp_pos=3D6&utm_mcp_=
+block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration=
+:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/48a571f1-fed=
+4-4b46-922e-0e9586ca14d0.png" width=3D"30" height=3D"30" alt=3D"Ozon" borde=
+r=3D"0" style=3D"width:30px;max-width:30px;display:block;Margin:0 auto;min-=
+width:30px;"></a></td> <td width=3D"81%" valign=3D"top" style=3D"vertical-a=
+lign:middle;text-align:left;"><a href=3D"https://www.ozon.ru/special/care/?=
+t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_m=
+id=3D7474377552874936888&utm_content=3Dfooter-v3&utm_mcp_el_name=3Dtext&utm=
+_mcp_pos=3D6&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" sty=
+le=3D"text-decoration:none;text-align:left;"><span class=3D"light-text" sty=
+le=3D"font-family:OnestRegular, -apple-system, BlincMacSystemFont, 'Helveti=
+ca Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sans-=
+serif;color:#001a34;word-break:break-word;font-size:11px;line-height:14px;l=
+etter-spacing:0.4px;text-align:left;font-weight:400;"><!--[if mso]><span st=
+yle=3D"font-family: sans-serif, Arial; font-weight: 400; text-align: left; =
+font-size: 11px; line-height: 14px"><![endif]-->Ozon =D0=97=D0=B0=D0=B1=D0=
+=BE=D1=82=D0=B0<!--[if mso]></span><![endif]--></span></a></td></tr></table=
+></td></tr></table></td></tr><tr valign=3D"top"><td valign=3D"top" style=3D=
+"padding:6px 12px;vertical-align:middle;"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"border-collapse:collapse;p=
+adding:0;"><tr valign=3D"top"><td width=3D"31.5%" style=3D"padding:0px;"><t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-colla=
+pse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"19%" valign=3D"top=
+" style=3D"vertical-align:middle;text-align:left;padding:0 5px 0 0;"><a hre=
+f=3D"https://www.ozon.ru/travel/?utm_content=3Dfooter_travel&t_usr=3D141320=
+70&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D747437755=
+2874936888&utm_mcp_el_name=3Dimg&utm_mcp_pos=3D7&utm_mcp_block_id=3Dd00kxzs=
+y7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration:none;"><img src=
+=3D"https://cdn1.ozone.ru/s3/plashkodel-images/4230bc5f-dcf4-466e-b125-317c=
+f6ce847f.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=3D"0" style=3D=
+"width:30px;max-width:30px;display:block;Margin:0 auto;min-width:30px;"></a=
+></td> <td width=3D"81%" valign=3D"top" style=3D"vertical-align:middle;text=
+-align:left;"><a href=3D"https://www.ozon.ru/travel/?utm_content=3Dfooter_t=
+ravel&t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0=
+&utm_mid=3D7474377552874936888&utm_mcp_el_name=3Dtext&utm_mcp_pos=3D7&utm_m=
+cp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decorat=
+ion:none;text-align:left;"><span class=3D"light-text" style=3D"font-family:=
+OnestRegular, -apple-system, BlincMacSystemFont, 'Helvetica Neue', roboto, =
+Helvetica, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:#001a3=
+4;word-break:break-word;font-size:11px;line-height:14px;letter-spacing:0.4p=
+x;text-align:left;font-weight:400;"><!--[if mso]><span style=3D"font-family=
+: sans-serif, Arial; font-weight: 400; text-align: left; font-size: 11px; l=
+ine-height: 14px"><![endif]-->Ozon Travel<!--[if mso]></span><![endif]--></=
+span></a></td></tr></table></td><td width=3D"36.5%" style=3D"padding:0px;">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;padding:0;"><tr valign=3D"top"><td width=3D"19%" valign=3D"t=
+op" style=3D"vertical-align:middle;text-align:left;padding:0 5px 0 0;"><a h=
+ref=3D"https://www.ozon.ru/highlight/ozon-global/?utm_content=3Dfooter_glob=
+al&t_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&ut=
+m_mid=3D7474377552874936888&utm_mcp_el_name=3Dimg&utm_mcp_pos=3D8&utm_mcp_b=
+lock_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration:=
+none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/8570fd57-26c8=
+-45f4-9e9f-515aa25c44b7.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=
+=3D"0" style=3D"width:30px;max-width:30px;display:block;Margin:0 auto;min-w=
+idth:30px;"></a></td> <td width=3D"81%" valign=3D"top" style=3D"vertical-al=
+ign:middle;text-align:left;"><a href=3D"https://www.ozon.ru/highlight/ozon-=
+global/?utm_content=3Dfooter_global&t_usr=3D14132070&userid=3D14132070&utm_=
+mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&utm_mcp_el_nam=
+e=3Dtext&utm_mcp_pos=3D8&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D=
+"_blank" style=3D"text-decoration:none;text-align:left;"><span class=3D"lig=
+ht-text" style=3D"font-family:OnestRegular, -apple-system, BlincMacSystemFo=
+nt, 'Helvetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, =
+arial, sans-serif;color:#001a34;word-break:break-word;font-size:11px;line-h=
+eight:13px;letter-spacing:0.4px;text-align:left;font-weight:400;"><!--[if m=
+so]><span style=3D"font-family: sans-serif, Arial; font-weight: 400; text-a=
+lign: left; font-size: 11px; line-height: 13px"><![endif]-->=D0=A2=D0=BE=D0=
+=B2=D0=B0=D1=80=D1=8B =D0=B8=D0=B7-=D0=B7=D0=B0 =D1=80=D1=83=D0=B1=D0=B5=D0=
+=B6=D0=B0<!--[if mso]></span><![endif]--></span></a></td></tr></table></td>=
+<td width=3D"32%" style=3D"padding:0px;"><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"border-collapse:collapse;padding:0;"><tr val=
+ign=3D"top"><td width=3D"19%" valign=3D"top" style=3D"vertical-align:middle=
+;text-align:left;padding:0 5px 0 0;"><a href=3D"https://s.ozon.ru/r/8ah368Q=
+c25AhIQOKtf6r3ieFe6qnUay0L0VMWsFSuTt3NFDISIsr4hL7exwsHi54AFl_zQYGs-weSSbFjS=
+85rg4kmsdEB454xmEJ_V3PYHhkahWMuZCf1uwtHx8V?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5B=
+nNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fu=
+t5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-decora=
+tion:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/ac7ae011=
+-fda7-433b-8623-b9afcc468012.png" width=3D"30" height=3D"30" alt=3D"Ozon" b=
+order=3D"0" style=3D"width:30px;max-width:30px;display:block;Margin:0 auto;=
+min-width:30px;"></a></td> <td width=3D"81%" valign=3D"top" style=3D"vertic=
+al-align:middle;text-align:left;"><a href=3D"https://s.ozon.ru/r/dTXbOR2U89=
+_2xu-3hMv7fWMZlAOQ6eRVQtyXK5EOYoQ1wB8tBfu-WFphsVOvEJX6w94dIpEydosWe2BIsnd8X=
+X7PaoEpaWVeF3XG2l-DUKb9hoXYldgMmlBomG10eQ=3D=3D?e=3DKbwuFjvc2bgO3p_UaI2Rm6X=
+j3n5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5=
+_u7fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-d=
+ecoration:none;text-align:left;"><span class=3D"light-text" style=3D"font-f=
+amily:OnestRegular, -apple-system, BlincMacSystemFont, 'Helvetica Neue', ro=
+boto, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sans-serif;color:=
+#001a34;word-break:break-word;font-size:11px;line-height:14px;letter-spacin=
+g:0.4px;text-align:left;font-weight:400;"><!--[if mso]><span style=3D"font-=
+family: sans-serif, Arial; font-weight: 400; text-align: left; font-size: 1=
+1px; line-height: 14px"><![endif]-->Ozon job<!--[if mso]></span><![endif]--=
+></span></a></td></tr></table></td></tr></table></td></tr></table> <table b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"bor=
+der-collapse:collapse;padding:0;"><tr valign=3D"top"><td style=3D"padding:8=
+px 12px;text-align:left;"><span style=3D"font-family:OnestRegular, -apple-s=
+ystem, BlincMacSystemFont, 'Helvetica Neue', roboto, Helvetica, 'Lucida Gra=
+nde', tahoma, verdana, arial, sans-serif;color:#707F8D;word-break:break-wor=
+d;font-size:10px;line-height:14px;letter-spacing:0.4px;text-align:left;font=
+-weight:400;"><!--[if mso]><span style=3D"font-family: sans-serif, Arial; f=
+ont-weight: 400; text-align: left; font-size: 10px; line-height: 14px"><![e=
+ndif]--><p style=3D"Margin:0">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=87=D0=B0=D0=
+=BD=D0=B8=D0=B5: =D0=A6=D0=B5=D0=BD=D1=8B =D0=B8 =D1=81=D0=BA=D0=B8=D0=B4=
+=D0=BA=D0=B8 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=
+=D1=8F=D1=8E=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D1=82=D0=BE=D0=B2=D0=B0=D1=80=
+=D1=8B, =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B2 =D0=
+=BD=D0=B0=D1=81=D1=82=D0=BE=D1=8F=D1=89=D0=B5=D0=B9 =D1=80=D0=B0=D1=81=D1=
+=81=D1=8B=D0=BB=D0=BA=D0=B5, =D0=B8 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=
+=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B =D0=BD=D0=B0 =D0=BC=D0=BE=D0=BC=D0=
+=B5=D0=BD=D1=82 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 =D0=B4=D0=
+=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=B0. =D0=
+=9D=D0=B0=D1=81=D1=82=D0=BE=D1=8F=D1=89=D0=B0=D1=8F =D1=80=D0=B0=D1=81=D1=
+=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=
+=82=D1=81=D1=8F =D0=BE=D1=84=D0=B5=D1=80=D1=82=D0=BE=D0=B9. =D0=90=D0=BA=D1=
+=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B8=D0=BD=D1=84=D0=BE=D1=
+=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=BE =D1=86=D0=B5=D0=BD=D0=B5 =D0=B8 =
+=D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D0=B8 =D1=82=D0=BE=D0=B2=D0=B0=D1=80=
+=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=
+=D0=B0 =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=D1=82=D0=B5 <a style=3D"text-decorat=
+ion: none; color: #005BFF;" href=3D"https://www.ozon.ru/?t_usr=3D14132070&u=
+serid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874=
+936888&utm_content=3Dfooter-v3&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" rel=
+=3D"noopener noreferrer" target=3D"_blank">Ozon</a>.</p><p style=3D"Margin:=
+0"><br></p><p style=3D"Margin:0">=D0=9A=D0=B0=D1=80=D1=82=D0=B0 Ozon =D0=91=
+=D0=B0=D0=BD=D0=BA=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=
+=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=9E=D0=9E=D0=9E =C2=AB=D0=9E=
+=D0=97=D0=9E=D0=9D =D0=91=D0=B0=D0=BD=D0=BA=C2=BB. =D0=9F=D0=BE=D0=B4=D1=80=
+=D0=BE=D0=B1=D0=BD=D0=B5=D0=B5 =D0=BE <a style=3D"text-decoration: none; co=
+lor: #005BFF;" href=3D"https://ozon.ru/fintech/?t_usr=3D14132070&userid=3D1=
+4132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D7474377552874936888&ut=
+m_content=3Dfooter-v3&utm_mcp_block_id=3Dd00kxzsy7hkmdyx2aj90" rel=3D"noope=
+ner noreferrer" target=3D"_blank">=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=
+=B0=D1=85 =D0=BE=D0=B1=D1=81=D0=BB=D1=83=D0=B6=D0=B8=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F</a>.</p><p style=3D"Margin:0"><br></p><p style=3D"Margin:0">=D0=
+=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=
+=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=
+=83 =D1=87=D1=82=D0=BE =D0=B7=D0=B0=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=
+=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D1=8B =D0=BD=D0=B0 =D1=81=D0=B0=D0=
+=B9=D1=82=D0=B5. =D0=94=D0=B0=D0=BD=D0=BD=D0=BE=D0=B5 =D0=BF=D0=B8=D1=81=D1=
+=8C=D0=BC=D0=BE =D0=BD=D0=B5 =D1=82=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82 =D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0. =D0=9E=D0=9E=D0=9E =C2=AB=D0=98=D0=BD=D1=
+=82=D0=B5=D1=80=D0=BD=D0=B5=D1=82 =D0=A0=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D1=
+=8F=C2=BB; 123112, =D0=B3. =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0, =D0=9F=D1=
+=80=D0=B5=D1=81=D0=BD=D0=B5=D0=BD=D1=81=D0=BA=D0=B0=D1=8F =D0=BD=D0=B0=D0=
+=B1., =D0=B4. 10, =D1=8D=D1=82. 41, =D0=9F=D0=BE=D0=BC. I, =D0=BA=D0=BE=D0=
+=BC=D0=BD. 6; =D0=9E=D0=93=D0=A0=D0=9D 1027739244741.</p><p style=3D"Margin=
+:0"><br></p><p style=3D"Margin:0">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D1=80=D0=
+=BE=D0=B4=D0=B0=D0=B2=D1=86=D0=BE=D0=BC =D1=82=D0=BE=D0=B2=D0=B0=D1=80=D0=
+=B0 =D0=BD=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=9E=D0=
+=9E=D0=9E =C2=AB=D0=98=D0=BD=D1=82=D0=B5=D1=80=D0=BD=D0=B5=D1=82 =D0=A0=D0=
+=B5=D1=88=D0=B5=D0=BD=D0=B8=D1=8F=C2=BB, =D1=81=D0=B2=D0=B5=D0=B4=D0=B5=D0=
+=BD=D0=B8=D1=8F =D0=BE =D0=BF=D1=80=D0=BE=D0=B4=D0=B0=D0=B2=D1=86=D0=B5 =D1=
+=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D1=
+=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B5 =D0=BE=D0=BF=D0=B8=D1=81=D0=
+=B0=D0=BD=D0=B8=D1=8F =D1=82=D0=BE=D0=B2=D0=B0=D1=80=D0=B0 =D0=BF=D0=BE=D1=
+=81=D0=BB=D0=B5 =D1=81=D0=BB=D0=BE=D0=B2=D0=B0 =C2=AB=D0=9F=D1=80=D0=BE=D0=
+=B4=D0=B0=D0=B2=D0=B5=D1=86=C2=BB.</p><!--[if mso]></span><![endif]--></spa=
+n></td></tr> <tr valign=3D"top"><td><table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0=
+;"><tr valign=3D"top"><td><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0;max-width=
+:600px;Margin:0 auto;"><tr valign=3D"top"><td dir=3D"ltr" style=3D"padding:=
+0px 0 0px 0;text-align:left;font-size:0;vertical-align:middle;"><!--[if mso=
+]><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" dir=3D"ltr" style=
+=3D"border-collapse:collapse;padding:0;"><tr><td width=3D"auto" valign=3D"t=
+op"><![endif]--><div dir=3D"ltr" style=3D"width:auto;display:inline-block;m=
+ax-width:none;height:auto;vertical-align:top;text-align:left;"><table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collap=
+se;padding:0;"><tr valign=3D"top" align=3D"left"><td style=3D"padding:10px =
+12px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bor=
+der-collapse:collapse;padding:0;"><tr valign=3D"top"><td class=3D"hidden-da=
+rk-theme" style=3D"padding:0 8px 0 0;"><img src=3D"https://cdn1.ozone.ru/s3=
+/plashkodel-images/03be6ba5-36d5-4c92-b154-1aebccf3f7af.png" width=3D"68" h=
+eight=3D"68" alt=3D"QRCode ozon" border=3D"0" style=3D"width:68px;max-width=
+:68px;display:block;Margin:0;min-width:68px;"></td><td class=3D"display-td-=
+dark-theme" style=3D"display:none;padding:0 8px 0 0;"><img src=3D"https://c=
+dn1.ozone.ru/s3/plashkodel-images/c24f10bb-9b17-4b28-afb0-460e4f37d3b1.png"=
+ width=3D"68" height=3D"68" alt=3D"QRCode ozon" border=3D"0" style=3D"width=
+:68px;max-width:68px;display:block;Margin:0;min-width:68px;"></td> <td><tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" valign=3D"middle" style=
+=3D"border-collapse:collapse;padding:0;"><tr valign=3D"top"><td class=3D"hi=
+dden-dark-theme" style=3D"padding:0 0 8px 0;"><a href=3D"https://s.ozon.ru/=
+r/X9A-dEf3hD330JVU2rT3lk5Lwl4PZBhkYgXYjuecTlnv8zuBxCnmP6BsIEWP2Qanu9xSdPf-F=
+LRg1fYwKdrw1yrKcOEjdNP8VcdaOYj5_pcDG4oKgLDinrI0LobWRd9BnSG38vkSZFU7h9PVTw-x=
+vrjLLbdnhdluIxzFokq5mYk5s9MTwfigv-ZMBmS-1C2HZ6g8O8vyy3g4yfcvKSDIAbQno-o5MLq=
+vyjeuqi8ptXeomN2NKb-pOu8UvhvlPbdw2No1H93r8m3FwU3wK91P7Qu6Ub9_0SrqKcMJz_8R7W=
+rUORmil3zNd-k=3D?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTN=
+r4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvye=
+mTljjM=3D" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"ht=
+tps://cdn1.ozone.ru/s3/plashkodel-images/70502fca-091f-4538-9d13-3c657c7f64=
+73.png" width=3D"118" height=3D"30" alt=3D"appStore" border=3D"0" style=3D"=
+width:100%;max-width:118px;display:block;Margin:0;"></a></td><td class=3D"d=
+isplay-td-dark-theme" style=3D"display:none;padding:0 0 8px 0;"><a href=3D"=
+https://s.ozon.ru/r/KAvGh3_Lcb0jFsxafV2BN9kV1NwCJKBjHeIZj57jTEBxwafbMsgcWbf=
+jTHpuE8plDx_4LTL8R1hUJ1Tpw9_-7kpi9OE5SAHVPMADZ7xAUDGmIYcIEsdIndaNITKJWZAN_y=
+Q824HWOI2nocRUxQeYtseM8Ga8v5lR9y8FKcKv-FfzLJhdZv5oaM7aO_rN0ppSgRVCfdzbGv6pq=
+7ESqHk0JZBtq51ntGPn-FE7e37JXAolBYxts-dJc8woabuxrlkidzDkhdBKko-SuxQUp-bV6evk=
+R_lqTh9vOoJyLf9Q2RlKQqQjJtHaZSt_gAB-fQ=3D=3D?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n=
+5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7=
+fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-deco=
+ration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/a542ca=
+cc-98f8-465d-bd63-1247d161d90a.png" width=3D"118" height=3D"30" alt=3D"appS=
+tore" border=3D"0" style=3D"width:100%;max-width:118px;display:block;Margin=
+:0;"></a></td></tr><tr valign=3D"top"><td class=3D"hidden-dark-theme" style=
+=3D"padding:0 0 0 0;"><a href=3D"https://s.ozon.ru/r/7JaItNvBk506NnFZki64Op=
+jwIKtepk9WkqH382p456syjf1sPEq-Ba3qFv5LqJqIjPCkZ-nJlviM4_OHc97LNS6cnXTTtObob=
+hjYVgIz6hJY6uig-sAZQIqQoCICouix4da3r6L5OtY-Y2gWGB4Zu1G3R59nqTdnNrQ_KQU84Q2Q=
+FnKUTdzSAg3QOQkI_oVLGtsJ5hd31S2yB6omfA=3D=3D?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n=
+5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7=
+fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-deco=
+ration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/15f240=
+91-09eb-4a0c-965f-d8ea33d9d444.png" width=3D"118" height=3D"30" alt=3D"goog=
+lePlay" border=3D"0" style=3D"width:100%;max-width:118px;display:block;Marg=
+in:0;"></a></td><td class=3D"display-td-dark-theme" style=3D"display:none;p=
+adding:0 0 0 0;"><a href=3D"https://s.ozon.ru/r/KAKlC6WKlfDujBMbqb_2r0YVX8U=
+pWloYNOGUzY2y2o63Sml9HLbbpnXveLR5unjSVbXhnyZEugpa01cuIKrRPyR5NC-pv6Pv4fTB4q=
+S7tY2fJGxAObKcQLNoYg5OTo7j4_GeK_eesaARSjD8SxnvDA1KXEewmPfXPOBmD3fchks9OlkrK=
+nwp8HriKVZuFJ3VEmjGAeKTK3mSEyacguwrGpNM?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNs=
+XgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N=
+5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-decoratio=
+n:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/2da87844-cd=
+02-4e10-abc6-462c9fc7272e.png" width=3D"118" height=3D"30" alt=3D"googlePla=
+y" border=3D"0" style=3D"width:100%;max-width:118px;display:block;Margin:0;=
+"></a></td></tr></table></td> <td style=3D"padding:0 0 0 8px;"><table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" valign=3D"middle" style=3D"bord=
+er-collapse:collapse;padding:0;"><tr valign=3D"top"><td class=3D"hidden-dar=
+k-theme" style=3D"padding:0 0 8px 0;"><a href=3D"https://s.ozon.ru/r/y5fOGe=
+ApIcjzv3QCGghwdejDDgscco7sFna_K8sWu1o3rRFj2iBmYuPVBrbIKpzkNUsIhmRjAPngMFyAE=
+ZMKX2F615yhYlf4K1CupuTKQg5GzJr-jzIrLWY6R2SbnFuXKPwAYF_UfUWvK0bVgd_jJrsMs_KG=
+ab0cv0is0JQQxdQItwzu?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbS=
+ZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58=
+lvyemTljjM=3D" target=3D"_blank" style=3D"text-decoration:none;"><img src=
+=3D"https://cdn1.ozone.ru/s3/plashkodel-images/c1092b84-084c-4838-b158-f556=
+cd4bb14f.png" width=3D"118" height=3D"30" alt=3D"appGallery" border=3D"0" s=
+tyle=3D"width:100%;max-width:118px;display:block;Margin:0;"></a></td><td cl=
+ass=3D"display-td-dark-theme" style=3D"display:none;padding:0 0 8px 0;"><a =
+href=3D"https://s.ozon.ru/r/DfucJd1V7uUV8lO9qfVgraxl5SyUpbMk0P-boR3qya7wuDE=
+EA2UDfr2sFYqtt4eFAkn0g3gO-HAR3cUAfm76mS252axxVNmIypT_FpSU1IVdgrD1Gq8aj7jcfV=
+21dj4Y_ejaVLUCmtQMixN6CSPDYtFeSjklds4DF40FTVeOzYbByk40E4IioBo=3D?e=3DKbwuFj=
+vc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFv=
+buPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank=
+" style=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plas=
+hkodel-images/44abd463-4d25-416b-ab7a-66c92f52c80d.png" width=3D"118" heigh=
+t=3D"30" alt=3D"appGallery" border=3D"0" style=3D"width:100%;max-width:118p=
+x;display:block;Margin:0;"></a></td></tr><tr valign=3D"top"><td class=3D"hi=
+dden-dark-theme" style=3D"padding:0 0 0 0;"><a href=3D"https://s.ozon.ru/r/=
+3r6ODkwcv2u8WulnOD-9QYmUyXSESfVwjjo40fZQRoBKlQqfosCjz7atFkH4tUsoETmCxc5gPqy=
+7mPmzCr3BknkZ0RtExJ5v3_PY6_uQI81_K2UL3D5a-cxjaVZWYTsaIM69okjGjHxHsKytTFPBD2=
+fIka9wqrWz0aeq8jo2VeodCKKlanmWYmu8tnZ0Q3hVjVu09Wo=3D?e=3DKbwuFjvc2bgO3p_UaI=
+2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9r=
+yYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"t=
+ext-decoration:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-image=
+s/377773fe-84a8-4a01-9f7e-e0bc2016a702.png" width=3D"118" height=3D"30" alt=
+=3D"ruStore" border=3D"0" style=3D"width:100%;max-width:118px;display:block=
+;Margin:0;"></a></td><td class=3D"display-td-dark-theme" style=3D"display:n=
+one;padding:0 0 0 0;"><a href=3D"https://s.ozon.ru/r/N_qJHF6pVbcbPI7NB7TuVm=
+N5mZjFiRNgfzL3GrRe4Qoc1ktfO9mkhg3LeUXpWoj7Lw375u8qsLBcgcAzbO0uGlBVDICri64Bc=
+Zwrfizc_xiosSM0VGJ5gCb_Ro1R7sJtdqO1jgtsyr4tIPH5kC_UEt9t5BeX45vkHyyj8p2OwEhv=
+nhYD-y99n5W8hiyP-2Vuf--W2D5G9Lwd4A=3D=3D?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnN=
+sXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5=
+N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-decorati=
+on:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/f1d17433-7=
+051-4adf-9c72-6c114df811ce.png" width=3D"118" height=3D"30" alt=3D"ruStore"=
+ border=3D"0" style=3D"width:100%;max-width:118px;display:block;Margin:0;">=
+</a></td></tr></table></td></tr></table></td></tr></table></div><!--[if mso=
+]></td> <td width=3D"auto" valign=3D"top"><![endif]--><div dir=3D"ltr" styl=
+e=3D"width:auto;display:inline-block;max-width:none;vertical-align:top;text=
+-align:left;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border-collapse:collapse;padding:0;"><tr valign=3D"top" align=3D"left">=
+<td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse;padding:0;"><tr valign=3D"top"><td height=3D"38" width=
+=3D"118" style=3D"padding:10px 0;"><table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"border-collapse:collapse;padding:0;"><tr valign=3D=
+"top"><td style=3D"padding:0 0 8px 12px;"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse;padding:0;"><tr =
+valign=3D"top"><td class=3D"hidden-dark-theme"><a href=3D"https://s.ozon.ru=
+/r/qmRk98fDIZGt_9aXViv2Zd0bEXL53SkCT_9o5aPcbzF15f2zk6wnC931ljESdB51Hm3AxIqW=
+eEx8floerdWp0ehyvURP3RijjdmsIDi9WimPvGbapbYnUUVRuLm-uppJsEVvQg=3D=3D?e=3DKb=
+wuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-h=
+hxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_b=
+lank" style=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone.ru/s3/=
+plashkodel-images/b69f582f-3d51-4ea1-bada-80a6464e5f1a.png" width=3D"30" he=
+ight=3D"30" alt=3D"Ozon" border=3D"0" style=3D"width:100%;max-width:30px;di=
+splay:block;Margin:0 auto;"></a></td><td class=3D"display-td-dark-theme" st=
+yle=3D"display:none;"><a href=3D"https://s.ozon.ru/r/VLE3LXRTcRbKfFns4Ccc_i=
+JX2NxwDc76fY8rUkrURgFIvwLO2Wslcx5OkXYmeUbwmYxFaqKO4hpHqWJhd3dHXj8ZveuHokJqw=
+OKFbL1PdWBt0uzWlgNF5hBkw0XCg9lDdegtRczSOT-Z?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5=
+BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7f=
+ut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-decor=
+ation:none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/227aa44=
+f-e3ea-4198-9acd-66787515d068.png" width=3D"30" height=3D"30" alt=3D"Ozon" =
+border=3D"0" style=3D"width:100%;max-width:30px;display:block;Margin:0 auto=
+;"></a></td></tr></table></td><td style=3D"padding:0 0 8px 8px;"><table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:coll=
+apse;padding:0;"><tr valign=3D"top"><td class=3D"hidden-dark-theme"><a href=
+=3D"https://s.ozon.ru/r/t4RkCTpkf4xDk8JHhMhjZnU3CtnYWfE6G23QsIG5RC8t_0hKkSq=
+Uw_Z2tTKfOna441teBeqdsArXgCUX92wD8KM1O4CG3TS1UycQ8a1b3EmB3W9121kQ25vXzIaHlS=
+FxLDVabqD7QsN9?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTNr4=
+WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvyemT=
+ljjM=3D" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"http=
+s://cdn1.ozone.ru/s3/plashkodel-images/0ddaa0fc-efff-499d-a503-b6ab4f476910=
+.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=3D"0" style=3D"width:1=
+00%;max-width:30px;display:block;Margin:0 auto;"></a></td><td class=3D"disp=
+lay-td-dark-theme" style=3D"display:none;"><a href=3D"https://s.ozon.ru/r/f=
+zkgoaYg1tmFv8JfUHSKmm180trD1JVRxqnMu-0l8M0bicYyEtsKjMQzvdebjZ2EMbYH5-IgeNV6=
+RAaQ3rurP97W9AgNgDB1UvD_HhjdfsBvXM-ZOyGUe_bam63BtWF4OvuGd-xGoZJASkGNgUk=3D?=
+e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX5=
+9W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvyemTljjM=3D" target=
+=3D"_blank" style=3D"text-decoration:none;"><img src=3D"https://cdn1.ozone.=
+ru/s3/plashkodel-images/9cdbee9f-44dc-4eaf-a0a7-22a030d555f1.png" width=3D"=
+30" height=3D"30" alt=3D"Ozon" border=3D"0" style=3D"width:100%;max-width:3=
+0px;display:block;Margin:0 auto;"></a></td></tr></table></td><td style=3D"p=
+adding:0 0 8px 8px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"border-collapse:collapse;padding:0;"><tr valign=3D"top"><td clas=
+s=3D"hidden-dark-theme"><a href=3D"https://s.ozon.ru/r/CeFjPY7azbyWDNGrPeRd=
+IrBJdhEVCO37smJiPer4O7rcXcFgFPTRVJS_S7Ln3NDDtQFQGsy6EGQmbJaGvNb5FWbAnM4AliC=
+EucYqE_8RuoettMp1lnNeLgCkx3RH7jMw-4nn?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXg=
+syvviN_CetUePRCbSZmTNr4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5l=
+tvOBnhDMrz8T-wI58lvyemTljjM=3D" target=3D"_blank" style=3D"text-decoration:=
+none;"><img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/5f9af26e-6d67=
+-409e-8816-6aa7df53796f.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=
+=3D"0" style=3D"width:100%;max-width:30px;display:block;Margin:0 auto;"></a=
+></td><td class=3D"display-td-dark-theme" style=3D"display:none;"><a href=
+=3D"https://s.ozon.ru/r/9B2bcIoxP9lO-VPJV83ii817Pkw5HO8uqV0Sq0JzBoveXnZ_miH=
+X-6uHYjh_hEeJB_-3tZfaB6yA28EFiwq3iavtbeaj7GaGKFqyv3elCWukO56qbQqTc3S9Pp2Wxw=
+FQ0Zw7rfcnY9M=3D?e=3DKbwuFjvc2bgO3p_UaI2Rm6Xj3n5BnNsXgsyvviN_CetUePRCbSZmTN=
+r4WgzLBFbd9fqhSX59W2i-hhxFvbuPJH8C3RJ9ryYdm5_u7fut5N5ltvOBnhDMrz8T-wI58lvye=
+mTljjM=3D" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"ht=
+tps://cdn1.ozone.ru/s3/plashkodel-images/31996390-ac6d-4955-adf7-b16b5eadda=
+0e.png" width=3D"30" height=3D"30" alt=3D"Ozon" border=3D"0" style=3D"width=
+:100%;max-width:30px;display:block;Margin:0 auto;"></a></td></tr></table></=
+td></tr> <tr valign=3D"top"><td style=3D"padding:0 0 0 12px;"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collaps=
+e;padding:0;"><tr valign=3D"top"><td class=3D"hidden-dark-theme" style=3D"w=
+idth:30px;vertical-align:top;"><img src=3D"https://cdn1.ozone.ru/s3/plashko=
+del-images/1af452bb-95ac-49b2-ba9a-a53d9b4f9486.png" width=3D"30" height=3D=
+"auto" alt=3D"Ozon" border=3D"0" style=3D"width:100%;max-width:30px;display=
+:block;Margin:0;"></td><td class=3D"display-td-dark-theme" style=3D"display=
+:none;width:30px;vertical-align:top;"><img src=3D"https://cdn1.ozone.ru/s3/=
+plashkodel-images/0eff1e4e-8c79-45bf-aa0f-17201957c9a0.png" width=3D"30" he=
+ight=3D"auto" alt=3D"Ozon" border=3D"0" style=3D"width:100%;max-width:30px;=
+display:block;Margin:0;"></td></tr></table></td></tr></table></td></tr></ta=
+ble></td></tr></table></div><!--[if mso]></td></tr></table><![endif]--></td=
+></tr></table></td></tr></table></td></tr> <tr valign=3D"top"><td style=3D"=
+padding:6px 12px 16px;"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0;"><tr val=
+ign=3D"top"><td style=3D"line-height:16px;text-align:left;vertical-align:bo=
+ttom;"><a href=3D"https://docs.ozon.ru/legal/personal-data/pd-policy/?useri=
+d=3D63984050&utm_term=3D377:120220418&utm_content=3Dpolicy&xnpe_tifc=3Dhuhu=
+bfblbf4.hIV84koXbMpFakssa9QPQF6dxD_74F1JxyXXxIHpxILLxDb7OFHZhF_8&utm_source=
+=3Dpromo&utm_campaign=3D220418_jewelry_mca&utm_medium=3Ddm&t_usr=3D14132070=
+&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mid=3D74743775528=
+74936888&utm_mcp_el_name=3DtextLinks&utm_mcp_pos=3D1&utm_mcp_block_id=3Dd00=
+kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration:none;"><span =
+style=3D"font-family:OnestRegular, -apple-system, BlincMacSystemFont, 'Helv=
+etica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sa=
+ns-serif;color:#005BFF;word-break:break-word;font-size:10px;line-height:18p=
+x;letter-spacing:0.4px;text-align:left;font-weight:400;white-space:nowrap;"=
+><!--[if mso]><span style=3D"font-family: sans-serif, Arial; font-weight: 4=
+00; text-align: left; font-size: 10px; line-height: 18px"><![endif]-->=D0=
+=AE=D1=80=D0=B8=D0=B4=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B0=D1=8F =D0=B8=D0=
+=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F<!--[if mso]></span><![e=
+ndif]--></span></a> <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/=
+3a587410-dc01-493b-b7a4-003cb254aa37.png" width=3D"8" height=3D"10" alt=3D"=
+Ozon" border=3D"0" style=3D"width:100%;max-width:8px;display:inline-block;M=
+argin:0 auto;"><a href=3D"https://docs.ozon.ru/common/?utm_content=3Dhelp&t=
+_usr=3D14132070&userid=3D14132070&utm_mcp_vid=3Dcwvn4f69jhad0q0942d0&utm_mi=
+d=3D7474377552874936888&utm_mcp_el_name=3DtextLinks&utm_mcp_pos=3D2&utm_mcp=
+_block_id=3Dd00kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoratio=
+n:none;"><span style=3D"font-family:OnestRegular, -apple-system, BlincMacSy=
+stemFont, 'Helvetica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, ver=
+dana, arial, sans-serif;color:#005BFF;word-break:break-word;font-size:10px;=
+line-height:18px;letter-spacing:0.4px;text-align:left;font-weight:400;white=
+-space:nowrap;"><!--[if mso]><span style=3D"font-family: sans-serif, Arial;=
+ font-weight: 400; text-align: left; font-size: 10px; line-height: 18px"><!=
+[endif]-->=D0=9F=D0=BE=D0=BC=D0=BE=D1=89=D1=8C<!--[if mso]></span><![endif]=
+--></span></a> <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/3a587=
+410-dc01-493b-b7a4-003cb254aa37.png" width=3D"8" height=3D"10" alt=3D"Ozon"=
+ border=3D"0" style=3D"width:100%;max-width:8px;display:inline-block;Margin=
+:0 auto;"><a href=3D"https://www.ozon.ru/email-unsubscription?id=3DM5DOMMX-=
+F4fmb3lXvWRs2iHC6z_oqAkC1p_tM59Z8eO7ffJJx5DB2hLlux93EXC0Hp717F4Vv22uuNzsDR3=
+uLHKaePAQ5jtg6MxRgYtUhwSrPJG7OdBcqLugz8Ez0J61oJQc1N2JH6ZSdEoWLg7mT7SQbuLFtw=
+lDc3Eq1GqqM5ThIJagJIvkz7v4LdbFrSWAcTNdSDnE5FI47e-DlRJKSm0TWW-tGU0rDVQ8OSx2c=
+Nr0&utm_content=3Dunsubscribe&utm_mcp_el_name=3Dunsubscribe&utm_content=3Df=
+ooter-v3&utm_mcp_el_name=3DtextLinks&utm_mcp_pos=3D3&utm_mcp_block_id=3Dd00=
+kxzsy7hkmdyx2aj90" target=3D"_blank" style=3D"text-decoration:none;"><span =
+style=3D"font-family:OnestRegular, -apple-system, BlincMacSystemFont, 'Helv=
+etica Neue', roboto, Helvetica, 'Lucida Grande', tahoma, verdana, arial, sa=
+ns-serif;color:#005BFF;word-break:break-word;font-size:10px;line-height:18p=
+x;letter-spacing:0.4px;text-align:left;font-weight:400;white-space:nowrap;"=
+><!--[if mso]><span style=3D"font-family: sans-serif, Arial; font-weight: 4=
+00; text-align: left; font-size: 10px; line-height: 18px"><![endif]-->=D0=
+=9E=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BE=D1=82 =D1=
+=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8<!--[if mso]></span><![endif]-=
+-></span></a> <img src=3D"https://cdn1.ozone.ru/s3/plashkodel-images/3a5874=
+10-dc01-493b-b7a4-003cb254aa37.png" width=3D"8" height=3D"10" alt=3D"Ozon" =
+border=3D"0" style=3D"width:100%;max-width:8px;display:inline-block;Margin:=
+0 auto;"></td> </tr></table></td></tr></table></td></tr></table></td></tr><=
+/table>=20
+              </td>
+            </tr>
+          </table>
+          <img src=3D"https://xapi.ozon.ru/web-api.comms/mo/21wgWEOkvnhiEPQ=
+MwBnMSQpIwN85SZBL2XstnfvLgJCewROD_u9H9k72fpmCRBvnHUCFnztz1NwjF2el.gif" alt=
+=3D"" width=3D"1" height=3D"1" />
+          <!--[if mso]></td></tr></table><![endif]-->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

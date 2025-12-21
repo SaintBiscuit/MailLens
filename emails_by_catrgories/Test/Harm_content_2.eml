@@ -1,0 +1,902 @@
+Return-Path: <bounce@info.mail-v24.net>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from sender-v24.net (sender-v24.net [23.109.243.9])
+	by mail.collectorshash.su (Postfix) with ESMTP id EE4E520C39
+	for <v.p.ankevich@collectorshash.su>; Thu, 11 Sep 2025 10:09:36 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=info.mail-v24.net;
+	s=sender-v24.net; t=1757574576;
+	bh=ZZyGvRu+VPXKdGvKDPiZGOJCLhQbxj2UiLc22CZYQk8=;
+	h=List-Unsubscribe:To:From:Reply-To:Subject:Date:From;
+	b=dp9vhg16c7p99OBjIZio2031dlJTvRYiPmQwxT4vNfrRbU+pJFRYgkkA8P/SIRTE7
+	 9gD97mnuQaRoZ92uMG0uEzZUzVYxd0c/XiMZpx2xbgqjJOppZbH8mjvOHdrj4jnuPF
+	 r7GGkmf3IhUAduHeZvYIHPb6nEqUtgdQp3gYyEn7ycM0cO5JgML+9+JCFFi3zoRK6q
+	 sIrnxcNSWDgNER/ZXVE3oE7D2ds20E7aOwJPJ5ri5454PWo85cYwocfMIE31m9zI5y
+	 MaQPeyuMbVMK44mpAI282epFdIKEkDOqsAGaT47Or9XfTCCO+Xp9tXEDrIGlrFYlXD
+	 zEmUBi4LDLNRw==
+X-Campaign-Id: 261842851LP
+X-MailID: 1b35ce05000dda92abbfbdcdf4a12681ItCS0YPQu9C60LDQvTI0IiA8bm8tcmVwbHlAaW5mby5tYWlsLXYyNC5uZXQ+
+Sender: =?utf-8?Q?=D0=92=D1=83=D0=BB=D0=BA=D0=B0=D0=BD24?=
+ <no-reply@info.mail-v24.net>
+Site-Id: 26
+X-Postmaster-Msgtype: sender-v24.net_1842851
+Feedback-ID: 374716646:27868321:6:Vulkan24
+X-User-Id: 27868321
+X-Platform-Version: 2
+X-Bulk-Id: 374716646
+X-ServerId: sender-v24.net
+X-Message-Id: e1806adb-7d4a-4766-ab9b-6565e316f216
+Cross-Domain: 15
+X-Brand-Id: 9
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <mailto:list-unsubscribe+374716646_e1806adb_15@info.mail-v24.net?subject=unsubscribe_374716646_e1806adb-7d4a-4766-ab9b-6565e316f216_15>,
+ <https://v24v5.vfourtrack.com/unsubscribe/one-click/eyJtYWlsIjoidi5wLmFua2V2aWNoQGNvbGxlY3RvcnNoYXNoLnN1IiwicHJvamVjdCI6MjYsImJ1bGsiOjM3NDcxNjY0NiwidHlwZSI6MSwidXNlcl9pZCI6Mjc4NjgzMjEsIm1faWQiOiJlMTgwNmFkYi03ZDRhLTQ3NjYtYWI5Yi02NTY1ZTMxNmYyMTYiLCJzaWduIjoiUytONGZLNDlqRXptRmNTTkN1SGJwWEdcL0p5QT0iLCJicmFuZF9pZCI6OSwiaXNfdG94aWMiOmZhbHNlLCJkb21haW4iOjE1fQ==?u_id=e1806adb-7d4a-4766-ab9b-6565e316f216>
+Precedence: bulk
+To: v.p.ankevich@collectorshash.su
+From: =?utf-8?Q?=D0=92=D1=83=D0=BB=D0=BA=D0=B0=D0=BD24?=
+ <no-reply@info.mail-v24.net>
+Reply-To: =?utf-8?Q?=D0=92=D1=83=D0=BB=D0=BA=D0=B0=D0=BD24?=
+ <no-reply@info.mail-v24.net>
+Subject: =?utf-8?Q?=D0=9A=D0=BE=D0=BC=D1=83_=D0=B2=D0=B5=D0=B7?=
+ =?utf-8?Q?=D0=B5=D1=82_=D0=B2_=D0=B8=D0=B3=D1=80=D0=B5?=
+Message-ID: <7dc6a59ead3463f114a1aacdbc50cadc@info.mail-v24.net>
+MIME-Version: 1.0
+Date: Thu, 11 Sep 2025 07:09:36 +0000
+Content-Type: multipart/alternative; boundary=GeCMrjoo
+
+--GeCMrjoo
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE =D0=BD=D0=
+=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D0=BE =D0=BE=D1=82=
+=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=
+=B2=D0=B0=D1=88=D0=B5=D0=BC =D0=BF=D0=BE=D1=87=D1=82=D0=BE=D0=B2=D0=BE=
+=D0=BC =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=D0=B5, =D0=BD=D0=B0=D0=B6=D0=
+=BC=D0=B8=D1=82=D0=B5 =D1=82=D1=83=D1=82
+
+Vulkan24
+=D0=92=D1=83=D0=
+=BB=D0=BA=D0=B0=D0=BD 24
+
+=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=
+=D0=B0 =D0=BD=D0=B0 =D1=83=D0=B4=D0=B0=D1=87=D0=BB=D0=B8=D0=B2=D0=BE=D1=
+=81=D1=82=D1=8C
+=D0=A7=D1=82=D0=BE =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=
+=B0=D0=B5=D1=82 =D1=83=D1=81=D0=BF=D0=B5=D1=88=D0=BD=D1=8B=D1=85 =D0=B8=
+=D0=B3=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=BE=D1=82 =D0=BF=D0=BE=D1=81=D1=
+=80=D0=B5=D0=B4=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D1=8B=D1=85? =D0=9F=
+=D0=B5=D1=80=D0=B2=D1=8B=D0=B5 =D0=BE=D0=B1=D0=BB=D0=B0=D0=B4=D0=B0=D1=
+=8E=D1=82 =D0=BE=D1=81=D1=82=D1=80=D0=BE=D0=B9 =D0=B8=D0=BD=D1=82=D1=83=
+=D0=B8=D1=86=D0=B8=D0=B5=D0=B9. =D0=9E=D0=BD=D0=B0 =D1=82=D0=BE=D1=87=D0=
+=BD=D0=BE =D0=BF=D0=BE=D0=B4=D1=81=D0=BA=D0=B0=D0=B6=D0=B5=D1=82, =D0=B3=
+=D0=B4=D0=B5 =D0=B7=D0=BE=D0=BB=D0=BE=D1=82=D0=B0=D1=8F =D0=B6=D0=B8=D0=
+=BB=D0=B0. =D0=A5=D0=BE=D1=82=D1=8F =D0=B8=D0=BD=D0=BE=D0=B3=D0=B4=D0=B0 =
+=D0=B8 =D0=BD=D0=B5=D0=B2=D0=BE=D0=BE=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=
+=BD=D1=8B=D0=BC =D1=82=D1=80=D0=B5=D1=82=D1=8C=D0=B8=D0=BC =D0=B3=D0=BB=
+=D0=B0=D0=B7=D0=BE=D0=BC =D0=B2=D0=B8=D0=B4=D0=BD=D0=BE: =D0=B2=D0=BE=D1=
+=82 =D0=BA=D0=BB=D0=B0=D0=B4! =D0=9D=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=
+=D1=80, =D0=BA=D0=B0=D0=BA =D1=81=D0=B5=D0=B9=D1=87=D0=B0=D1=81. =D0=92=
+=D0=B0=D0=BC =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D1=8B =D0=B4=D0=
+=B2=D0=B0 =D1=88=D0=B8=D0=BA=D0=B0=D1=80=D0=BD=D1=8B=D1=85 =D0=B1=D0=BE=
+=D0=BD=D1=83=D1=81=D0=B0 =E2=80=93 =D0=BE=D0=B4=D0=B8=D0=BD =D0=BA=D1=80=
+=D1=83=D1=87=D0=B5 =D0=B4=D1=80=D1=83=D0=B3=D0=BE=D0=B3=D0=BE. =D0=92=D1=
+=8B=D0=B1=D0=B8=D1=80=D0=B0=D0=B9=D1=82=D0=B5, =D0=BA =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D0=BB=D0=B5=D0=B6=D0=B8=D1=82 =D0=B4=D1=
+=83=D1=88=D0=B0. =D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D1=8C=D1=82=D0=B5 =
+=D1=87=D1=83=D1=82=D1=8C=D0=B5 =D0=B2 =D1=80=D0=B5=D0=B0=D0=BB=D1=8C=D0=
+=BD=D0=BE=D0=B9 =D0=B8=D0=B3=D1=80=D0=B5!
+- 50/100 FS Book of Ra =D0=
+=B8=D0=BB=D0=B8 120% + 77 FS Fruit Cocktail
+
+=D0=9F=D0=9E=D0=9B=D0=
+=A3=D0=A7=D0=98=D0=A2=D0=AC =D0=91=D0=9E=D0=9D=D0=A3=D0=A1
+
+[telegram]=
+
+=D0=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B2 Telegram
+[viber]
+=D0=
+=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B2 Viber
+[vk]
+=D0=91=D0=BE=D0=
+=BD=D1=83=D1=81=D1=8B =D0=B2 VK
+[whatsapp]
+=D0=91=D0=BE=D0=BD=D1=83=
+=D1=81=D1=8B =D0=B2 WhatsApp
+[mail]
+support@vulkan24club.com
+
+appst=
+ore=09googleplay
+=D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=
+=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =D0=
+=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =D1=87=D1=82=D0=BE =D0=BF=D0=BE=D0=B4=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0 =D1=80=D0=
+=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83 =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=
+=D1=82=D0=B5 =D0=92=D1=83=D0=BB=D0=BA=D0=B0=D0=BD24. =D0=92=D0=B0=D1=88 ID =
+27868321.
+=D0=92 =D0=BB=D1=8E=D0=B1=D0=BE=D0=B9 =D0=BC=D0=BE=D0=BC=D0=
+=B5=D0=BD=D1=82 =D0=B2=D1=8B =D0=BC=D0=BE=D0=B6=D0=B5=D1=82=D0=B5 =D0=BE=
+=D1=82=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=BF=D0=BE=D0=B4=D0=BF=D0=
+=B8=D1=81=D0=BA=D1=83, =D0=BF=D1=80=D0=BE=D0=B9=D0=B4=D1=8F =D0=BF=D0=BE =
+=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5.
+=C2=A92012-2025
+
+https://v24v5.=
+vfourtrack.com/unsubscribe/index/eyJtYWlsIjoidi5wLmFua2V2aWNoQGNvbGxlY3Rvcn=
+NoYXNoLnN1IiwicHJvamVjdCI6MjYsImJ1bGsiOjM3NDcxNjY0NiwidHlwZSI6MSwidXNlcl9pZ=
+CI6Mjc4NjgzMjEsIm1faWQiOiJlMTgwNmFkYi03ZDRhLTQ3NjYtYWI5Yi02NTY1ZTMxNmYyMTYi=
+LCJzaWduIjoiUytONGZLNDlqRXptRmNTTkN1SGJwWEdcL0p5QT0iLCJicmFuZF9pZCI6OSwiaXN=
+fdG94aWMiOmZhbHNlLCJkb21haW4iOjE1fQ=3D=3D?u_id=3De1806adb-7d4a-4766-ab9b-65=
+65e316f216
+--GeCMrjoo
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=3D"UTF-8">
+    <=
+meta name=3D"viewport" content=3D"width=3Ddevice-width, user-scalable=3Dno,=
+ initial-scale=3D1.0, maximum-scale=3D1.0, minimum-scale=3D1.0, viewport-fi=
+t=3Dcover">
+    <meta http-equiv=3D"x-ua-compatible" content=3D"ie=3Dedge=
+">
+    <meta name=3D"format-detection" content=3D"telephone=3Dno">
+    =
+<meta name=3D"format-detection" content=3D"date=3Dno">
+    <meta name=3D"=
+format-detection" content=3D"address=3Dno">
+    <meta name=3D"format-dete=
+ction" content=3D"email=3Dno">
+    <title>=D0=92=D1=83=D0=BB=D0=BA=D0=
+=B0=D0=BD 24</title>
+    <style type=3D"text/css">
+        * {
+      =
+      margin: 0;
+            padding: 0;
+        }
+
+        table {=
+
+            border-collapse: collapse !important;
+            border: =
+0 !important;
+            border-spacing: 0 !important;
+        }
+
+=
+        body {
+            background-color: #122444;
+            backg=
+round-image: linear-gradient(to right, #020619 0%, #08122b 25%, #122444 50%=
+, #08122b 75%, #020619 100%);
+        }
+    </style>
+</head>
+
+<bo=
+dy>  <span style=3D"display:none !important;font-size:0px;line-height:0;col=
+or:#FFFFFF;visibility:hidden;opacity:0;height:0;width:0;mso-hide:all;">=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C</span>  <table cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r" width=3D"100%">
+        <tbody>
+            <tr>
+                <=
+td valign=3D"top" style=3D"width:100%;vertical-align:top; background-color:=
+ #122444;
+                    background-image: linear-gradient(to right,=
+ #020619 0%, #08122b 25%, #122444 50%, #08122b 75%, #020619 100%);" bgcolor=
+=3D"#122444">
+                    <div>
+                        <table =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" width=3D"100%" style=
+=3D"border:none;border-spacing:0px;border-collapse:collapse;font-family:Ari=
+al, sans-serif;max-width:550px;margin:0 auto;width:100%;">
+              =
+              <tbody>
+                                <tr>
+            =
+                        <td width=3D"100%" style=3D"vertical-align:top;text=
+-align:center;">
+                                        <table width=3D"=
+100%" align=3D"center" style=3D"width: 100%; margin: 0 auto;">
+          =
+                                  <tbody>
+                               =
+                 <tr>
+                                                   =
+ <td style=3D"padding: 5px 5%;">
+                                        =
+                <div style=3D"text-align: center; font-family: Arial, sans-=
+serif; font-size: 12px; color: #36557b;"> =D0=95=D1=81=D0=BB=D0=B8 =D0=
+=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE =D0=BD=D0=B5=D0=BA=D0=BE=D1=80=D1=80=
+=D0=B5=D0=BA=D1=82=D0=BD=D0=BE =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B6=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=B2=D0=B0=D1=88=D0=B5=D0=BC =
+=D0=BF=D0=BE=D1=87=D1=82=D0=BE=D0=B2=D0=BE=D0=BC =D0=BA=D0=BB=D0=B8=D0=
+=B5=D0=BD=D1=82=D0=B5, <a href=3D"https://v24v5.vfourtrack.com/track/click/=
+3273673h7q/67e207e216e6b656679636860436f6c6c6563647f6273786163786e23757?use=
+rId=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb-7d4=
+a-4766-ab9b-6565e316f216&target=3Dhttps%3A%2F%2Fv24v5.vfourtrack.com%2Ftemp=
+late-web-view%2Fv2%2FeyJtc2dfdXVpZCI6ImUxODA2YWRiLTdkNGEtNDc2Ni1hYjliLTY1Nj=
+VlMzE2ZjIxNiIsInNpZ24iOiJVdjc5VFJFNituNFFkMnNqcFpZbkY5eFByTGs9In0%3D&marker=
+=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4EzRfiM=
+W2Db3rgEVXyVYFwy4l%2Fk0yE0BLrIi%2FsTRbVhXRsCiOOl3Uys5RY1Fl%2BghDn06szOj1mZw=
+eyLpE2oJLTg%3D%3D" style=3D"display: inline-block; text-decoration: underli=
+ne; color: #3c6aa8;">
+                                                   =
+             <div style=3D"color: #3c6aa8; text-decoration: underline;"> =
+=D0=BD=D0=B0=D0=B6=D0=BC=D0=B8=D1=82=D0=B5 =D1=82=D1=83=D1=82 </div>
+    =
+                                                        </a></div>
+      =
+                                              </td>
+                     =
+                           </tr>
+                                        =
+        <tr>
+                                                    <td>
+ =
+                                                       <table width=3D"100%=
+" align=3D"center" style=3D"max-width: 252px; width: 100%; margin: 0 auto;"=
+>
+                                                            <tbody>
+ =
+                                                               <tr>
+     =
+                                                               <td>
+     =
+                                                                   <a href=
+=3D"https://v24v5.vfourtrack.com/track/click/3273673h7q/67e207e216e6b656679=
+636860436f6c6c6563647f6273786163786e23757?userId=3Db2e2glbc1&brandId=3D19c5=
+9&profileId=3Da66easoplay&m_id=3De1806adb-7d4a-4766-ab9b-6565e316f216&targe=
+t=3Dhttps%3A%2F%2Fredirect85.com%2Fredirect%2F%3Furi%3D%252Falogin%252F2738=
+2e6152fba97b63a3db96a7a28b71de5e7f8c%253FrefCode%3Dcrm_mail_V24_email_reten=
+_new_free_reminder_1_or_2_V24_reten_fresh_free_ru.11.09&marker=3D3KQqJ92I1H=
+wnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4EzRfiMW2Db3rgEVXyVY=
+Fwy4l%2Fk0yE0BLrIi%2FsTRbVhVohVcEwHImFuiqtuvobbZjO4Q4YRKuVasCUa5MtSFXUgxeoa=
+0nA91HT1%2FWd5CC8no%3D" style=3D"display: inline-block; text-align: center;=
+"><img src=3D"https://v24na7.com/HTMLC-484/V24_small.png" alt=3D"Vulkan24" =
+width=3D"100%" height=3D"auto" style=3D"display: block; width: 100%; height=
+: auto;"></a>
+                                                           =
+         </td>
+                                                          =
+      </tr>
+                                                            <=
+/tbody>
+                                                        </table>=
+
+                                                    </td>
+            =
+                                    </tr>
+                               =
+                 <tr>
+                                                   =
+ <td>
+                                                        <div style=
+=3D"text-align: center;"><a href=3D"https://v24v5.vfourtrack.com/track/clic=
+k/3273673h7q/67e207e216e6b656679636860436f6c6c6563647f6273786163786e23757?u=
+serId=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb-7=
+d4a-4766-ab9b-6565e316f216&target=3Dhttps%3A%2F%2Fredirect85.com%2Fredirect=
+%2F%3Furi%3D%252Falogin%252F27382e6152fba97b63a3db96a7a28b71de5e7f8c%253Fre=
+fCode%3Dcrm_mail_V24_email_reten_new_free_reminder_1_or_2_V24_reten_fresh_f=
+ree_ru.11.09%2526redirect%3D%25252Fbonuses%25252Flist%252F&marker=3D3KQqJ92=
+I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4EzRfiMW2Db3rgEVX=
+yVYFwy4l%2Fk0yE0BLrIi%2FsTRbVhX2f%2BPetzprPWuT8Q99huuen06szOj1mZweyLpE2oJLT=
+g%3D%3D"><img src=3D"https://v24na7.com/v24/Retention/reten_new_free/V24_re=
+tention_new_free_reminder_1_2_bonus_email.png" alt=3D"=D0=92=D1=83=D0=BB=
+=D0=BA=D0=B0=D0=BD 24" width=3D"100%" height=3D"auto" style=3D"display: blo=
+ck; width: 100%; height: auto;"></a></div>
+                              =
+                      </td>
+                                             =
+   </tr>
+                                                <tr>
+         =
+                                           <td>
+                         =
+                               <div style=3D"background: #091f3d; border-ra=
+dius: 22px; overflow:hidden; box-shadow: 0px 0px 65px #2b4d79, 0px 0px 65px=
+ #2b4d79; padding: 20px 3.6%;">
+                                         =
+                   <table width=3D"100%" align=3D"center" style=3D"width: 1=
+00%; margin: 0 auto;">
+                                                  =
+              <tbody>
+                                                   =
+                 <tr>
+                                                   =
+                     <td style=3D"padding: 0px 0px 20px 0px;">
+          =
+                                                                  <div styl=
+e=3D"background: #03142b; overflow:hidden; border-radius: 6px; padding: 25p=
+x 6%;">
+                                                                 =
+               <div style=3D"margin: 0px 0px 20px 0px; text-transform: uppe=
+rcase; text-align: center; font-weight: 700; font-family: Arial, sans-serif=
+; font-size: 24px; color: #ffd440;">
+                                    =
+                                                =D0=9F=D1=80=D0=BE=D0=B2=
+=D0=B5=D1=80=D0=BA=D0=B0 =D0=BD=D0=B0 =D1=83=D0=B4=D0=B0=D1=87=D0=BB=D0=
+=B8=D0=B2=D0=BE=D1=81=D1=82=D1=8C
+                                       =
+                                         </div>
+                         =
+                                                       <div style=3D"font-f=
+amily: Arial, sans-serif; color: #e5e8ec; font-size: 17px; line-height: 24p=
+x; text-align: left; margin: 0px 0px 20px 0px;">
+                        =
+                                                            =D0=A7=D1=82=
+=D0=BE =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=B0=D0=B5=D1=82 =D1=83=D1=81=D0=
+=BF=D0=B5=D1=88=D0=BD=D1=8B=D1=85 =D0=B8=D0=B3=D1=80=D0=BE=D0=BA=D0=BE=
+=D0=B2 =D0=BE=D1=82 =D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=
+=B2=D0=B5=D0=BD=D0=BD=D1=8B=D1=85? =D0=9F=D0=B5=D1=80=D0=B2=D1=8B=D0=B5 =
+=D0=BE=D0=B1=D0=BB=D0=B0=D0=B4=D0=B0=D1=8E=D1=82 =D0=BE=D1=81=D1=82=D1=
+=80=D0=BE=D0=B9 =D0=B8=D0=BD=D1=82=D1=83=D0=B8=D1=86=D0=B8=D0=B5=D0=B9. =
+=D0=9E=D0=BD=D0=B0 =D1=82=D0=BE=D1=87=D0=BD=D0=BE =D0=BF=D0=BE=D0=B4=D1=
+=81=D0=BA=D0=B0=D0=B6=D0=B5=D1=82, =D0=B3=D0=B4=D0=B5 =D0=B7=D0=BE=D0=BB=
+=D0=BE=D1=82=D0=B0=D1=8F =D0=B6=D0=B8=D0=BB=D0=B0. =D0=A5=D0=BE=D1=82=D1=
+=8F =D0=B8=D0=BD=D0=BE=D0=B3=D0=B4=D0=B0 =D0=B8 =D0=BD=D0=B5=D0=B2=D0=BE=
+=D0=BE=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=BD=D1=8B=D0=BC =D1=82=D1=80=D0=
+=B5=D1=82=D1=8C=D0=B8=D0=BC =D0=B3=D0=BB=D0=B0=D0=B7=D0=BE=D0=BC =D0=B2=
+=D0=B8=D0=B4=D0=BD=D0=BE: =D0=B2=D0=BE=D1=82 =D0=BA=D0=BB=D0=B0=D0=B4! =
+=D0=9D=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80, =D0=BA=D0=B0=D0=BA =D1=
+=81=D0=B5=D0=B9=D1=87=D0=B0=D1=81. =D0=92=D0=B0=D0=BC =D0=B4=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF=D0=BD=D1=8B =D0=B4=D0=B2=D0=B0 =D1=88=D0=B8=D0=BA=D0=
+=B0=D1=80=D0=BD=D1=8B=D1=85 =D0=B1=D0=BE=D0=BD=D1=83=D1=81=D0=B0 =E2=80=
+=93 =D0=BE=D0=B4=D0=B8=D0=BD =D0=BA=D1=80=D1=83=D1=87=D0=B5 =D0=B4=D1=80=
+=D1=83=D0=B3=D0=BE=D0=B3=D0=BE. =D0=92=D1=8B=D0=B1=D0=B8=D1=80=D0=B0=D0=
+=B9=D1=82=D0=B5, =D0=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =
+=D0=BB=D0=B5=D0=B6=D0=B8=D1=82 =D0=B4=D1=83=D1=88=D0=B0. =D0=9F=D1=80=D0=
+=BE=D0=B2=D0=B5=D1=80=D1=8C=D1=82=D0=B5 =D1=87=D1=83=D1=82=D1=8C=D0=B5 =
+=D0=B2 =D1=80=D0=B5=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D0=B8=D0=B3=D1=
+=80=D0=B5!
+                                                              =
+                  </div>
+                                                =
+                                <div style=3D"font-family: Arial, sans-seri=
+f; color: #e5e8ec; font-size: 17px; line-height: 24px; text-align: left; ma=
+rgin: 0px 0px 20px 0px; padding-left: 17px;">
+                           =
+                                                         <b><li>50/100 FS B=
+ook of Ra =D0=B8=D0=BB=D0=B8 120% + 77 FS Fruit Cocktail</li></b>
+       =
+                                                                         </=
+div>
+                                                                    =
+            <table width=3D"100%" align=3D"center" style=3D"max-width: 270p=
+x; width: 100%; margin: 0 auto;">
+                                       =
+                                             <tbody>
+                    =
+                                                                    <tr>
+=
+                                                                           =
+                 <td>
+                                                   =
+                                             <div style=3D"width: 350px; he=
+ight: 36px; background: transparent; border: 2px solid gold; border-radius:=
+ 20px; margin-bottom: 10px; display: flex; justify-content: center; align-i=
+tems: center;">
+                                                         =
+                                           <a href=3D"https://v24v5.vfourtr=
+ack.com/track/click/3273673h7q/67e207e216e6b656679636860436f6c6c6563647f627=
+3786163786e23757?userId=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay=
+&m_id=3De1806adb-7d4a-4766-ab9b-6565e316f216&target=3Dhttps%3A%2F%2Fredirec=
+t85.com%2Fredirect%2F%3Furi%3D%252Falogin%252F27382e6152fba97b63a3db96a7a28=
+b71de5e7f8c%253FrefCode%3Dcrm_mail_V24_email_reten_new_free_reminder_1_or_2=
+_V24_reten_fresh_free_ru.11.09%2526redirect%3D%25252Fbonuses%25252Flist%252=
+F&marker=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IA=
+b4EzRfiMW2Db3rgEVXyVYFwy4l%2Fk0yE0BLrIi%2FsTRbVhW3UaG0%2FsFcQVLSERqFJqXYNl3=
+vfD9nGM%2BLuRRMmJREAK9qvnvNf9gfZT1yMOhVyGJU69lY0UXOsCUhbNiGKYq2yVY%2FuRJnyn=
+LPeBSEZaBbjd0Wjn%2Fz4EcOXXYKcmz858U%3D" target=3D"_blank" style=3D"display:=
+ flex; justify-content: center; align-items: center; width: 100%; height: 1=
+00%; text-decoration: none;">
+                                           =
+                                                             <span style=3D=
+"font-size: 20px; font-family: Arial, sans-serif; color: gold; display: fle=
+x; justify-content: center; align-items: center; height: 100%;">
+        =
+                                                                           =
+                         <b style=3D"line-height: 1;">=D0=9F=D0=9E=D0=9B=
+=D0=A3=D0=A7=D0=98=D0=A2=D0=AC =D0=91=D0=9E=D0=9D=D0=A3=D0=A1</b>
+       =
+                                                                           =
+                      </span>
+                                           =
+                                                         </a>
+           =
+                                                                           =
+          </div>
+                                                        =
+                                    </td>
+                               =
+                                                         </tr>
+          =
+                                                                          <=
+/tbody>
+                                                                 =
+               </table>
+                                                 =
+                          </div>
+                                        =
+                                   =20
+                                    =
+                                    </td>
+                               =
+                                     </tr>
+                              =
+                                  </tbody>
+                              =
+                              </table>
+                                  =
+                      </div>
+                                            =
+        </td>
+                                                </tr>
+   =
+                                         </tbody>
+                       =
+                 </table>
+                                        <table =
+width=3D"100%" align=3D"center" style=3D"width: 100%; margin: 0 auto;">
+ =
+                                           <tbody>
+                      =
+                          <tr>
+                                          =
+          <td>
+                                                        <d=
+iv style=3D"background: #091f3d; border-radius: 22px; overflow:hidden; box-=
+shadow: 0px 0px 65px #2b4d79, 0px 0px 65px #2b4d79; padding: 20px 3.6%;">=
+
+                                                            <table width=
+=3D"100%" align=3D"center" style=3D"width: 100%; margin: 0 auto;">
+      =
+                                                          <tbody>
+       =
+                                                             <tr>
+       =
+                                                                 <td style=
+=3D"padding: 0px 0px 10px 0px;">
+                                        =
+                                    <div style=3D"text-align: center;">
+ =
+                                                                           =
+    <div style=3D"margin: 0px 15px 10px; text-align: center; display: inlin=
+e-block;">
+                                                              =
+                      <a href=3D"https://v24v5.vfourtrack.com/track/click/3=
+273673h7q/67e207e216e6b656679636860436f6c6c6563647f6273786163786e23757?user=
+Id=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb-7d4a=
+-4766-ab9b-6565e316f216&target=3Dhttps%3A%2F%2Ft.me%2Fvulkan24news&marker=
+=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4EzRfiM=
+W2Db3rgEVXyVYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1Fl%2BghDNl3vfD9nGM%2BLu=
+RRMmJREABb7sZfECgfrg4nxERmcDto5F9vi7V6yqnNj50%2BwiSZC3RaOf%2FPgRw5ddgpybPzn=
+xQ%3D%3D" target=3D"_blank" style=3D"display: block; text-decoration: none;=
+ vertical-align: middle;">
+                                              =
+                                          <div style=3D"display: inline-blo=
+ck; width: 48px; height: 48px; margin: 0px 10px 0px 0px; vertical-align: mi=
+ddle;">
+                                                                 =
+                           <img src=3D"https://v24na7.com/HTMLC-484/icon-tg=
+.png" alt=3D"telegram" style=3D"display: block; width: 48px; height: 48px;"=
+ width=3D"48" height=3D"48">
+                                            =
+                                            </div>
+                      =
+                                                                  <div styl=
+e=3D"display: inline-block; vertical-align: middle;">
+                   =
+                                                                         <d=
+iv style=3D"text-align: left; font-family: Arial, sans-serif; text-decorati=
+on:none; font-size: 14px; color: #9ce0ff; text-transform:uppercase;">
+   =
+                                                                           =
+                  =D0=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B2 Telegram
+  =
+                                                                           =
+               </div>
+                                                   =
+                                     </div>
+                             =
+                                                       </a>
+             =
+                                                                   </div>=
+
+                                                                        =
+        <div style=3D"margin: 0px 15px 10px; display: inline-block;">
+   =
+                                                                           =
+      <a href=3D"https://v24v5.vfourtrack.com/track/click/3273673h7q/67e207=
+e216e6b656679636860436f6c6c6563647f6273786163786e23757?userId=3Db2e2glbc1&b=
+randId=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb-7d4a-4766-ab9b-6565e=
+316f216&target=3Dviber%3A%2F%2Fpa%3FchatURI%3Dbotvulkan24&marker=3D3KQqJ92I=
+1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4EzRfiMW2Db3rgEVXy=
+VYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1Fl%2BghDNl3vfD9nGM%2BLuRRMmJREABb7=
+sZfECgfrg4nxERmcDtrBui9GThk18zpLJb0Exg7A3RaOf%2FPgRw5ddgpybPznxQ%3D%3D" tar=
+get=3D"_blank" style=3D"display: block; text-decoration: none; vertical-ali=
+gn: middle;">
+                                                           =
+                             <div style=3D"display: inline-block; width: 44=
+px; height: 49px; margin: 0px 10px 0px 0px; vertical-align: middle;">
+   =
+                                                                           =
+              <img src=3D"https://v24na7.com/HTMLC-484/icon-viber.png" alt=
+=3D"viber" style=3D"display: block; width: 44px; height: 49px;" width=3D"44=
+" height=3D"49">
+                                                        =
+                                </div>
+                                  =
+                                                      <div style=3D"display=
+: inline-block; vertical-align: middle;">
+                               =
+                                                             <div style=3D"=
+text-align: left; font-family: Arial, sans-serif; text-decoration:none; fon=
+t-size: 14px; color: #9ce0ff; text-transform:uppercase;">
+               =
+                                                                           =
+      =D0=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B2 Viber
+                 =
+                                                                           =
+</div>
+                                                                  =
+                      </div>
+                                            =
+                                        </a>
+                            =
+                                                    </div>
+              =
+                                                                  <div styl=
+e=3D"margin: 0px 15px 10px; display: inline-block;">
+                    =
+                                                                <a href=3D"=
+https://v24v5.vfourtrack.com/track/click/3273673h7q/67e207e216e6b6566796368=
+60436f6c6c6563647f6273786163786e23757?userId=3Db2e2glbc1&brandId=3D19c59&pr=
+ofileId=3Da66easoplay&m_id=3De1806adb-7d4a-4766-ab9b-6565e316f216&target=3D=
+https%3A%2F%2Fvk.com%2Fim%3Fpeers%3D-208017809_-209683081%26sel%3D-20261637=
+7&marker=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IA=
+b4EzRfiMW2Db3rgEVXyVYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1Fl%2BghDNl3vfD9=
+nGM%2BLuRRMmJREABb7sZfECgfrg4nxERmcDtq1Sz5jv7upq8%2FrPrrbXHpp3RaOf%2FPgRw5d=
+dgpybPznxQ%3D%3D" target=3D"_blank" style=3D"display: block; text-decoratio=
+n: none; vertical-align: middle;">
+                                      =
+                                                  <div style=3D"display: in=
+line-block; width: 48px; height: 48px; margin: 0px 10px 0px 0px; vertical-a=
+lign: middle;">
+                                                         =
+                                   <img src=3D"https://v24na7.com/HTMLC-484=
+/icon-v24vk.png" alt=3D"vk" style=3D"display: block; width: 48px; height: 4=
+8px;" width=3D"48" height=3D"48">
+                                       =
+                                                 </div>
+                 =
+                                                                       <div=
+ style=3D"display: inline-block; vertical-align: middle;">
+              =
+                                                                           =
+   <div style=3D"text-align: left; font-family: Arial, sans-serif; text-dec=
+oration:none; font-size: 14px; color: #9ce0ff; text-transform:uppercase;">=
+
+                                                                        =
+                        =D0=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B2 VK
+  =
+                                                                           =
+               </div>
+                                                   =
+                                     </div>
+                             =
+                                                       </a>
+             =
+                                                                   </div>=
+
+                                                                        =
+        <div style=3D"margin: 0px 15px 10px; display: inline-block;">
+   =
+                                                                           =
+      <a href=3D"https://v24v5.vfourtrack.com/track/click/3273673h7q/67e207=
+e216e6b656679636860436f6c6c6563647f6273786163786e23757?userId=3Db2e2glbc1&b=
+randId=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb-7d4a-4766-ab9b-6565e=
+316f216&target=3Dhttps%3A%2F%2Fchat.whatsapp.com%2FJgMpJssljdQGVf7tGttrEJ&m=
+arker=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4E=
+zRfiMW2Db3rgEVXyVYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1Fl%2BghDNl3vfD9nGM=
+%2BLuRRMmJREABb7sZfECgfrg4nxERmcDtoPXmrIg7jTeIovxL1YaJCQ3RaOf%2FPgRw5ddgpyb=
+PznxQ%3D%3D" target=3D"_blank" style=3D"display: block; text-decoration: no=
+ne; vertical-align: middle;">
+                                           =
+                                             <div style=3D"display: inline-=
+block; width: 48px; height: 48px; margin: 0px 10px 0px 0px; vertical-align:=
+ middle;">
+                                                              =
+                              <img src=3D"https://v24na7.com/HTMLC-484/wtsp=
+.png" alt=3D"whatsapp" style=3D"display: block; width: 48px; height: 48px;"=
+ width=3D"48" height=3D"48">
+                                            =
+                                            </div>
+                      =
+                                                                  <div styl=
+e=3D"display: inline-block; vertical-align: middle;">
+                   =
+                                                                         <d=
+iv style=3D"text-align: left; font-family: Arial, sans-serif; text-decorati=
+on:none; font-size: 14px; color: #9ce0ff; text-transform:uppercase;">
+   =
+                                                                           =
+                  =D0=91=D0=BE=D0=BD=D1=83=D1=81=D1=8B =D0=B2 WhatsApp
+  =
+                                                                           =
+               </div>
+                                                   =
+                                     </div>
+                             =
+                                                       </a>
+             =
+                                                                   </div>=
+
+                                                                        =
+    </div>
+                                                              =
+          </td>
+                                                         =
+           </tr>
+                                                        =
+            <tr>
+                                                        =
+                <td style=3D"padding: 0px 0px 15px 0px;">
+               =
+                                                             <div style=3D"=
+text-align: center;">
+                                                   =
+                             <div style=3D"margin: 0px 15px 10px; display: =
+inline-block;">
+                                                         =
+                           <a href=3D"https://v24v5.vfourtrack.com/track/cl=
+ick/3273673h7q/67e207e216e6b656679636860436f6c6c6563647f6273786163786e23757=
+?userId=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb=
+-7d4a-4766-ab9b-6565e316f216&target=3Dmailto%3Asupport%40vulkan24club.com&m=
+arker=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4E=
+zRfiMW2Db3rgEVXyVYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1Fl%2BghDNl3vfD9nGM=
+%2BLuRRMmJREADCnVDRCmujmZvcbneN%2BHT8YArba34%2B1zCXPFpNTAFGU" target=3D"_bl=
+ank" style=3D"display: block; text-decoration: none;">
+                  =
+                                                                      <div =
+style=3D"display: inline-block; width: 32px; height: 33px; padding: 0px 5px=
+ 0px 0px; vertical-align: middle;">
+                                     =
+                                                       <img src=3D"https://=
+v24na7.com/HTMLC-484/icon-mail.png" alt=3D"mail" style=3D"display: block; w=
+idth: 32px; height: 33px;" width=3D"32" height=3D"33">
+                  =
+                                                                      </div=
+>
+                                                                       =
+                 <div style=3D"display: inline-block; vertical-align: middl=
+e;">
+                                                                    =
+                        <div style=3D"text-align: left; font-family: Arial,=
+ sans-serif; text-decoration:none; font-size: 16px; color: #47c3f7;">
+   =
+                                                                           =
+                  support@vulkan24club.com
+                              =
+                                                              </div>
+    =
+                                                                           =
+         </div>
+                                                         =
+                           </a>
+                                         =
+                                       </div>
+                           =
+                                                 </div>
+                 =
+                                                       </td>
+            =
+                                                        </tr>
+           =
+                                                         <tr>
+           =
+                                                             <td>
+       =
+                                                                     <table=
+ width=3D"100%" align=3D"center" style=3D"width: 100%;">
+                =
+                                                                <tbody>
+ =
+                                                                           =
+        <tr style=3D"text-align: center;">
+                              =
+                                                          <td style=3D"disp=
+lay: inline-block; width: 133px; height: 48px; margin: 0px 8px 10px;" width=
+=3D"133" height=3D"48">
+                                                 =
+                                           <a href=3D"https://v24v5.vfourtr=
+ack.com/track/click/3273673h7q/67e207e216e6b656679636860436f6c6c6563647f627=
+3786163786e23757?userId=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay=
+&m_id=3De1806adb-7d4a-4766-ab9b-6565e316f216&target=3Dhttps%3A%2F%2Fredirec=
+t85.com%2Fredirect%2F%3Furi%3D%252Falogin%252F27382e6152fba97b63a3db96a7a28=
+b71de5e7f8c%253FrefCode%3Dcrm_mail_V24_email_reten_new_free_reminder_1_or_2=
+_V24_reten_fresh_free_ru.11.09%2526redirect%3D%252Fmob-app&marker=3D3KQqJ92=
+I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0mVa2PrEhTVYu7IAb4EzRfiMW2Db3rgEVX=
+yVYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1Fl%2BghDNl3vfD9nGM%2BLuRRMmJREADA=
+ecgmftczfPPmVtupfu00TNF%2BIxbYNveuARVfJVgXDubgK7Qm9PY5Ka4kekRduPg%3D%3D" ta=
+rget=3D"_blank" style=3D"display: block; width: 133px; height: 48px;">
+  =
+                                                                           =
+                   <img src=3D"https://v24na7.com/HTMLC-484/dwl-appstore.pn=
+g" alt=3D"appstore" style=3D"display: block; width: 133px; height: 48px;" w=
+idth=3D"133" height=3D"48">
+                                             =
+                                               </a>
+                     =
+                                                                   </td>
+=
+                                                                           =
+             <td style=3D"display: inline-block; width: 141px; height: 48px=
+; margin: 0px 8px 10px;" width=3D"141" height=3D"48">
+                   =
+                                                                         <a=
+ href=3D"https://v24v5.vfourtrack.com/track/click/3273673h7q/67e207e216e6b6=
+56679636860436f6c6c6563647f6273786163786e23757?userId=3Db2e2glbc1&brandId=
+=3D19c59&profileId=3Da66easoplay&m_id=3De1806adb-7d4a-4766-ab9b-6565e316f21=
+6&target=3Dhttps%3A%2F%2Fredirect85.com%2Fredirect%2F%3Furi%3D%252Falogin%2=
+52F27382e6152fba97b63a3db96a7a28b71de5e7f8c%253FrefCode%3Dcrm_mail_V24_emai=
+l_reten_new_free_reminder_1_or_2_V24_reten_fresh_free_ru.11.09%2526redirect=
+%3D%252Fmob-app&marker=3D3KQqJ92I1HwnOjutw%2FdUwXNylYDPxlz7YKtKBH9fO8ra6W0m=
+Va2PrEhTVYu7IAb4EzRfiMW2Db3rgEVXyVYFw5xT4Tf1NcImBy8eockIAY3RsCiOOl3Uys5RY1F=
+l%2BghDNl3vfD9nGM%2BLuRRMmJREADAecgmftczfPPmVtupfu00TNF%2BIxbYNveuARVfJVgXD=
+RnfFgk4gKQC2Nd2LhA54pQ%3D%3D" target=3D"_blank" style=3D"display: block; wi=
+dth: 141px; height: 48px;">
+                                             =
+                                                   <img src=3D"https://v24n=
+a7.com/HTMLC-484/dwl-ggl.png" alt=3D"googleplay" style=3D"display: block; w=
+idth: 141px; height: 48px;" width=3D"141" height=3D"48">
+                =
+                                                                           =
+ </a>
+                                                                   =
+                     </td>
+                                              =
+                                      </tr>
+                             =
+                                                   </tbody>
+             =
+                                                               </table>
+ =
+                                                                       </td=
+>
+                                                                    </t=
+r>
+                                                                </tbod=
+y>
+                                                            </table>=
+
+                                                        </div>
+       =
+                                             </td>
+                      =
+                          </tr>
+                                         =
+       <tr>
+                                                    <td style=
+=3D"padding: 10px 5% 0px">
+                                              =
+          <div style=3D"text-align: center; font-size: 12px; font-family: A=
+rial, sans-serif; color: #5392e0;">
+                                     =
+                       =D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=
+=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =
+=D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =D1=87=D1=82=D0=BE =D0=BF=D0=BE=D0=
+=B4=D0=BF=D0=B8=D1=81=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=BD=D0=B0 =D1=80=
+=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83 =D0=BD=D0=B0 =D1=81=D0=B0=D0=
+=B9=D1=82=D0=B5 =D0=92=D1=83=D0=BB=D0=BA=D0=B0=D0=BD24. =D0=92=D0=B0=D1=
+=88 ID 27868321.
+                                                        =
+</div>
+                                                    </td>
+      =
+                                          </tr>
+                         =
+                       <tr>
+                                             =
+       <td style=3D"padding: 0px 5% 0px;">
+                              =
+                          <div style=3D"text-align: center; font-size: 12px=
+; font-family: Arial, sans-serif; color: #5392e0;">
+                     =
+                                       =D0=92 =D0=BB=D1=8E=D0=B1=D0=BE=
+=D0=B9 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82 =D0=B2=D1=8B =D0=BC=D0=BE=D0=
+=B6=D0=B5=D1=82=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =
+=D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=BA=D1=83, <a href=3D"https://v24v5.=
+vfourtrack.com/unsubscribe/index/eyJtYWlsIjoidi5wLmFua2V2aWNoQGNvbGxlY3Rvcn=
+NoYXNoLnN1IiwicHJvamVjdCI6MjYsImJ1bGsiOjM3NDcxNjY0NiwidHlwZSI6MSwidXNlcl9pZ=
+CI6Mjc4NjgzMjEsIm1faWQiOiJlMTgwNmFkYi03ZDRhLTQ3NjYtYWI5Yi02NTY1ZTMxNmYyMTYi=
+LCJzaWduIjoiUytONGZLNDlqRXptRmNTTkN1SGJwWEdcL0p5QT0iLCJicmFuZF9pZCI6OSwiaXN=
+fdG94aWMiOmZhbHNlLCJkb21haW4iOjE1fQ=3D=3D?u_id=3De1806adb-7d4a-4766-ab9b-65=
+65e316f216" target=3D"_blank" style=3D"text-decoration: underline; color: #=
+006dff;"><div style=3D"display: inline-block; text-decoration: underline; c=
+olor: #006dff;">=D0=BF=D1=80=D0=BE=D0=B9=D0=B4=D1=8F =D0=BF=D0=BE =D1=81=
+=D1=81=D1=8B=D0=BB=D0=BA=D0=B5</div></a>.
+                               =
+                         </div>
+                                         =
+           </td>
+                                                </tr>
+=
+                                                <tr>
+                    =
+                                <td style=3D"padding: 0px 5% 10px">
+     =
+                                                   <div style=3D"text-align=
+: center; font-size: 12px; font-family: Arial, sans-serif; color: #5392e0;"=
+>
+                                                            =C2=A92012-=
+2025
+                                                        </div>
+   =
+                                                 </td>
+                  =
+                              </tr>
+                                     =
+       </tbody>
+                                        </table>
+      =
+                              </td>
+                                </tr>=
+
+                            </tbody>
+                        </table>=
+
+                    </div>
+                </td>
+            </tr>=
+
+        </tbody>
+    </table>
+<img src=3D"https://v24v5.vfourtrack.c=
+om/track/open/3273673h7q/67e207e216e6b656679636860436f6c6c6563647f627378616=
+3786e23757.png?userId=3Db2e2glbc1&brandId=3D19c59&profileId=3Da66easoplay&m=
+_id=3De1806adb-7d4a-4766-ab9b-6565e316f216" alt=3D"" width=3D"1" height=3D"=
+1"></body>
+
+</html>
+--GeCMrjoo--
+

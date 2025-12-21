@@ -1,0 +1,593 @@
+Delivered-To: testtest@mail.ru
+Return-path: <noreply@chek.pofd.ru>
+Received-SPF: pass (exim-mx-67f85bb978-2v479: domain of chek.pofd.ru designates 185.170.205.96 as permitted sender) client-ip=185.170.205.96; envelope-from=noreply@chek.pofd.ru; helo=ofd-postfix3.pofd.ru;
+Received: from ofd-postfix3.pofd.ru ([185.170.205.96]:39364)
+	by exim-mx-67f85bb978-2v479 with esmtp (envelope-from <noreply@chek.pofd.ru>)
+	id 1vKJVf-000000003mK-1VqT
+	for testtest@mail.ru; Sat, 15 Nov 2025 19:52:23 +0300
+Received: from ofd-app11.ev.local (ofd-app11.ev.local [10.12.43.79])
+	by ofd-postfix3.pofd.ru (Postfix) with ESMTP id 185A8231A8F
+	for <testtest@mail.ru>; Sat, 15 Nov 2025 19:52:23 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=chek.pofd.ru;
+	s=ofdchekpf; t=1763225543;
+	bh=uD8g64gA9+3Olv+MFfPvTmnSWrVNiIRKbzZuSvJXx6A=;
+	h=Date:From:To:Subject;
+	b=kpLzfTdASf/lb0nI6u/TWrLewz+ELTOgOSfxmMSTgd0Tzc2XnXAkJuU7wyaYho6ek
+	 7UBOflj5iO2EXQGoq00BxbTByxCWfdlbiClrpTPXaqjoqXg2w2Lkh2kUXP96QRhlUr
+	 Kdcb6wiE4XCtiJ8Nity4feHwvajEXysPQwHihkvg=
+Date: Sat, 15 Nov 2025 19:52:23 +0300 (MSK)
+From: noreply@chek.pofd.ru
+To: testtest@mail.ru
+Message-ID: <1893860788.8893068.1763225543103.JavaMail.tomcat@ofd-app11>
+Subject: =?UTF-8?B?0KfQtdC6INC4INC/0L7QtNCw0YDQvtC6LiDQkNCeIA==?=
+ =?UTF-8?B?0KHQmNCd0JXQnNCQINCf0JDQoNCaLCA3NzAg4oK9?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_8893067_93602612.1763225543093"
+format: flowed
+X-Mailru-Src: mx
+X-4EC0790: 10
+X-7564579A: 646B95376F6C166E
+X-77F55803: E822A06ED42C499A6EC0B52A36E1A67A6831B88A787761A06258E3F9A6C7EC764A56C7EBF76F9292BFB2353F6767998F951D7213C7E753A79A88D1F22AAAD7A821FFE8126879B6423DAA99A5DA82F0E9
+X-7FA49CB5: FF5795518A3D127A4AD6D5ED66289B5278DA827A17800CE7A3DED2DACB82E709C2099A533E45F2D0395957E7521B51C2CFCAF695D4D8E9FCEA1F7E6F0F101C6778DA827A17800CE78E61D63CA3BB98568F08D7030A58E5ADC58D69EE07B14084F39EFFDF887939037866D6147AF826D83EFCC035BF7F901DD5F95BCFCFDA8095FCC8C6E9DB18F8B9
+X-C1DE0DAB: 0D63561A33F958A576BE75F30E7286E45002B1117B3ED6966B8474D93E667B31484B8D70797403F6277AA237ED671D4372AF3B35EA4094CC989FD0BDF65E50FB9C5DF10A05D560A97C2FCC2414B0771EAE9AA65D09B166D8B4C3F08A0C1F3162C79554A2A72441324ECABB3E3C951CC822D2CEDE4E95CF1B1E618B5D5F965AFD40F48FBD240CC927B2D1C9E48B6DC60AE2A7E19323554B122E763F503762DF508FEF598CEA4097314EAF44D9B582CE87C8A4C02DF684249C787CBDA4B9FA07ACF7B76E38668CBF3DF6228F3B180FA51DD0283EA430FA964B102C424A7CFAF5CB559C6C5561145D6F17C1E67C4FCC32AC4AC6F0C3BBD4C0F458C12E6D310A6D535F2DAE10A93BB133
+X-C8649E89: 1C3962B70DF3F0ADDBCFC3C94E05496E9453938287BE9D165549AD62737CC1891004E42C50DC4CA955A7F0CF078B5EC49A30900B95165D34CAFBC0A7A4BEEE01992013706C2688A5A2870ECD41E6E06681DA8AD830C5490342D14986F5F6AF971D7E09C32AA3244CC6A82CFC117D724D77DD89D51EBB7742F2E3E97F9ED96A1FEA455F16B58544A2C99F59F2F009F096D81778BBCCC7E7B931454A7A550A033F78A174710A7059A4CC2E138FFB4ACBED
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu53w8ahmwBjZKM/YPHZyZHvz5uv+WouB9+OfQ224tzWB8nfOQpxYwmE7vQD3UB9D76Zz+as/Gjtpo0yc4xxguKIL1bswd831VAbRDXmem+Wr9X5wgRN+CVA5FnTOkMRPhmuTeKCKSt0eVYY2MW5sGwze/cqh8lPYi3Dg==
+X-F696D7D5: LwDnx7U7JB1KD2oU+mBvrIFqgwAqeo+zPkw1t9ewF72ccQw85DOX0vewyqFQWID/
+X-Mailru-BIMI-Organization: z+vg8vTu8OzgIM7UxA==
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=noreply@chek.pofd.ru
+X-Mailru-Noreply: yes
+X-Mras: Ok
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (exim-mx-67f85bb978-2v479: domain of chek.pofd.ru designates 185.170.205.96 as permitted sender) smtp.mailfrom=noreply@chek.pofd.ru smtp.helo=ofd-postfix3.pofd.ru;
+	 dkim=pass header.d=chek.pofd.ru; dmarc=pass header.from=noreply@chek.pofd.ru
+X-Mailru-Intl-Transport: d,2affdb9
+
+------=_Part_8893067_93602612.1763225543093
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns=3D"http://www.w3.org/1999/xh=
+tml"> <head> <meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Con=
+tent-Type"/> <meta content=3D"width=3Ddevice-width" name=3D"viewport"/> <ti=
+tle>=D0=A7=D0=B5=D0=BA</title> </head> <body style=3D"background-color: #F8=
+F8F8; box-sizing: border-box; margin: 0; padding: 0;"> <table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"margin:0; padding:0"> <tr> <td align=3D"center"> <div style=3D"width: 5=
+40px; max-width: 540px; padding: 0; margin: 0 auto; box-sizing: border-box;=
+" class=3D"w540" > <!-- The big_data_container id used in CORE to check pro=
+mo contains --> <table width=3D"480" style=3D"width: 480px; max-width: 480p=
+x; padding-top: 24px; padding-bottom: 16px; padding-right: 0; padding-left:=
+ 0;" class=3D"w480 big_data_container" id=3D"big_data_container" > <!-- Fro=
+m BigData --> <!-- =D0=9D=D0=B0=D1=87=D0=B0=D0=BB=D0=BE --> <table> <tr> <t=
+d> <span style=3D"font-weight: 500; color:#f8f8f8; font-size: 0; line-heigh=
+t: 1px; margin: 0"> =D0=92=D0=B0=D0=BC =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=
+=D0=B5=D0=BD (1) =D0=BF=D0=BE=D0=B4=D0=B0=D1=80=D0=BE=D0=BA =D0=B7=D0=B0 =
+=D0=BF=D0=BE=D0=BA=D1=83=D0=BF=D0=BA=D1=83! </span></div> </td> </tr> </tab=
+le> <!-- BLOCK_1 --> <table cellpadding=3D"0" cellspacing=3D"0" width=3D"48=
+0" border=3D"0" style=3D"max-width: 480px; min-width: 480px; width: 480px;"=
+> <tr em=3D"block"> <td align=3D"center" style=3D"padding: 0; margin: 0; ba=
+ckground-color:#E2EBFC; border-radius: 8px;" bgcolor=3D"#E2EBFC"> <table ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"480" border=3D"0"> <tr> <td heig=
+ht=3D"8" /> </tr> </table> <a href=3D"https://urlstats.platformaofd.ru/publ=
+ic/api/v1/go/eyJhbGciOiJIUzI1NiJ9.eyJ1IjoiaHR0cHM6Ly9wcmYuc3UvcHhsIn0.9gENY=
+XfVCgEYHihKKI4wdqmOuW6Kcr3nSkR_loHxv7s?i=3Db0ce98e300f31e38943de4c35825fa25=
+&r=3D236922f726" target=3D"_blank" style=3D"width: 100%; display: block; te=
+xt-decoration: none; padding: 0px;"> <table width=3D"100%" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0"> <tr> <td width=3D"91" align=3D"center"> <=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"91px" em=3D=
+"atom"> <tr> <td align=3D"center"> <img src=3D"https://urlstats.platformaof=
+d.ru/public/api/v1/go/eyJhbGciOiJIUzI1NiJ9.eyJ1IjoiaHR0cHM6Ly9jZG4xLnBsYXRm=
+b3JtYW9mZC5ydS9jaGVja21hcmtldGluZy9KMUtmTGVFa3YzaHA4ZzgxY0tvUEFrYzk5WEtvcHh=
+GQ2RNWHNQNEZSRGR5VD9vPTA5MTAyNV8xXzYxLnBuZyJ9.amcT7PrDSPTnQzzpmdkz-omgauVCQ=
+bVoAxNzTBymYiM?i=3Db0ce98e300f31e38943de4c35825fa25&r=3D236922f726" width=
+=3D"64" border=3D"0" alt=3D"=E2=AD=90=EF=B8=8F =D0=9F=D0=BE=D0=B4=D0=B0=D1=
+=80=D0=BE=D0=BA 1 =E2=AD=90=EF=B8=8F" style=3D"display: block; width: 100%;=
+ max-width: 64px; min-width: 64px;" height=3D"64" /> </td> </tr> </table> <=
+/td> <td> <table width=3D"251" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" em=3D"atom"> <tr> <td width=3D"251"> <div style=3D"letter-spacing: 0=
+.01em;font-family: Arial, Helvetica; text-decoration: none; font-weight: 70=
+0; font-size: 18px; line-height: 20px; color: #333333; max-width: 251px; mi=
+n-width: 251px;"> <strong style=3D"font-weight: 700;">=D0=9F=D0=BE=D0=B4=D0=
+=B0=D1=80=D0=BE=D0=BA =D0=B7=D0=B0 =D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D1=83</st=
+rong> </div> </td> </tr> </table> </td> <td valign=3D"middle" width=3D"138"=
+ align=3D"center"> <table cellpadding=3D"8" cellspacing=3D"0" border=3D"0" =
+width=3D"110" height=3D"32" style=3D"width: 110px;height: 32px;"> <tr> <td =
+align=3D"center" valign=3D"middle" style=3D"border-radius: 4px; background-=
+color: #0B66F9;" bgcolor=3D"#0B66F9"> <span style=3D"width: 100%; display: =
+block; font-family: Arial, Helvetica; text-decoration: none; font-weight: 4=
+00; color: #FFFFFF; font-size: 12px; text-decoration: none; white-space: no=
+wrap; padding: 0px;"> =D0=97=D0=B0=D0=B1=D1=80=D0=B0=D1=82=D1=8C </span> </=
+td> </tr> </table> </td> </tr> </table> </a> <table cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"480" border=3D"0"> <tr> <td height=3D"8" /> </tr> </t=
+able> </td> </tr> <!-- MARGIN --> <tr> <td height=3D"8"></td> </tr> <!-- MA=
+RGIN --> </table> <!-- BLOCK_1 --> <!-- BLOCK_2 --> <table cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"480" border=3D"0" style=3D"max-width: 480px; m=
+in-width: 480px; width: 480px;"> <tr em=3D"block"> <td align=3D"center" sty=
+le=3D"padding: 0; margin: 0; background-color:#FFFFFF; border-radius: 8px;"=
+ bgcolor=3D"#FFFFFF"> <table cellpadding=3D"0" cellspacing=3D"0" width=3D"4=
+80" border=3D"0"> <tr> <td height=3D"8" /> </tr> </table> <a href=3D"https:=
+//urlstats.platformaofd.ru/public/api/v1/go/eyJhbGciOiJIUzI1NiJ9.eyJ1IjoiaH=
+R0cHM6Ly9yaXMucHJvbW8vP3doYXRfaWQ9NjhkZTk3YzMyMDU1ZWU1NTRhMzNkMWMxJnV0bV9zb=
+3VyY2U9cGxhdGZvcm1hX29mZCZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249RF85LjEwX3do=
+aXRlX2JhY2tfcmF6Ymxva3xzfHBsYXRmb3JtYV9vZmR8bXxjcGN8cGx8ZW1haWx8Y3J8YmFubmV=
+yIn0.LFjrkUXGjG5WCjx6hkxf3T1aMVWzqhF54GYrXRyHwpA?i=3Db0ce98e300f31e38943de4=
+c35825fa25&r=3D236922f726" target=3D"_blank" style=3D"width: 100%; display:=
+ block; text-decoration: none; padding: 0px;"> <table width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td width=3D"91" align=3D"=
+center"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"9=
+1px" em=3D"atom"> <tr> <td align=3D"center"> <img src=3D"https://urlstats.p=
+latformaofd.ru/public/api/v1/go/eyJhbGciOiJIUzI1NiJ9.eyJ1IjoiaHR0cHM6Ly9jZG=
+4xLnBsYXRmb3JtYW9mZC5ydS9jaGVja21hcmtldGluZy9BRWV4VGZVZDdRY2NCa0JUaEZEZUg2b=
+VpLenJvaWZCVnM4NjdHaU5uRDJraT9vPWdpZnRfYmx1ZS5wbmcifQ.u2paFVxS20b8Yezz74P7a=
+vqhJGnwxnp1AxIgdne-U-w?i=3Db0ce98e300f31e38943de4c35825fa25&r=3D236922f726"=
+ width=3D"64" border=3D"0" alt=3D"=E2=AD=90=EF=B8=8F =D0=9F=D0=BE=D0=B4=D0=
+=B0=D1=80=D0=BE=D0=BA 2 =E2=AD=90=EF=B8=8F" style=3D"display: block; width:=
+ 100%; max-width: 64px; min-width: 64px;" height=3D"64" /> </td> </tr> </ta=
+ble> </td> <td> <table width=3D"251" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" em=3D"atom"> <tr> <td width=3D"251"> <div style=3D"letter-spacin=
+g: 0.01em;font-family: Arial, Helvetica; text-decoration: none; font-weight=
+: 700; font-size: 18px; line-height: 20px; color: #1F2021; max-width: 251px=
+; min-width: 251px;"> <strong style=3D"font-weight: 700;">=D0=9F=D0=BE=D0=
+=B4=D0=B0=D1=80=D0=BE=D0=BA =D0=B7=D0=B0 =D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D1=
+=83 =D1=80=D0=B0=D0=B7=D0=B1=D0=BB=D0=BE=D0=BA=D0=B8=D1=80=D0=BE=D0=B2=D0=
+=B0=D0=BD</strong> </div> </td> </tr> </table> </td> <td valign=3D"middle" =
+width=3D"138" align=3D"center"> <table cellpadding=3D"8" cellspacing=3D"0" =
+border=3D"0" width=3D"110" height=3D"32" style=3D"width: 110px;height: 32px=
+;"> <tr> <td align=3D"center" valign=3D"middle" style=3D"border-radius: 4px=
+; background-color: #0B66F9;" bgcolor=3D"#0B66F9"> <span style=3D"width: 10=
+0%; display: block; font-family: Arial, Helvetica; text-decoration: none; f=
+ont-weight: 400; color: #FFFFFF; font-size: 12px; text-decoration: none; wh=
+ite-space: nowrap; padding: 0px;"> =D0=90=D0=BA=D1=82=D0=B8=D0=B2=D0=B8=D1=
+=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C </span> </td> </tr> </table> </td> </tr> =
+</table> </a> <table cellpadding=3D"0" cellspacing=3D"0" width=3D"480" bord=
+er=3D"0"> <tr> <td height=3D"8" /> </tr> </table> </td> </tr> <!-- MARGIN -=
+-> <tr> <td height=3D"8"></td> </tr> <!-- MARGIN --> </table> <!-- BLOCK_2 =
+--> <!-- /From BigData --> </table> <table style=3D"width: 540px; max-width=
+: 540px; margin: 0 auto; padding-top: 16px; padding-bottom: 16px; padding-r=
+ight: 0; padding-left: 0;" class=3D"w540" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"540" > <!-- Check body --> <tr> <td> <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"backgrou=
+nd-color:; margin: 0; padding: 0;"> <tr> <td height=3D"100%" align=3D"cente=
+r"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+style=3D"margin: 0; padding: 0"> <!-- =D0=92=D0=B5=D1=80=D1=85=D0=BD=D1=8F=
+=D1=8F =D0=B2=D0=BE=D0=BB=D0=BD=D0=B0 --> <tr> <td height=3D"100%" align=3D=
+"center" style=3D"padding-top: 12px"> <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"480" style=3D"width: 100%; max-width: 480px; ma=
+rgin: 0; padding: 0"> <tr> <td align=3D"center" valign=3D"bottom"> <img src=
+=3D"https://cdn1.platformaofd.ru/fido-constructor-prod/static/img/wave-up.p=
+ng?v=3D1" alt=3D"=D0=B2=D0=BE=D0=BB=D0=BD=D0=B0" border=3D"0" width=3D"480"=
+ height=3D"5" style=3D"display: block; width: 480px; max-width: 480px;" cla=
+ss=3D"w480" /> </td> </tr> </table> </td> </tr> <!-- /=D0=92=D0=B5=D1=80=D1=
+=85=D0=BD=D1=8F=D1=8F =D0=B2=D0=BE=D0=BB=D0=BD=D0=B0 --> <!-- =D0=A2=D0=B5=
+=D0=BB=D0=BE --> <tr> <td height=3D"100%" align=3D"center"> <!-- =D0=9A=D0=
+=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=82 --> <table bgcolor=3D"#ffffff" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"480" style=3D"width: 480px;=
+ max-width: 480px; margin: 0; padding: 0; padding-left: 37px; padding-right=
+: 37px; border-left: 1px solid #ededed; border-right: 1px solid #ededed; ba=
+ckground-color: #ffffff;" class=3D"w480" > <tr> <td align=3D"center"> <!-- =
+=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 --> <table bgcolor=3D"#fff=
+fff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"margin: 0; padding: 0"> <tr> <td align=3D"center" style=3D"padding-top:=
+ 45px"> <span style=3D"color: #304d5d; font: 12px Arial, Helvetica, serif; =
+line-height: 12px; -webkit-text-size-adjust: none; display: block"> <b>=D0=
+=90=D0=BA=D1=86=D0=B8=D0=BE=D0=BD=D0=B5=D1=80=D0=BD=D0=BE=D0=B5 =D0=BE=D0=
+=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BE &quot;=D0=A1=D0=98=D0=9D=D0=95=D0=
+=9C=D0=90 =D0=9F=D0=90=D0=A0=D0=9A&quot;</b> </span> </td> </tr> <tr> <td a=
+lign=3D"center" style=3D"padding-top: 20px"> <span style=3D"color: #304d5d;=
+ font: 13px Arial, Helvetica, serif; line-height: 18px; -webkit-text-size-a=
+djust: none; display: block">127410, =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0 =
+=D0=B3, =D0=90=D0=BB=D1=82=D1=83=D1=84=D1=8C=D0=B5=D0=B2=D1=81=D0=BA=D0=BE=
+=D0=B5 =D1=88, =D0=B4=D0=BE=D0=BC =E2=84=96 33=D0=93</span> </td> </tr> <tr=
+> <td align=3D"center" style=3D"padding-top: 15px"> <span style=3D"color: #=
+304d5d; font: 13px Arial, Helvetica, serif; line-height: 18px; -webkit-text=
+-size-adjust: none; display: block">=D0=98=D0=9D=D0=9D 7705353706</span> </=
+td> </tr> <tr> <td align=3D"center" style=3D"padding-top: 15px"> <span styl=
+e=3D"color: #304d5d; font: 13px Arial, Helvetica, serif; line-height: 18px;=
+ -webkit-text-size-adjust: none; display: block"> =D0=9C=D0=B5=D1=81=D1=82=
+=D0=BE =D1=80=D0=B0=D1=81=D1=87=D1=91=D1=82=D0=BE=D0=B2: <span>https://kino=
+teatr.ru</span> </span> </td> </tr> <!-- =D0=9F=D0=BE=D0=BB=D0=BE=D1=81=D0=
+=BA=D0=B0 --> <tr> <td align=3D"center" style=3D"padding-top: 35px; border-=
+bottom: 1px solid #e8e8e8">&nbsp; </td> </tr> <!-- /=D0=9F=D0=BE=D0=BB=D0=
+=BE=D1=81=D0=BA=D0=B0 --> </table> <!-- /=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=
+=BD=D0=B8=D0=B5 --> <!-- =D0=9A=D0=B0=D1=81=D1=81=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=87=D0=B5=D0=BA --> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <t=
+r> <td align=3D"center" style=3D"padding-top: 50px"> <span style=3D"color: =
+#639fa4; font: 14px Arial, Helvetica, serif; line-height: 14px; -webkit-tex=
+t-size-adjust: none; display: block"> <b> <span>=D0=91=D0=9B=D0=90=D0=9D=D0=
+=9A =D0=A1=D0=A2=D0=A0=D0=9E=D0=93=D0=9E=D0=99 =D0=9E=D0=A2=D0=A7=D0=95=D0=
+=A2=D0=9D=D0=9E=D0=A1=D0=A2=D0=98</span> <span> =E2=84=962645</span> </b> <=
+/span> </td> </tr> <!-- =D0=A2=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B0 =D1=81 =
+=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC=D0=B8 --> <tr> <td style=3D"padding-to=
+p: 40px; padding-bottom: 33px; border-bottom: 1px solid #e8e8e8"> <!-- date=
+TimeString --> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td al=
+ign=3D"left" valign=3D"top"> <span style=3D"color: #304d5d; font: 11px Aria=
+l, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; dis=
+play: block"> <span>=D0=9F=D1=80=D0=B8=D1=85=D0=BE=D0=B4</span> </span> </t=
+d> <td align=3D"right" valign=3D"top"> <span style=3D"color: #304d5d; font:=
+ 11px Arial, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust:=
+ none; display: block">15.11.2025 19:51</span> </td> </tr> </table> <!-- /d=
+ateTimeString --> <!-- main_field --> <table bgcolor=3D"#ffffff" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; p=
+adding: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D"padding-top: 10=
+px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; lin=
+e-height: 12px; -webkit-text-size-adjust: none; display: block">=D0=A1=D0=
+=BC=D0=B5=D0=BD=D0=B0</span> </td> <td align=3D"right" valign=3D"top" style=
+=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial, He=
+lvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; display:=
+ block">87</span> </td> </tr> </table> <table bgcolor=3D"#ffffff" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; =
+padding: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D"padding-top: 1=
+0px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; li=
+ne-height: 12px; -webkit-text-size-adjust: none; display: block">=D0=A1=D0=
+=B0=D0=B9=D1=82 =D0=A4=D0=9D=D0=A1</span> </td> <td align=3D"right" valign=
+=3D"top" style=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: =
+none; display: block">www.nalog.gov.ru</span> </td> </tr> </table> <table b=
+gcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: =
+none; display: block">=D0=A2=D0=B5=D0=BB=D0=B5=D1=84=D0=BE=D0=BD =D0=B8=D0=
+=BB=D0=B8 =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=
+=B9 =D0=B0=D0=B4=D1=80=D0=B5=D1=81 =D0=BF=D0=BE=D0=BA=D1=83=D0=BF=D0=B0=D1=
+=82=D0=B5=D0=BB=D1=8F</span> </td> <td align=3D"right" valign=3D"top" style=
+=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial, He=
+lvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; display:=
+ block">testtest@mail.ru</span> </td> </tr> </table> <span> <table bgco=
+lor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top=
+" style=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Ar=
+ial, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; d=
+isplay: block">=D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D1=80=D0=B0=D1=
+=81=D1=87=D0=B5=D1=82=D0=B0 =D0=B2 =C2=AB=D0=98=D0=BD=D1=82=D0=B5=D1=80=D0=
+=BD=D0=B5=D1=82=C2=BB</span> </td> <td align=3D"right" valign=3D"top" style=
+=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial, He=
+lvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; display:=
+ block">=D0=94=D0=B0</span> </td> </tr> </table> </span> <table bgcolor=3D"=
+#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" st=
+yle=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" style=
+=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial, He=
+lvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; display:=
+ block">=D0=AD=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D0=B9 =
+=D0=B0=D0=B4=D1=80=D0=B5=D1=81 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8F</span> </td> <td align=3D"right" valign=3D"top" st=
+yle=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial,=
+ Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; displ=
+ay: block">noreply@chek.pofd.ru</span> </td> </tr> </table> <table bgcolor=
+=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" s=
+tyle=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial=
+, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; disp=
+lay: block">=D0=9D=D0=BE=D0=BC=D0=B5=D1=80 =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=
+=D0=B0=D1=82=D0=B0</span> </td> <td align=3D"right" valign=3D"top" style=3D=
+"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial, Helve=
+tica, serif; line-height: 12px; -webkit-text-size-adjust: none; display: bl=
+ock">3010001</span> </td> </tr> </table> <!-- /main_field --> <table bgcolo=
+r=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" =
+style=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Aria=
+l, Helvetica, serif; line-height: 12px; -webkit-text-size-adjust: none; dis=
+play: block">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D0=BC=D0=B0=
+=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B0=D0=BB=D0=BE=
+=D0=B3=D0=BE=D0=BE=D0=B1=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F</span> <=
+/td> <td align=3D"right" valign=3D"top" style=3D"padding-top: 10px"> <span =
+style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-height: 1=
+2px; -webkit-text-size-adjust: none; display: block"> <span>=D0=9E=D0=A1=D0=
+=9D</span> </span> </td> </tr> </table> <!-- =D0=9F=D1=80=D0=B8=D0=B7=D0=BD=
+=D0=B0=D0=BA =D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=B0 --> <!-- /=D0=9F=D1=80=D0=
+=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=B0 --> </td> =
+</tr> <!-- /=D0=A2=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B0 =D1=81 =D0=B4=D0=B0=
+=D0=BD=D0=BD=D1=8B=D0=BC=D0=B8 --> </table> <!-- /=D0=9A=D0=B0=D1=81=D1=81=
+=D0=BE=D0=B2=D1=8B=D0=B9 =D1=87=D0=B5=D0=BA --> <!-- =D0=9F=D1=80=D0=B5=D0=
+=B4=D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D0=B0 --> <span> <table bgcolor=3D"#fffff=
+f" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D=
+"margin: 0; padding: 0"> <tr> <td align=3D"center" style=3D"padding-top: 45=
+px; padding-bottom: 20px; border-bottom: 1px solid #e8e8e8"> <!-- itemName =
+--> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"le=
+ft" valign=3D"top"> <span style=3D"color: #304d5d; font: 12px Arial, Helvet=
+ica, serif; line-height: 12px; -webkit-text-size-adjust: none; display: blo=
+ck"> <b>1: 16.11.2025 13:05 =D0=A5=D0=BE=D0=B4=D1=8F=D1=87=D0=B8=D0=B9 =D0=
+=B7=D0=B0=D0=BC=D0=BE=D0=BA. (=D0=B4=D1=83=D0=B1=D0=BB=D1=8F=D0=B6 =D0=A1=
+=D1=82=D1=83=D0=B4=D0=B8=D0=B9=D0=BD=D0=B0=D1=8F =D0=B1=D0=B0=D0=BD=D0=B4=
+=D0=B0 ) 2D, 6+, =D0=B7.07, =D1=80.4, =D0=BC.5</b> </span> </td> </tr> </ta=
+ble> <!-- /itemName --> <!-- =D0=A6=D0=B5=D0=BD=D0=B0 --> <table bgcolor=3D=
+"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" s=
+tyle=3D"margin: 0; padding: 0"> <tr> <td align=3D"right" valign=3D"top" sty=
+le=3D"padding-top: 10px"> <span style=3D"color: #304d5d; font: 11px Arial, =
+Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: none; displa=
+y: block"> <b> <span>1 </span> <span> <span><!-- --></span> </span> x <span=
+>770.00</span> </b> </span> </td> </tr> </table> <!-- /=D0=A6=D0=B5=D0=BD=
+=D0=B0 --> <!-- =D0=94=D1=80=D0=BE=D0=B1=D1=8C --> <!-- /=D0=94=D1=80=D0=BE=
+=D0=B1=D1=8C --> <!-- =D0=95=D0=B4=D0=B8=D0=BD=D0=B8=D1=86=D0=B0 =D0=B8=D0=
+=B7=D0=BC=D0=B5=D1=80=D0=B5=D0=BD=D0=B8=D1=8F --> <!-- /=D0=95=D0=B4=D0=B8=
+=D0=BD=D0=B8=D1=86=D0=B0 =D0=B8=D0=B7=D0=BC=D0=B5=D1=80=D0=B5=D0=BD=D0=B8=
+=D1=8F --> <!-- =D0=9E=D0=B1=D1=89=D0=B0=D1=8F =D1=81=D1=82=D0=BE=D0=B8=D0=
+=BC=D0=BE=D1=81=D1=82=D1=8C =D0=BF=D0=BE=D0=B7=D0=B8=D1=86=D0=B8=D0=B8 --> =
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" va=
+lign=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; fo=
+nt: 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adju=
+st: none; display: block"> =D0=9E=D0=B1=D1=89=D0=B0=D1=8F =D1=81=D1=82=D0=
+=BE=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D1=8C =D0=BF=D0=BE=D0=B7=D0=B8=D1=86=D0=
+=B8=D0=B8 =D1=81 =D1=83=D1=87=D0=B5=D1=82=D0=BE=D0=BC =D1=81=D0=BA=D0=B8=D0=
+=B4=D0=BE=D0=BA =D0=B8 =D0=BD=D0=B0=D1=86=D0=B5=D0=BD=D0=BE=D0=BA </span> <=
+/td> <td align=3D"right" valign=3D"top" style=3D"padding-top: 12px"> <span =
+style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-height: 1=
+1px; -webkit-text-size-adjust: none; display: block">770.00</span> </td> </=
+tr> </table> <!-- /=D0=9E=D0=B1=D1=89=D0=B0=D1=8F =D1=81=D1=82=D0=BE=D0=B8=
+=D0=BC=D0=BE=D1=81=D1=82=D1=8C =D0=BF=D0=BE=D0=B7=D0=B8=D1=86=D0=B8=D0=B8 -=
+-> <!-- =D0=A1=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =D0=9D=D0=94=D0=A1 --> <table =
+bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: =
+none; display: block">=D0=A1=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =D0=9D=D0=94=D0=
+=A1</span> </td> <td align=3D"right" valign=3D"top" style=3D"padding-top: 1=
+2px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; li=
+ne-height: 11px; -webkit-text-size-adjust: none; display: block"> <span>=D0=
+=BD=D0=B5 =D0=BE=D0=B1=D0=BB=D0=B0=D0=B3=D0=B0=D0=B5=D1=82=D1=81=D1=8F</spa=
+n> </span> </td> </tr> </table> <!-- /=D0=A1=D1=82=D0=B0=D0=B2=D0=BA=D0=B0 =
+=D0=9D=D0=94=D0=A1 --> <!-- =D0=A1=D1=83=D0=BC=D0=BC=D0=B0 =D0=9D=D0=94=D0=
+=A1 =D0=B7=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82 =D1=80=D0=B0=D1=
+=81=D1=87=D0=B5=D1=82=D0=B0 --> <!-- /=D0=A1=D1=83=D0=BC=D0=BC=D0=B0 =D0=9D=
+=D0=94=D0=A1 =D0=B7=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82 =D1=80=
+=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 --> <!-- =D0=A1=D0=BF=D0=BE=D1=81=D0=
+=BE=D0=B1 =D1=80=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 --> <table bgcolor=3D"=
+#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" st=
+yle=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" style=
+=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, He=
+lvetica, serif; line-height: 11px; -webkit-text-size-adjust: none; display:=
+ block">=D0=A1=D0=BF=D0=BE=D1=81=D0=BE=D0=B1 =D1=80=D0=B0=D1=81=D1=87=D0=B5=
+=D1=82=D0=B0</span> </td> <td align=3D"right" valign=3D"top" style=3D"paddi=
+ng-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, =
+serif; line-height: 11px; -webkit-text-size-adjust: none; display: block"> =
+<span>=D0=9F=D0=A0=D0=95=D0=94=D0=9E=D0=9F=D0=9B=D0=90=D0=A2=D0=90 100%</sp=
+an> </span> </td> </tr> </table> <!-- /=D0=A1=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=
+ =D1=80=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 --> <!-- =D0=9F=D1=80=D0=B8=D0=
+=B7=D0=BD=D0=B0=D0=BA =D0=BF=D1=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82=D0=B0 =D1=
+=80=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 (=D1=82=D1=8D=D0=B3 1212) --> <tabl=
+e bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: =
+none; display: block">=D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=BF=D1=
+=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82=D0=B0 =D1=80=D0=B0=D1=81=D1=87=D0=B5=D1=
+=82=D0=B0</span> </td> <td align=3D"right" valign=3D"top" style=3D"padding-=
+top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, ser=
+if; line-height: 11px; -webkit-text-size-adjust: none; display: block"> <sp=
+an>=D0=A3=D1=81=D0=BB=D1=83=D0=B3=D0=B0</span> </span> </td> </tr> </table>=
+ <!-- /=D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=BF=D1=80=D0=B5=D0=B4=
+=D0=BC=D0=B5=D1=82=D0=B0 =D1=80=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 (=D1=82=
+=D1=8D=D0=B3 1212) --> <!-- =D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=
+=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=B0 =D0=BF=D0=BE =D0=BF=D1=80=D0=B5=D0=B4=D0=
+=BC=D0=B5=D1=82=D1=83 =D1=80=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 --> <!-- /=
+=D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=B0=D0=B3=D0=B5=D0=BD=D1=82=
+=D0=B0 =D0=BF=D0=BE =D0=BF=D1=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82=D1=83 =D1=80=
+=D0=B0=D1=81=D1=87=D0=B5=D1=82=D0=B0 --> <!-- Fragment - field --> <table b=
+gcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: =
+none; display: block">=D0=94=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=
+=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=80=D0=B5=D0=BA=D0=B2=D0=B8=D0=B7=D0=
+=B8=D1=82 =D0=BF=D1=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82=D0=B0 =D1=80=D0=B0=D1=
+=81=D1=87=D0=B5=D1=82=D0=B0</span> </td> <td align=3D"right" valign=3D"top"=
+ style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Ari=
+al, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: none; di=
+splay: block">=D0=9F=D0=A3: 124008124 =D0=9A=D0=A2: =D0=A4=D0=BE=D1=80=D0=
+=BC=D1=83=D0=BB=D0=B0 =D0=9A=D0=B8=D0=BD=D0=BE =D0=A6=D0=94=D0=9C</span> </=
+td> </tr> </table> <!-- /Fragment - field --> </td> </tr> </table> </span> =
+<!-- /=D0=9F=D1=80=D0=B5=D0=B4=D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D0=B0 --> <!--=
+ =D0=98=D1=82=D0=BE=D0=B3=D0=BE --> <table bgcolor=3D"#ffffff" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; pad=
+ding: 0"> <tr> <td align=3D"center" style=3D"padding-top: 40px; padding-bot=
+tom: 20px; border-bottom: 1px solid #e8e8e8"> <!-- =D0=98=D0=A2=D0=9E=D0=93=
+ --> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"le=
+ft" valign=3D"top" style=3D"padding-bottom: 12px"> <span style=3D"color: #3=
+04d5d; font: 16px Arial, Helvetica, serif; line-height: 16px; -webkit-text-=
+size-adjust: none; display: block"> <b>=D0=98=D0=A2=D0=9E=D0=93</b> </span>=
+ </td> <td align=3D"right" valign=3D"top" style=3D"padding-bottom: 12px"> <=
+span style=3D"color: #304d5d; font: 17px Arial, Helvetica, serif; line-heig=
+ht: 17px; -webkit-text-size-adjust: none; display: block"> <b> =3D <span>77=
+0.00</span> </b> </span> </td> </tr> </table> <!-- /=D0=98=D0=A2=D0=9E=D0=
+=93 --> <!-- =D0=A2=D0=B5=D0=B3 1234 =D1=81 =D0=BF=D0=BE=D0=B4=D1=82=D0=B5=
+=D0=B3=D0=B0=D0=BC=D0=B8 --> <!-- /=D0=A2=D0=B5=D0=B3 1234 =D1=81 =D0=BF=D0=
+=BE=D0=B4=D1=82=D0=B5=D0=B3=D0=B0=D0=BC=D0=B8 --> <!-- =D0=98=D0=A2=D0=9E=
+=D0=93 - =D0=A2=D0=B5=D0=BB=D0=BE =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D1=
+=8B --> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"=
+left" valign=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #30=
+4d5d; font: 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-s=
+ize-adjust: none; display: block">=D0=9D=D0=90=D0=9B=D0=98=D0=A7=D0=9D=D0=
+=AB=D0=9C=D0=98</span> </td> <td align=3D"right" valign=3D"top" style=3D"pa=
+dding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetic=
+a, serif; line-height: 11px; -webkit-text-size-adjust: none; display: block=
+">0.00</span> </td> </tr> </table> <table bgcolor=3D"#ffffff" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; padd=
+ing: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D"padding-top: 12px"=
+> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-h=
+eight: 11px; -webkit-text-size-adjust: none; display: block">=D0=91=D0=95=
+=D0=97=D0=9D=D0=90=D0=9B=D0=98=D0=A7=D0=9D=D0=AB=D0=9C=D0=98</span> </td> <=
+td align=3D"right" valign=3D"top" style=3D"padding-top: 12px"> <span style=
+=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-height: 11px; =
+-webkit-text-size-adjust: none; display: block">770.00</span> </td> </tr> <=
+/table> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"=
+left" valign=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #30=
+4d5d; font: 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-s=
+ize-adjust: none; display: block">=D0=97=D0=90=D0=A7=D0=95=D0=A2 =D0=9F=D0=
+=A0=D0=95=D0=94=D0=9E=D0=9F=D0=9B=D0=90=D0=A2=D0=AB (=D0=90=D0=92=D0=90=D0=
+=9D=D0=A1=D0=90)</span> </td> <td align=3D"right" valign=3D"top" style=3D"p=
+adding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helveti=
+ca, serif; line-height: 11px; -webkit-text-size-adjust: none; display: bloc=
+k">0.00</span> </td> </tr> </table> <table bgcolor=3D"#ffffff" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; pad=
+ding: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D"padding-top: 12px=
+"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-=
+height: 11px; -webkit-text-size-adjust: none; display: block">=D0=A1=D0=A3=
+=D0=9C=D0=9C=D0=90 =D0=9F=D0=9E =D0=A7=D0=95=D0=9A=D0=A3 (=D0=91=D0=A1=D0=
+=9E) =D0=92 =D0=9A=D0=A0=D0=95=D0=94=D0=98=D0=A2</span> </td> <td align=3D"=
+right" valign=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #3=
+04d5d; font: 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-=
+size-adjust: none; display: block">0.00</span> </td> </tr> </table> <table =
+bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: =
+none; display: block">=D0=A1=D0=A3=D0=9C=D0=9C=D0=90 =D0=9F=D0=9E =D0=A7=D0=
+=95=D0=9A=D0=A3 (=D0=91=D0=A1=D0=9E) =D0=92=D0=A1=D0=A2=D0=A0=D0=95=D0=A7=
+=D0=9D=D0=AB=D0=9C =D0=9F=D0=A0=D0=95=D0=94=D0=9E=D0=A1=D0=A2=D0=90=D0=92=
+=D0=9B=D0=95=D0=9D=D0=98=D0=95=D0=9C</span> </td> <td align=3D"right" valig=
+n=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font:=
+ 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust:=
+ none; display: block">0.00</span> </td> </tr> </table> <table bgcolor=3D"#=
+ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" sty=
+le=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" style=
+=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, He=
+lvetica, serif; line-height: 11px; -webkit-text-size-adjust: none; display:=
+ block">=D0=A1=D0=A3=D0=9C=D0=9C=D0=90 =D0=A0=D0=90=D0=A1=D0=A7=D0=95=D0=A2=
+=D0=90 =D0=9F=D0=9E =D0=A7=D0=95=D0=9A=D0=A3 =D0=91=D0=95=D0=97 =D0=9D=D0=
+=94=D0=A1</span> </td> <td align=3D"right" valign=3D"top" style=3D"padding-=
+top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, ser=
+if; line-height: 11px; -webkit-text-size-adjust: none; display: block">770.=
+00</span> </td> </tr> </table> <!-- /=D0=98=D0=A2=D0=9E=D0=93 - =D0=A2=D0=
+=B5=D0=BB=D0=BE =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D1=8B --> </td> </tr> =
+</table> <!-- /=D0=98=D1=82=D0=BE=D0=B3=D0=BE --> <!-- =D0=94=D0=BE=D0=BF=
+=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D1=80=
+=D0=B5=D0=BA=D0=B2=D0=B8=D0=B7=D0=B8=D1=82=D1=8B --> <table bgcolor=3D"#fff=
+fff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"margin: 0; padding: 0"> <tr> <td align=3D"center" style=3D"padding-top:=
+ 40px; padding-bottom: 20px; border-bottom: 1px solid #e8e8e8"> <!-- =D0=97=
+=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BE=D0=BA --> <table bgcolor=3D"#fff=
+fff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D=
+"padding-bottom: 12px"> <span style=3D"color: #304d5d; font: 16px Arial, He=
+lvetica, serif; line-height: 16px; -webkit-text-size-adjust: none; display:=
+ block"> <b>=D0=94=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=
+=8C=D0=BD=D1=8B=D0=B5 =D1=80=D0=B5=D0=BA=D0=B2=D0=B8=D0=B7=D0=B8=D1=82=D1=
+=8B</b> </span> </td> </tr> </table> <!-- /=D0=97=D0=B0=D0=B3=D0=BE=D0=BB=
+=D0=BE=D0=B2=D0=BE=D0=BA --> <!-- =D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B0=D0=BD=D0=B8=D0=B5 --> <table bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> =
+<tr> <td align=3D"left" valign=3D"top" style=3D"padding-top: 12px"> <span s=
+tyle=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-height: 11=
+px; -webkit-text-size-adjust: none; display: block">=D0=9E=D0=93=D0=A0=D0=
+=9D 1027739050646</span> </td> <td align=3D"right" valign=3D"top" style=3D"=
+padding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvet=
+ica, serif; line-height: 11px; -webkit-text-size-adjust: none; display: blo=
+ck">=D0=90=D0=B4=D1=80=D0=B5=D1=81 =D0=9A=D0=A2: 109012, =D0=9C=D0=BE=D1=81=
+=D0=BA=D0=B2=D0=B0 =D0=B3, =D0=A2=D0=B5=D0=B0=D1=82=D1=80=D0=B0=D0=BB=D1=8C=
+=D0=BD=D1=8B=D0=B9 =D0=BF=D1=80=D0=BE=D0=B5=D0=B7=D0=B4, =D0=B4=D0=BE=D0=BC=
+ =E2=84=96 5, =D1=81=D1=82=D1=80=D0=BE=D0=B5=D0=BD=D0=B8=D0=B5 1, =D0=90=D0=
+=B4=D1=80=D0=B5=D1=81 =D0=AE=D0=9B: 121151, =D0=B3. =D0=9C=D0=BE=D1=81=D0=
+=BA=D0=B2=D0=B0, =D0=B2=D0=BD.=D1=82=D0=B5=D1=80.=D0=B3. =D0=BC.=D0=BE. =D0=
+=94=D0=BE=D1=80=D0=BE=D0=B3=D0=BE=D0=BC=D0=B8=D0=BB=D0=BE=D0=B2=D0=BE, =D0=
+=BF=D1=80-=D0=BA=D1=82 =D0=9A=D1=83=D1=82=D1=83=D0=B7=D0=BE=D0=B2=D1=81=D0=
+=BA=D0=B8=D0=B9, =D0=B4. 21, =D0=BF=D0=BE=D0=BC. 1/1</span> </td> </tr> </t=
+able> <!-- /=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D0=BD=D0=B8=D0=B5 --=
+> </td> </tr> </table> <!-- /=D0=94=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=
+=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D1=80=D0=B5=D0=BA=D0=B2=D0=B8=D0=
+=B7=D0=B8=D1=82=D1=8B --> <!-- =D0=9C=D0=B5=D1=82=D0=B0 =D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=8B=D0=B5 --> <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; padding: 0"> <t=
+r> <td align=3D"center" style=3D"padding-top: 25px; padding-bottom: 30px; b=
+order-bottom: 1px solid #e8e8e8"> <!-- =D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=
+=D0=B8=D0=BC=D0=BE=D0=B5 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D1=8B --> <ta=
+ble bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valig=
+n=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font:=
+ 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust:=
+ none; display: block">N =D0=A4=D0=9D</span> </td> <td align=3D"right" vali=
+gn=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font=
+: 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust=
+: none; display: block">7380440902475581</span> </td> </tr> </table> <table=
+ bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: =
+11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: =
+none; display: block">=D0=A0=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=
+=86=D0=B8=D0=BE=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BD=D0=BE=D0=BC=D0=B5=D1=80 =D0=
+=9A=D0=9A=D0=A2</span> </td> <td align=3D"right" valign=3D"top" style=3D"pa=
+dding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetic=
+a, serif; line-height: 11px; -webkit-text-size-adjust: none; display: block=
+">0003922279031420</span> </td> </tr> </table> <table bgcolor=3D"#ffffff" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"mar=
+gin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D"paddin=
+g-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, s=
+erif; line-height: 11px; -webkit-text-size-adjust: none; display: block">N =
+=D0=A4=D0=94</span> </td> <td align=3D"right" valign=3D"top" style=3D"paddi=
+ng-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, =
+serif; line-height: 11px; -webkit-text-size-adjust: none; display: block">9=
+9722</span> </td> </tr> </table> <table bgcolor=3D"#ffffff" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"margin: 0; paddin=
+g: 0"> <tr> <td align=3D"left" valign=3D"top" style=3D"padding-top: 12px"> =
+<span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-hei=
+ght: 11px; -webkit-text-size-adjust: none; display: block">=D0=A4=D0=9F=D0=
+=94</span> </td> <td align=3D"right" valign=3D"top" style=3D"padding-top: 1=
+2px"> <span style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; li=
+ne-height: 11px; -webkit-text-size-adjust: none; display: block">1221046352=
+</span> </td> </tr> </table> <!-- /=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B8=D0=BC=D0=BE=D0=B5 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D1=8B --> <!-- =
+=D0=92=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=A4=D0=A4=D0=94 --> <table bgcolor=
+=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"left" valign=3D"top" s=
+tyle=3D"padding-top: 12px"> <span style=3D"color: #304d5d; font: 11px Arial=
+, Helvetica, serif; line-height: 11px; -webkit-text-size-adjust: none; disp=
+lay: block"> =D0=92=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=A4=D0=A4=D0=94 </span=
+> </td> <td align=3D"right" valign=3D"top" style=3D"padding-top: 12px"> <sp=
+an style=3D"color: #304d5d; font: 11px Arial, Helvetica, serif; line-height=
+: 11px; -webkit-text-size-adjust: none; display: block"> <span>1.05</span> =
+</span> </td> </tr> </table> <!-- /=D0=92=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=
+=A4=D0=A4=D0=94 --> </td> </tr> </table> <!-- /=D0=9C=D0=B5=D1=82=D0=B0 =D0=
+=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 --> <!-- QR =D0=9A=D0=BE=D0=B4 --> <table=
+ bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"margin: 0; padding: 0"> <tr> <td align=3D"center" style=
+=3D"padding-top: 40px"> <span style=3D"color: #4ba1a5; font: 11px Arial, He=
+lvetica, serif; line-height: 11px; -webkit-text-size-adjust: none; display:=
+ block"> =D0=90=D0=B4=D1=80=D0=B5=D1=81 =D0=B4=D0=BB=D1=8F =D0=BF=D1=80=D0=
+=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B8 =D1=87=D0=B5=D0=BA=D0=B0: <a href=3D"http=
+s://lk.platformaofd.ru/web/noauth/cheque?fn=3D7380440902475581&amp;fp=3D122=
+1046352&amp;i=3D99722" target=3D"_blank" style=3D"color: #4ba1a5; font: 11p=
+x Arial, Helvetica, serif; line-height: 11px; text-decoration: none; -webki=
+t-text-size-adjust: none" > platformaofd.ru </a> </span> </td> </tr> <tr> <=
+td align=3D"center" style=3D"padding-top: 12px"> <span style=3D"color: #4ba=
+1a5; font: 11px Arial, Helvetica, serif; line-height: 11px; -webkit-text-si=
+ze-adjust: none; display: block"> =D0=A1=D0=B0=D0=B9=D1=82 =D0=A4=D0=9D=D0=
+=A1: <a href=3D"https://www.nalog.gov.ru" target=3D"_blank" style=3D"color:=
+ #4ba1a5; font: 11px Arial, Helvetica, serif; line-height: 11px; text-decor=
+ation: none; -webkit-text-size-adjust: none">nalog.gov.ru</a> </span> </td>=
+ </tr> <tr> <td align=3D"center" style=3D"padding-top: 45px"> <span style=
+=3D"color: #4ba1a5; font: 13px Arial, Helvetica, serif; line-height: 13px; =
+-webkit-text-size-adjust: none; display: block"> =D0=A1=D0=9F=D0=90=D0=A1=
+=D0=98=D0=91=D0=9E =D0=97=D0=90 =D0=9F=D0=9E=D0=9A=D0=A3=D0=9F=D0=9A=D0=A3!=
+</span> </td> </tr> <tr> <td width=3D"150" height=3D"150" align=3D"center" =
+style=3D"padding-top: 30px; padding-bottom: 32px"> <img src=3D"https://lk.p=
+latformaofd.ru/web/noauth/cheque/qrcode?t=3D20251115T1951&amp;s=3D770.00&am=
+p;fn=3D7380440902475581&amp;i=3D99722&amp;fp=3D1221046352&amp;n=3D1" alt=3D=
+"QR-=D0=BA=D0=BE=D0=B4" border=3D"0" width=3D"150" height=3D"150" style=3D"=
+border: 0; height: auto; margin-bottom: 0 !important; margin-left: 0 !impor=
+tant; margin-right: 0 !important; margin-top: 0 !important; text-decoration=
+: none" /> </td> </tr> </table> <!-- /QR =D0=9A=D0=BE=D0=B4 --> </td> </tr>=
+ </table> <!-- /=D0=9A=D0=BE=D0=BD=D1=82=D0=B5=D0=BD=D1=82 --> </td> </tr> =
+<!-- /=D0=A2=D0=B5=D0=BB=D0=BE --> <!-- =D0=9D=D0=B8=D0=B6=D0=BD=D1=8F=D1=
+=8F =D0=B2=D0=BE=D0=BB=D0=BD=D0=B0 --> <tr> <td height=3D"100%" align=3D"ce=
+nter" style=3D"padding-bottom: 12px"> <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"480" style=3D"width: 100%; max-width: 480px; ma=
+rgin: 0; padding: 0"> <tr> <td align=3D"center" valign=3D"top"> <img src=3D=
+"https://cdn1.platformaofd.ru/fido-constructor-prod/static/img/wave-down.pn=
+g?v=3D1" alt=3D"=D0=B2=D0=BE=D0=BB=D0=BD=D0=B0" border=3D"0" width=3D"480" =
+height=3D"5" style=3D"display: block; width: 480px; max-width: 480px;" clas=
+s=3D"w480" /> </td> </tr> </table> </td> </tr> <!-- /=D0=9D=D0=B8=D0=B6=D0=
+=BD=D1=8F=D1=8F =D0=B2=D0=BE=D0=BB=D0=BD=D0=B0 --> </table> </td> </tr> </t=
+able> </td> </tr> <!-- /Check body --> </table> </div> </td> </tr> </table>=
+ <img src=3D'https://www.google-analytics.com/collect?v=3D1&tid=3DUA-119253=
+082-1&t=3Devent&cid=3D71c44e5f-d3f1-4a23-980d-093f79c18eaf&ec=3DemailCheque=
+&ea=3Dopen&el=3D152087754534' width=3D'1px' height=3D'1px' alt=3D''/> </bod=
+y> </html>
+------=_Part_8893067_93602612.1763225543093--

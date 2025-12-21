@@ -1,0 +1,41 @@
+Return-Path: <01000196813db4fe-72be1a44-9a3e-448c-a721-9fb44f6074a0-000000@amazonses.com>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from a48-94.smtp-out.amazonses.com (a48-94.smtp-out.amazonses.com [54.240.48.94])
+	by mail.collectorshash.su (Postfix) with ESMTP id 16A0D1FAE8
+	for <v.p.ankevich@collectorshash.su>; Tue, 29 Apr 2025 14:10:28 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=35ino3zohbdg63pjs2yvnnrurigygzyk; d=namemc.com; t=1745925027;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=TtNiDgZZ1VA7FZj5Aak2klSeBoJCX384gNUO0IUoLxE=;
+	b=6ImPJXEnOzjkYQu7j2qaC2zgu7fP6qryk5YzStorTBfCNFhv7+cLXsLmiqW4U89N
+	PyVUREC5q+Uf8JyJEPJQdWflukj+7EnvWe8oV1PdPhvxIZFJsY19t8dYzboGXKM1xnR
+	LqS68J4GNqnYB10O9QIJzm7wcBlYxMoQsccnZaKo=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1745925027;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=TtNiDgZZ1VA7FZj5Aak2klSeBoJCX384gNUO0IUoLxE=;
+	b=kOIAL6fQCWRX1g07aHwcOZbUm1PKJjF+M3j5kb5OxlGs1wy4EQ6JAcKk8lq3dNyK
+	2prP1M2pqT4krN2iCJd4oJjx7z++IH6Cg/h2h9hP0PhZEdIYUPLmyH3ScIVlAHXpE8r
+	yOxIY9552tXeA2ywUXzGPvqQyRAnqsu3y2uKDSLE=
+From: NameMC <no-reply@namemc.com>
+To: v.p.ankevich@collectorshash.su
+Subject: =?UTF-8?B?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YDQtdCz0LjRgdGC?=
+ =?UTF-8?B?0YDQsNGG0LjQuCDQvdCwINGB0LDQudGC0LUgTmFtZU1D?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <01000196813db4fe-72be1a44-9a3e-448c-a721-9fb44f6074a0-000000@email.amazonses.com>
+Date: Tue, 29 Apr 2025 11:10:27 +0000
+Feedback-ID: ::1.us-east-1.vuaCjdk9oaUfGeoTIat/Sn++ADWAaOCFAcexHKn4480=:AmazonSES
+X-SES-Outgoing: 2025.04.29-54.240.48.94
+
+=D0=91=D0=BB=D0=B0=D0=B3=D0=BE=D0=B4=D0=B0=D1=80=D0=B8=D0=BC =D0=B7=D0=B0 =
+=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=86=D0=B8=D1=8E =D0=BD=
+=D0=B0 =D1=81=D0=B0=D0=B9=D1=82=D0=B5 NameMC. =D0=A7=D1=82=D0=BE=D0=B1=D1=
+=8B =D0=B7=D0=B0=D0=B2=D0=B5=D1=80=D1=88=D0=B8=D1=82=D1=8C =D0=BF=D1=80=D0=
+=BE=D1=86=D0=B5=D1=81=D1=81, =D0=BF=D0=B5=D1=80=D0=B5=D0=B9=D0=B4=D0=B8=D1=
+=82=D0=B5 =D0=BF=D0=BE =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B5=D0=
+=B9 =D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5.<br/><br/><a href=3D"https://ru.na=
+memc.com/create-password?key=3DrmrkHtavfmLPQaHF">https://ru.namemc.com/crea=
+te-password?key=3DrmrkHtavfmLPQaHF</a>

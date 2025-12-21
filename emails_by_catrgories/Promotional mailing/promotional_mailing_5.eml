@@ -1,0 +1,646 @@
+Return-Path: <bounce.f118250000302a8c01c030ae@s1.mbx-sender-01.ru>
+X-Original-To: v.p.ankevich@collectorshash.su
+Delivered-To: v.p.ankevich@collectorshash.su
+Received: from s1.mbx-sender-01.ru (s1.mbx-sender-01.ru [193.243.174.156])
+	by mail.collectorshash.su (Postfix) with ESMTP id 6F2C020C15
+	for <v.p.ankevich@collectorshash.su>; Tue, 11 Nov 2025 15:43:20 +0300 (MSK)
+Content-Type: text/html;
+ charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Date: Tue, 11 Nov 2025 12:43:19 +0000
+Message-ID: <f118250000302a8c01c030ae@s1.mbx-sender-01.ru>
+Subject: =?utf-8?B?0J/RgNC+0LTQu9C10LLQsNC10Lwg0YHQutC40LTQutC4INC00L4gMTgg?=
+ =?utf-8?B?0L3QvtGP0LHRgNGP?=
+From: =?utf-8?B?0J3QtdGC0L7Qu9C+0LPQuNGP?= <editor@netology.ru>
+To: <v.p.ankevich@collectorshash.su>
+Reply-To: =?utf-8?B?0J3QtdGC0L7Qu9C+0LPQuNGP?= <editor@netology.ru>
+Precedence: bulk
+X-xsMessageId: f118250000302a8c01c030ae
+X-xsMailingId: 2431217
+X-Mailru-Msgtype: 2431217
+List-ID: <batch2431217.list-id.netology.ru>
+Feedback-ID: 2431217:1711:mindbox
+X-Mailer: mindbox.ru
+List-Unsubscribe: <mailto:lu.f118250000302a8c01c030ae@list-unsubscribe-stable.mindbox.ru>, <https://tn-cnv.mckx.ru/ocu/8RglAAAwKowBwDCu>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=netology.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=KMk4DwlSfj2W4Z1th/jbMq5mIeSyji8C1adPRMcgvIw=;
+ b=L7zo4CyE0pLfoM65WgpQNj7gilVb0TenWXtk5bHUszgFP0ZOoNTUuW0taTuMq2pNBuz78UkKJjxqSYl+eLs/6mRSKNOYgiRAWBaaZnJit9lLgEe0TPHlL2P/BLSD24vHEcziFD9yqTLQhkn9Hnt+XgsUS3QCf7z0w8ZM/giZIMA=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=s1.mbx-sender-01.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=KMk4DwlSfj2W4Z1th/jbMq5mIeSyji8C1adPRMcgvIw=;
+ b=ib1hwVNrc+2dnSv7dVxg1BzvjuxxLmrUebioGfY4ALP9XT9NZYRs739V3C749DK+/ajlHJ1AqjzSbqkS2uKVPbHsGrMr6d4oU0fYDy+HHCABnOOOibi8OEPlYyQlBy1jXLEphMiHHYhVhnTOmQYiDOvEcb42cpzthpMTZDJg7lY=
+
+<!-- =D0=9D=D0=BE=D0=B2=D0=BE=D0=B5 Email =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D0=BD=D0=B8=D0=B5 -->=0A        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTM=
+L 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">=0A<h=
+tml lang=3D"ru" xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schem=
+as-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">=
+=0A<head>=0A  <meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
+et=3Dutf-8"/>=0A  <!--[if !mso]><!-->=0A  <meta http-equiv=3D"X-UA-Compatib=
+le" content=3D"IE=3Dedge"/>=0A  <!--<![endif]-->=0A  <meta name=3D"viewport=
+" content=3D"width=3Ddevice-width, initial-scale=3D1.0">=0A  <meta content=
+=3D"telephone=3Dno" name=3D"format-detection">=0A  <title></title>=0A  <lin=
+k href=3D"https://fonts.googleapis.com/css?family=3DRoboto&display=3Dswap&s=
+ubset=3Dcyrillic" rel=3D"stylesheet">=0A  <style type=3D"text/css">=0A    .=
+ExternalClass {=0A      width: 100%;=0A    }=0A=0A    .ExternalClass, .Exte=
+rnalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .=
+ExternalClass div {=0A      line-height: 100%;=0A    }=0A=0A    body {=0A  =
+    -webkit-text-size-adjust: none;=0A      -ms-text-size-adjust: none;=0A =
+   }=0A=0A    body {=0A      margin: 0;=0A      padding: 0;=0A    }=0A=0A  =
+  table td {=0A      border-collapse: collapse;=0A    }=0A=0A    p {=0A    =
+  margin: 0;=0A      padding: 0;=0A    }=0A=0A    h1, h2, h3, h4, h5, h6 {=
+=0A      color: black;=0A      line-height: 100%;=0A    }=0A=0A    a, a:lin=
+k {=0A      color: #0066FF;=0A      text-decoration: none;=0A    }=0A    bo=
+dy, #body_style {=0A      background: #EAECF3;=0A      color: #000000;=0A  =
+    font-family: Verdana, Helvetica, Arial, sans-serif;=0A      font-size: =
+12px;=0A    }=0A=0A    span.yshortcuts {=0A      color: #000;=0A      backg=
+round-color: none;=0A      border: none;=0A    }=0A=0A    span.yshortcuts:h=
+over,=0A    span.yshortcuts:active,=0A    span.yshortcuts:focus {=0A      c=
+olor: #000000;=0A      background-color: none;=0A      border: none;=0A    =
+}=0A=0A    @media only screen and (max-device-width: 480px) {=0A      body[=
+yahoo] #container1 {=0A        display: block !important=0A      }=0A=0A   =
+   body[yahoo] p {=0A        font-size: 10px=0A      }=0A    }=0A=0A    @me=
+dia only screen and (min-device-width: 768px) and (max-device-width: 1024px=
+) {=0A      body[yahoo] #container1 {=0A        display: block !important=
+=0A      }=0A=0A      body[yahoo] p {=0A        font-size: 12px=0A      }=
+=0A    }=0A=0A    .hide {=0A      display: none !important;=0A    }=0A=0A  =
+  @media only screen and (max-width: 480px), only screen and (max-device-wi=
+dth: 480px) {=0A      .title {=0A        line-height: 34px !important;=0A  =
+      font-size: 26px !important;=0A      }=0A    }=0A=0A    a[href^=3D'x-a=
+pple-data-detectors:'] {=0A      text-decoration: inherit;=0A      color: i=
+nherit;=0A    }=0A=0A    @media only screen and (max-width: 610px), only sc=
+reen and (max-device-width: 610px) {=0A      .is-width-100p {=0A        wid=
+th: 100% !important;=0A      }=0A=0A      /* custom style */=0A    }=0A    =
+=0A     @media only screen and (min-width: 620px), only screen and (min-dev=
+ice-width: 620px) {=0A      .banner-img {=0A        width: 40% !important;=
+=0A      }=0A=0A      .banner-text{=0A        width: 60% !important;=0A    =
+  }=0A=0A      .banner-cell{=0A        height: 278px !important;=0A      }=
+=0A      =0A  </style>=0A  <!--[if gte mso 9]><xml>=0A  <o:OfficeDocumentSe=
+ttings>=0A    <o:AllowPNG/>=0A    <o:PixelsPerInch>96</o:PixelsPerInch>=0A =
+ </o:OfficeDocumentSettings>=0A</xml><![endif]-->=0A  <!--[if mso]><xml xml=
+ns:w=3D"urn:schemas-microsoft-com:office:word"><w:WordDocument><w:AutoHyphe=
+nation/></w:WordDocument></xml><![endif]-->=0A</head>=0A<body style=3D"colo=
+r:#000000; font-family:Verdana, Helvetica, Arial, sans-serif; font-size:12p=
+x; background: #EAECF3; " alink=3D"#FF0000" link=3D"#FF0000" bgcolor=3D"#ef=
+efef" text=3D"#000000" yahoo=3D"fix"><!--[if !mso]><!-->=0A<div style=3D"di=
+splay:none; visibility:hidden; opacity:0; height:0; width:0; overflow:hidde=
+n; mso-hides:all;">=0A	+ =D0=B7=D0=B0=D0=BC=D0=BE=D1=80=D0=BE=D0=B7=D0=BA=
+=D0=B0 =D0=BE=D0=B1=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =E2=9D=84=EF=B8=8F=
+=0A	&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240=
+;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#=
+10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#102=
+40;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;=
+&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1=
+0240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#1024=
+0;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&=
+#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10=
+240;<vk-snippet-end/>=0A</div>=0A<!--<![endif]-->=0A<table width=3D"100%" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0">=0A  <tr>=0A    <td align=
+=3D"center" bgcolor=3D"#EAECF3" style=3D"background-color: #EAECF3;">=0A   =
+   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+=0A        <tr>=0A          <td align=3D"center">=0A            <!--[if gte=
+ mso 10]>=0A            <table align=3D"center" width=3D"620" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">=0A              <tr>=0A               =
+ <td><![endif]-->=0A            <table width=3D"620" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"width: 100%; max-width: 620px; min-width: 360px;">=
+=0A              <tr>=0A                <td align=3D"center" style=3D"paddi=
+ng-left: 15px; padding-right: 15px;">=0A                  <table width=3D"1=
+00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A                  =
+  <!-- HEADER -->=0A                    <!--preheader-->=0A                =
+    <tr><!--preheader-->=0A                      <td style=3D"font-size: 0;=
+ line-height: 0; font-family: Arial, Helvetica, sans-serif; color:#EAECF3; =
+text-align: center;">=0A                       =0A                        <=
+span>&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;</span>=0A                      </td>=0A                    </tr>=0A  =
+                  <!--/preheader-->=0A                    <tr>=0A          =
+            <td valign=3D"middle" align=3D"left" style=3D"font-size: 16px; =
+font-family: Verdana, Helvetica, Arial, sans-serif; padding-bottom: 20px; p=
+adding-top: 20px;">=0A                        <a href=3D"https://tn-cnv.mck=
+x.ru/c/8RglAAAwKowBwDCu/7_68Bg/5nAifTVbhNOj0Mvl/?u=3Dhttps%3A%2F%2Fnetology=
+.ru%2F%3Futm_source%3Doffer%26utm_medium%3Demail_mb%26utm_campaign%3Dcrossu=
+nit_ou_n_29069_black_friday_start_second_wave_2025_11_11" target=3D"_blank"=
+ style=3D"text-decoration: none; color: #27292D;">=0A                      =
+    <img width=3D"164" height=3D"18" src=3D"https://email-images.mindbox.ru=
+/d02a8367-eec0-40d7-ae9e-a3892c514d97/1.png" style=3D"vertical-align: top; =
+border:none;" alt=3D"=D0=9D=D0=B5=D1=82=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D1=8F=
+" title=3D"=D0=9D=D0=B5=D1=82=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D1=8F">=0A     =
+                   </a>=0A                      </td>=0A                   =
+ </tr>=0A                    <!-- /HEADER -->=0A                   =0A     =
+               <!-- WHITE_BLOCK -->=0A                    <tr>=0A          =
+            <td align=3D"center" bgcolor=3D"#ffffff" style=3D"background-co=
+lor: #ffffff; border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20=
+px 20px 20px 20px; -moz-border-radius: 20px 20px 20px 20px; padding-bottom:=
+ 40px; padding-top: 30px; overflow: hidden; padding-left: 15px; padding-rig=
+ht: 15px;">=0A                        <!--[if gte mso 10]>=0A              =
+          <table align=3D"center" width=3D"540" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">=0A                          <tr><td align=3D"center"=
+><![endif]-->=0A                        <table width=3D"540" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"width: 100%; max-width: 540px;">=0A         =
+                 <!-- BANNER -->=0A                          =0A           =
+                <tr>=0A                      <td align=3D"center" style=3D"=
+font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 16px; color:=
+ #333333; overflow: hidden; border-radius: 10px 10px 10px 10px; -webkit-bor=
+der-radius: 10px 10px 10px 10px;">=0A                    <a href=3D"https:/=
+/tn-cnv.mckx.ru/c/8RglAAAwKowBwDCu/8P68Bg/aV1aiB68P-frnKyx/?u=3Dhttps%3A%2F=
+%2Fnetology.ru%2Fnavigation%3Futm_source%3Doffer%26utm_medium%3Demail_mb%26=
+utm_campaign%3Dcrossunit_ou_n_29069_black_friday_start_second_wave_2025_11_=
+11" target=3D"_blank" style=3D"text-decoration: none;">  <img width=3D"600"=
+ src=3D"https://email-images.mindbox.ru/Netology/be1556d5-6aea-416c-9533-d2=
+8353637601/ea1b9a41-cb53-48af-99ce-b275143bcad9.png" style=3D"display: bloc=
+k; border:none; width: 100%; max-width: 600px; height: auto; max-height: 34=
+0px;" alt=3D"">=0A                     </a>=0A                      </td>=
+=0A                    </tr>=0A                           <!-- /BANNER -->=
+=0A                          <tr>=0A                            <td height=
+=3D"25">&nbsp;</td>=0A                          </tr>=0A                   =
+       <tr>=0A                             <td align=3D"left" style=3D"font=
+-family: Verdana, Helvetica, Arial, sans-serif; font-size: 18px; line-heigh=
+t: 24px; color: #27292D; text-align: left; padding-bottom: 15px;">=0A      =
+                    <b>=D0=A7=D1=91=D1=80=D0=BD=D0=B0=D1=8F =D0=BF=D1=8F=D1=
+=82=D0=BD=D0=B8=D1=86=D0=B0 =D0=BF=D1=80=D0=BE=D0=B4=D0=BE=D0=BB=D0=B6=D0=
+=B0=D0=B5=D1=82=D1=81=D1=8F =F0=9F=94=A5</b>=0A                            =
+</td>=0A                          </tr>=0A                          =0A    =
+                      <tr>=0A                            <td align=3D"left"=
+ style=3D"font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 16=
+px; line-height: 24px; color: #27292D; text-align: left; padding-bottom: 20=
+px;">=0A                         =0A=D0=93=D0=BB=D0=B0=D0=B2=D0=BD=D0=B0=D1=
+=8F =D0=B0=D0=BA=D1=86=D0=B8=D1=8F =D0=B3=D0=BE=D0=B4=D0=B0 =D0=B2&nbsp;=D1=
+=81=D0=B0=D0=BC=D0=BE=D0=BC =D1=80=D0=B0=D0=B7=D0=B3=D0=B0=D1=80=D0=B5: =D0=
+=BC=D1=8B&nbsp;=D0=BF=D1=80=D0=BE=D0=B4=D0=BB=D0=B8=D0=BB=D0=B8 =D1=81=D0=
+=BA=D0=B8=D0=B4=D0=BA=D0=B8 =D0=B4=D0=BE&nbsp;18&nbsp;=D0=BD=D0=BE=D1=8F=D0=
+=B1=D1=80=D1=8F =D0=B8&nbsp;=D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D0=BB=D0=
+=B8 =D0=BA&nbsp;=D0=BD=D0=B8=D0=BC =D0=BD=D0=BE=D0=B2=D1=8B=D0=B5 =D0=B1=D0=
+=BE=D0=BD=D1=83=D1=81=D1=8B&nbsp;=E2=AC=87=EF=B8=8F. =0A=0A                =
+            </td>=0A                          </tr>=0A                     =
+         <!-- CONTENT_BORDER -->=0A                          <tr>=0A       =
+                     <td align=3D"center" bgcolor=3D"#dfecff" style=3D"back=
+ground-color: #dfecff; border: 2px solid #3A88FF; border-radius: 10px; -web=
+kit-border-radius: 10px; -moz-border-radius: 10px; padding-top: 15px; paddi=
+ng-bottom: 15px; padding-left: 15px; padding-right: 15px;">=0A             =
+                    =0A                              <table width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A                       =
+         <tr>=0A                             <td align=3D"left" style=3D"fo=
+nt-family: Verdana, Helvetica, Arial, sans-serif; font-size: 18px; line-hei=
+ght: 24px; color: #27292D; text-align: left; padding-bottom: 15px;">=0A    =
+                      <b>=D0=97=D0=B0=D0=BC=D0=BE=D1=80=D0=BE=D0=B7=D1=8C=
+=D1=82=D0=B5 =D0=B2=D1=8B=D0=B3=D0=BE=D0=B4=D1=83, =D0=B0 =D0=BD=D0=B5 =D0=
+=BC=D0=B5=D1=87=D1=82=D1=83 =E2=9D=84=EF=B8=8F </b>=0A                     =
+       </td>=0A                          </tr>=0A                          =
+      <tr>=0A                                <td align=3D"left" valign=3D"m=
+iddle" style=3D"font-family: Verdana, Helvetica, Arial, sans-serif; font-we=
+ight: normal; font-size: 16px; line-height: 25px; color: #27292D; text-alig=
+n: left;">=0A                                 =0A=D0=9A=D1=83=D0=BF=D0=B8=
+=D1=82=D0=B5 =D0=BA=D1=83=D1=80=D1=81 <b>=D1=81&nbsp;11&nbsp;=D0=BF=D0=BE&n=
+bsp;18&nbsp;=D0=BD=D0=BE=D1=8F=D0=B1=D1=80=D1=8F</b> =D1=81=D0=BE&nbsp;<b>=
+=D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=BE=D0=B9 =D0=B4=D0=BE&nbsp;65%</b>. =D0=
+=95=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5&nbsp;=D0=B3=D0=BE=D1=82=D0=BE=D0=B2=D1=
+=8B =D0=BA&nbsp;=D0=BE=D0=B1=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8E =D1=81=D0=
+=B5=D0=B9=D1=87=D0=B0=D1=81&nbsp;&mdash; <b>=D0=B7=D0=B0=D0=BC=D0=BE=D1=80=
+=D0=BE=D0=B7=D1=8C=D1=82=D0=B5 =D0=B5=D0=B3=D0=BE</b> =D0=BD=D0=B0&nbsp;=D1=
+=81=D1=80=D0=BE=D0=BA =D0=BE=D1=82&nbsp;1&nbsp;=D0=B4=D0=BE&nbsp;6&nbsp;=D0=
+=BC=D0=B5=D1=81=D1=8F=D1=86=D0=B5=D0=B2. =D0=A2=D0=B0=D0=BA =D0=B2=D1=8B&nb=
+sp;=D1=81=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D0=B5 =D0=B2=D1=8B=D0=
+=B3=D0=BE=D0=B4=D1=83 =D1=87=D1=91=D1=80=D0=BD=D0=BE=D0=B9 =D0=BF=D1=8F=D1=
+=82=D0=BD=D0=B8=D1=86=D1=8B =D0=B8&nbsp;=D1=81=D0=BC=D0=BE=D0=B6=D0=B5=D1=
+=82=D0=B5 =D0=B7=D0=B0=D0=BD=D0=B8=D0=BC=D0=B0=D1=82=D1=8C=D1=81=D1=8F, =D0=
+=BA=D0=BE=D0=B3=D0=B4=D0=B0 =D1=83=D0=B4=D0=BE=D0=B1=D0=BD=D0=BE=0A=0A     =
+                       </td>=0A                          </tr>=0A          =
+                     <tr>=0A                            <td height=3D"20">&=
+nbsp;</td>=0A                          </tr>   <!-- DARK_BUTTON -->=0A     =
+                     <tr>=0A                            <td align=3D"center=
+">=0A                              <table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">=0A                                <tr>=0A                 =
+                 <td bgcolor=3D"#3A88FF" align=3D"center" style=3D"font-fam=
+ily: Verdana, Helvetica, sans-serif; font-size: 16px; line-height: 24px; co=
+lor:#ffffff; mso-padding-alt: 12px 29px; border-radius: 6px 6px 6px 6px; -w=
+ebkit-border-radius: 6px 6px 6px 6px; background-color: #3A88FF; border: 1p=
+x solid #3A88FF;">=0A                                    <a href=3D"https:/=
+/tn-cnv.mckx.ru/c/8RglAAAwKowBwDCu/8f68Bg/6tLd-UVNxh2VWrii/?u=3Dhttps%3A%2F=
+%2Fnetology.ru%2Fnavigation%3Futm_source%3Doffer%26utm_medium%3Demail_mb%26=
+utm_campaign%3Dcrossunit_ou_n_29069_black_friday_start_second_wave_2025_11_=
+11" style=3D"text-decoration:none; color:#ffffff; display:block; padding: 1=
+2px 29px; border-radius: 6px 6px 6px 6px; -webkit-border-radius: 6px 6px 6p=
+x 6px;" target=3D"_blank">=0A                                  =D0=97=D0=B0=
+=D0=B1=D1=80=D0=B0=D1=82=D1=8C =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D1=83=0A     =
+                               </a>=0A                                  </t=
+d>=0A                                </tr>=0A                              =
+</table>=0A                            </td>=0A                          </=
+tr>=0A                          <!-- DARK_BUTTON -->=0A                    =
+             =0A                              </table>=0A                  =
+          </td>=0A                          </tr>=0A                       =
+   =0A                          <!-- /CONTENT_BORDER -->=0A                =
+         =0A                  =0A                         <tr>=0A          =
+                  <td height=3D"20">&nbsp;</td>=0A                         =
+ </tr>=0A                           <!-- CONTENT_BORDER -->=0A             =
+             <tr>=0A                            <td align=3D"center" bgcolo=
+r=3D"#ffffff" style=3D"background-color: #ffffff; border: 2px solid #3A88FF=
+; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10p=
+x; padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-rig=
+ht: 15px;">=0A                                 =0A                         =
+     <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+>=0A                                <tr>=0A                             <td=
+ align=3D"left" style=3D"font-family: Verdana, Helvetica, Arial, sans-serif=
+; font-size: 18px; line-height: 24px; color: #27292D; text-align: left; pad=
+ding-bottom: 15px;">=0A                          <b>=D0=A2=D1=80=D0=B8 =D0=
+=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0 =D0=B7=D0=B0=D0=BC=D0=BE=D1=80=D0=
+=BE=D0=B7=D0=BA=D0=B8:</b>=0A                            </td>=0A          =
+                </tr>=0A                                <tr>=0A            =
+                    <td align=3D"left" valign=3D"middle" style=3D"font-fami=
+ly: Verdana, Helvetica, Arial, sans-serif; font-weight: normal; font-size: =
+16px; line-height: 25px; color: #27292D; text-align: left;">=0A            =
+                     =0A1. =D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D0=BE=D1=84=D0=
+=BE=D1=80=D0=BC=D0=B8=D1=82=D1=8C =D0=B7=D0=B0=D0=BC=D0=BE=D1=80=D0=BE=D0=
+=B7=D0=BA=D1=83&nbsp;&mdash; =D0=BD=D0=B0=D0=BF=D0=B8=D1=88=D0=B8=D1=82=D0=
+=B5 =D0=B2&nbsp;=D0=B1=D0=BE=D1=82 =D0=9D=D0=B5=D1=82=D0=BE=D0=BB=D0=BE=D0=
+=B3=D0=B8=D0=B8 =D0=B2&nbsp;=D0=BB=D0=B8=D1=87=D0=BD=D0=BE=D0=BC =D0=BA=D0=
+=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5.<br><br>=0A2. =D0=92=D1=8B&nbsp;=D0=
+=BC=D0=BE=D0=B6=D0=B5=D1=82=D0=B5 =D0=BF=D1=80=D0=B8=D0=BE=D1=81=D1=82=D0=
+=B0=D0=BD=D0=BE=D0=B2=D0=B8=D1=82=D1=8C =D0=BE=D0=B1=D1=83=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BD=D0=B0&nbsp;=D1=
+=81=D0=B8=D0=BD=D1=85=D1=80=D0=BE=D0=BD=D0=BD=D1=8B=D1=85 =D0=BA=D1=83=D1=
+=80=D1=81=D0=B0=D1=85: =D1=81&nbsp;=D1=80=D0=B0=D1=81=D0=BF=D0=B8=D1=81=D0=
+=B0=D0=BD=D0=B8=D0=B5=D0=BC =D0=B7=D0=B0=D0=BD=D1=8F=D1=82=D0=B8=D0=B9 =D0=
+=B8&nbsp;=D0=BE=D0=BD=D0=BB=D0=B0=D0=B9=D0=BD-=D0=B2=D0=B5=D0=B1=D0=B8=D0=
+=BD=D0=B0=D1=80=D0=B0=D0=BC=D0=B8.<br><br>=0A                              =
+     3. =D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=
+=D0=B8=D0=B5 =D0=B7=D0=B0=D0=BC=D0=BE=D1=80=D0=BE=D0=B7=D0=BA=D0=B8 =D0=B7=
+=D0=B0=D0=BA=D0=BE=D0=BD=D1=87=D0=B8=D1=82=D1=81=D1=8F, =D0=B2=D1=8B&nbsp;=
+=D0=BF=D1=80=D0=BE=D0=B4=D0=BE=D0=BB=D0=B6=D0=B8=D1=82=D0=B5 =D0=BE=D0=B1=
+=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B2&nbsp;=D1=81=D0=BB=D0=B5=D0=B4=
+=D1=83=D1=8E=D1=89=D0=B5=D0=BC =D0=B1=D0=BB=D0=B8=D0=B6=D0=B0=D0=B9=D1=88=
+=D0=B5=D0=BC =D0=BF=D0=BE=D1=82=D0=BE=D0=BA=D0=B5.=0A                      =
+   =0A<tr>=0A                            <td align=3D"left" style=3D"font-f=
+amily: Verdana, Helvetica, Arial, sans-serif; font-size: 16px; line-height:=
+ 24px; color: #27292D; text-align: left; padding-bottom: 20px;">=0A        =
+                 =0A<br> =D0=9F=D0=B5=D1=80=D0=B5=D1=85=D0=BE=D0=B4=D0=B8=
+=D1=82=D0=B5 =D0=B2&nbsp;=D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3 =D0=B8&=
+nbsp;=D0=B2=D1=8B=D0=B1=D0=B8=D1=80=D0=B0=D0=B9=D1=82=D0=B5 =D0=BA=D1=83=D1=
+=80=D1=81 =D1=81&nbsp;=D0=BC=D0=B0=D0=BA=D1=81=D0=B8=D0=BC=D0=B0=D0=BB=D1=
+=8C=D0=BD=D0=BE=D0=B9 =D0=B2=D1=8B=D0=B3=D0=BE=D0=B4=D0=BE=D0=B9 =F0=9F=91=
+=87=0A                               =0A=0A                            </td=
+>=0A                          </tr> <!-- DARK_BUTTON -->=0A                =
+          <tr>=0A                            <td align=3D"center">=0A      =
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">=0A                                <tr>=0A                          =
+        <td bgcolor=3D"#3A88FF" align=3D"center" style=3D"font-family: Verd=
+ana, Helvetica, sans-serif; font-size: 16px; line-height: 24px; color:#ffff=
+ff; mso-padding-alt: 12px 29px; border-radius: 6px 6px 6px 6px; -webkit-bor=
+der-radius: 6px 6px 6px 6px; background-color: #3A88FF; border: 1px solid #=
+3A88FF;">=0A                                    <a href=3D"https://tn-cnv.m=
+ckx.ru/c/8RglAAAwKowBwDCu/8v68Bg/0SyafQpaItpSMYtC/?u=3Dhttps%3A%2F%2Fnetolo=
+gy.ru%2Fnavigation%3Futm_source%3Doffer%26utm_medium%3Demail_mb%26utm_campa=
+ign%3Dcrossunit_ou_n_29069_black_friday_start_second_wave_2025_11_11" style=
+=3D"text-decoration:none; color:#ffffff; display:block; padding: 12px 29px;=
+ border-radius: 6px 6px 6px 6px; -webkit-border-radius: 6px 6px 6px 6px;" t=
+arget=3D"_blank">=0A                                   =D0=92=D1=8B=D0=B1=
+=D1=80=D0=B0=D1=82=D1=8C =D0=BA=D1=83=D1=80=D1=81=0A                       =
+             </a>=0A                                  </td>=0A             =
+                   </tr>=0A                              </table>=0A       =
+                     </td>=0A                          </tr>=0A            =
+              <!-- DARK_BUTTON -->=0A                                  </td=
+>=0A                                </tr>=0A                              <=
+/table>=0A                            </td>=0A                          </t=
+r>=0A                          =0A                          <!-- /CONTENT_B=
+ORDER -->=0A                          <tr>=0A                            <t=
+d height=3D"20">&nbsp;</td>=0A                          </tr>=0A           =
+               =0A                                 =0A                     =
+=0A                  =0A                 =0A                    =0A        =
+            =0A                        </table>=0A                        <=
+!--[if gte mso 10]>=0A                        </td></tr></table><![endif]--=
+>=0A                      </td>=0A                    </tr>=0A             =
+       <!-- /WHITE_BLOCK -->=0A                    =0A                    <=
+!-- FOOTER -->=0A                    <tr>=0A                      <td align=
+=3D"center" style=3D"padding-top: 40px; padding-left: 30px; padding-right: =
+30px;">=0A                        <table width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">=0A                          <tr>=0A         =
+                   <td valign=3D"top">=0A                              <tab=
+le width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A     =
+                           <tr>=0A                                  <td sty=
+le=3D"font-family: Verdana, Helvetica, Arial, sans-serif; text-align: left;=
+ font-style: normal; font-weight: normal; font-size: 14px; line-height: 22p=
+x; color: #8F95AB; padding-bottom: 34px;">=0A                              =
+      <a href=3D"#" target=3D"_blank" style=3D"text-decoration: none; color=
+: #8F95AB;">netology.ru</a><br>=0A                                    <a hr=
+ef=3D"tel:88003013969" target=3D"_blank" style=3D"text-decoration: none; co=
+lor: #8F95AB;">8 (800) 301-39-69</a>=0A                                  </=
+td>=0A                                </tr>=0A                             =
+   <tr>=0A                                  <td style=3D"font-family: Verda=
+na, Helvetica, Arial, sans-serif; text-align: left; font-style: normal; fon=
+t-weight: normal; font-size: 14px; line-height: 22px; color: #8F95AB; paddi=
+ng-bottom: 30px;">=0A                                     =0A										<a h=
+ref=3D"https://tn-cnv.mckx.ru/c/8RglAAAwKowBwDCu/8_68Bg/3YPKllE7bQyTivgY/?u=
+=3Dhttps%3A%2F%2Fnetology.ru%2Fsubscribe-settings%2F10522a6b3de20cdf2648646=
+d25974809d120292c1398021dc1bc72c004f9d113%3Futm_source%3Doffer%26utm_medium=
+%3Demail_mb%26utm_campaign%3Dcrossunit_ou_n_29069_black_friday_start_second=
+_wave_2025_11_11" target=3D"_blank" style=3D"color:#0066FF;text-decoration:=
+ none;">=D0=9E=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BE=
+=D1=82&nbsp;=D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8</a>			=0A     =
+                             </td>=0A                                </tr>=
+=0A                              </table>=0A                            </t=
+d>=0A                            <td valign=3D"top" align=3D"right">=0A    =
+                          <!--[if gte mso 10]>=0A                          =
+    <table align=3D"center" width=3D"144" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0">=0A                                  <tr><td align=3D"cente=
+r"><![endif]-->=0A                              <table width=3D"144" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"width: 100%; max-width: 144px;">=0A =
+                               <tr>=0A                                  <td=
+ align=3D"right" style=3D"font-size: 0;">=0A                               =
+     <!--[if (gte mso 9)|(IE)]>=0A                                    <tabl=
+e cellspacing=3D"0" cellpadding=3D"0" border=3D"0">=0A                     =
+                 <tr>=0A                                        <td valign=
+=3D"top" width=3D"72" align=3D"center">                  <![endif]-->=0A   =
+                                 <!--<div style=3D"display: inline-block; v=
+ertical-align: top; width: 72px;">=0A                                      =
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A =
+                                       </table>    =0A                     =
+               </div>      =0A                                    =0A      =
+                              <div style=3D"display: inline-block; vertical=
+-align: top; width: 144px;">=0A                                         <ta=
+ble width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A    =
+                                     <tr> <td width=3D"25%" align=3D"right"=
+ style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; paddi=
+ng-top: 0px"> <a href=3D"https://www.youtube.com/user/netologytv" target=3D=
+"_blank" style=3D"text-decoration: none;"><img width=3D"26" height=3D"26" s=
+rc=3D"https://email-images.mindbox.ru/684913/4680508/5.png" style=3D"vertic=
+al-align: top; border:none;" alt=3D"Youtube" title=3D"Youtube"></a> </td> =
+=0A                                         =0A                            =
+             =0A                                         <td width=3D"25%" =
+align=3D"right" style=3D"font-family: Helvetica, Arial, sans-serif; font-si=
+ze: 12px; padding-top: 0px"> <a href=3D"https://vk.com/netology" target=3D"=
+_blank" style=3D"text-decoration: none;"><img width=3D"26" height=3D"26" sr=
+c=3D"https://email-images.mindbox.ru/684913/4680508/1.png" style=3D"vertica=
+l-align: top; border:none;" alt=3D"VK" title=3D"VK"></a> =0A               =
+                          =0A                                         </td>=
+=0A                                         =0A                            =
+             <td width=3D"25%" align=3D"right" style=3D"font-family: Helvet=
+ica, Arial, sans-serif; font-size: 12px; padding-top: 0px"> <a href=3D"http=
+s://ok.ru/netology" target=3D"_blank" style=3D"text-decoration: none;"><img=
+ width=3D"26" height=3D"26" src=3D"https://email-images.mindbox.ru/Netology=
+/4897/863cf2a9-dfb1-46f2-9228-ee0b81eb8693.png" style=3D"vertical-align: to=
+p; border:none;" alt=3D"=D0=9E=D0=B4=D0=BD=D0=BE=D0=BA=D0=BB=D0=B0=D1=81=D1=
+=81=D0=BD=D0=B8=D0=BA=D0=B8" title=3D"=D0=9E=D0=B4=D0=BD=D0=BE=D0=BA=D0=BB=
+=D0=B0=D1=81=D1=81=D0=BD=D0=B8=D0=BA=D0=B8"></a> =0A                       =
+                  =0A                                         </td>=0A     =
+                                    =0A                                    =
+     <td width=3D"25%" align=3D"right" style=3D"font-family: Helvetica, Ari=
+al, sans-serif; font-size: 12px; padding-top: 0px"> <a href=3D"https://tgrm=
+.github.io/netology_ru" target=3D"_blank" style=3D"text-decoration: none;">=
+<img width=3D"26" height=3D"26" src=3D"https://email-images.mindbox.ru/Neto=
+logy/4897/98bfc541-0ada-4e45-b216-8382cf306211.png" style=3D"vertical-align=
+: top; border:none;" alt=3D"Telegram" title=3D"Telegram"></a> =0A          =
+                               =0A                                         =
+</td>=0A                                         =0A                       =
+                  =0A                                         </tr> =0A    =
+                                     </table> </div> =0A                   =
+                    =0A                                       <div style=3D=
+"display: inline-block; vertical-align: top; width: 150px;padding-top: 12px=
+;"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+ <tr> <td style=3D"font-family: Verdana, Helvetica, Arial, sans-serif; text=
+-align: right; font-style: normal; font-weight: normal; font-size: 10px; li=
+ne-height: 22px; color: #8F95AB; padding-bottom: 2px;"> =D0=9C=D0=BE=D0=B1=
+=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=
+=D0=B5=D0=BD=D0=B8=D0=B5:</td> </tr>=0A                                    =
+    </table>=0A                                      </div>=0A             =
+                         =0A                                      <div styl=
+e=3D"display: inline-block; vertical-align: top; width: 72px;">=0A         =
+                               <table width=3D"100%" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0">=0A                                         <tr>=
+ <td width=3D"50%" align=3D"right" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 12px; padding-top: 0px"> <a href=3D"https://tn-cnv.m=
+ckx.ru/c/GfQTAH5ZRFS89NsI/YsPQAw/UQEGYSlCfbcjfTnc/?u=3Dhttps%3A%2F%2Fapps.a=
+pple.com%2Fru%2Fapp%2F%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8=
+F-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE=
+%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2Fid1640700812&amp;debug=3Dtrue" target=3D"_=
+blank" style=3D"text-decoration: none;"><img width=3D"27" height=3D"27" src=
+=3D"https://email-images.mindbox.ru/Netology/11599/99a442c6-bd32-4d06-a171-=
+7a49942738d7.png" style=3D"vertical-align: top; border:none; " alt=3D"appst=
+ore" title=3D"appstore"></a> </td> =0A                                     =
+    =0A                                         <td width=3D"50%" align=3D"=
+right" style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px;=
+ padding-top: 0px"> <a href=3D"https://tn-cnv.mckx.ru/c/GfQTAH5ZRFS89NsI/Y8=
+PQAw/gbrxbD0IJDAkmx-W/?u=3Dhttps%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fd=
+etails%3Fid%3Dru.netology%26gl%3Dru%26pli%3D1&amp;debug=3Dtrue" target=3D"_=
+blank" style=3D"text-decoration: none;"><img width=3D"26" height=3D"26" src=
+=3D"https://email-images.mindbox.ru/Netology/11599/020a9882-29c7-49fc-b28e-=
+0c38b7fa4fa0.png" style=3D"vertical-align: top; border:none;" alt=3D"Google=
+Play" title=3D"GooglePlay"></a> =0A                                        =
+ </td> </tr> =0A                                         </table> =0A      =
+                                   </div> =0A                              =
+        =0A                                       =0A                      =
+                 <div style=3D"display: inline-block; vertical-align: top; =
+width: 150px;padding-top: 12px;"> <table width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0"> <tr> <td style=3D"font-family: Verdana, Helv=
+etica, Arial, sans-serif; text-align: right; font-style: normal; font-weigh=
+t: normal; font-size: 10px; line-height: 22px; color: #8F95AB; padding-bott=
+om: 34px;"> =D0=A0=D0=B5=D0=BA=D0=BB=D0=B0=D0=BC=D0=B0. =D0=9E=D0=9E=D0=9E =
+"=D0=9D=D0=B5=D1=82=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D1=8F" <br>=D0=98=D0=9D=
+=D0=9D 7726464125 </td> </tr>=0A                                      </tab=
+le>=0A                                    </div>-->=0A                     =
+               <!--[if (gte mso 9)|(IE)]>                  </td>=0A        =
+                          <td valign=3D"top" width=3D"72" align=3D"center">=
+                  <![endif]-->=0A                                    <div s=
+tyle=3D"display: inline-block; vertical-align: top; width: 72px;">=0A      =
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">=0A                                        </ta=
+ble>    =0A                                    </div>      =0A             =
+                       =0A                                    <div style=3D=
+"display: inline-block; vertical-align: top; width: 144px;">=0A            =
+                             <table width=3D"100%" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0">=0A                                         <tr> <=
+td width=3D"25%" align=3D"right" style=3D"font-family: Helvetica, Arial, sa=
+ns-serif; font-size: 12px; padding-top: 0px"> <a href=3D"https://www.youtub=
+e.com/user/netologytv" target=3D"_blank" style=3D"text-decoration: none;"><=
+img width=3D"26" height=3D"26" src=3D"https://email-images.mindbox.ru/68491=
+3/4680508/5.png" style=3D"vertical-align: top; border:none;" alt=3D"Youtube=
+" title=3D"Youtube"></a> </td> =0A                                         =
+=0A                                         =0A                            =
+             <td width=3D"25%" align=3D"right" style=3D"font-family: Helvet=
+ica, Arial, sans-serif; font-size: 12px; padding-top: 0px"> <a href=3D"http=
+s://vk.com/netology" target=3D"_blank" style=3D"text-decoration: none;"><im=
+g width=3D"26" height=3D"26" src=3D"https://email-images.mindbox.ru/684913/=
+4680508/1.png" style=3D"vertical-align: top; border:none;" alt=3D"VK" title=
+=3D"VK"></a> =0A                                         =0A               =
+                          </td>=0A                                         =
+=0A                                         <td width=3D"25%" align=3D"righ=
+t" style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; pad=
+ding-top: 0px"> <a href=3D"https://ok.ru/netology" target=3D"_blank" style=
+=3D"text-decoration: none;"><img width=3D"26" height=3D"26" src=3D"https://=
+email-images.mindbox.ru/Netology/4897/863cf2a9-dfb1-46f2-9228-ee0b81eb8693.=
+png" style=3D"vertical-align: top; border:none;" alt=3D"=D0=9E=D0=B4=D0=BD=
+=D0=BE=D0=BA=D0=BB=D0=B0=D1=81=D1=81=D0=BD=D0=B8=D0=BA=D0=B8" title=3D"=D0=
+=9E=D0=B4=D0=BD=D0=BE=D0=BA=D0=BB=D0=B0=D1=81=D1=81=D0=BD=D0=B8=D0=BA=D0=B8=
+"></a> =0A                                         =0A                     =
+                    </td>=0A                                         =0A   =
+                                      <td width=3D"25%" align=3D"right" sty=
+le=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; padding-t=
+op: 0px"> <a href=3D"https://tgrm.github.io/netology_ru" target=3D"_blank" =
+style=3D"text-decoration: none;"><img width=3D"26" height=3D"26" src=3D"htt=
+ps://email-images.mindbox.ru/Netology/4897/98bfc541-0ada-4e45-b216-8382cf30=
+6211.png" style=3D"vertical-align: top; border:none;" alt=3D"Telegram" titl=
+e=3D"Telegram"></a> =0A                                         =0A        =
+                                 </td>=0A                                  =
+       =0A                                         =0A                     =
+                    </tr> =0A                                         </tab=
+le> </div> =0A                                       =0A                   =
+                    <div style=3D"display: inline-block; vertical-align: to=
+p; width: 150px;padding-top: 12px;"> <table width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"> <tr> <td style=3D"font-family: Verdana, H=
+elvetica, Arial, sans-serif; text-align: right; font-style: normal; font-we=
+ight: normal; font-size: 10px; line-height: 22px; color: #8F95AB; padding-b=
+ottom: 2px;"> =D0=9C=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D0=BF=
+=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5:</td> </tr>=0A      =
+                                  </table>=0A                              =
+        </div>=0A                                      =0A                 =
+                     <div style=3D"display: inline-block; vertical-align: t=
+op; width: 72px;">=0A                                        <table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A             =
+                            <tr> <td width=3D"50%" align=3D"right" style=3D=
+"font-family: Helvetica, Arial, sans-serif; font-size: 12px; padding-top: 0=
+px"> <a href=3D"https://tn-cnv.mckx.ru/c/GfQTAH5ZRFS89NsI/YsPQAw/UQEGYSlCfb=
+cjfTnc/?u=3Dhttps%3A%2F%2Fapps.apple.com%2Fru%2Fapp%2F%D0%BD%D0%B5%D1%82%D0=
+%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%=
+BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2Fid16407008=
+12&amp;debug=3Dtrue" target=3D"_blank" style=3D"text-decoration: none;"><im=
+g width=3D"27" height=3D"27" src=3D"https://email-images.mindbox.ru/Netolog=
+y/11599/99a442c6-bd32-4d06-a171-7a49942738d7.png" style=3D"vertical-align: =
+top; border:none; " alt=3D"appstore" title=3D"appstore"></a> </td> =0A     =
+                                    =0A                                    =
+     <td width=3D"50%" align=3D"right" style=3D"font-family: Helvetica, Ari=
+al, sans-serif; font-size: 12px; padding-top: 0px"> <a href=3D"https://tn-c=
+nv.mckx.ru/c/GfQTAH5ZRFS89NsI/Y8PQAw/gbrxbD0IJDAkmx-W/?u=3Dhttps%3A%2F%2Fpl=
+ay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dru.netology%26gl%3Dru%26pli%3=
+D1&amp;debug=3Dtrue" target=3D"_blank" style=3D"text-decoration: none;"><im=
+g width=3D"26" height=3D"26" src=3D"https://email-images.mindbox.ru/Netolog=
+y/11599/020a9882-29c7-49fc-b28e-0c38b7fa4fa0.png" style=3D"vertical-align: =
+top; border:none;" alt=3D"GooglePlay" title=3D"GooglePlay"></a> =0A        =
+                                 </td> </tr> =0A                           =
+              </table> =0A                                         </div> =
+=0A                                      =0A                               =
+        =0A                                       <div style=3D"display: in=
+line-block; vertical-align: top; width: 150px;padding-top: 12px;"> <table w=
+idth=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td st=
+yle=3D"font-family: Verdana, Helvetica, Arial, sans-serif; text-align: righ=
+t; font-style: normal; font-weight: normal; font-size: 10px; line-height: 2=
+2px; color: #8F95AB; padding-bottom: 34px;"> =D0=A0=D0=B5=D0=BA=D0=BB=D0=B0=
+=D0=BC=D0=B0. =D0=9E=D0=9E=D0=9E "=D0=9D=D0=B5=D1=82=D0=BE=D0=BB=D0=BE=D0=
+=B3=D0=B8=D1=8F" <br>=D0=98=D0=9D=D0=9D 7726464125 </td> </tr>=0A          =
+                            </table>=0A                                    =
+</div>=0A                                    <!--[if (gte mso 9)|(IE)]>    =
+              </td>                  </tr>                  </table>       =
+           <![endif]-->=0A                                  </td>=0A       =
+                         </tr>=0A                              </table>=0A =
+                             <!--[if gte mso 10]>=0A                       =
+       </td></tr></table><![endif]-->=0A                            </td>=
+=0A                          </tr>=0A                        </table>=0A   =
+                   </td>=0A                    </tr>=0A                    =
+<!-- /FOOTER -->=0A                  </table>=0A                </td>=0A   =
+           </tr>=0A            </table>=0A            <!--[if gte mso 10]> =
+           </td></tr></table><![endif]-->=0A          </td>=0A        </tr>=
+=0A      </table>=0A    </td>=0A  </tr>=0A</table>=0A<img src=3D"https://tn=
+-cnv.mckx.ru/o/8RglAAAwKowBwDCu/gW0SkIZjsAKSDUia" width=3D"1" height=3D"1" =
+alt=3D"" border=3D"0" style=3D"display:block;"/></body>=0A</html>
