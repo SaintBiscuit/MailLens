@@ -10,7 +10,7 @@ from datetime import datetime
 os.environ["STREAMLIT_FRAGMENTS"] = "0"
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from backend.mail_parser import parse_email, prepare_for_classification
+from backend.email_parser import parse_email, prepare_for_classification
 from backend.classifier import MailClassifier
 from backend.injection_guard import detect_injection
 
@@ -176,12 +176,14 @@ with st.sidebar:
             st.session_state.classifier.categories = {}
             st.rerun()
 
-    threshold = st.slider("Порог «Не определена»", 0.05, 0.90, 0.85, 0.005, 
+    threshold = st.slider("Порог «Не определена»", 0.05, 0.90, 0.80, 0.005, 
                           help="Чем ниже — тем больше писем будет классифицировано")
     st.session_state.classifier.threshold = threshold
 
 def process_new_email(file):
-    """Обрабатывает новое письмо и кэширует результат"""
+    """
+    Обрабатывает новое письмо и кэширует результат обработки
+    """
     try:
         parsed = parse_email(file.read(), file.name)
         data_for_classifier = prepare_for_classification(parsed)
@@ -236,13 +238,14 @@ else:
             else:
                 st.success(f"**{result['predicted_category']}** (Векторная близость: {result['best_similarity']:.3f})")
                 st.json(result['all_scores'], expanded=False)
-                st.text(f'Оцениваемые данные\n{result["data_for_classifier"]}', width='stretch')
+                with st.expander(f"Оцениваемые данные:"):
+                    st.text(result["data_for_classifier"], width='stretch')
 
 # === ЭКСПОРТ ===
 if st.session_state.results:
     df = pd.DataFrame(st.session_state.results)
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
     with col1:
         csv = df.to_csv(index=False).encode('utf-8')
         st.download_button(
@@ -259,3 +262,7 @@ if st.session_state.results:
             "maillens_results.jsonl",
             "application/jsonlines"
         )
+    with col3:
+        if st.button("Отчистить результаты"):
+            st.session_state.results = []
+            st.rerun()

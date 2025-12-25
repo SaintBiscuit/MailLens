@@ -3,10 +3,15 @@ import numpy as np
 import os
 import random
 from sentence_transformers import SentenceTransformer
+from collections import Counter
+import re
 
 
 class MailClassifier:
-    def __init__(self, threshold=0.28):
+    """
+    Класс классификатор писем
+    """
+    def __init__(self, threshold=0.7):
         self.threshold = threshold
         if torch.cuda.is_available():
             torch.cuda.empty_cache()
@@ -25,57 +30,68 @@ class MailClassifier:
     
     def add_category(self, category: str, description: str = '', example_texts: list[str] = None):
         """
-        Добавляет категорию С ПРИМЕРАМИ писем
-        
-        Args:
-
+        Функция добавления новой категории с описанием и примерами писем
         """
         if category:
             prompts = []
             if description:
-                prompts.append(f"{self.category_prefix} {category}. Конкретное описание категории: {description}")
+                prompts.append(f"{self.category_prefix} {category}. Описание категории: {description}")
             else:
                 prompts.append(f"{self.category_prefix} {category}")
             
-            # 2. Добавляем примеры (если есть, максимум 5)
+            # Подумать над улучшением на будущее, для большего разраничения между письмами
+            # if example_texts:
+            #     # Извлекаем частые слова из примеров
+            #     all_words = []
+            #     for example in example_texts:
+            #         words = re.findall(r'\b[а-яa-z]{3,}\b', example.lower())
+            #         all_words.extend(words)
+                # common_words = Counter(all_words).most_common(20)
+                # # common_words = common_words[int(len(common_words)*0.2):int(len(common_words)*0.8)]
+                # if common_words:
+                #     keywords = ', '.join([word for word, _ in common_words])
+                #     prompts.append(f"Ключевые слова категории '{category}': {keywords}")
+
             if example_texts:
-                for i, example in enumerate(example_texts[:5]):
-                    prompt = f"Пример письма категории '{category}' #{i+1} (уникальные черты): {example}..."
+                for i, example in enumerate(example_texts):
+                    prompt = f"Пример письма только для категории '{category}' #{i+1}: {example}."
                     prompts.append(prompt)
             
-            # 3. Кодируем ВСЕ промпты категории в эмбеддинги
+            # Кодируем все промпты категории в эмбеддинги
             category_embeddings = self.model.encode(
                 prompts,
                 normalize_embeddings=True,
                 convert_to_numpy=True,
                 show_progress_bar=False
             )
-            # 4. Сохраняем категорию со всей информацией
+            # Сохраняем категорию со всей информацией
             category_data = {
-                'embeddings': category_embeddings,  # все эмбеддинги этой категории
+                'embeddings': category_embeddings,
             }
             self.categories[category] = category_data
         else:
             raise ValueError("Не была передана категория")
 
     def predict(self, text):
+        """
+        Функция предсказания категории письма по переданным текстовым данным
+        """
         if not self.categories:
             return {"error": "Нет категорий для классификации!"}
         
         mail_emb = self.model.encode(f"{self.email_prefix} {text}", normalize_embeddings=True)
         category_scores = {}
         
-        # Для каждой категории считаем близость с её эмбеддингами
+        # Для каждой категории считаем близость эмбеддингами
         for category, category_data in self.categories.items():
             cat_embeddings = category_data['embeddings']
             
             # Считаем косинусную близость со всеми эмбеддингами категории
             similarities = np.dot(cat_embeddings, mail_emb.T).flatten()
             
-            # Выбираем МАКСИМАЛЬНУЮ близость
-            category_scores[category] = float(np.max(similarities))
+            # Выбираем max близость
+            category_scores[category] = float(np.mean(similarities))
         
-        # Нормализуем в вероятности (softmax)
         similarities = np.array(list(category_scores.values()))
         
         # Формируем результаты
